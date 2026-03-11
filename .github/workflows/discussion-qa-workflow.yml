@@ -41,7 +41,7 @@ jobs:
             exit 1
           fi
 
-      - name: x
+      - name: Create discussion
         id: create
         env:
           PAT_TOKEN_2: ${{ secrets.PAT_TOKEN_2 }}
@@ -50,9 +50,15 @@ jobs:
           TITLE: ${{ github.event.inputs.discussion_title }}
           BODY: ${{ github.event.inputs.discussion_body }}
         run: |
-          Q=$'\x22'
-          PAYLOAD=$(jq -n --arg repo "$REPO_ID" --arg cat "$CATEGORY_ID" --arg title "$TITLE" --arg body "$BODY" --arg q "$Q" \
-            '{"query": ("mutation { createDiscussion(input: { repositoryId: " + $q + $repo + $q + ", categoryId: " + $q + $cat + $q + ", title: " + ($title | @json) + ", body: " + ($body | @json) + " }) { discussion { id } } }")}')
+          PAYLOAD=$(jq -n \
+            --arg repo "$REPO_ID" \
+            --arg cat "$CATEGORY_ID" \
+            --arg title "$TITLE" \
+            --arg body "$BODY" \
+            '{
+              query: "mutation($repo: ID!, $cat: ID!, $title: String!, $body: String!) { createDiscussion(input: { repositoryId: $repo, categoryId: $cat, title: $title, body: $body }) { discussion { id } } }",
+              variables: { repo: $repo, cat: $cat, title: $title, body: $body }
+            }')
           RES=$(curl -s -X POST https://api.github.com/graphql \
             -H "Authorization: Bearer $PAT_TOKEN_2" \
             -H "Content-Type: application/json" \
@@ -65,16 +71,20 @@ jobs:
             exit 1
           fi
 
-      - name: y
+      - name: Reply to discussion
         id: reply
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
           DISC_ID: ${{ steps.create.outputs.discussion_id }}
           BODY: ${{ github.event.inputs.reply_body }}
         run: |
-          Q=$'\x22'
-          PAYLOAD=$(jq -n --arg disc "$DISC_ID" --arg body "$BODY" --arg q "$Q" \
-            '{"query": ("mutation { addDiscussionComment(input: { discussionId: " + $q + $disc + $q + ", body: " + ($body | @json) + ") { comment { id } } }")}')
+          PAYLOAD=$(jq -n \
+            --arg disc "$DISC_ID" \
+            --arg body "$BODY" \
+            '{
+              query: "mutation($disc: ID!, $body: String!) { addDiscussionComment(input: { discussionId: $disc, body: $body }) { comment { id } } }",
+              variables: { disc: $disc, body: $body }
+            }')
           RES=$(curl -s -X POST https://api.github.com/graphql \
             -H "Authorization: Bearer $PAT_TOKEN" \
             -H "Content-Type: application/json" \
@@ -87,15 +97,21 @@ jobs:
             exit 1
           fi
 
-      - name: z
+      - name: Mark reply as accepted answer
         env:
           PAT_TOKEN_2: ${{ secrets.PAT_TOKEN_2 }}
           COMMENT_ID: ${{ steps.reply.outputs.comment_id }}
         run: |
+          PAYLOAD=$(jq -n \
+            --arg comment "$COMMENT_ID" \
+            '{
+              query: "mutation($comment: ID!) { markDiscussionCommentAsAnswer(input: { id: $comment }) { discussion { id isAnswered } } }",
+              variables: { comment: $comment }
+            }')
           RES=$(curl -s -X POST https://api.github.com/graphql \
             -H "Authorization: Bearer $PAT_TOKEN_2" \
             -H "Content-Type: application/json" \
-            -d "{\"query\": \"mutation { markDiscussionCommentAsAnswer(input: { id: \\\"$COMMENT_ID\\\" }) { discussion { id isAnswered } } }\"}")
+            -d "$PAYLOAD")
           if echo "$RES" | jq -e '.data.markDiscussionCommentAsAnswer.discussion.isAnswered == true' > /dev/null 2>&1; then
             echo "Reply marked as accepted answer."
           else

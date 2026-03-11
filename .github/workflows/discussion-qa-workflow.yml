@@ -1,4 +1,4 @@
-name: Discussion
+name: Discussion Q&A
 on:
   workflow_dispatch:
     inputs:
@@ -50,12 +50,10 @@ jobs:
           TITLE: ${{ github.event.inputs.discussion_title }}
           BODY: ${{ github.event.inputs.discussion_body }}
         run: |
-          PAYLOAD=$(jq -n \
-            --arg repo "$REPO_ID" \
-            --arg cat "$CATEGORY_ID" \
-            --arg title "$TITLE" \
-            --arg body "$BODY" \
-            '{query: "mutation { createDiscussion(input: { repositoryId: \"" + $repo + "\", categoryId: \"" + $cat + "\", title: " + ($title | @json) + ", body: " + ($body | @json) + ") { discussion { id } } }"}')
+          cat << 'JQSCRIPT' > create_discussion.jq
+          {query: "mutation { createDiscussion(input: { repositoryId: \"" + $repo + "\", categoryId: \"" + $cat + "\", title: " + ($title | @json) + ", body: " + ($body | @json) + ") { discussion { id } } }"}
+          JQSCRIPT
+          PAYLOAD=$(jq -n --arg repo "$REPO_ID" --arg cat "$CATEGORY_ID" --arg title "$TITLE" --arg body "$BODY" -f create_discussion.jq)
           RES=$(curl -s -X POST https://api.github.com/graphql \
             -H "Authorization: Bearer $PAT_TOKEN_2" \
             -H "Content-Type: application/json" \
@@ -75,10 +73,10 @@ jobs:
           DISC_ID: ${{ steps.create.outputs.discussion_id }}
           BODY: ${{ github.event.inputs.reply_body }}
         run: |
-          PAYLOAD=$(jq -n \
-            --arg disc "$DISC_ID" \
-            --arg body "$BODY" \
-            '{query: "mutation { addDiscussionComment(input: { discussionId: \"" + $disc + "\", body: " + ($body | @json) + ") { comment { id } } }"}')
+          cat << 'JQSCRIPT' > add_comment.jq
+          {query: "mutation { addDiscussionComment(input: { discussionId: \"" + $disc + "\", body: " + ($body | @json) + ") { comment { id } } }"}
+          JQSCRIPT
+          PAYLOAD=$(jq -n --arg disc "$DISC_ID" --arg body "$BODY" -f add_comment.jq)
           RES=$(curl -s -X POST https://api.github.com/graphql \
             -H "Authorization: Bearer $PAT_TOKEN" \
             -H "Content-Type: application/json" \

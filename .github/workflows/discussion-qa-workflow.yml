@@ -1,5 +1,11 @@
 name: Discussion Q&A
 on:
+  schedule:
+    # 40 runs per 7 days:
+    # - Mon-Fri: every 4 hours (6/day * 5 = 30)
+    # - Sat-Sun: every 5 hours (5/day * 2 = 10)
+    - cron: "0 */4 * * 1-5"
+    - cron: "0 */5 * * 6,0"
   workflow_dispatch:
     inputs:
       discussion_title:
@@ -30,13 +36,18 @@ jobs:
           RES=$(curl -s -X POST https://api.github.com/graphql \
             -H "Authorization: Bearer $PAT_TOKEN" \
             -H "Content-Type: application/json" \
-            -d "{\"query\": \"query { repository(owner: \\\"$OWNER\\\", name: \\\"$REPO\\\") { id discussionCategories(first: 5) { nodes { id name } } } }\"}")
+            -d "{\"query\": \"query { repository(owner: \\\"$OWNER\\\", name: \\\"$REPO\\\") { id discussionCategories(first: 25) { nodes { id name isAnswerable } } } }\"}")
           REPO_ID=$(echo "$RES" | jq -r '.data.repository.id')
-          CATEGORY_ID=$(echo "$RES" | jq -r '.data.repository.discussionCategories.nodes[0].id')
+          CATEGORY_ID=$(echo "$RES" | jq -r '.data.repository.discussionCategories.nodes[] | select(.isAnswerable == true) | .id' | head -n 1)
+          CATEGORY_NAME=$(echo "$RES" | jq -r '.data.repository.discussionCategories.nodes[] | select(.isAnswerable == true) | .name' | head -n 1)
           echo "repository_id=$REPO_ID" >> $GITHUB_OUTPUT
           echo "category_id=$CATEGORY_ID" >> $GITHUB_OUTPUT
-          if [ "$REPO_ID" = "null" ] || [ "$CATEGORY_ID" = "null" ]; then
-            echo "Failed to get repo or category IDs. Enable Discussions and add a category."
+          if [ -n "$CATEGORY_NAME" ] && [ "$CATEGORY_NAME" != "null" ]; then
+            echo "Using answerable category: $CATEGORY_NAME"
+          fi
+          if [ "$REPO_ID" = "null" ] || [ -z "$CATEGORY_ID" ] || [ "$CATEGORY_ID" = "null" ]; then
+            echo "Failed to get repo ID or an answerable category."
+            echo "Create a Discussions category with answers enabled (for example Q&A)."
             echo "$RES" | jq .
             exit 1
           fi

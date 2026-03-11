@@ -61,6 +61,9 @@ jobs:
           TITLE: ${{ github.event.inputs.discussion_title }}
           BODY: ${{ github.event.inputs.discussion_body }}
         run: |
+          # Scheduled runs do not provide workflow_dispatch inputs.
+          TITLE="${TITLE:-Example question}"
+          BODY="${BODY:-This is an example question for the Q&A.}"
           PAYLOAD=$(jq -n \
             --arg repo "$REPO_ID" \
             --arg cat "$CATEGORY_ID" \
@@ -89,6 +92,8 @@ jobs:
           DISC_ID: ${{ steps.create.outputs.discussion_id }}
           BODY: ${{ github.event.inputs.reply_body }}
         run: |
+          # Scheduled runs do not provide workflow_dispatch inputs.
+          BODY="${BODY:-This is the accepted answer.}"
           PAYLOAD=$(jq -n \
             --arg disc "$DISC_ID" \
             --arg body "$BODY" \

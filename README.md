@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2F5ppp%2F5n2%2F1B1pp3%2FP7%2Fbp1PBQ1P%2F1PqRNPP1%2FK6R%20b%20-%20-%206%2020&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4K3%2F2pP4%2F7p%2Fp1p2Bb1%2F1pP3P1%2F1P6%2FPk6%2F8%20b%20-%20-%206%2049&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [IULvO](https://lichess.org/training/IULvO), rated `1289`.
-The game is `Klimenko_Sergey_IM (2396)` vs `WPWPWP (2375)` at `3+0` time control,
-with themes `oneMove, mateIn1, master, middlegame`. You can [view the full game](https://lichess.org/IGX1xVK2),
-and the first solution move is `a3b2`.
+It is `Black to move` in puzzle [2oqc1](https://lichess.org/training/2oqc1), rated `1493`.
+The game is `prih1964 (2035)` vs `Der_Funke_Leben (2127)` at `5+5` time control,
+with themes `crushing, bishopEndgame, long, endgame`. You can [view the full game](https://lichess.org/whYtY5yG),
+and the first solution move is `b2a2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

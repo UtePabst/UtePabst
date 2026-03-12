@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2p2pk1%2F5q1p%2F2Q3pb%2F2P5%2F1N5P%2FPr3PP1%2FR5K1%20b%20-%20-%201%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2F5ppp%2F5n2%2F1B1pp3%2FP7%2Fbp1PBQ1P%2F1PqRNPP1%2FK6R%20b%20-%20-%206%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [EN38D](https://lichess.org/training/EN38D), rated `1424`.
-The game is `minatoe5 (2187)` vs `ASSN (2066)` at `10+0` time control,
-with themes `endgame, short, advantage, capturingDefender, discoveredAttack`. You can [view the full game](https://lichess.org/4sqTm5r6),
-and the first solution move is `b2b3`.
+It is `Black to move` in puzzle [IULvO](https://lichess.org/training/IULvO), rated `1289`.
+The game is `Klimenko_Sergey_IM (2396)` vs `WPWPWP (2375)` at `3+0` time control,
+with themes `oneMove, mateIn1, master, middlegame`. You can [view the full game](https://lichess.org/IGX1xVK2),
+and the first solution move is `a3b2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

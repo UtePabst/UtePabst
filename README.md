@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2Fp1p1n1b1%2F1p1p1n1p%2F3Pp3%2F2P3bN%2F4N3%2FPPB2PPP%2FR2QR1K1%20w%20-%20-%203%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k2r1r1%2Fpb2qp2%2F1p1p4%2F2pPnB2%2FP1P5%2F2N3P1%2F1P2Q2P%2F2KR3R%20b%20-%20-%204%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [F6Wrz](https://lichess.org/training/F6Wrz), rated `1500`.
-The game is `B1O2A3 (1910)` vs `amirparsaasgari02 (1885)` at `10+0` time control,
-with themes `advantage, short`. You can [view the full game](https://lichess.org/pmcgujlO),
-and the first solution move is `e3g4`.
+It is `Black to move` in puzzle [5unA2](https://lichess.org/training/5unA2), rated `1537`.
+The game is `Abhinijju (1974)` vs `KekM8ed (1867)` at `10+0` time control,
+with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/Qzwn4uB0),
+and the first solution move is `e7g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

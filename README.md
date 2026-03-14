@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1k2r%2F2q5%2Fp1n1p3%2F3pBn2%2FN1p5%2F2P5%2FP2Q1PPP%2FR3RBK1%20b%20kq%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k3r1%2Fppp2p2%2F8%2F7p%2F2R4P%2F5bB1%2FPq4nK%2F5Q2%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [qezl9](https://lichess.org/training/qezl9), rated `1363`.
-The game is `FischerErigaisi (2268)` vs `Lion344 (2323)` at `10+0` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/ShxXEqGc),
-and the first solution move is `c6e5`.
+It is `White to move` in puzzle [zluuH](https://lichess.org/training/zluuH), rated `1604`.
+The game is `poorSarah (1636)` vs `GelfandM (1583)` at `3+0` time control,
+with themes `middlegame, long, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/PKeT5OZW),
+and the first solution move is `c4c7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

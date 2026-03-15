@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2p3pk%2F7p%2Fp1K4Q%2F2P5%2F1P3R1P%2FP4p2%2F3q4%20b%20-%20-%200%2044&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4b1r%2Fpp2pkp1%2F1n5p%2F3n4%2F2q5%2F3Q1N2%2FPP3PPP%2FR1B1K2R%20w%20KQ%20-%206%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [55Zyv](https://lichess.org/training/55Zyv), rated `1384`.
-The game is `Nilderin (1648)` vs `Ruslonik (1620)` at `3+2` time control,
-with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/QdmBxV50),
-and the first solution move is `d1d6`.
+It is `White to move` in puzzle [u2dJo](https://lichess.org/training/u2dJo), rated `1294`.
+The game is `Peerless04 (1707)` vs `speedyabc (1739)` at `3+0` time control,
+with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/1EUZ14GP),
+and the first solution move is `f3e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

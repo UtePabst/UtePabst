@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r2%2Fp4b1k%2F2pb1Bp1%2Fqp3n1P%2F2pP4%2F2N2P2%2FPPP1N3%2F2K3RR%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5R2%2F8%2F8%2F8%2F7P%2F6k1%2F3r1p2%2F5K2%20b%20-%20-%200%2067&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [NUk3X](https://lichess.org/training/NUk3X), rated `1367`.
-The game is `Arnau_Sanchez (2162)` vs `AlushiGranit (2008)` at `5+3` time control,
-with themes `mateIn2, middlegame, short, operaMate, discoveredCheck, fork, doubleCheck`. You can [view the full game](https://lichess.org/R2QFDU0u),
-and the first solution move is `h5g6`.
+It is `Black to move` in puzzle [8tHDy](https://lichess.org/training/8tHDy), rated `1538`.
+The game is `Amar_s29 (2006)` vs `kamikazekurt (2005)` at `10+0` time control,
+with themes `endgame, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/IzE1vd88),
+and the first solution move is `d2d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

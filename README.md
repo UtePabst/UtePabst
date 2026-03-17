@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F6pk%2F8%2Fp2N4%2F2qb1PQ1%2F7P%2F4p1P1%2F3R3K%20w%20-%20-%200%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn1R4%2F1pp2ppk%2Fp3qn1p%2F1B2pQ2%2FP3P3%2FB1P5%2F2P2PPP%2F6K1%20b%20-%20-%202%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [H2iQ9](https://lichess.org/training/H2iQ9), rated `1349`.
-The game is `Reyflower123 (2094)` vs `jhirov (2398)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/vRDjL00E),
-and the first solution move is `g4h5`.
+It is `Black to move` in puzzle [9Bubx](https://lichess.org/training/9Bubx), rated `1403`.
+The game is `MohamedAbdelhaq (1771)` vs `Syarif_Gama (1797)` at `10+0` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/brXrAPNb),
+and the first solution move is `e6f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

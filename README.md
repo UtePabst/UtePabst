@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2Fpppnpp2%2F5bpp%2F3PN3%2F5P2%2F2NBQ3%2FPPP3PP%2F2KR3R%20b%20-%20-%204%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3R1b2%2F1r1pp1kp%2F7N%2F4P1KP%2F5P2%2F8%20w%20-%20-%202%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [FpgB5](https://lichess.org/training/FpgB5), rated `1397`.
-The game is `Ranehere77 (1690)` vs `jadpai (1705)` at `3+0` time control,
-with themes `advantage, long, pin, middlegame`. You can [view the full game](https://lichess.org/EpXLrij8),
-and the first solution move is `d7e5`.
+It is `White to move` in puzzle [AAVEl](https://lichess.org/training/AAVEl), rated `1613`.
+The game is `SpartanAngelll (1884)` vs `snakepants (1799)` at `15+15` time control,
+with themes `endgame, crushing, long`. You can [view the full game](https://lichess.org/daImwtYx),
+and the first solution move is `f2f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

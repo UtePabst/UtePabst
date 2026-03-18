@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp1p1r1pk%2Fnp3pp1%2F2pP4%2F2P4P%2FP5Q1%2F3Bq1PK%2F2R5%20w%20-%20-%204%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2F2p2ppp%2Fp1Nb1n2%2F8%2F8%2F1P1P3P%2FPBP2PP1%2FR2QK2R%20b%20KQ%20-%200%2013&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [H8ilG](https://lichess.org/training/H8ilG), rated `1331`.
-The game is `GGTroubleshooter (2480)` vs `Noname52 (2566)` at `3+0` time control,
-with themes `short, advantage, skewer, endgame`. You can [view the full game](https://lichess.org/gIDSGdNq),
-and the first solution move is `c1e1`.
+It is `Black to move` in puzzle [W31A7](https://lichess.org/training/W31A7), rated `1494`.
+The game is `Fredivogelfred (1751)` vs `serbaevilnur (1741)` at `10+5` time control,
+with themes `middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/vWYY1lZU),
+and the first solution move is `d8e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

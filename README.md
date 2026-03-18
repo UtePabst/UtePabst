@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F1b3pp1%2F4p1p1%2Fp2q4%2F2p2RQ1%2F2B4P%2F5PP1%2F6K1%20w%20-%20-%206%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp1p1r1pk%2Fnp3pp1%2F2pP4%2F2P4P%2FP5Q1%2F3Bq1PK%2F2R5%20w%20-%20-%204%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [acwAx](https://lichess.org/training/acwAx), rated `1414`.
-The game is `HandsomeMoney (1879)` vs `variwg (1852)` at `10+5` time control,
-with themes `advantage, short, endgame`. You can [view the full game](https://lichess.org/bjBrBwYQ),
-and the first solution move is `f4d4`.
+It is `White to move` in puzzle [H8ilG](https://lichess.org/training/H8ilG), rated `1331`.
+The game is `GGTroubleshooter (2480)` vs `Noname52 (2566)` at `3+0` time control,
+with themes `short, advantage, skewer, endgame`. You can [view the full game](https://lichess.org/gIDSGdNq),
+and the first solution move is `c1e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

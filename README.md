@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1r1k%2F2p3pp%2Fp7%2F1p2pQN1%2F2b5%2F5P2%2F1P4PP%2FK2RR3%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4k3%2Fp4p1p%2F2p5%2FPP1p1n2%2F8%2F8%2F8%2F7K%20w%20-%20-%200%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [7JpQ6](https://lichess.org/training/7JpQ6), rated `1331`.
-The game is `JesusFreak777 (1550)` vs `Uglev1963 (1548)` at `10+0` time control,
-with themes `middlegame, advantage, intermezzo, long`. You can [view the full game](https://lichess.org/ZsNm3v4v),
-and the first solution move is `d8d1`.
+It is `White to move` in puzzle [47yIX](https://lichess.org/training/47yIX), rated `1617`.
+The game is `Infinitum_Nihil (1918)` vs `Melphala (1879)` at `15+10` time control,
+with themes `veryLong, endgame, advancedPawn, advantage, promotion, knightEndgame`. You can [view the full game](https://lichess.org/tFB381VH),
+and the first solution move is `b5b6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

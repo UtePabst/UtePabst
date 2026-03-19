@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r2kb1r%2F2qn1pp1%2F4pnp1%2F6N1%2F3Q4%2F4PB2%2FPP1B1PPP%2FR4RK1%20b%20k%20-%202%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn2kb1r%2FpQ3ppp%2F2q1p3%2F3n4%2F2Bp4%2F2P2P2%2FPP3P1P%2FRNB1K2R%20w%20KQkq%20-%201%2011&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [5LvLz](https://lichess.org/training/5LvLz), rated `1286`.
-The game is `MChabot (1746)` vs `Jrquiroga (1706)` at `10+5` time control,
-with themes `middlegame, oneMove, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/idyS6YNs),
-and the first solution move is `c7h2`.
+It is `White to move` in puzzle [qOh72](https://lichess.org/training/qOh72), rated `1337`.
+The game is `Homesteadchess (1884)` vs `ancambil61 (2007)` at `5+3` time control,
+with themes `short, pin, advantage, opening`. You can [view the full game](https://lichess.org/Gnc20i0Q),
+and the first solution move is `c4b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

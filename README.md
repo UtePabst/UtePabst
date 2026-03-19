@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2F1p3ppp%2Fpq2p3%2F5n2%2F3pN3%2F2P1n2R%2FPP4QP%2FR6K%20w%20-%20-%202%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F5pp1%2F2p2np1%2F3p4%2F1qRP4%2F3Q2NP%2F1P3PP1%2F4R1K1%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [er3If](https://lichess.org/training/er3If), rated `1254`.
-The game is `bklui123 (2121)` vs `garopa4kata (2134)` at `10+0` time control,
-with themes `arabianMate, mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/mrOFkHwT),
-and the first solution move is `e4f6`.
+It is `Black to move` in puzzle [UYsAH](https://lichess.org/training/UYsAH), rated `1583`.
+The game is `Viktor30031949 (1998)` vs `Yetbo (1926)` at `5+0` time control,
+with themes `middlegame, crushing, long, hangingPiece`. You can [view the full game](https://lichess.org/LJqs48p1),
+and the first solution move is `b4e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

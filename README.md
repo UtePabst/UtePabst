@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3R1rk1%2FpR2r1p1%2F2p3Qp%2F2q3p1%2F6P1%2F1K2p2P%2FPP6%2F8%20w%20-%20-%2010%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1kBQ%2F1p1r1qp1%2Fp4P2%2F2p5%2FP1Pp1P2%2F1P5p%2F8%2F3RR1K1%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [oxo8W](https://lichess.org/training/oxo8W), rated `1327`.
-The game is `Nemo112 (2148)` vs `KhUlziikhishig (2352)` at `3+0` time control,
-with themes `endgame, attraction, long, mateIn3, killBoxMate`. You can [view the full game](https://lichess.org/yIagXp3D),
-and the first solution move is `d8f8`.
+It is `Black to move` in puzzle [7YUo3](https://lichess.org/training/7YUo3), rated `1363`.
+The game is `Ginete2018 (2049)` vs `softness (2020)` at `5+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/z8oexdro),
+and the first solution move is `f7g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

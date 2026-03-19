@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F5pp1%2F2p2np1%2F3p4%2F1qRP4%2F3Q2NP%2F1P3PP1%2F4R1K1%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k3rr%2F1p5p%2Fp2qp3%2F3n4%2F3Q4%2F8%2FP4PPP%2FRN3RK1%20b%20-%20-%202%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [UYsAH](https://lichess.org/training/UYsAH), rated `1583`.
-The game is `Viktor30031949 (1998)` vs `Yetbo (1926)` at `5+0` time control,
-with themes `middlegame, crushing, long, hangingPiece`. You can [view the full game](https://lichess.org/LJqs48p1),
-and the first solution move is `b4e1`.
+It is `Black to move` in puzzle [2aWFE](https://lichess.org/training/2aWFE), rated `1612`.
+The game is `igorrnk (2106)` vs `chess-insight (2175)` at `3+2` time control,
+with themes `middlegame, crushing, attraction, long, sacrifice`. You can [view the full game](https://lichess.org/T94u4PvA),
+and the first solution move is `g8g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

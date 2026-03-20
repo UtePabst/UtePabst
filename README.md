@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4k3%2F6B1%2F4p1p1%2F3pP1P1%2Fp1bPp3%2F1p2K3%2F1P6%2F3B4%20b%20-%20-%201%2045&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2r3k%2Fpp5p%2F2b3B1%2F8%2F4N2R%2F8%2FPP4PP%2F4n1K1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [72T4g](https://lichess.org/training/72T4g), rated `1283`.
-The game is `Pachiekoy24 (2024)` vs `vladan967 (2029)` at `10+0` time control,
-with themes `endgame, advancedPawn, short, crushing, bishopEndgame`. You can [view the full game](https://lichess.org/7dXjK7Qb),
-and the first solution move is `a4a3`.
+It is `White to move` in puzzle [mA4gt](https://lichess.org/training/mA4gt), rated `1345`.
+The game is `revizor8567 (1682)` vs `vitaeterna (1574)` at `5+0` time control,
+with themes `middlegame, operaMate, vukovicMate, long, mateIn3`. You can [view the full game](https://lichess.org/xIgIPs3y),
+and the first solution move is `h4h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

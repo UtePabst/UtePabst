@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k1r%2F5p2%2F5qp1%2FpQ5p%2F4p1n1%2FPNPnP1P1%2F1P1RKPP1%2F7R%20b%20-%20-%204%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4k3%2F6B1%2F4p1p1%2F3pP1P1%2Fp1bPp3%2F1p2K3%2F1P6%2F3B4%20b%20-%20-%201%2045&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [P7gUp](https://lichess.org/training/P7gUp), rated `1274`.
-The game is `Antoniobdq (2146)` vs `ktoto_kto (2228)` at `10+0` time control,
-with themes `deflection, mateIn2, middlegame, short, cornerMate`. You can [view the full game](https://lichess.org/FqA1jQl5),
-and the first solution move is `f6f2`.
+It is `Black to move` in puzzle [72T4g](https://lichess.org/training/72T4g), rated `1283`.
+The game is `Pachiekoy24 (2024)` vs `vladan967 (2029)` at `10+0` time control,
+with themes `endgame, advancedPawn, short, crushing, bishopEndgame`. You can [view the full game](https://lichess.org/7dXjK7Qb),
+and the first solution move is `a4a3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

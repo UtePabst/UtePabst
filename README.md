@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2FppN2pp1%2F1bnp2qp%2F4p3%2F2B1P1nP%2F2PP1Q2%2FPP1B1PP1%2F2KR2R1%20b%20kq%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k1r%2F5p2%2F5qp1%2FpQ5p%2F4p1n1%2FPNPnP1P1%2F1P1RKPP1%2F7R%20b%20-%20-%204%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [zTPyH](https://lichess.org/training/zTPyH), rated `1594`.
-The game is `Esenin_Lenin (1536)` vs `Premkumar_Azhiyur (1581)` at `30+0` time control,
-with themes `hangingPiece, advantage, long, middlegame`. You can [view the full game](https://lichess.org/cZhh7Eam),
-and the first solution move is `b6c7`.
+It is `Black to move` in puzzle [P7gUp](https://lichess.org/training/P7gUp), rated `1274`.
+The game is `Antoniobdq (2146)` vs `ktoto_kto (2228)` at `10+0` time control,
+with themes `deflection, mateIn2, middlegame, short, cornerMate`. You can [view the full game](https://lichess.org/FqA1jQl5),
+and the first solution move is `f6f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

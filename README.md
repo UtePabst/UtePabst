@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F5p2%2F3K2p1%2F4P3%2F4PPk1%2F8%2F8%20b%20-%20-%203%2045&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5qk1%2F1N1n2p1%2Fp3p2p%2F1p4bQ%2F2p1B2r%2FP4P2%2F1PP4P%2F3R3K%20w%20-%20-%202%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [2dLcu](https://lichess.org/training/2dLcu), rated `1457`.
-The game is `TheThinRedLine (1645)` vs `ducuu (1576)` at `10+0` time control,
-with themes `endgame, crushing, long, pawnEndgame, defensiveMove`. You can [view the full game](https://lichess.org/pIWXSvGh),
-and the first solution move is `g3f3`.
+It is `White to move` in puzzle [h9FSr](https://lichess.org/training/h9FSr), rated `1519`.
+The game is `PALANIBHARATHI (1993)` vs `Specht85 (1912)` at `10+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/ZOMytuN8),
+and the first solution move is `h5g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

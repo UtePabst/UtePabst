@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F1pp5%2Fp2b2Q1%2F4p3%2F4P1K1%2F8%2Fr7%2F8%20w%20-%20-%200%2042&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1r1k%2F2p3p1%2Fpq2p2p%2F6Q1%2FPp6%2F1P5R%2F1P3PPP%2F5RK1%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [1cDnO](https://lichess.org/training/1cDnO), rated `1282`.
-The game is `SharkAnto55 (2581)` vs `gmlololo (2600)` at `3+0` time control,
-with themes `endgame, master, short, advantage, fork`. You can [view the full game](https://lichess.org/hcQtRjHv),
-and the first solution move is `g6g8`.
+It is `Black to move` in puzzle [9yVyh](https://lichess.org/training/9yVyh), rated `1543`.
+The game is `facanha (1909)` vs `sschacher (2039)` at `5+8` time control,
+with themes `endgame, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/MjlqikHg),
+and the first solution move is `b6f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

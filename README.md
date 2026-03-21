@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2FpBp1rk2%2FP1Pp1p1p%2F3P1KpP%2F3bR1P1%2F8%2F8%20w%20-%20-%203%2045&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fppp2p2%2F5Q1P%2Fn2p2N1%2F3Pb1P1%2F2P1K3%2FPP4r1%2FR7%20b%20-%20-%204%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [SD1gT](https://lichess.org/training/SD1gT), rated `1534`.
-The game is `kalantaryan (2412)` vs `mang0sunr1s3 (2037)` at `3+0` time control,
-with themes `short, crushing, endgame`. You can [view the full game](https://lichess.org/DK4VTKR2),
-and the first solution move is `b6d8`.
+It is `Black to move` in puzzle [i8Mpd](https://lichess.org/training/i8Mpd), rated `1312`.
+The game is `dabdba (1951)` vs `f0lk0 (1822)` at `10+0` time control,
+with themes `veryLong, middlegame, crushing, skewer`. You can [view the full game](https://lichess.org/AmMCWOHF),
+and the first solution move is `a5c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

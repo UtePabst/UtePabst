@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1R6%2F5pk1%2FP6p%2F5pp1%2F2P5%2F1P1rrPPP%2F5RK1%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1bbn1ppp%2Fp1p5%2F1pPp1q2%2F1P1P1N2%2FP1B1PRP1%2F6BP%2FR2Q2K1%20w%20-%20-%203%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [DoBeA](https://lichess.org/training/DoBeA), rated `1581`.
-The game is `juanc12 (1950)` vs `spurious_semaphore (1941)` at `10+0` time control,
-with themes `rookEndgame, advantage, short, endgame`. You can [view the full game](https://lichess.org/B8P8tXyB),
-and the first solution move is `g4g3`.
+It is `White to move` in puzzle [yGPwF](https://lichess.org/training/yGPwF), rated `1528`.
+The game is `Ekin-Epot (1765)` vs `mastakrycha (1792)` at `10+0` time control,
+with themes `middlegame, skewer, short, advantage`. You can [view the full game](https://lichess.org/uwnCxqq3),
+and the first solution move is `g2h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

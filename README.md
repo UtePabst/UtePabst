@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r4k%2F5p1p%2FPp1p2pb%2F4pb2%2F4n3%2F1Q3N2%2F5PPP%2F4KB1R%20b%20K%20-%201%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn3knQ%2Fp3p1r1%2F3qb2p%2F1p1p4%2F2p4B%2F1BN2P1P%2FPPPR1P2%2F4K1NR%20b%20K%20-%201%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ucNz0](https://lichess.org/training/ucNz0), rated `1437`.
-The game is `jakub112 (1829)` vs `Mohammed-Qawasmi (1867)` at `2+1` time control,
-with themes `veryLong, middlegame, advantage, attraction, fork`. You can [view the full game](https://lichess.org/tJ2nU42s),
-and the first solution move is `c8c1`.
+It is `Black to move` in puzzle [4xr3T](https://lichess.org/training/4xr3T), rated `1532`.
+The game is `Robertopinopgs (1608)` vs `Marce92 (1890)` at `5+5` time control,
+with themes `middlegame, advantage, long, discoveredAttack, pin`. You can [view the full game](https://lichess.org/WJ0pQRHT),
+and the first solution move is `d6e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

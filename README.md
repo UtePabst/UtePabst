@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq1r1k%2Fpp1np1bn%2F6p1%2F1p2N2p%2F2B5%2F6B1%2FPPPQ1PPP%2F2KR3R%20w%20-%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r4k%2F5p1p%2FPp1p2pb%2F4pb2%2F4n3%2F1Q3N2%2F5PPP%2F4KB1R%20b%20K%20-%201%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [nyl0s](https://lichess.org/training/nyl0s), rated `1582`.
-The game is `Kulturbanause (1766)` vs `SheshmanP (1731)` at `10+0` time control,
-with themes `middlegame, oneMove, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/jQ49MeaE),
-and the first solution move is `e5g6`.
+It is `Black to move` in puzzle [ucNz0](https://lichess.org/training/ucNz0), rated `1437`.
+The game is `jakub112 (1829)` vs `Mohammed-Qawasmi (1867)` at `2+1` time control,
+with themes `veryLong, middlegame, advantage, attraction, fork`. You can [view the full game](https://lichess.org/tJ2nU42s),
+and the first solution move is `c8c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

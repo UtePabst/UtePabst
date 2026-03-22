@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4q1k1%2Fp4p1p%2F1p2p1pB%2F8%2F2rb4%2F5QP1%2FP4PKP%2F3R4%20w%20-%20-%202%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rb3rk1%2Fp1qn1pp1%2F1p2p2p%2F3P2n1%2F8%2F1N2PN1P%2FPP1BQPP1%2F2R2RK1%20b%20-%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [8QN4x](https://lichess.org/training/8QN4x), rated `1538`.
-The game is `QuidAgis (2050)` vs `mikazin_d (2049)` at `3+2` time control,
-with themes `sacrifice, crushing, long, endgame`. You can [view the full game](https://lichess.org/1qCFXcNo),
-and the first solution move is `d1d4`.
+It is `Black to move` in puzzle [u4ped](https://lichess.org/training/u4ped), rated `1328`.
+The game is `valsax (1918)` vs `Kafffffffffff (1924)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/N1D1bbAJ),
+and the first solution move is `g5f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2Fpp2p1q1%2F5p2%2F5p1R%2F3Qp1p1%2F2N5%2FPP6%2F1K3B2%20w%20-%20-%201%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7B%2F3nR1P1%2F2k5%2F7K%2Fp6P%2F1p6%2F1P4r1%2F8%20b%20-%20-%200%2046&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [tSJG6](https://lichess.org/training/tSJG6), rated `1316`.
-The game is `jweelap (1958)` vs `stoper_55 (1960)` at `10+5` time control,
-with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/9wDkAOiK),
-and the first solution move is `f1c4`.
+It is `Black to move` in puzzle [fdias](https://lichess.org/training/fdias), rated `1321`.
+The game is `Atomyvaleria (2314)` vs `gakovac (2372)` at `3+0` time control,
+with themes `endgame, master, short, crushing`. You can [view the full game](https://lichess.org/rzTiCjv8),
+and the first solution move is `d7f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

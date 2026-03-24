@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2rq1rk1%2Fpp3ppp%2F4pb2%2F3n4%2F1P4Q1%2FPnN3PP%2F1B1P1PB1%2F2R2RK1%20w%20-%20-%203%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F2Rr1pp1%2Fp6p%2F4P3%2F1q3P2%2F4B2P%2F4Q2K%2F2R5%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [1UAMJ](https://lichess.org/training/1UAMJ), rated `1451`.
-The game is `ValentinRomero (1935)` vs `Mimilus (1917)` at `10+0` time control,
-with themes `veryLong, middlegame, crushing, attraction, fork, discoveredAttack`. You can [view the full game](https://lichess.org/Bo9k1Xc2),
-and the first solution move is `c3d5`.
+It is `Black to move` in puzzle [pju7S](https://lichess.org/training/pju7S), rated `1317`.
+The game is `BrunoCarmo (2066)` vs `sergerich191 (2015)` at `3+0` time control,
+with themes `middlegame, advantage, long, sacrifice, pin`. You can [view the full game](https://lichess.org/KaaKfknm),
+and the first solution move is `d7d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

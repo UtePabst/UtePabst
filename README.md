@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F7p%2F3k2p1%2Fp4p2%2F1pPK1P2%2F3P2PP%2F1P6%2F8%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k1r4%2F2pr3p%2F8%2FR5p1%2FR3p3%2F3n3P%2FPP1p1PP1%2F3N2K1%20w%20-%20-%204%2038&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [AK2K2](https://lichess.org/training/AK2K2), rated `1397`.
-The game is `SURYABHOOSHANKUMAR (1865)` vs `Double_yur_game (1579)` at `3+0` time control,
-with themes `endgame, crushing, quietMove, long, pawnEndgame, defensiveMove`. You can [view the full game](https://lichess.org/rqSWUewV),
-and the first solution move is `a5a4`.
+It is `White to move` in puzzle [SDo3D](https://lichess.org/training/SDo3D), rated `1487`.
+The game is `Dreffo (2002)` vs `olcay121 (1928)` at `10+0` time control,
+with themes `short, queensideAttack, endgame, mateIn2`. You can [view the full game](https://lichess.org/83KP4aOM),
+and the first solution move is `a5b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

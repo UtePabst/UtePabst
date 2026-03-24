@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k1r4%2F2pr3p%2F8%2FR5p1%2FR3p3%2F3n3P%2FPP1p1PP1%2F3N2K1%20w%20-%20-%204%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=R4rk1%2F3n1ppp%2F1qN1p3%2F1Prp4%2FQ7%2F2b1PP2%2F6PP%2F5RK1%20w%20-%20-%205%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [SDo3D](https://lichess.org/training/SDo3D), rated `1487`.
-The game is `Dreffo (2002)` vs `olcay121 (1928)` at `10+0` time control,
-with themes `short, queensideAttack, endgame, mateIn2`. You can [view the full game](https://lichess.org/83KP4aOM),
-and the first solution move is `a5b5`.
+It is `White to move` in puzzle [TUK9a](https://lichess.org/training/TUK9a), rated `1295`.
+The game is `Jacky3-great (1645)` vs `ChessAny1 (1638)` at `5+3` time control,
+with themes `deflection, clearance, middlegame, crushing, long, kingsideAttack, pin`. You can [view the full game](https://lichess.org/MYYELxIa),
+and the first solution move is `c6e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

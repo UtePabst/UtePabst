@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1r%2F5k1p%2Fpq2p1p1%2Fn2p2Q1%2F2pP4%2F2p1P2R%2FPP2BPP1%2F1K5R%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5Bk1%2Fppp3pp%2F2b1p3%2F8%2F5q2%2F3B4%2FPP2Q1PP%2F2R4K%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [V9Dgd](https://lichess.org/training/V9Dgd), rated `1547`.
-The game is `coocheman (1676)` vs `xxxKingshunter (1677)` at `5+0` time control,
-with themes `middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/I1q5kuUW),
-and the first solution move is `h3h7`.
+It is `Black to move` in puzzle [9ts14](https://lichess.org/training/9ts14), rated `1525`.
+The game is `SergioChouza (2037)` vs `ThaneofGlamis (1999)` at `3+0` time control,
+with themes `endgame, advantage, long, hangingPiece`. You can [view the full game](https://lichess.org/MOxbZZyM),
+and the first solution move is `f4c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr1b1r%2Fpp3P1p%2F1qn2Q1p%2F3pP3%2F3p4%2F2PB3P%2FPP4P1%2FRN3RK1%20b%20-%20-%201%2015&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3kr2%2FpR2npp1%2F2pQp2p%2F3pP3%2F3P3q%2F8%2F5P2%2F4K3%20w%20q%20-%202%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Ay7JG](https://lichess.org/training/Ay7JG), rated `1584`.
-The game is `Wilder007 (2060)` vs `chaijmait (2338)` at `3+0` time control,
-with themes `advancedPawn, short, discoveredCheck, advantage, discoveredAttack, master, middlegame`. You can [view the full game](https://lichess.org/BHh7m5An),
-and the first solution move is `d4c3`.
+It is `White to move` in puzzle [2AMZb](https://lichess.org/training/2AMZb), rated `1506`.
+The game is `long_live_the_puehs (2002)` vs `HansVB (1834)` at `15+10` time control,
+with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/8e2vrQzB),
+and the first solution move is `d6d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

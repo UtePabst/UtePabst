@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2Fpp4p1%2F2n2p2%2F2p4Q%2F2P4P%2F1P2P1qB%2FPB1N3b%2FR2K1b2%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F5kp1%2F4p2p%2F4r2K%2F4NP2%2F8%20w%20-%20-%200%2057&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [zojr1](https://lichess.org/training/zojr1), rated `1286`.
-The game is `FabianoLothor (1796)` vs `M_Nag84 (1968)` at `5+0` time control,
-with themes `middlegame, long, mateIn3, kingsideAttack`. You can [view the full game](https://lichess.org/YeFjldxY),
-and the first solution move is `h3e6`.
+It is `White to move` in puzzle [omVsv](https://lichess.org/training/omVsv), rated `1434`.
+The game is `Gamermaster_69 (1886)` vs `jesusferto (1812)` at `10+5` time control,
+with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/cA4BCVrh),
+and the first solution move is `f2e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

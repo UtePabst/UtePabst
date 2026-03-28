@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5p2%2Fp4Ppp%2F1p1p4%2F3PnKQ1%2F1P3R2%2F6PP%2F4r3%20b%20-%20-%208%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F1p1Qp2p%2F4RbpB%2F8%2Fp7%2F1qP4P%2F5PP1%2F6K1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [gzrJL](https://lichess.org/training/gzrJL), rated `1433`.
-The game is `Mayur6565 (1851)` vs `Amhamd_0ly (1773)` at `10+0` time control,
-with themes `endgame, discoveredCheck, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/5JdJzGAU),
-and the first solution move is `g6g5`.
+It is `White to move` in puzzle [oKumd](https://lichess.org/training/oKumd), rated `1319`.
+The game is `erfanashurii (2374)` vs `paktani (2217)` at `10+0` time control,
+with themes `endgame, short, crushing, defensiveMove`. You can [view the full game](https://lichess.org/CYckY9fW),
+and the first solution move is `e6f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

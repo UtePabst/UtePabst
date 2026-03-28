@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3Rn3%2F5kpp%2Fp3N3%2F1p6%2F8%2F1P5r%2FP1P5%2F2K5%20w%20-%20-%202%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kB2r1%2Fpbp3b1%2F1pn1p1qp%2FPB1p4%2F1P1P4%2F1NPQ4%2F6PP%2FR4RK1%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [4cxJD](https://lichess.org/training/4cxJD), rated `1504`.
-The game is `eenzo (2013)` vs `Think_Smart-7 (2004)` at `3+0` time control,
-with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/icsIVcLo),
-and the first solution move is `e6g5`.
+It is `Black to move` in puzzle [18dR4](https://lichess.org/training/18dR4), rated `1533`.
+The game is `karabas (1621)` vs `alwaysacrifice (1633)` at `10+10` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/9JcICk0G),
+and the first solution move is `g7d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

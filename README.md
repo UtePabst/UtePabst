@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fp1q2pp1%2FQ6p%2F3r4%2F3p4%2FN7%2FP2BnPPP%2FR4R1K%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r5%2F1pq2r1k%2Fp2p1Qpp%2F3P4%2F8%2F2P2P2%2FPPK5%2F3R3R%20w%20-%20-%201%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [N0ggm](https://lichess.org/training/N0ggm), rated `1538`.
-The game is `Atriano2030 (2025)` vs `ItsGam3Tyme (1977)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, attraction, sacrifice, kingsideAttack, anastasiaMate`. You can [view the full game](https://lichess.org/E9tNXX3l),
-and the first solution move is `c7h2`.
+It is `White to move` in puzzle [9eAal](https://lichess.org/training/9eAal), rated `1338`.
+The game is `naturalphilosopherr (1727)` vs `yay5chess (1660)` at `10+0` time control,
+with themes `short, attraction, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/CmbdBWb2),
+and the first solution move is `h1h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

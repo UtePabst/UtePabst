@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F4r1b1%2F1B1R2pk%2F1p6%2F1PpP1P1p%2F4N2P%2F3r2P1%2F6K1%20w%20-%20-%203%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1R5p%2F1RQ3p1%2Fp1p1bp2%2FP1P4q%2F8%2F3r2PP%2F5N1K%20b%20-%20-%205%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [NytV2](https://lichess.org/training/NytV2), rated `1430`.
-The game is `Muleskinner (2152)` vs `M_e_t_h_o_s (2128)` at `5+5` time control,
-with themes `endgame, short, advantage, pin`. You can [view the full game](https://lichess.org/dx39Y1up),
-and the first solution move is `e3f5`.
+It is `Black to move` in puzzle [g5ubm](https://lichess.org/training/g5ubm), rated `1367`.
+The game is `klima2626 (2065)` vs `vd09 (1859)` at `10+0` time control,
+with themes `middlegame, long, mateIn3, sacrifice, pillsburysMate`. You can [view the full game](https://lichess.org/NMdcroO1),
+and the first solution move is `h4h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

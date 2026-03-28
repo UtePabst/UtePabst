@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k1r2%2Fppp1b2p%2F3p2p1%2F8%2F2PB1n2%2F7P%2FPP4P1%2F3R1RK1%20b%20-%20-%202%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fp1q2pp1%2FQ6p%2F3r4%2F3p4%2FN7%2FP2BnPPP%2FR4R1K%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [5sRmz](https://lichess.org/training/5sRmz), rated `1449`.
-The game is `macgilley55 (1779)` vs `mahmoodlab (1801)` at `5+3` time control,
-with themes `deflection, endgame, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/W0LZGgaO),
-and the first solution move is `f4e2`.
+It is `Black to move` in puzzle [N0ggm](https://lichess.org/training/N0ggm), rated `1538`.
+The game is `Atriano2030 (2025)` vs `ItsGam3Tyme (1977)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, attraction, sacrifice, kingsideAttack, anastasiaMate`. You can [view the full game](https://lichess.org/E9tNXX3l),
+and the first solution move is `c7h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

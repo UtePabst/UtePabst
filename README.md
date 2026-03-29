@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1q4r%2F1pp3k1%2F3p1nnp%2Fp1b1pb2%2FP5p1%2F2PB1QBP%2F1P1NNPP1%2FR4RK1%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r4r%2Fp4pk1%2F6p1%2F2pR1bq1%2F2P1pN2%2F1N2Pp1B%2FP4P1K%2F3RQ3%20b%20-%20-%205%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [mALIH](https://lichess.org/training/mALIH), rated `1391`.
-The game is `KOX_65 (1802)` vs `Glodjevo777 (1997)` at `10+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/BmoM8ab5),
-and the first solution move is `f3f5`.
+It is `Black to move` in puzzle [yP6OG](https://lichess.org/training/yP6OG), rated `1467`.
+The game is `Casper1337 (2161)` vs `runchess309 (2150)` at `3+2` time control,
+with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/3qnXTMgw),
+and the first solution move is `h8h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

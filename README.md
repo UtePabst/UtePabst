@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F4kp1p%2F5r2%2Fpp2P1P1%2F8%2F1P4Kb%2FP6P%2F8%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1p6%2F1Pk5%2F2P1RK2%2F8%2F8%2F3r4%20b%20-%20-%2026%2079&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [fsltR](https://lichess.org/training/fsltR), rated `1405`.
-The game is `hollywood_chess (2354)` vs `Jedi_Obi-Wan_Kenobi (2271)` at `3+0` time control,
-with themes `endgame, master, short, crushing`. You can [view the full game](https://lichess.org/sgDbWiHO),
-and the first solution move is `e5f6`.
+It is `Black to move` in puzzle [oHbS7](https://lichess.org/training/oHbS7), rated `1534`.
+The game is `markwiens (1927)` vs `AllahSun1 (1912)` at `3+2` time control,
+with themes `crushing, rookEndgame, long, endgame`. You can [view the full game](https://lichess.org/SkH2ZvRP),
+and the first solution move is `d1d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

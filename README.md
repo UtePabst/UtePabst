@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fp4pbp%2F6p1%2F8%2F1N2P3%2F1bP5%2Fr2B2PP%2F2KR1B1R%20b%20-%20-%202%2019&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp2Rp1k%2F2p5%2F5q1p%2FP5p1%2F2P2N1P%2F1PP2PP1%2F1K6%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [wanGn](https://lichess.org/training/wanGn), rated `1384`.
-The game is `alejandro99ss (2172)` vs `ManoKareem_14 (2163)` at `10+0` time control,
-with themes `deflection, middlegame, short, queensideAttack, advantage, skewer`. You can [view the full game](https://lichess.org/ipbaR1KD),
-and the first solution move is `a2a1`.
+It is `White to move` in puzzle [TIZbJ](https://lichess.org/training/TIZbJ), rated `1348`.
+The game is `Ali-Aliev055 (1802)` vs `farhad_javid (1725)` at `30+0` time control,
+with themes `exposedKing, endgame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/3le0PVsj),
+and the first solution move is `e7f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

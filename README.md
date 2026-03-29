@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5Rb1%2F7p%2Fp1r1r1P1%2F1p1p4%2F1PpK4%2FP1P4P%2F2B2R2%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2F1pp1n2p%2Fp2p2bP%2F4n1b1%2F4PNB1%2F2N5%2FPPP3QB%2F1K1R3R%20b%20-%20-%204%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [lhFi9](https://lichess.org/training/lhFi9), rated `1500`.
-The game is `jaircampos (1864)` vs `sherifosman111 (1915)` at `15+15` time control,
-with themes `endgame, short, crushing`. You can [view the full game](https://lichess.org/Pzz2QKVM),
-and the first solution move is `g5h6`.
+It is `Black to move` in puzzle [toOkm](https://lichess.org/training/toOkm), rated `1420`.
+The game is `adalbertord (1768)` vs `banacloxa (1931)` at `10+0` time control,
+with themes `defensiveMove, advantage, short, middlegame`. You can [view the full game](https://lichess.org/YKsikv0w),
+and the first solution move is `g5f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

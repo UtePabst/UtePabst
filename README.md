@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fppp2ppp%2F2n5%2Fq3p3%2F1b2P1b1%2F5N1P%2FPPPBBPP1%2FR2Q1RK1%20b%20-%20-%200%2011&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1Q6%2F6kp%2F3P1b2%2F2q5%2F7P%2F6P1%2F5P2%2F6K1%20w%20-%20-%200%2060&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [FioiR](https://lichess.org/training/FioiR), rated `1426`.
-The game is `OMARALSUN971 (1845)` vs `buldzo (1858)` at `10+0` time control,
-with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/J50MEcDt),
-and the first solution move is `g4f3`.
+It is `White to move` in puzzle [p0pmu](https://lichess.org/training/p0pmu), rated `1588`.
+The game is `darjov (1774)` vs `sergiokumic (1631)` at `5+8` time control,
+with themes `endgame, advancedPawn, short, crushing`. You can [view the full game](https://lichess.org/XjYcgUmw),
+and the first solution move is `b8c7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

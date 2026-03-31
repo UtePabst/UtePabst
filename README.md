@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5Q2%2F1r3Npk%2F4pn1p%2F3p4%2F3Pn1P1%2F4B2P%2F4qP2%2F3R2K1%20w%20-%20-%201%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fppp3pp%2F3p2p1%2F4q3%2FP1P1P3%2F2B3nP%2FBP4PK%2FR3Q3%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [gVmf7](https://lichess.org/training/gVmf7), rated `1319`.
-The game is `Milana-Yasn (1846)` vs `gandalf222 (1734)` at `3+2` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/L7HtgOBR),
-and the first solution move is `f8h8`.
+It is `Black to move` in puzzle [3TKGL](https://lichess.org/training/3TKGL), rated `1524`.
+The game is `LittleEddie (1726)` vs `maksimus25 (1742)` at `3+2` time control,
+with themes `mateIn2, middlegame, short, discoveredCheck, doubleCheck`. You can [view the full game](https://lichess.org/n0ugRUsK),
+and the first solution move is `g3f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

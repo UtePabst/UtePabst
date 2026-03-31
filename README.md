@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rbb1k2r%2Fpp1p1ppp%2F4p3%2F1N3P2%2F4PBn1%2F1N1B3q%2FPPP1Q3%2FR4RK1%20b%20kq%20-%203%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5Q2%2F1r3Npk%2F4pn1p%2F3p4%2F3Pn1P1%2F4B2P%2F4qP2%2F3R2K1%20w%20-%20-%201%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [jHKb1](https://lichess.org/training/jHKb1), rated `1354`.
-The game is `Ghrushneshwar (1996)` vs `mehdihz81 (1967)` at `10+0` time control,
-with themes `exposedKing, middlegame, advantage, attraction, fork, long`. You can [view the full game](https://lichess.org/TAJkURIu),
-and the first solution move is `b8f4`.
+It is `White to move` in puzzle [gVmf7](https://lichess.org/training/gVmf7), rated `1319`.
+The game is `Milana-Yasn (1846)` vs `gandalf222 (1734)` at `3+2` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/L7HtgOBR),
+and the first solution move is `f8h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

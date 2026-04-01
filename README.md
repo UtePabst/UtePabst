@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4nr2%2Fp5k1%2FR6R%2F1p1P2p1%2F4p2p%2FP2nP1qb%2FQ3B1P1%2F6K1%20w%20-%20-%200%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5bnN%2F1p1kp1pp%2Fp7%2F4Q3%2F4K3%2F4P3%2FPP5P%2FR2q4%20b%20-%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [c0wQC](https://lichess.org/training/c0wQC), rated `1523`.
-The game is `balbmaster (1756)` vs `erickmas78 (1709)` at `10+0` time control,
-with themes `exposedKing, middlegame, discoveredCheck, long, mateIn3, triangleMate, discoveredAttack`. You can [view the full game](https://lichess.org/xOegTUXv),
-and the first solution move is `a6g6`.
+It is `Black to move` in puzzle [qUNZh](https://lichess.org/training/qUNZh), rated `1918`.
+The game is `d0nerk4 (1809)` vs `muecke2707 (1933)` at `10+0` time control,
+with themes `endgame, short, crushing, sacrifice`. You can [view the full game](https://lichess.org/Hk9PiwTe),
+and the first solution move is `g8f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fppp1b1pp%2F6p1%2F8%2F6P1%2FP1QP3P%2FqPP2B2%2F2KR3R%20b%20-%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6q1%2F1p5k%2F2p5%2Fp5R1%2FPb1n2N1%2F7P%2F1P4P1%2F6K1%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Tyzd8](https://lichess.org/training/Tyzd8), rated `1602`.
-The game is `TBence1977 (1569)` vs `dcandikwhy (1572)` at `3+0` time control,
-with themes `middlegame, queensideAttack, long, mateIn3, pin`. You can [view the full game](https://lichess.org/K53TOgc8),
-and the first solution move is `e7g5`.
+It is `White to move` in puzzle [oIDLb](https://lichess.org/training/oIDLb), rated `1453`.
+The game is `maestro8906 (1714)` vs `vicente_gar_bra (1835)` at `5+8` time control,
+with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/4ItSiiaS),
+and the first solution move is `g4f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

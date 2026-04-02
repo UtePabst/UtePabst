@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F3k4%2FR1r4p%2F6p1%2F5p2%2F7P%2F4KPP1%2F8%20w%20-%20-%202%2043&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5b1r%2FQ4ppp%2F1p2p3%2F5k1q%2F4N1n1%2F6P1%2FPPPP1P1P%2FR1B1R1K1%20b%20-%20-%206%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [X0Cag](https://lichess.org/training/X0Cag), rated `1506`.
-The game is `Diegopampa (2279)` vs `FCastro17 (2091)` at `3+2` time control,
-with themes `crushing, rookEndgame, short, endgame`. You can [view the full game](https://lichess.org/IIW2w9tt),
-and the first solution move is `a6c6`.
+It is `Black to move` in puzzle [CmMxa](https://lichess.org/training/CmMxa), rated `1294`.
+The game is `kaczuszka1234 (1576)` vs `LondonGB (1571)` at `10+0` time control,
+with themes `middlegame, crushing, long, kingsideAttack, interference`. You can [view the full game](https://lichess.org/GdbrCVOo),
+and the first solution move is `h5h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

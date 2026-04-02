@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5b1r%2FQ4ppp%2F1p2p3%2F5k1q%2F4N1n1%2F6P1%2FPPPP1P1P%2FR1B1R1K1%20b%20-%20-%206%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn3rk1%2Fppp2ppp%2F8%2F4bnB1%2F8%2F1P1P1BP1%2FP6P%2F2R2R1K%20w%20-%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [CmMxa](https://lichess.org/training/CmMxa), rated `1294`.
-The game is `kaczuszka1234 (1576)` vs `LondonGB (1571)` at `10+0` time control,
-with themes `middlegame, crushing, long, kingsideAttack, interference`. You can [view the full game](https://lichess.org/GdbrCVOo),
-and the first solution move is `h5h2`.
+It is `White to move` in puzzle [ldJSh](https://lichess.org/training/ldJSh), rated `1561`.
+The game is `Blazian (1923)` vs `VIKAS787 (1782)` at `10+5` time control,
+with themes `middlegame, short, advantage`. You can [view the full game](https://lichess.org/ebQ7NGkJ),
+and the first solution move is `f3b7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

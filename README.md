@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1rk2%2Fpp3qpp%2F3b1p2%2F3pP3%2F2p2PPB%2FP1P1Q3%2F1P2R2P%2F5RK1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fppp1b1pp%2F6p1%2F8%2F6P1%2FP1QP3P%2FqPP2B2%2F2KR3R%20b%20-%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [dsesl](https://lichess.org/training/dsesl), rated `1381`.
-The game is `sl11235 (1989)` vs `Willi_aus_Biene_Maja (2271)` at `8+0` time control,
-with themes `pin, short, advantage, middlegame`. You can [view the full game](https://lichess.org/onVEP8T7),
-and the first solution move is `d6c5`.
+It is `Black to move` in puzzle [Tyzd8](https://lichess.org/training/Tyzd8), rated `1602`.
+The game is `TBence1977 (1569)` vs `dcandikwhy (1572)` at `3+0` time control,
+with themes `middlegame, queensideAttack, long, mateIn3, pin`. You can [view the full game](https://lichess.org/K53TOgc8),
+and the first solution move is `e7g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

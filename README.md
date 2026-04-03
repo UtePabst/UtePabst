@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2p2k2%2FppBp1q2%2F3PnP2%2F2PQ2r1%2F6R1%2F6K1%20w%20-%20-%200%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F8%2Fp3p2b%2F2pb2q1%2F8%2FP2P2rP%2F2P1RQB1%2F1K4R1%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [lYvA8](https://lichess.org/training/lYvA8), rated `1298`.
-The game is `Buli10 (2207)` vs `Caciana (2162)` at `10+5` time control,
-with themes `short, advantage, endgame`. You can [view the full game](https://lichess.org/yw2QhtPb),
-and the first solution move is `g2g3`.
+It is `Black to move` in puzzle [OyM5V](https://lichess.org/training/OyM5V), rated `1479`.
+The game is `emilioaeiou10 (1779)` vs `k80letPobedy (1779)` at `10+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/vc9JOdoy),
+and the first solution move is `g3g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

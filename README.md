@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5p2%2F3Np3%2F1K4p1%2F3PP1b1%2FP7%2F8%2F8%20b%20-%20-%200%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F7p%2Fp2k2p1%2FP1p3P1%2F2K4P%2F1P6%2F8%20b%20-%20-%206%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Ze9z7](https://lichess.org/training/Ze9z7), rated `1393`.
-The game is `gabrilator (2096)` vs `jihhaahuuuk (2108)` at `10+5` time control,
-with themes `veryLong, endgame, advancedPawn, crushing, quietMove`. You can [view the full game](https://lichess.org/0E08iFUe),
-and the first solution move is `g4e2`.
+It is `Black to move` in puzzle [9ESbL](https://lichess.org/training/9ESbL), rated `1386`.
+The game is `treningowekonto (2339)` vs `Springerf3 (2400)` at `3+2` time control,
+with themes `veryLong, endgame, zugzwang, crushing, pawnEndgame`. You can [view the full game](https://lichess.org/EsGmlCXn),
+and the first solution move is `d5c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F1pR5%2Fp2p3p%2F6p1%2F3B4%2F3Bnr2%2FPP6%2F6K1%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq1r1k%2Fppppb1pp%2F3n4%2F4Np1Q%2F3np3%2F1BN5%2FPPP2PPP%2FR1B1R1K1%20w%20-%20-%200%2012&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [kgVtc](https://lichess.org/training/kgVtc), rated `1597`.
-The game is `Idrisova_Roza (2239)` vs `Chess_Rook_2022 (2209)` at `3+0` time control,
-with themes `master, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/VAaHFJOm),
-and the first solution move is `d3h7`.
+It is `White to move` in puzzle [4HI4N](https://lichess.org/training/4HI4N), rated `1429`.
+The game is `ChessSavesWorld (1980)` vs `Beginnerdawn (1979)` at `5+3` time control,
+with themes `oneMove, opening, mateIn1, pin`. You can [view the full game](https://lichess.org/2AscWpvM),
+and the first solution move is `e5g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

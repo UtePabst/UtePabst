@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F2qp1pp1%2Fp1bbp3%2F1p6%2F4P1B1%2FP1N1B3%2F1PPQ1PP1%2FR4RK1%20b%20kq%20-%200%2015&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fp5p1%2F7p%2F4R3%2F1P1KpP2%2Fr5P1%2F7P%2F3R4%20b%20-%20-%201%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [NBqXa](https://lichess.org/training/NBqXa), rated `1431`.
-The game is `Swordfeesh (2082)` vs `kraksenkov (2003)` at `2+1` time control,
-with themes `middlegame, discoveredCheck, attraction, long, mateIn3, sacrifice, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/BmGBGpOj),
-and the first solution move is `d6h2`.
+It is `Black to move` in puzzle [oggdE](https://lichess.org/training/oggdE), rated `1378`.
+The game is `Dmitry_Russia (1775)` vs `alkogolik33 (1824)` at `30+0` time control,
+with themes `endgame, short, advantage, rookEndgame, skewer`. You can [view the full game](https://lichess.org/2ZS77CjI),
+and the first solution move is `e8d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

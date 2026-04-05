@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r7%2F8%2F3pNqkb%2F8%2F3PQpp1%2FpPP5%2FP7%2F1K2R3%20b%20-%20-%202%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2b5%2F2PB1k2%2F3K1p1p%2F6p1%2F8%2F6P1%2Fp6P%2F8%20w%20-%20-%200%2049&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [b0G4U](https://lichess.org/training/b0G4U), rated `1340`.
-The game is `PlayTime2016 (2003)` vs `Gert-janc (2044)` at `10+5` time control,
-with themes `endgame, crushing, long, pin, defensiveMove`. You can [view the full game](https://lichess.org/Gww0G6hu),
-and the first solution move is `f6f5`.
+It is `White to move` in puzzle [lJ96I](https://lichess.org/training/lJ96I), rated `1499`.
+The game is `musclequeen (1656)` vs `BorjaRS_86 (1627)` at `5+3` time control,
+with themes `clearance, endgame, advancedPawn, crushing, long, promotion, bishopEndgame`. You can [view the full game](https://lichess.org/MrdB0ioc),
+and the first solution move is `d7c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

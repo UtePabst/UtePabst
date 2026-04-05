@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p3k2%2F1Pp2P2%2Fp1P1K3%2FP2R4%2F8%2F8%2F3r4%20b%20-%20-%202%2049&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r1q1rk1%2Fp4ppp%2F1p6%2F1b2PP2%2F2p1pR2%2F1N6%2FPPP3PP%2F3RQ1K1%20b%20-%20-%201%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [xaVso](https://lichess.org/training/xaVso), rated `1461`.
-The game is `sikawala (1816)` vs `TheGrandPrixAttack (1839)` at `3+0` time control,
-with themes `endgame, zugzwang, crushing, rookEndgame, long, defensiveMove`. You can [view the full game](https://lichess.org/6C6HFs9u),
-and the first solution move is `d1d4`.
+It is `Black to move` in puzzle [LTE7O](https://lichess.org/training/LTE7O), rated `1584`.
+The game is `yuutin (2300)` vs `Elguaponoilx (2351)` at `10+0` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/mWjqe6VE),
+and the first solution move is `d8g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

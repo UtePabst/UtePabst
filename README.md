@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2b5%2F2PB1k2%2F3K1p1p%2F6p1%2F8%2F6P1%2Fp6P%2F8%20w%20-%20-%200%2049&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2Fpp1pppbp%2F5np1%2F3N4%2F2BpP3%2F1P6%2FPBPPQPPP%2FR3K2R%20b%20KQ%20-%201%209&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [lJ96I](https://lichess.org/training/lJ96I), rated `1499`.
-The game is `musclequeen (1656)` vs `BorjaRS_86 (1627)` at `5+3` time control,
-with themes `clearance, endgame, advancedPawn, crushing, long, promotion, bishopEndgame`. You can [view the full game](https://lichess.org/MrdB0ioc),
-and the first solution move is `d7c8`.
+It is `Black to move` in puzzle [guiRC](https://lichess.org/training/guiRC), rated `1413`.
+The game is `ashreedeh1 (2008)` vs `ssaaeed (2018)` at `7+2` time control,
+with themes `middlegame, long, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/GjcTH8Z4),
+and the first solution move is `f6d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

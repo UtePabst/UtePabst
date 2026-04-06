@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnb1k2r%2Fpp3pp1%2F3p4%2F4p2p%2F2P4q%2F2B1K2P%2FPP2B1P1%2FRN1Q2NR%20b%20kq%20-%200%2012&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1q2k1r1%2Fp7%2F4pp1p%2F2Pp4%2FP2P1b2%2F7P%2F3BQ1P1%2F6K1%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [KPhsq](https://lichess.org/training/KPhsq), rated `1285`.
-The game is `Strategic_Sultan (2144)` vs `Usechess1962 (2286)` at `3+2` time control,
-with themes `mateIn2, short, opening`. You can [view the full game](https://lichess.org/RMW49G94),
-and the first solution move is `h4f4`.
+It is `White to move` in puzzle [am3Vl](https://lichess.org/training/am3Vl), rated `1433`.
+The game is `francky123 (1899)` vs `upchess-01 (1882)` at `30+0` time control,
+with themes `endgame`. You can [view the full game](https://lichess.org/h0ydE7Pc),
+and the first solution move is `e2e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

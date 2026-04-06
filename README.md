@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6pk%2F5p1p%2F2R1pP2%2F4P3%2F7P%2F4Q1PK%2Fqr6%20b%20-%20-%202%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2F1pp3p1%2Fp1p3P1%2F2b2Q2%2F3qPP2%2F2NP1P2%2FPPP5%2FR3K2R%20b%20KQ%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [CWAb0](https://lichess.org/training/CWAb0), rated `1360`.
-The game is `AndreyVasko1983 (2136)` vs `libman89 (2280)` at `3+0` time control,
-with themes `endgame, crushing, fork, long`. You can [view the full game](https://lichess.org/oSGClXNu),
-and the first solution move is `b1h1`.
+It is `Black to move` in puzzle [BHmlQ](https://lichess.org/training/BHmlQ), rated `1363`.
+The game is `kooljoe (1541)` vs `Penguingangster (1578)` at `5+3` time control,
+with themes `exposedKing, middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/xRSjqEx2),
+and the first solution move is `d4f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1q2k1r1%2Fp7%2F4pp1p%2F2Pp4%2FP2P1b2%2F7P%2F3BQ1P1%2F6K1%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5k2%2F6rK%2F5P2%2F8%2F8%2F8%2F8%20w%20-%20-%200%2086&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [am3Vl](https://lichess.org/training/am3Vl), rated `1433`.
-The game is `francky123 (1899)` vs `upchess-01 (1882)` at `30+0` time control,
-with themes `endgame`. You can [view the full game](https://lichess.org/h0ydE7Pc),
-and the first solution move is `e2e6`.
+It is `White to move` in puzzle [iCiMC](https://lichess.org/training/iCiMC), rated `1358`.
+The game is `Danielet81 (2434)` vs `diewaq (2340)` at `3+2` time control,
+with themes `endgame, short, crushing, defensiveMove`. You can [view the full game](https://lichess.org/7GflW0zl),
+and the first solution move is `f5g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

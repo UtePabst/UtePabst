@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4qk2%2FQ1R2pp1%2F4rn1p%2F1P1p4%2F8%2F3P2P1%2F5PKP%2F8%20w%20-%20-%207%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bN1rk1%2Fpp2ppbp%2F3p2p1%2F3N4%2F2B1PP2%2F8%2FPnP3PP%2FR4RK1%20w%20-%20-%200%2013&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Gjj0Z](https://lichess.org/training/Gjj0Z), rated `1533`.
-The game is `alejandrojmior (1538)` vs `Jacek8888 (1506)` at `5+0` time control,
-with themes `endgame, crushing, long, pin`. You can [view the full game](https://lichess.org/PDmIqWZq),
-and the first solution move is `a7c5`.
+It is `White to move` in puzzle [X1v9K](https://lichess.org/training/X1v9K), rated `1371`.
+The game is `kimuraal (2111)` vs `slimastrx (1953)` at `10+0` time control,
+with themes `deflection, middlegame, advantage, long, kingsideAttack`. You can [view the full game](https://lichess.org/XIs8pv3a),
+and the first solution move is `d5e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

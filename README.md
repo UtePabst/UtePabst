@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2FppR2p1k%2F5P2%2F5bQp%2F2PR1K2%2F4r2P%2FP5P1%2F6q1%20b%20-%20-%200%2044&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6rr%2F4q1pk%2F2bp1np1%2Fp1p1pP2%2F1pP1P2P%2F3PNB2%2FPP5K%2FR5R1%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [5aCgG](https://lichess.org/training/5aCgG), rated `1324`.
-The game is `kinxi52 (1849)` vs `abodirof (1820)` at `10+0` time control,
-with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/3gttZ2a0),
-and the first solution move is `g1f2`.
+It is `White to move` in puzzle [m9TKm](https://lichess.org/training/m9TKm), rated `1318`.
+The game is `Luca496 (2167)` vs `BackGian (1731)` at `3+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/83Z1ZYkk),
+and the first solution move is `f5g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

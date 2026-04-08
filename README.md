@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq2rk%2Fppp2p2%2F2nppn2%2F6B1%2F2PP4%2FP1PQ4%2F4PPPP%2FR3KB1R%20w%20KQ%20-%203%2013&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F3Q2p1%2F1p6%2Fp3bp1p%2FP1Pp4%2F1P1P1P2%2F5KPq%2F3R4%20b%20-%20-%202%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [th8za](https://lichess.org/training/th8za), rated `1307`.
-The game is `tomcangh (2076)` vs `misen (2119)` at `5+3` time control,
-with themes `short, advantage, opening`. You can [view the full game](https://lichess.org/mT1wEoMT),
-and the first solution move is `d3h3`.
+It is `Black to move` in puzzle [CiAyu](https://lichess.org/training/CiAyu), rated `1505`.
+The game is `marcus092018 (1796)` vs `ARANDRADE7 (1800)` at `10+0` time control,
+with themes `deflection, endgame, long, mateIn3`. You can [view the full game](https://lichess.org/hUAEbBxy),
+and the first solution move is `e5g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

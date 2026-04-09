@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r5%2F4k3%2Fp4p2%2F2P2Rpp%2F1P3p1P%2F2P2P2%2F5K2%2F8%20b%20-%20-%200%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F4Rp1p%2F5B2%2F2p2N2%2F7P%2Fp2p1P2%2Fr5PK%2F8%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [jOibS](https://lichess.org/training/jOibS), rated `1426`.
-The game is `VladimirKyncevo (1954)` vs `fed1r (1960)` at `10+0` time control,
-with themes `endgame, short, crushing, rookEndgame, trappedPiece`. You can [view the full game](https://lichess.org/3BC1bZPi),
-and the first solution move is `e7e6`.
+It is `White to move` in puzzle [bi1z6](https://lichess.org/training/bi1z6), rated `1423`.
+The game is `Maxomara (2364)` vs `SacSacSacSacMate (2275)` at `3+0` time control,
+with themes `long, crushing, endgame`. You can [view the full game](https://lichess.org/nfV4r3zu),
+and the first solution move is `f5h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1k2r%2Fppp2ppp%2F4p3%2F3pq3%2F1bP5%2F2N1P3%2FPP3PPP%2FR2QKB1R%20w%20KQkq%20-%200%2011&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fp4pp1%2F1pB1b2p%2F8%2F3P3P%2FP1R3P1%2F1P2QPK1%2F1q6%20b%20-%20-%202%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [isg52](https://lichess.org/training/isg52), rated `1309`.
-The game is `Hunter1507 (1767)` vs `gerelt0000 (1790)` at `10+0` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/43lO16Uu),
-and the first solution move is `d1a4`.
+It is `Black to move` in puzzle [aLqOU](https://lichess.org/training/aLqOU), rated `1322`.
+The game is `smealow (2241)` vs `Indra_jeet (2333)` at `10+0` time control,
+with themes `endgame, master, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/BhLwsKeJ),
+and the first solution move is `c8c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

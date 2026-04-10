@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2FP1Q2ppp%2F4p2n%2F4P3%2F6P1%2F3p1N1P%2F5PK1%2Fr7%20w%20-%20-%205%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=k2rr3%2Fpp5p%2F1b3R2%2F3p4%2F2n5%2F3B4%2FPB3PPP%2F3Q2K1%20b%20-%20-%206%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [bOjtr](https://lichess.org/training/bOjtr), rated `1399`.
-The game is `Emm_choxy22 (1910)` vs `wicket (1828)` at `3+2` time control,
-with themes `advancedPawn, short, promotion, backRankMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/nYAnbemv),
-and the first solution move is `c7b8`.
+It is `Black to move` in puzzle [DFCOH](https://lichess.org/training/DFCOH), rated `1381`.
+The game is `AleksandrEvgenevij (1632)` vs `rrahul007 (1606)` at `10+0` time control,
+with themes `middlegame, short, hangingPiece, advantage`. You can [view the full game](https://lichess.org/h3nhLfxM),
+and the first solution move is `c4b2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

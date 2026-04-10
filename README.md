@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7R%2F8%2F8%2F4rk2%2F7p%2F8%2F6PK%2F8%20w%20-%20-%200%2062&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2k1r%2Fpp3ppp%2F8%2F2Pqn3%2F3p4%2F6P1%2FPPP1NP1P%2FR2QKBR1%20b%20Q%20-%201%2014&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [0PzZ6](https://lichess.org/training/0PzZ6), rated `1409`.
-The game is `kameneckyivl (1922)` vs `Zeitfussel (1830)` at `10+0` time control,
-with themes `endgame, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/xKjVEpZa),
-and the first solution move is `h8h5`.
+It is `Black to move` in puzzle [7xW09](https://lichess.org/training/7xW09), rated `1500`.
+The game is `ShamanaevSS6 (1986)` vs `meowl (1987)` at `3+0` time control,
+with themes `oneMove, mateIn1`. You can [view the full game](https://lichess.org/94TDru27),
+and the first solution move is `e5f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

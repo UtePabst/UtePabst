@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpp3qp1%2F2p2p1p%2F3p4%2F6R1%2FP2P2QP%2F1Pr3r1%2F5R1K%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p2qpk1%2F4pN2%2F3pP1p1%2Fp2P3p%2F3Qn3%2FPP3RP1%2F2r3K1%20w%20-%20-%208%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [PIcxL](https://lichess.org/training/PIcxL), rated `1486`.
-The game is `mtzmaz (1638)` vs `Porto-Novo (1599)` at `2+1` time control,
-with themes `endgame, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/dcZ0awl9),
-and the first solution move is `g3b8`.
+It is `White to move` in puzzle [8SkJd](https://lichess.org/training/8SkJd), rated `1494`.
+The game is `lelgamer (2512)` vs `ZackMatt (2411)` at `3+0` time control,
+with themes `endgame, master, short, advantage, defensiveMove`. You can [view the full game](https://lichess.org/HQeJHR6U),
+and the first solution move is `g1h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

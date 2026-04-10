@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=q2b2k1%2F1b1p1pr1%2F3Np2Q%2F1P2P2p%2F4P1p1%2F1B6%2F5PPP%2F2R3K1%20b%20-%20-%205%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1k2r%2Fppp2ppp%2F4p3%2F3pq3%2F1bP5%2F2N1P3%2FPP3PPP%2FR2QKB1R%20w%20KQkq%20-%200%2011&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ptoNy](https://lichess.org/training/ptoNy), rated `1401`.
-The game is `FromCMtoGM (2300)` vs `jimmymatoma (2309)` at `3+0` time control,
-with themes `short, crushing, fork, interference, master, middlegame`. You can [view the full game](https://lichess.org/UyJ7H8FB),
-and the first solution move is `d8g5`.
+It is `White to move` in puzzle [isg52](https://lichess.org/training/isg52), rated `1309`.
+The game is `Hunter1507 (1767)` vs `gerelt0000 (1790)` at `10+0` time control,
+with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/43lO16Uu),
+and the first solution move is `d1a4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2k1r%2Fpp3ppp%2F8%2F2Pqn3%2F3p4%2F6P1%2FPPP1NP1P%2FR2QKBR1%20b%20Q%20-%201%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=q2b2k1%2F1b1p1pr1%2F3Np2Q%2F1P2P2p%2F4P1p1%2F1B6%2F5PPP%2F2R3K1%20b%20-%20-%205%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [7xW09](https://lichess.org/training/7xW09), rated `1500`.
-The game is `ShamanaevSS6 (1986)` vs `meowl (1987)` at `3+0` time control,
-with themes `oneMove, mateIn1`. You can [view the full game](https://lichess.org/94TDru27),
-and the first solution move is `e5f3`.
+It is `Black to move` in puzzle [ptoNy](https://lichess.org/training/ptoNy), rated `1401`.
+The game is `FromCMtoGM (2300)` vs `jimmymatoma (2309)` at `3+0` time control,
+with themes `short, crushing, fork, interference, master, middlegame`. You can [view the full game](https://lichess.org/UyJ7H8FB),
+and the first solution move is `d8g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

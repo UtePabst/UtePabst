@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1q5r%2Fpp3kp1%2F2p2np1%2F3P4%2F2P3n1%2F3Q2P1%2FPP2RPP1%2F4R1K1%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F6k1%2F4p2p%2Fp2pP1p1%2FPp1P2P1%2F1Pqn4%2F5P1K%2F3Q2N1%20w%20-%20-%209%2048&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [hEiXv](https://lichess.org/training/hEiXv), rated `1487`.
-The game is `Andrewneimann0 (2099)` vs `jaka_tingkir2500 (2153)` at `3+0` time control,
-with themes `veryLong, middlegame, attraction, sacrifice, kingsideAttack, mateIn4`. You can [view the full game](https://lichess.org/biRtd7By),
-and the first solution move is `h8h1`.
+It is `White to move` in puzzle [GoUXD](https://lichess.org/training/GoUXD), rated `1492`.
+The game is `R1Zze (1954)` vs `Wasim123Hamad (1967)` at `10+0` time control,
+with themes `advantage, short, endgame`. You can [view the full game](https://lichess.org/4erMP3iv),
+and the first solution move is `g1e2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

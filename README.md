@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1b4k1%2F6pp%2F2Q5%2Fp2p4%2FP2Pn1P1%2F4B3%2F4KP2%2F1q6%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2F5ppp%2FpN6%2F3p4%2FQ2P1B2%2FP2q1P2%2F5P1P%2F5RK1%20b%20-%20-%202%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [HmYGM](https://lichess.org/training/HmYGM), rated `1378`.
-The game is `ErLev (2475)` vs `Nogai (2667)` at `3+0` time control,
-with themes `endgame, master, oneMove, mateIn1`. You can [view the full game](https://lichess.org/aW85YvJ5),
-and the first solution move is `c6e8`.
+It is `Black to move` in puzzle [qSWsF](https://lichess.org/training/qSWsF), rated `1573`.
+The game is `majid39 (2010)` vs `s-h (2002)` at `8+5` time control,
+with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/jBgnWrad),
+and the first solution move is `d3g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

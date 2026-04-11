@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2FRP4p1%2F5k2%2FP6p%2F8%2F6p1%2F1r6%2F5K2%20w%20-%20-%200%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fppp2ppp%2F8%2F4q3%2F4P3%2F5Q2%2FP4RPP%2F3R2K1%20w%20-%20-%202%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [IPPMa](https://lichess.org/training/IPPMa), rated `1375`.
-The game is `Tonyukuk49 (2158)` vs `Girlvibe (2027)` at `10+0` time control,
-with themes `endgame, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/qL4JBiw2),
-and the first solution move is `a7a6`.
+It is `White to move` in puzzle [DZOfL](https://lichess.org/training/DZOfL), rated `1495`.
+The game is `Meteman67 (1607)` vs `grandwazir (1798)` at `1+1` time control,
+with themes `veryLong, middlegame, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/AGhHqVay),
+and the first solution move is `f3f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

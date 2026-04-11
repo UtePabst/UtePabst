@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F3q4%2FR1p3kp%2F8%2FBP1p4%2FP2P3p%2F1KP5%2F8%20w%20-%20-%200%2043&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fppp3bp%2F6p1%2F4P3%2F3P3Q%2F2P2q2%2FP4P1P%2FR4RK1%20b%20-%20-%202%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [I98KR](https://lichess.org/training/I98KR), rated `1392`.
-The game is `TigVar (1910)` vs `Askar_Kabdrakhmanov (1909)` at `3+0` time control,
-with themes `endgame, crushing, long, discoveredAttack`. You can [view the full game](https://lichess.org/65GzQtFq),
-and the first solution move is `a6c6`.
+It is `Black to move` in puzzle [kFCDz](https://lichess.org/training/kFCDz), rated `1560`.
+The game is `vgcatalan (1805)` vs `Anshulv896 (1815)` at `10+0` time control,
+with themes `endgame, pin, short, advantage`. You can [view the full game](https://lichess.org/lzmw4G5n),
+and the first solution move is `f8f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

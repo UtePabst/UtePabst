@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6k1%2F4p2p%2Fp2pP1p1%2FPp1P2P1%2F1Pqn4%2F5P1K%2F3Q2N1%20w%20-%20-%209%2048&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F3q4%2F1p5p%2FpPpP1ppN%2FP1Pb4%2F4r1PP%2F6K1%2F3Q1R2%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [GoUXD](https://lichess.org/training/GoUXD), rated `1492`.
-The game is `R1Zze (1954)` vs `Wasim123Hamad (1967)` at `10+0` time control,
-with themes `advantage, short, endgame`. You can [view the full game](https://lichess.org/4erMP3iv),
-and the first solution move is `g1e2`.
+It is `White to move` in puzzle [zch5x](https://lichess.org/training/zch5x), rated `1431`.
+The game is `PhantomAttack (1991)` vs `eduardomiguel (1950)` at `10+0` time control,
+with themes `exposedKing, endgame, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/c833iRBS),
+and the first solution move is `d1d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

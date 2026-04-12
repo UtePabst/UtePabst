@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fpp4pp%2F8%2F2pq1p2%2F4p3%2F1QP1P2P%2FPP3PP1%2F5RK1%20w%20-%20-%205%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5kqQ%2F1p4n1%2Fp1b5%2F4p1P1%2F2p5%2F4B2P%2FPP6%2F6K1%20w%20-%20-%202%2036&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [VUGYw](https://lichess.org/training/VUGYw), rated `1576`.
-The game is `Farmersons_s (1801)` vs `Fotis2 (1885)` at `10+5` time control,
-with themes `endgame, crushing, skewer, sacrifice, intermezzo, long`. You can [view the full game](https://lichess.org/C5ajwUyG),
-and the first solution move is `f1d1`.
+It is `White to move` in puzzle [6gz0Q](https://lichess.org/training/6gz0Q), rated `1261`.
+The game is `Pavel921410 (2071)` vs `PozetivO (2209)` at `5+0` time control,
+with themes `exposedKing, deflection, endgame, crushing, long`. You can [view the full game](https://lichess.org/YW6Mmtql),
+and the first solution move is `e3c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

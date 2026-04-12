@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5ppk%2Fp6p%2F8%2FP4B2%2F1p5P%2F2q3P1%2F1r3RQK%20b%20-%20-%205%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F2p5%2Fpr1p1R2%2F4p1p1%2F2P1P3%2F3PPKQ1%2F2q3P1%2F8%20b%20-%20-%208%2045&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [7vN6s](https://lichess.org/training/7vN6s), rated `1312`.
-The game is `TooYoung1234 (2195)` vs `Goranor (2366)` at `3+0` time control,
-with themes `endgame, advancedPawn, master, short, crushing, pin`. You can [view the full game](https://lichess.org/1foYh98Z),
-and the first solution move is `b1f1`.
+It is `Black to move` in puzzle [wpZTA](https://lichess.org/training/wpZTA), rated `1271`.
+The game is `kentonsm (1709)` vs `Andrew123421 (1709)` at `10+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/hAl8CvvU),
+and the first solution move is `c2d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

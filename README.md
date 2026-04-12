@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7r%2F1pR1p1k1%2F1q1pPr2%2Fp2P4%2F6P1%2FPP1Q1P2%2F6K1%2F2R5%20b%20-%20-%204%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5ppk%2Fp6p%2F8%2FP4B2%2F1p5P%2F2q3P1%2F1r3RQK%20b%20-%20-%205%2042&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [gYCwF](https://lichess.org/training/gYCwF), rated `1544`.
-The game is `deathnotepenalty (2165)` vs `ROBERTOLEEM (2167)` at `10+0` time control,
-with themes `endgame, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/hHwJh98Z),
-and the first solution move is `h8h2`.
+It is `Black to move` in puzzle [7vN6s](https://lichess.org/training/7vN6s), rated `1312`.
+The game is `TooYoung1234 (2195)` vs `Goranor (2366)` at `3+0` time control,
+with themes `endgame, advancedPawn, master, short, crushing, pin`. You can [view the full game](https://lichess.org/1foYh98Z),
+and the first solution move is `b1f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

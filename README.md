@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3p4%2F2pP4%2F2B1PNpk%2F1P1K1n2%2Fr5R1%2F8%20b%20-%20-%208%2052&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2k3r%2F1p1b4%2Fp1pQ4%2F4b3%2F2P5%2F1P2PRp1%2FPq4BP%2F5RK1%20w%20-%20-%202%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [CxlLk](https://lichess.org/training/CxlLk), rated `1349`.
-The game is `toad1971 (2080)` vs `syedazizi33 (2071)` at `10+0` time control,
-with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/KsTHObF4),
-and the first solution move is `f3e1`.
+It is `White to move` in puzzle [KVbVd](https://lichess.org/training/KVbVd), rated `1541`.
+The game is `JMC52 (1750)` vs `Moisei2015 (1740)` at `5+0` time control,
+with themes `mateIn2, middlegame, short, killBoxMate`. You can [view the full game](https://lichess.org/oAqYqTLN),
+and the first solution move is `f3f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

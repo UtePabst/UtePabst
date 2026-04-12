@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2FrpR3p1%2F2bP1p1p%2F8%2F5P2%2FP6P%2F1P4P1%2F6K1%20w%20-%20-%202%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7r%2F6k1%2F1P6%2F1r6%2F5R2%2F4p3%2F6P1%2F4RK2%20b%20-%20-%200%2044&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Af4sv](https://lichess.org/training/Af4sv), rated `1492`.
-The game is `Pasiiii (1891)` vs `CN222 (2080)` at `10+5` time control,
-with themes `advantage, advancedPawn, short, endgame`. You can [view the full game](https://lichess.org/FFwaK1fB),
-and the first solution move is `d6d7`.
+It is `Black to move` in puzzle [5TX81](https://lichess.org/training/5TX81), rated `1494`.
+The game is `bamZ_60 (2059)` vs `Semibratov-Ilya (2077)` at `10+5` time control,
+with themes `deflection, endgame, advantage, rookEndgame, long`. You can [view the full game](https://lichess.org/BsCtspO6),
+and the first solution move is `h8h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fpp4pp%2F2pn4%2F3bN3%2FP2P1q2%2F3B4%2F1PQ3PP%2F2R3K1%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn1qk2r%2Fpbp3pp%2F1p2pp2%2F4N3%2F3PpB2%2F2P1P3%2FP1P2PPP%2FR2Q1RK1%20w%20kq%20-%200%2011&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [osoDd](https://lichess.org/training/osoDd), rated `1368`.
-The game is `uzairshajahan (1815)` vs `UkolovSV (1768)` at `5+0` time control,
-with themes `middlegame, fork, long, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/BQINX0wV),
-and the first solution move is `d3h7`.
+It is `White to move` in puzzle [g3HVM](https://lichess.org/training/g3HVM), rated `1411`.
+The game is `IamHopeful (1909)` vs `Ernestaskarkalas (1532)` at `3+0` time control,
+with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/vpdb6hb9),
+and the first solution move is `d1h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

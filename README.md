@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fp5p1%2Fbp4Qp%2F2qpR3%2F4P3%2F2P5%2FPPP3PP%2F6RK%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fkp2r3%2Fp7%2FP2R3P%2F1P2pK2%2F3p4%2F7P%2F8%20b%20-%20-%201%2044&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [my1QS](https://lichess.org/training/my1QS), rated `1335`.
-The game is `Sorrow_cz (2125)` vs `Bronstein77 (2488)` at `3+2` time control,
-with themes `short, operaMate, attraction, sacrifice, kingsideAttack, endgame, mateIn2`. You can [view the full game](https://lichess.org/Yuz6cCUz),
-and the first solution move is `c5g1`.
+It is `Black to move` in puzzle [6fDjY](https://lichess.org/training/6fDjY), rated `1407`.
+The game is `kambiz1354 (1937)` vs `RealGhxst (1941)` at `10+5` time control,
+with themes `endgame, advancedPawn, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/ITNi0TMv),
+and the first solution move is `e4e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

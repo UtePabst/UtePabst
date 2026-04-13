@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2krr3%2F5pp1%2Fp1pp2bp%2F8%2F3K4%2F2P2N1P%2FPP3PP1%2FR1B4R%20b%20-%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2F2p1rR1p%2F6pB%2F1p6%2Fr1nPp3%2FP5PK%2F7P%2F8%20w%20-%20-%200%2036&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [6BAjk](https://lichess.org/training/6BAjk), rated `1587`.
-The game is `GodieACT-2 (1637)` vs `IlGu13 (1639)` at `3+2` time control,
-with themes `middlegame, discoveredCheck, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/poRtfq4r),
-and the first solution move is `e8e4`.
+It is `White to move` in puzzle [85g8e](https://lichess.org/training/85g8e), rated `1500`.
+The game is `Na_Ferrari (2441)` vs `Master1465 (2381)` at `3+2` time control,
+with themes `endgame, master, oneMove, mateIn1`. You can [view the full game](https://lichess.org/b9Ltbgrb),
+and the first solution move is `f7f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

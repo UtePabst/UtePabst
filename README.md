@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn1qk2r%2Fpbp3pp%2F1p2pp2%2F4N3%2F3PpB2%2F2P1P3%2FP1P2PPP%2FR2Q1RK1%20w%20kq%20-%200%2011&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1kb1r%2Fpp3ppp%2F2pp1n2%2F4q3%2F2B1PP2%2F2N5%2FPPP3PP%2FR1BQ1RK1%20b%20kq%20-%200%209&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [g3HVM](https://lichess.org/training/g3HVM), rated `1411`.
-The game is `IamHopeful (1909)` vs `Ernestaskarkalas (1532)` at `3+0` time control,
-with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/vpdb6hb9),
-and the first solution move is `d1h5`.
+It is `Black to move` in puzzle [h8DEQ](https://lichess.org/training/h8DEQ), rated `1320`.
+The game is `Tychofan (1771)` vs `captainkhan1 (1795)` at `15+15` time control,
+with themes `short, advantage, fork, opening`. You can [view the full game](https://lichess.org/Wpj52Q0z),
+and the first solution move is `e5c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

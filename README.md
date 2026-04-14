@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fppp2p2%2F4b2p%2F3p2pB%2F8%2FP4NPP%2F1Pq1r1PK%2FR4Q2%20w%20-%20-%204%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b3k1%2F5pp1%2F2pb2q1%2F1p1p2BQ%2F1P1P4%2FP2N3P%2F5P2%2F4RK2%20w%20-%20-%201%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [A2o5E](https://lichess.org/training/A2o5E), rated `1461`.
-The game is `micado1993 (2028)` vs `narkoman (1984)` at `3+2` time control,
-with themes `middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/keU4jn5v),
-and the first solution move is `f3d4`.
+It is `White to move` in puzzle [6Uk9A](https://lichess.org/training/6Uk9A), rated `1556`.
+The game is `Zhotas (1580)` vs `CBGHK24 (1607)` at `5+3` time control,
+with themes `middlegame, attraction, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/8syoHFFW),
+and the first solution move is `e1e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

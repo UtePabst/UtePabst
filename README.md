@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=b3R3%2F7k%2F6pp%2F8%2F2p5%2F1p5P%2F1Q4P1%2F3q2K1%20w%20-%20-%202%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6rk%2FpR6%2F3pN3%2F3P1B1q%2F1PP1P3%2F8%2FP4P2%2F5K2%20b%20-%20-%202%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [aWqUJ](https://lichess.org/training/aWqUJ), rated `1584`.
-The game is `nuramin01 (1814)` vs `Sualky (1836)` at `10+0` time control,
-with themes `defensiveMove, crushing, short, endgame`. You can [view the full game](https://lichess.org/MbtDS4SU),
-and the first solution move is `g1h2`.
+It is `Black to move` in puzzle [etQLZ](https://lichess.org/training/etQLZ), rated `1357`.
+The game is `KaeR26 (2228)` vs `Olenahess (2214)` at `3+0` time control,
+with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/i79LOvIn),
+and the first solution move is `h5d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

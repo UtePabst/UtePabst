@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp3r1pp%2F1p3p2%2Fn2R4%2FQ5R1%2F2q2N2%2FP5PP%2F7K%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1nr3k1%2F2q2p1p%2F1Qp1p1p1%2Fp7%2F8%2F1B5P%2FP4PP1%2F3R2K1%20w%20-%20-%204%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [fiHgc](https://lichess.org/training/fiHgc), rated `1490`.
-The game is `Meci23 (1611)` vs `Fmknj (1917)` at `10+0` time control,
-with themes `middlegame, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/5ksSqesl),
-and the first solution move is `e7e1`.
+It is `White to move` in puzzle [zOvYw](https://lichess.org/training/zOvYw), rated `1427`.
+The game is `deva1980 (1782)` vs `kany11 (1933)` at `5+1` time control,
+with themes `fork, advantage, long, endgame`. You can [view the full game](https://lichess.org/6YH0EYeH),
+and the first solution move is `b6c7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

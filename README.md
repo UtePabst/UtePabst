@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1nr3k1%2F2q2p1p%2F1Qp1p1p1%2Fp7%2F8%2F1B5P%2FP4PP1%2F3R2K1%20w%20-%20-%204%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2r2k1%2F5p1p%2FpR2nbp1%2F1p1q4%2F3P4%2F2P2P1P%2FPP1N2PB%2FR2Q2K1%20b%20-%20-%208%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [zOvYw](https://lichess.org/training/zOvYw), rated `1427`.
-The game is `deva1980 (1782)` vs `kany11 (1933)` at `5+1` time control,
-with themes `fork, advantage, long, endgame`. You can [view the full game](https://lichess.org/6YH0EYeH),
-and the first solution move is `b6c7`.
+It is `Black to move` in puzzle [zjuci](https://lichess.org/training/zjuci), rated `1402`.
+The game is `danyz11 (1773)` vs `Niti12holariya (1795)` at `15+10` time control,
+with themes `middlegame, short, advantage, kingsideAttack`. You can [view the full game](https://lichess.org/RT8idyrz),
+and the first solution move is `f6d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3R4%2F2p2Bpk%2F8%2F4bPp1%2F6P1%2F7P%2Fpr6%2F7K%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2q1r1k1%2F1R1QPpp1%2F7p%2F1p6%2Fp7%2F7P%2F5PP1%2F6K1%20w%20-%20-%202%2043&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [GQKxi](https://lichess.org/training/GQKxi), rated `1382`.
-The game is `Yory21 (1595)` vs `ivan62 (1766)` at `5+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/EwNpbAxa),
-and the first solution move is `f7g6`.
+It is `White to move` in puzzle [BVOMd](https://lichess.org/training/BVOMd), rated `1554`.
+The game is `kchurch4 (2029)` vs `hassotasso (1777)` at `9+3` time control,
+with themes `veryLong, clearance, endgame, crushing, quietMove`. You can [view the full game](https://lichess.org/iABAaJsr),
+and the first solution move is `d7c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

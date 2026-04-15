@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp2R4%2F2B5%2FN3kp2%2F5b2%2FP1n1p3%2F1r3P2%2F5K2%20w%20-%20-%200%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p1Q%2F3k3p%2F8%2F2r5%2F7P%2F1P3r2%2F1K6%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [UM4Ei](https://lichess.org/training/UM4Ei), rated `1496`.
-The game is `CAMPOE (2205)` vs `Jormantorres (2207)` at `3+2` time control,
-with themes `endgame, master, short, advantage, fork`. You can [view the full game](https://lichess.org/1IUjeVEz),
-and the first solution move is `a5c4`.
+It is `White to move` in puzzle [IP6un](https://lichess.org/training/IP6un), rated `1341`.
+The game is `vonaviza (1636)` vs `ColdSynthesis (1625)` at `10+0` time control,
+with themes `exposedKing, endgame, crushing, fork, long, queenRookEndgame`. You can [view the full game](https://lichess.org/pgOACwpk),
+and the first solution move is `h7d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

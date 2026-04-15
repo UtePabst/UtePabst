@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F5P2%2F1r1NK3%2F1P4pp%2F7P%2F8%2F8%2F8%20w%20-%20-%200%2056&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3k4%2F1bp5%2Fpp6%2F3BR2p%2F7P%2FP1P3r1%2F1P6%2F3K4%20b%20-%20-%202%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [GMZGO](https://lichess.org/training/GMZGO), rated `1463`.
-The game is `Lunian (2148)` vs `souhaibmatoui (2151)` at `3+0` time control,
-with themes `exposedKing, endgame, advancedPawn, crushing, promotion, deflection, veryLong`. You can [view the full game](https://lichess.org/Ae3nCUya),
-and the first solution move is `h4g5`.
+It is `Black to move` in puzzle [sckpF](https://lichess.org/training/sckpF), rated `1335`.
+The game is `ikica77 (2707)` vs `ZhohoFF (2582)` at `3+0` time control,
+with themes `endgame, master, short, advantage`. You can [view the full game](https://lichess.org/ocJYo0zN),
+and the first solution move is `g3d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

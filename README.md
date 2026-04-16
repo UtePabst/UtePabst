@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1rbqrbk1%2Fppp2ppp%2F2np1n2%2F4p3%2F2PP4%2F1QN1P1P1%2FPP2NPBP%2FR1B2RK1%20w%20-%20-%202%2010&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r6k%2FppR3pp%2F6p1%2F2Q3B1%2F8%2F1PPq1P1b%2FP4P1P%2FR5K1%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [KU84V](https://lichess.org/training/KU84V), rated `1426`.
-The game is `G10VANN1 (1952)` vs `Joaozinho (1978)` at `10+0` time control,
-with themes `crushing, capturingDefender, short, opening`. You can [view the full game](https://lichess.org/DdTuae28),
-and the first solution move is `g2c6`.
+It is `Black to move` in puzzle [0h7jg](https://lichess.org/training/0h7jg), rated `1410`.
+The game is `REAKTOR13 (1650)` vs `aibolat74 (1657)` at `3+2` time control,
+with themes `crushing, long, middlegame`. You can [view the full game](https://lichess.org/xNNSIvI1),
+and the first solution move is `d3f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

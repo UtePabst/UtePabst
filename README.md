@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=b1r2k2%2F5p2%2F8%2FpB2pN1p%2F3nP3%2F1PP3Pq%2FP2Q1P1N%2F6K1%20b%20-%20-%202%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fp6p%2F2p2q2%2Fn1bn4%2F3N1p2%2F2PP2P1%2FPP3PP1%2FRNBQRBK1%20b%20-%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [8lmmN](https://lichess.org/training/8lmmN), rated `1587`.
-The game is `Tayna_v_Murome (2013)` vs `MarcoColumbro (2062)` at `3+2` time control,
-with themes `middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/KWLMAP9S),
-and the first solution move is `h3h2`.
+It is `Black to move` in puzzle [jE4ZD](https://lichess.org/training/jE4ZD), rated `1451`.
+The game is `tapkus (2628)` vs `orlando70 (2459)` at `3+2` time control,
+with themes `clearance, short, advantage, kingsideAttack, master, middlegame`. You can [view the full game](https://lichess.org/aOpcz2g4),
+and the first solution move is `f4g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

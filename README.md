@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6k%2FppR3pp%2F6p1%2F2Q3B1%2F8%2F1PPq1P1b%2FP4P1P%2FR5K1%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4Q3%2Fp2p2pk%2F8%2F2p5%2F1pr5%2F4K3%2F8%20w%20-%20-%202%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [0h7jg](https://lichess.org/training/0h7jg), rated `1410`.
-The game is `REAKTOR13 (1650)` vs `aibolat74 (1657)` at `3+2` time control,
-with themes `crushing, long, middlegame`. You can [view the full game](https://lichess.org/xNNSIvI1),
-and the first solution move is `d3f3`.
+It is `White to move` in puzzle [nic6u](https://lichess.org/training/nic6u), rated `1355`.
+The game is `Checkx (2274)` vs `WillemW (2130)` at `2+1` time control,
+with themes `endgame, master, crushing, fork, long, queenRookEndgame`. You can [view the full game](https://lichess.org/T8isjWea),
+and the first solution move is `e7h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bqkbnr%2Fp2p3p%2F1pn2pp1%2F4p3%2F4P3%2F1PN1Q3%2FPBP2PPP%2F2KR1BNR%20b%20kq%20-%201%208&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp1p5%2F1pbpP2p%2Fn5pQ%2F2P5%2F3B3P%2FPq4P1%2F6K1%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [vtOKG](https://lichess.org/training/vtOKG), rated `1616`.
-The game is `MiklyxaMaklai (2031)` vs `fadi5444 (2002)` at `10+0` time control,
-with themes `pin, advantage, long, opening`. You can [view the full game](https://lichess.org/1CzQ4plr),
-and the first solution move is `f8h6`.
+It is `White to move` in puzzle [n4hiX](https://lichess.org/training/n4hiX), rated `1443`.
+The game is `Mony2015 (2079)` vs `Ziadbar (2041)` at `10+5` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/nybtJDcQ),
+and the first solution move is `h5f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1nB2K1k%2F4p3%2F3p4%2F2p1r3%2F8%2F6R1%20w%20-%20-%200%2060&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fq4p1p%2F2p1p1pP%2F2NpQ3%2F3P4%2F1PK2P2%2Fr5P1%2F4R3%20b%20-%20-%205%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [0Vazt](https://lichess.org/training/0Vazt), rated `1296`.
-The game is `Bungarov (1967)` vs `huddle (1920)` at `10+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/xgrDcxz8),
-and the first solution move is `g1h1`.
+It is `Black to move` in puzzle [ofprU](https://lichess.org/training/ofprU), rated `1490`.
+The game is `ag_ivanov (1803)` vs `Raznicki (1799)` at `3+0` time control,
+with themes `endgame, mateIn4, deflection, veryLong`. You can [view the full game](https://lichess.org/q84m17VA),
+and the first solution move is `a7a5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

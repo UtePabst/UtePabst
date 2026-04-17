@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp1p5%2F1pbpP2p%2Fn5pQ%2F2P5%2F3B3P%2FPq4P1%2F6K1%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2Fppp2ppp%2F2np4%2F1B2pb2%2F4q3%2F2P1PN1P%2FPP1K2P1%2FRN1QR3%20b%20-%20-%207%2012&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [n4hiX](https://lichess.org/training/n4hiX), rated `1443`.
-The game is `Mony2015 (2079)` vs `Ziadbar (2041)` at `10+5` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/nybtJDcQ),
-and the first solution move is `h5f7`.
+It is `Black to move` in puzzle [RCLMB](https://lichess.org/training/RCLMB), rated `1487`.
+The game is `Hozaifa100 (1917)` vs `Ahmedabdelmoaty (1736)` at `15+15` time control,
+with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/DjN1Jx8w),
+and the first solution move is `e4d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

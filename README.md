@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=b2rr1k1%2Fp5pp%2F1p3q2%2F3P4%2F2PQ4%2FP5N1%2F5PPP%2F2RR2K1%20b%20-%20-%201%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqr3%2Fp1pn1Npk%2F1p1p4%2F4p2n%2F2PPP3%2F2PBBPQ1%2FP5PP%2FR4RK1%20b%20-%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [vGP0Z](https://lichess.org/training/vGP0Z), rated `1287`.
-The game is `JQAProject (1846)` vs `Abs53 (1929)` at `30+0` time control,
-with themes `deflection, middlegame, short, advantage`. You can [view the full game](https://lichess.org/YwzdVmnz),
-and the first solution move is `e8e1`.
+It is `Black to move` in puzzle [htO45](https://lichess.org/training/htO45), rated `1286`.
+The game is `SBR_kuda-hitam (2111)` vs `Conqueror201804 (2098)` at `10+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/NegggQAP),
+and the first solution move is `h5g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

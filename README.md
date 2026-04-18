@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F1p5p%2F7p%2F1K4P1%2F3r4%2F3n4%2F1P2PP1P%2F3R2R1%20b%20-%20-%201%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r2k%2F4Pp1p%2F3pb1pQ%2Fp6P%2F2PqP3%2F3P4%2F6P1%2F5R1K%20w%20-%20-%201%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [DKqZv](https://lichess.org/training/DKqZv), rated `1468`.
-The game is `nguerra1185 (1649)` vs `smerdeff (1643)` at `3+2` time control,
-with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/HTjl5bwq),
-and the first solution move is `d4b4`.
+It is `White to move` in puzzle [ccaVW](https://lichess.org/training/ccaVW), rated `1305`.
+The game is `dimimar_extra (1994)` vs `jhoancent1 (1914)` at `3+0` time control,
+with themes `advancedPawn, short, promotion, endgame, mateIn2`. You can [view the full game](https://lichess.org/SKuUctI6),
+and the first solution move is `h6f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

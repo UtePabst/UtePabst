@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rk2%2Fpp3pp1%2F2p5%2F5B2%2F2P2Pn1%2F1P3R2%2FPqQ3K1%2F5N2%20b%20-%20-%204%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r6k%2Fp1p5%2F1p1p4%2F3n4%2F8%2F1Q4R1%2FPK6%2F4qqR1%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [xq2dF](https://lichess.org/training/xq2dF), rated `1357`.
-The game is `Zavalnyy (2367)` vs `controlzxcv (2033)` at `10+0` time control,
-with themes `middlegame, short, crushing, xRayAttack, fork`. You can [view the full game](https://lichess.org/pa1jc2WF),
-and the first solution move is `e8e2`.
+It is `White to move` in puzzle [l5E0E](https://lichess.org/training/l5E0E), rated `1396`.
+The game is `XaMeJIeoH (2246)` vs `FunkyHamster (1950)` at `5+0` time control,
+with themes `exposedKing, middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/7yAVFlHg),
+and the first solution move is `g3h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

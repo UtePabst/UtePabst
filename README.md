@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7R%2Fp2k1ppp%2F4p3%2F3p4%2F8%2F3KR1P1%2Fr2n1P1P%2F8%20w%20-%20-%200%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4k3%2Fp4p2%2F1qp1p3%2F4P2P%2F3r1P2%2FP1p2Q1R%2F2r5%2FR1B2K2%20b%20-%20-%201%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [MbUVg](https://lichess.org/training/MbUVg), rated `1376`.
-The game is `Who_is_who_Berserk (2139)` vs `VladimirSakun (2763)` at `3+0` time control,
-with themes `advantage, short, master, endgame`. You can [view the full game](https://lichess.org/VxmZsH1G),
-and the first solution move is `e3e2`.
+It is `Black to move` in puzzle [IouX4](https://lichess.org/training/IouX4), rated `1358`.
+The game is `fridegol (2225)` vs `nmbm1 (2174)` at `3+1` time control,
+with themes `clearance, mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/xBAKFAi1),
+and the first solution move is `d4d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

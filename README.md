@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp1p3pp%2F1p1p1n2%2F3PpP1r%2FQ1P1P1q1%2F6P1%2FPP2RR1P%2F2B3K1%20b%20-%20-%2020%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F6pk%2FP5pp%2F4p3%2F4P3%2F4QnPP%2F5r2%2F7K%20b%20-%20-%200%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [OmKXR](https://lichess.org/training/OmKXR), rated `1329`.
-The game is `RMSIDUKKI123 (2026)` vs `benmacmoonface (2066)` at `10+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/COrPGWHc),
-and the first solution move is `f6e4`.
+It is `Black to move` in puzzle [6wLCc](https://lichess.org/training/6wLCc), rated `1309`.
+The game is `Gallego_12 (2549)` vs `ayrtonsenna76 (2725)` at `3+0` time control,
+with themes `arabianMate, endgame, oneMove, mateIn1`. You can [view the full game](https://lichess.org/g6FnbYaZ),
+and the first solution move is `f2h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

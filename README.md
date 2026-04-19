@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F1p2n1bN%2Fp6p%2F6p1%2F2q5%2F6P1%2FP1B3PP%2F4RR1K%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6rk%2F1p3p2%2Fp4pr1%2F2p5%2F6Pp%2F2Q1R2q%2FP4P1N%2F4R1K1%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [MWT39](https://lichess.org/training/MWT39), rated `1500`.
-The game is `JosePadeiro (2359)` vs `KEFactorK (2340)` at `3+0` time control,
-with themes `short, advantage, pin, master, middlegame`. You can [view the full game](https://lichess.org/nDTOqrBO),
-and the first solution move is `c2b3`.
+It is `Black to move` in puzzle [MP0H8](https://lichess.org/training/MP0H8), rated `1498`.
+The game is `stedak (2001)` vs `sjberman (1951)` at `10+0` time control,
+with themes `middlegame, long, crushing`. You can [view the full game](https://lichess.org/sCTozuIq),
+and the first solution move is `g6g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

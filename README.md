@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7Q%2Fp7%2F1p6%2F3p4%2F1P2b1p1%2FP5k1%2F5qB1%2F7K%20w%20-%20-%202%2057&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p1k%2F4p2P%2F1Q1pP3%2F5q1P%2F1KPN4%2F1P3n2%2Fr4R2%20b%20-%20-%201%2042&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Jutzh](https://lichess.org/training/Jutzh), rated `1466`.
-The game is `iakov98 (2674)` vs `Jaguar_92 (2702)` at `3+2` time control,
-with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/MqYFgy81),
-and the first solution move is `h8h2`.
+It is `Black to move` in puzzle [sB39G](https://lichess.org/training/sB39G), rated `1607`.
+The game is `jagadish143 (1822)` vs `shartypants (1795)` at `10+0` time control,
+with themes `long, advantage, endgame`. You can [view the full game](https://lichess.org/CwEpYxU9),
+and the first solution move is `f4c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

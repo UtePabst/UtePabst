@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1k3%2F2qpnp1p%2Fp1n1P3%2F1p6%2F1b4r1%2F1NNB4%2FPPP3PP%2FR1B2RK1%20w%20q%20-%200%2014&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r7%2F1b1n2pk%2Fp1p1p1Np%2F1p6%2F2Pq4%2F1P6%2FP1Q3PP%2F5R1K%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [CgT0d](https://lichess.org/training/CgT0d), rated `1326`.
-The game is `Grezels2022 (1998)` vs `RayaYoga (2000)` at `3+0` time control,
-with themes `veryLong, advancedPawn, middlegame, attraction, promotion, mateIn4, attackingF2F7`. You can [view the full game](https://lichess.org/waL1yECm),
-and the first solution move is `e6f7`.
+It is `White to move` in puzzle [H93zX](https://lichess.org/training/H93zX), rated `1385`.
+The game is `micfed (2401)` vs `Adim_Ayub (2342)` at `3+0` time control,
+with themes `mateIn2, short, discoveredCheck, doubleCheck, master, middlegame`. You can [view the full game](https://lichess.org/GHvxQIXr),
+and the first solution move is `g6f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

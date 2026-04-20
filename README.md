@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1pp2ppp%2Fp1Nbp3%2F4n3%2F7q%2FPQP1P3%2F3PBPPP%2FR1B2RK1%20b%20-%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4k1r%2Fpp2q3%2F4pnB1%2F3p2Q1%2F3N2n1%2F2P5%2FPP4PP%2F4R2K%20w%20-%20-%204%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [hFcLk](https://lichess.org/training/hFcLk), rated `1434`.
-The game is `suritno (1783)` vs `MiguelEnmanuel (1823)` at `10+0` time control,
-with themes `mateIn2, middlegame, short, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/t7NeLmaT),
-and the first solution move is `e5f3`.
+It is `White to move` in puzzle [lmUaA](https://lichess.org/training/lmUaA), rated `1467`.
+The game is `romanar2006 (2242)` vs `sulaimanashrafi (2167)` at `3+2` time control,
+with themes `short, crushing, master, middlegame`. You can [view the full game](https://lichess.org/FJdHMhIJ),
+and the first solution move is `d4e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

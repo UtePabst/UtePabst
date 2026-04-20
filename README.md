@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F2q3p1%2F4p1P1%2F3p4%2FppN2nQ1%2F3P4%2FPP1N1P2%2Fn4K1R%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fppp3pp%2F2n2n2%2F1B1q1Q2%2F4p3%2F1P2P1bP%2FPBPPK1P1%2FR6R%20w%20-%20-%200%2014&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Oksrt](https://lichess.org/training/Oksrt), rated `1603`.
-The game is `JCValois (1730)` vs `AcoBetalow (1735)` at `3+0` time control,
-with themes `veryLong, middlegame, attraction, sacrifice, kingsideAttack, mateIn4`. You can [view the full game](https://lichess.org/5IfDpBda),
-and the first solution move is `h1h8`.
+It is `White to move` in puzzle [ej5aS](https://lichess.org/training/ej5aS), rated `1433`.
+The game is `gliscorx (2080)` vs `Nrufide (2042)` at `5+0` time control,
+with themes `short, advantage, pin, master, middlegame`. You can [view the full game](https://lichess.org/yhcPmZyO),
+and the first solution move is `b5c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

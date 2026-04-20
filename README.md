@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2b1r%2Fp3nppp%2F4b3%2F2p1P2k%2F1P2R3%2F3B2B1%2FP4PPP%2F2KR4%20w%20-%20-%200%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k1r2r1%2Fpp1bq3%2F4p3%2F2N1nnNQ%2F3p3P%2F3P2P1%2FPP4B1%2F2R2RK1%20b%20-%20-%203%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vb0ZT](https://lichess.org/training/vb0ZT), rated `1377`.
-The game is `RRR_888 (1661)` vs `diasdechess (1606)` at `10+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/QseMYLkq),
-and the first solution move is `e4h4`.
+It is `Black to move` in puzzle [rdKRE](https://lichess.org/training/rdKRE), rated `1434`.
+The game is `sahragard (2118)` vs `nagareboshi (2013)` at `5+10` time control,
+with themes `middlegame, fork, advantage, short`. You can [view the full game](https://lichess.org/sp2x5tpn),
+and the first solution move is `f5g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

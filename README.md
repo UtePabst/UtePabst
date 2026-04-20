@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rr1k1%2Fpp3p2%2F2p1b1pp%2F4P3%2F2B1Q3%2F2P1N1qP%2FPP1R2P1%2F3R3K%20b%20-%20-%201%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1pp2ppp%2Fp1Nbp3%2F4n3%2F7q%2FPQP1P3%2F3PBPPP%2FR1B2RK1%20b%20-%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [SfNDT](https://lichess.org/training/SfNDT), rated `1502`.
-The game is `setmax (1671)` vs `JULIOAV11 (2094)` at `3+0` time control,
-with themes `middlegame, crushing, attraction, fork, long`. You can [view the full game](https://lichess.org/ZAtidPRH),
-and the first solution move is `d8d2`.
+It is `Black to move` in puzzle [hFcLk](https://lichess.org/training/hFcLk), rated `1434`.
+The game is `suritno (1783)` vs `MiguelEnmanuel (1823)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/t7NeLmaT),
+and the first solution move is `e5f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

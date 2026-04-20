@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1kr4r%2Fp5qp%2F1p2Nbpn%2F2Pp4%2F2n2PP1%2F1N5P%2FPPQ2B2%2F2KRR3%20b%20-%20-%203%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp4pp1%2F4q2p%2F4P3%2Fr4P2%2F3R2P1%2F4QK1P%2F8%20w%20-%20-%202%2042&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [qYJZW](https://lichess.org/training/qYJZW), rated `1336`.
-The game is `Rene03sp (1629)` vs `cumbajumba (1650)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, queensideAttack`. You can [view the full game](https://lichess.org/SXe1y416),
-and the first solution move is `f6b2`.
+It is `White to move` in puzzle [dXICK](https://lichess.org/training/dXICK), rated `1566`.
+The game is `akbedyk (1929)` vs `PleaseJenkins (1836)` at `3+2` time control,
+with themes `endgame, crushing, fork, long`. You can [view the full game](https://lichess.org/NbiezAKn),
+and the first solution move is `d3d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

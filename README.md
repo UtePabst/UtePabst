@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F6pp%2FppNq1p2%2F3Pr2n%2FP5b1%2F1B6%2F1PPQ2PP%2F4R1K1%20b%20-%20-%203%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qkb2%2Fppp2pp1%2F2np1n2%2F1B2p1Br%2F3PP3%2F5QPp%2FPPP2P1P%2FRN3RK1%20b%20q%20-%200%2011&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [IjWal](https://lichess.org/training/IjWal), rated `1388`.
-The game is `VGZChess (2338)` vs `berval (2472)` at `3+0` time control,
-with themes `advantage, long, kingsideAttack, master, middlegame`. You can [view the full game](https://lichess.org/e0bVVrh6),
-and the first solution move is `d6c5`.
+It is `Black to move` in puzzle [hNCir](https://lichess.org/training/hNCir), rated `1534`.
+The game is `Daniel_Elvira (1762)` vs `Ooohweee (1786)` at `10+0` time control,
+with themes `middlegame, hangingPiece, advantage, long`. You can [view the full game](https://lichess.org/zF8yJINh),
+and the first solution move is `h5g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F1p2bpp1%2Fp2p3p%2F7b%2F4P3%2F2NB1Q2%2FPPP2RPq%2F2KR4%20w%20kq%20-%204%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp1Q1Rp1p%2F5pb1%2F3B4%2F3P1q2%2F2P2P2%2FPrP4P%2F4R1K1%20b%20-%20-%206%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [RStgw](https://lichess.org/training/RStgw), rated `1527`.
-The game is `pgcbies49 (2009)` vs `Phyrsos (1903)` at `5+0` time control,
-with themes `middlegame, advantage, short`. You can [view the full game](https://lichess.org/3XgAFPhH),
-and the first solution move is `g2g4`.
+It is `Black to move` in puzzle [kQHBs](https://lichess.org/training/kQHBs), rated `1509`.
+The game is `Tsukasa1 (2433)` vs `BasilSmash (2532)` at `3+0` time control,
+with themes `short, masterVsMaster, crushing, fork, master, middlegame`. You can [view the full game](https://lichess.org/1LqavbPD),
+and the first solution move is `f4g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

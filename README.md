@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5ppp%2F2N1p3%2F3pP3%2F2b4P%2Fp1R3P1%2FPr3P2%2FK7%20w%20-%20-%201%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2F1p4pp%2Fp2q4%2F3p1p2%2F2B1n3%2FP3PN1P%2F1P3PP1%2F1R1QK2R%20b%20K%20-%201%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [YiYyN](https://lichess.org/training/YiYyN), rated `1558`.
-The game is `Viravato (2079)` vs `claudio57 (2215)` at `10+3` time control,
-with themes `endgame, long, advantage`. You can [view the full game](https://lichess.org/zQIyP2WP),
-and the first solution move is `c3a3`.
+It is `Black to move` in puzzle [Y8zIg](https://lichess.org/training/Y8zIg), rated `1341`.
+The game is `guajerro (1864)` vs `carterchete (1870)` at `10+0` time control,
+with themes `crushing, hangingPiece, short, middlegame`. You can [view the full game](https://lichess.org/gbn4V4DH),
+and the first solution move is `d5c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F3b4%2F8%2F4K3%2F1P3P1k%2F8%2F8%2F8%20w%20-%20-%200%2065&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fpp3pp1%2F2b4p%2F6q1%2F2P5%2F5P2%2FP1P1Q1PP%2F1R3R1K%20b%20-%20-%203%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ZGTwY](https://lichess.org/training/ZGTwY), rated `1303`.
-The game is `andruty (1834)` vs `lovechesscn (1834)` at `10+5` time control,
-with themes `endgame, short, crushing, quietMove, bishopEndgame`. You can [view the full game](https://lichess.org/Idbeu7Pi),
-and the first solution move is `f4f5`.
+It is `Black to move` in puzzle [Pmt5z](https://lichess.org/training/Pmt5z), rated `1456`.
+The game is `ForeverStudent111 (2037)` vs `Angelphone (1946)` at `10+0` time control,
+with themes `short, advantage, endgame`. You can [view the full game](https://lichess.org/zjAmDPqO),
+and the first solution move is `d8d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

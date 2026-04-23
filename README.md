@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fpp3pp1%2F2b4p%2F6q1%2F2P5%2F5P2%2FP1P1Q1PP%2F1R3R1K%20b%20-%20-%203%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr1b1r%2F1ppq2pp%2Fp1n1Q3%2F3B1p2%2F3P4%2F2P5%2FPP3PPP%2FRNB1K2R%20b%20KQ%20-%200%2012&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Pmt5z](https://lichess.org/training/Pmt5z), rated `1456`.
-The game is `ForeverStudent111 (2037)` vs `Angelphone (1946)` at `10+0` time control,
-with themes `short, advantage, endgame`. You can [view the full game](https://lichess.org/zjAmDPqO),
-and the first solution move is `d8d2`.
+It is `Black to move` in puzzle [sFgnW](https://lichess.org/training/sFgnW), rated `1484`.
+The game is `MaeseLopez (2105)` vs `Byf (2273)` at `3+0` time control,
+with themes `short, advantage, pin, opening`. You can [view the full game](https://lichess.org/xZ7VDz3I),
+and the first solution move is `d8e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

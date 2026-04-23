@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3k1K2%2F4pp2%2F5P2%2F5P2%2F8%2F8%20b%20-%20-%201%2061&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2F2R2KR1%2Fr7%2F8%2F6P1%2F8%2F8%2F7r%20b%20-%20-%2020%2046&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [oFIBn](https://lichess.org/training/oFIBn), rated `1567`.
-The game is `nikunj1222 (1625)` vs `mj7676 (1586)` at `10+0` time control,
-with themes `veryLong, endgame, advancedPawn, crushing, pawnEndgame`. You can [view the full game](https://lichess.org/zlc9gVxQ),
-and the first solution move is `e5e4`.
+It is `Black to move` in puzzle [yIUxQ](https://lichess.org/training/yIUxQ), rated `1582`.
+The game is `wondergirl_2011 (2195)` vs `Anoopcr7 (2106)` at `10+0` time control,
+with themes `endgame, crushing, rookEndgame, long, interference`. You can [view the full game](https://lichess.org/ORT7ej7Q),
+and the first solution move is `h1f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

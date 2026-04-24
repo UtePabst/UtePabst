@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=R7%2F1p5k%2F2p3p1%2F3brPR1%2F3pB3%2F3P4%2F5r2%2F7K%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F6pp%2F2n1P3%2F3N4%2F2P3P1%2FPP6%2FKB2rq1P%2F1R3R2%20b%20-%20-%206%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [VYxQJ](https://lichess.org/training/VYxQJ), rated `1398`.
-The game is `agez (2170)` vs `kalantaryan (2558)` at `3+0` time control,
-with themes `endgame, master, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/Yc2lngNm),
-and the first solution move is `f5g6`.
+It is `Black to move` in puzzle [nwLTV](https://lichess.org/training/nwLTV), rated `1387`.
+The game is `sankio (2149)` vs `TheGreatestloser (2168)` at `10+0` time control,
+with themes `deflection, middlegame, short, advantage`. You can [view the full game](https://lichess.org/P9BHHwkJ),
+and the first solution move is `e2b2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

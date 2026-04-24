@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F2R2KR1%2Fr7%2F8%2F6P1%2F8%2F8%2F7r%20b%20-%20-%2020%2046&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=R6Q%2F1q3p1p%2F3p2pk%2F3r2P1%2F1pp2P2%2F8%2F1P5P%2F4R2K%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [yIUxQ](https://lichess.org/training/yIUxQ), rated `1582`.
-The game is `wondergirl_2011 (2195)` vs `Anoopcr7 (2106)` at `10+0` time control,
-with themes `endgame, crushing, rookEndgame, long, interference`. You can [view the full game](https://lichess.org/ORT7ej7Q),
-and the first solution move is `h1f1`.
+It is `Black to move` in puzzle [oJmNf](https://lichess.org/training/oJmNf), rated `1476`.
+The game is `iplaythemarshall (2031)` vs `killerchristian (2210)` at `3+2` time control,
+with themes `short, discoveredCheck, discoveredAttack, endgame, mateIn2`. You can [view the full game](https://lichess.org/R73xMHLq),
+and the first solution move is `d5g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp1p3pp%2F8%2F4br2%2F8%2FN1P4P%2FPP3PK1%2F3R1R2%20b%20-%20-%205%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fpp1b1p1p%2F2pN1qp1%2F4n3%2F2BQP3%2F8%2FPPP2PPP%2FR4RK1%20b%20-%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [hhQvX](https://lichess.org/training/hhQvX), rated `1416`.
-The game is `Nikhil_Sharma (1581)` vs `Stanki (1597)` at `10+0` time control,
-with themes `veryLong, clearance, endgame, crushing`. You can [view the full game](https://lichess.org/jYz5JiWr),
-and the first solution move is `f5g5`.
+It is `Black to move` in puzzle [736m1](https://lichess.org/training/736m1), rated `1349`.
+The game is `Terebaskinahi (2194)` vs `Velocitas (1991)` at `15+15` time control,
+with themes `middlegame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/P9Op3AUc),
+and the first solution move is `e5f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

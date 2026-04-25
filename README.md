@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2FR4ppp%2F1p2b3%2F8%2F2PPQ3%2F4n1PN%2FPP1q2PP%2F1R4K1%20b%20-%20-%202%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4p1p1%2F1k3p1p%2F7P%2F1P1K2P1%2F1P6%2F8%20w%20-%20-%202%2060&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [C9X3K](https://lichess.org/training/C9X3K), rated `1580`.
-The game is `slon11 (1811)` vs `aayalac (1707)` at `20+0` time control,
-with themes `middlegame, advantage, skewer, short`. You can [view the full game](https://lichess.org/T0Q0Kapo),
-and the first solution move is `e6f5`.
+It is `White to move` in puzzle [aAbkq](https://lichess.org/training/aAbkq), rated `1539`.
+The game is `sheikh_el_7oroub (2056)` vs `broy (1971)` at `10+0` time control,
+with themes `short, crushing, pawnEndgame, endgame`. You can [view the full game](https://lichess.org/b05RkeVf),
+and the first solution move is `d3d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

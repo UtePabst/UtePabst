@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F3r4%2Fp1R5%2FPp3kp1%2F1P1B4%2F2K3p1%2F2P5%2F8%20b%20-%20-%200%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fp4ppp%2F2q2n2%2F2pN4%2F2P5%2F5QP1%2FP4PKP%2FR7%20w%20-%20-%202%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [WFkfd](https://lichess.org/training/WFkfd), rated `1541`.
-The game is `ombre502 (1885)` vs `Swoosh160 (1877)` at `10+0` time control,
-with themes `endgame, advancedPawn, short, crushing, sacrifice`. You can [view the full game](https://lichess.org/t2QpLTrv),
-and the first solution move is `d7d4`.
+It is `White to move` in puzzle [wu5in](https://lichess.org/training/wu5in), rated `1558`.
+The game is `MustafaKnight123 (2188)` vs `Tirnom (2038)` at `10+5` time control,
+with themes `endgame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/HubHNb2W),
+and the first solution move is `d5e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

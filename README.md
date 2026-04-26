@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F6pK%2F5kr1%2F8%2F8%2F4R3%20w%20-%20-%204%2067&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5K2%2F1R3P2%2F8%2FP2k4%2F2p3r1%2F8%2F8%20b%20-%20-%200%2059&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [qfH8o](https://lichess.org/training/qfH8o), rated `1504`.
-The game is `buyvol44 (2031)` vs `kolbox68 (2002)` at `7+5` time control,
-with themes `deflection, endgame, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/IM6eLRBF),
-and the first solution move is `e1f1`.
+It is `Black to move` in puzzle [VvLCM](https://lichess.org/training/VvLCM), rated `1340`.
+The game is `skak_hea (2076)` vs `spart_11 (2168)` at `5+0` time control,
+with themes `veryLong, clearance, endgame, advancedPawn, crushing, rookEndgame, promotion`. You can [view the full game](https://lichess.org/HXIYG6XU),
+and the first solution move is `c3c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

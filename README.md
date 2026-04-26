@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F3r4%2F5R2%2F1N2P1kp%2F1P3n2%2F2K5%2F8%2F8%20b%20-%20-%200%2051&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpp3ppp%2F8%2F3p1q2%2F7r%2F4PpP1%2FPPQ2P2%2F2R1R1K1%20b%20-%20-%203%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [NoN35](https://lichess.org/training/NoN35), rated `1380`.
-The game is `Blueagle (2311)` vs `chess_daki (2169)` at `3+2` time control,
-with themes `endgame, master, short, crushing, fork`. You can [view the full game](https://lichess.org/OgTPDoNM),
-and the first solution move is `f4d5`.
+It is `Black to move` in puzzle [xjO0H](https://lichess.org/training/xjO0H), rated `1543`.
+The game is `MegaWilli (2265)` vs `NinJitsuu (2249)` at `10+0` time control,
+with themes `endgame, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/8079R8lT),
+and the first solution move is `h4h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

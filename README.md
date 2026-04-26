@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2br4%2F5B1k%2FpQ1R2p1%2F1p2p1qp%2F4Pb2%2FP1P2P1P%2F1P4P1%2F5RK1%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=R7%2F5k2%2F3P4%2F4PK2%2F8%2F5PR1%2F3r4%2Fq4r2%20w%20-%20-%200%2044&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [aKyrd](https://lichess.org/training/aKyrd), rated `1350`.
-The game is `Oddhjen (1995)` vs `AlexandrTselovalnik (1999)` at `10+5` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/LpksXYmX),
-and the first solution move is `f4e3`.
+It is `White to move` in puzzle [FhMO4](https://lichess.org/training/FhMO4), rated `1419`.
+The game is `Sadykov_Ilgiz-2006 (2386)` vs `zorch81 (1982)` at `3+0` time control,
+with themes `endgame, master, oneMove, mateIn1, queenRookEndgame`. You can [view the full game](https://lichess.org/bsOwKcMq),
+and the first solution move is `e5e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

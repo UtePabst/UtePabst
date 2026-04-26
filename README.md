@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2k5%2F2p5%2Fpp1r2p1%2F6P1%2FPP6%2F2PR1K2%2F8%20w%20-%20-%204%2052&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2r5%2F2P5%2F1R2p1pp%2F2rk1p2%2F5P1P%2FP1R1K3%2F8%20w%20-%20-%201%2042&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jHucu](https://lichess.org/training/jHucu), rated `1315`.
-The game is `monrealis (1557)` vs `moallem (1582)` at `3+2` time control,
-with themes `rookEndgame, crushing, long, endgame`. You can [view the full game](https://lichess.org/1PkwJs84),
-and the first solution move is `d2d5`.
+It is `White to move` in puzzle [d8bo3](https://lichess.org/training/d8bo3), rated `1500`.
+The game is `Nalgiev_Muhammad (1940)` vs `paja534 (2461)` at `10+0` time control,
+with themes `short, rookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/NNF3LeGy),
+and the first solution move is `c2d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

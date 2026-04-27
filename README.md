@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnb1k2r%2Fpppp1ppp%2F5q2%2F8%2F3bP3%2FP1N5%2F1PP1QPPP%2FR1B1KB1R%20b%20KQkq%20-%201%208&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p1p%2F7k%2F7p%2F3Q2P1%2F2p3KP%2F2q5%2F8%20w%20-%20-%200%2044&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ibJUK](https://lichess.org/training/ibJUK), rated `1293`.
-The game is `AdiAlinB (1627)` vs `TheFoolishGenius (1627)` at `5+0` time control,
-with themes `crushing, fork, long, opening`. You can [view the full game](https://lichess.org/eufBDThh),
-and the first solution move is `d4c3`.
+It is `White to move` in puzzle [wKROZ](https://lichess.org/training/wKROZ), rated `1533`.
+The game is `Jiho_kim_A (1645)` vs `matilda_1 (1646)` at `10+0` time control,
+with themes `short, endgame, queenEndgame, mateIn2`. You can [view the full game](https://lichess.org/PfJ7tNQ1),
+and the first solution move is `d4f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

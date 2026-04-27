@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3bb3%2F1B5p%2F1B1k4%2Fp2N1p1p%2F2P1p1n1%2F1P4P1%2FP3PPK1%2F8%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2rq1rk1%2Fp4ppp%2F1p2pn2%2F2p5%2F2N1P3%2F1P1n2P1%2FPR3PBP%2F3QR1K1%20w%20-%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [c1mum](https://lichess.org/training/c1mum), rated `1453`.
-The game is `mux77 (2547)` vs `MyDeletedAcc (2491)` at `3+0` time control,
-with themes `advantage, short, master, endgame`. You can [view the full game](https://lichess.org/6DbUqiV5),
-and the first solution move is `d8b6`.
+It is `White to move` in puzzle [MzNQg](https://lichess.org/training/MzNQg), rated `1423`.
+The game is `MURILA (1672)` vs `frank-the-tank (1692)` at `15+5` time control,
+with themes `middlegame, long, advantage`. You can [view the full game](https://lichess.org/5C1JXIhg),
+and the first solution move is `b2d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

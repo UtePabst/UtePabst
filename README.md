@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7r%2F3n2p1%2F4p1k1%2F1P1p1r1q%2F2pP4%2FQ5pN%2FPP4P1%2FR1B2RK1%20b%20-%20-%205%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2Fpp3Qpp%2F2p5%2F8%2F1P1Pp3%2F2P2Rq1%2FP7%2F4RK2%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [11smE](https://lichess.org/training/11smE), rated `1536`.
-The game is `The_whip (2241)` vs `JMateus (2275)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, attraction, kingsideAttack`. You can [view the full game](https://lichess.org/Hmhf5CcV),
-and the first solution move is `f5f1`.
+It is `Black to move` in puzzle [Av5d5](https://lichess.org/training/Av5d5), rated `1571`.
+The game is `Vlr_Kharchuk (1835)` vs `AVD2001 (1801)` at `15+15` time control,
+with themes `short, advantage, endgame`. You can [view the full game](https://lichess.org/ivwU0cX2),
+and the first solution move is `g3f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r2k%2Fp5p1%2F5p1p%2FP7%2F1P2nP1q%2F3QP3%2F6PP%2F2R1B2K%20b%20-%20-%204%2037&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2Fppp3b1%2F3p1nNp%2F5p2%2F2PP3P%2F2NB4%2FPP3PP1%2FR2QK2R%20b%20KQ%20-%200%2012&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Fmaaj](https://lichess.org/training/Fmaaj), rated `1537`.
-The game is `suling (1989)` vs `iCouldBeAParrot (1988)` at `10+0` time control,
-with themes `endgame, advantage, fork, long, sacrifice`. You can [view the full game](https://lichess.org/QMgwxrcd),
-and the first solution move is `h4e1`.
+It is `Black to move` in puzzle [8W3oQ](https://lichess.org/training/8W3oQ), rated `1593`.
+The game is `ILoveSomeone (2162)` vs `Schnarch (2264)` at `5+0` time control,
+with themes `short, crushing, fork, opening`. You can [view the full game](https://lichess.org/wFuJGVpw),
+and the first solution move is `d8e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

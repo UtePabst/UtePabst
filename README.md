@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bqkr2%2Fpppp1p1Q%2F4p3%2F5n2%2F8%2F1P6%2FP1PPBPPP%2FRN2K1NR%20b%20KQq%20-%200%2011&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr4%2Fppp5%2F4pQr1%2F4n3%2F8%2FP6P%2F1q1N1PP1%2F3R1K1R%20w%20-%20-%204%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [sLHqU](https://lichess.org/training/sLHqU), rated `1601`.
-The game is `ixz10 (1592)` vs `Nastya_163 (1535)` at `10+0` time control,
-with themes `opening, trappedPiece, long, advantage`. You can [view the full game](https://lichess.org/Pf2brIUh),
-and the first solution move is `d8f6`.
+It is `White to move` in puzzle [sRIBj](https://lichess.org/training/sRIBj), rated `1461`.
+The game is `estebanboro (1747)` vs `cornelnitu (1704)` at `10+0` time control,
+with themes `middlegame, queensideAttack, long, sacrifice, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/hKQuQRjx),
+and the first solution move is `f6d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

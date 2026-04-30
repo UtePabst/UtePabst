@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qk2r%2Fppp2ppp%2F4nn2%2F2Pp4%2F1b6%2F2NB4%2FPP3PPP%2FR1BQK2R%20w%20KQkq%20-%202%2011&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fpp4bp%2F4ppp1%2F8%2F4P3%2F2P5%2FPP1N1PPP%2F3R2K1%20b%20-%20-%202%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [9mFn9](https://lichess.org/training/9mFn9), rated `1488`.
-The game is `chesssexmachine (1909)` vs `Mashameow500 (2008)` at `10+0` time control,
-with themes `short, advantage, fork, opening`. You can [view the full game](https://lichess.org/BLB4OtNY),
-and the first solution move is `d1a4`.
+It is `Black to move` in puzzle [DnNvu](https://lichess.org/training/DnNvu), rated `1565`.
+The game is `coras81517 (1566)` vs `marcosruim (1503)` at `10+0` time control,
+with themes `long, advantage, endgame`. You can [view the full game](https://lichess.org/MujHkeZP),
+and the first solution move is `g7h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

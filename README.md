@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r3rk1%2F6bp%2F5qp1%2F1b1Rp3%2Fp1p1Pp2%2FP1P2N2%2F1PB1Q1PP%2F1R4K1%20w%20-%20-%204%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2FR1p2pp1%2F2p1bn2%2Fb6p%2F4P3%2F3PB2P%2Fq1PNBPP1%2F3Q1RK1%20b%20kq%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [y5jyr](https://lichess.org/training/y5jyr), rated `1494`.
-The game is `marabut (1650)` vs `pleucht (1601)` at `3+2` time control,
-with themes `middlegame, crushing, attraction, fork, long, capturingDefender`. You can [view the full game](https://lichess.org/WzgOCOQr),
-and the first solution move is `d5b5`.
+It is `Black to move` in puzzle [IIYXH](https://lichess.org/training/IIYXH), rated `1381`.
+The game is `Kadet-32 (1782)` vs `tj2loiselle (1795)` at `10+0` time control,
+with themes `discoveredAttack, long, advantage, middlegame`. You can [view the full game](https://lichess.org/a4N8GrA2),
+and the first solution move is `a8a7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fp1p2ppp%2F2N2q2%2F3p1b2%2FQ2P4%2F2P5%2FP4PPP%2FR3R1K1%20b%20-%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F2R2ppp%2Fp2N3r%2F2nPP3%2F8%2F5Q2%2F1q6%2F5RK1%20w%20-%20-%202%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [fS7XL](https://lichess.org/training/fS7XL), rated `1474`.
-The game is `GuitarKing (1989)` vs `Sevenfootjew (2154)` at `10+5` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/7iSa2FOd),
-and the first solution move is `f5d7`.
+It is `White to move` in puzzle [aEXfD](https://lichess.org/training/aEXfD), rated `1503`.
+The game is `Shabir_Amani001 (2509)` vs `EmmanuelJimenez (2541)` at `10+0` time control,
+with themes `fork, long, mateIn3, sacrifice, master, middlegame`. You can [view the full game](https://lichess.org/wGlFFUbG),
+and the first solution move is `f3f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

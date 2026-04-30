@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4k3%2Fpp1N1pp1%2F3npn1p%2F2Pp4%2F3P4%2F3BP3%2FP4PPP%2F6K1%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1pp3p1%2F1p3q1p%2F3p4%2F2Pn4%2FP7%2F1P1Q1nPP%2FR1B2RK1%20b%20-%20-%201%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ZX9NC](https://lichess.org/training/ZX9NC), rated `1317`.
-The game is `inZen (1841)` vs `Luismaher (1857)` at `20+10` time control,
-with themes `endgame, short, crushing, intermezzo`. You can [view the full game](https://lichess.org/R5rYZsIP),
-and the first solution move is `d7f6`.
+It is `Black to move` in puzzle [JSwMf](https://lichess.org/training/JSwMf), rated `1346`.
+The game is `jmrw93015 (1806)` vs `AKSH_SHARMA (1745)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/9IA3X5O4),
+and the first solution move is `f2h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

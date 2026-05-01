@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1r1k1%2F1p3pp1%2Fp5p1%2F3R4%2F8%2F1P5Q%2FPb2NPPP%2F6K1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3n1r1k%2F8%2Fp2R3p%2F1p4p1%2F8%2FP4PQ1%2F1q4PK%2F8%20w%20-%20-%200%2039&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [6V4VT](https://lichess.org/training/6V4VT), rated `1310`.
-The game is `MIR_07 (1881)` vs `MakerofBlunders (1872)` at `10+0` time control,
-with themes `short, sacrifice, backRankMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/YSNzhA1V),
-and the first solution move is `c8c1`.
+It is `White to move` in puzzle [nwXsl](https://lichess.org/training/nwXsl), rated `1578`.
+The game is `ercolegiuly (1658)` vs `anagelio13 (1649)` at `3+2` time control,
+with themes `exposedKing, endgame, advantage, long, pin`. You can [view the full game](https://lichess.org/YeX92fjI),
+and the first solution move is `d6h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

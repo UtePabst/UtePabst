@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F7p%2Frk2P1p1%2F2pP2b1%2F2P3P1%2FR6P%2F8%2F6K1%20w%20-%20-%200%2050&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2FQ1Pb2pk%2F7p%2F6r1%2F4p3%2F4PpPq%2FPP1R1P1P%2F5BRK%20b%20-%20-%205%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [YPYhJ](https://lichess.org/training/YPYhJ), rated `1590`.
-The game is `matrix_all_over (1792)` vs `Niklaus871 (1918)` at `5+10` time control,
-with themes `endgame, advancedPawn, crushing, long`. You can [view the full game](https://lichess.org/lXUYncZu),
-and the first solution move is `a3a6`.
+It is `Black to move` in puzzle [uRL18](https://lichess.org/training/uRL18), rated `1348`.
+The game is `wRook (1754)` vs `Geniven (1872)` at `10+0` time control,
+with themes `middlegame, operaMate, attraction, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/SRKaKKDP),
+and the first solution move is `h3h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

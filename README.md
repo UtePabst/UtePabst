@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1r2%2F1pp1qpp1%2Fp3p1k1%2F4P1P1%2F5Q2%2FP5P1%2F1P4P1%2F3R1RK1%20w%20-%20-%201%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fp7%2F8%2F2R5%2F4B1P1%2F1rkp4%2F5K2%20b%20-%20-%202%2061&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [9N7Ea](https://lichess.org/training/9N7Ea), rated `1607`.
-The game is `treze_13 (1911)` vs `tvtkz1962 (1920)` at `10+0` time control,
-with themes `exposedKing, endgame, crushing, skewer, long`. You can [view the full game](https://lichess.org/3rsKycKG),
-and the first solution move is `f4e4`.
+It is `Black to move` in puzzle [YViEK](https://lichess.org/training/YViEK), rated `1414`.
+The game is `forbiddencheapos (2414)` vs `SL_Dragon_Rider (2406)` at `10+0` time control,
+with themes `short, crushing, defensiveMove, endgame`. You can [view the full game](https://lichess.org/AwBfXT4p),
+and the first solution move is `c2d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

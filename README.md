@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k1r1%2F3bbp2%2F8%2Fq5pp%2F3NP3%2FP6P%2F3Q1PPN%2FR3K2R%20b%20KQq%20-%202%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fp5pp%2F1p5k%2F2q5%2F4Q1KP%2F8%2F8%20w%20-%20-%202%2048&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [alf8c](https://lichess.org/training/alf8c), rated `1446`.
-The game is `alessandrocarvalhaes (1805)` vs `DIOSCONNOSOTROS (1620)` at `8+0` time control,
-with themes `veryLong, middlegame, crushing, skewer, pin`. You can [view the full game](https://lichess.org/hKufwfTa),
-and the first solution move is `e7b4`.
+It is `White to move` in puzzle [CQ2Xp](https://lichess.org/training/CQ2Xp), rated `1269`.
+The game is `Bob1949 (2094)` vs `narendrabehe (2060)` at `10+0` time control,
+with themes `long, mateIn3, endgame, queenEndgame`. You can [view the full game](https://lichess.org/C4QNOgna),
+and the first solution move is `e3e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

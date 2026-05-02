@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F4bp2%2F4p1k1%2F4P3%2FP1R3P1%2F2K2N2%2F8%2Fr7%20b%20-%20-%2010%2040&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2F2p2ppp%2F1b6%2Fp2n4%2F6b1%2F1PNBB3%2FP2Q1PPP%2FR3K2R%20w%20KQ%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [EDi5o](https://lichess.org/training/EDi5o), rated `1493`.
-The game is `dozer01 (2634)` vs `Atomrod (2609)` at `3+2` time control,
-with themes `endgame, master, short, masterVsMaster, advantage, skewer`. You can [view the full game](https://lichess.org/STBBJuTJ),
-and the first solution move is `a1a3`.
+It is `White to move` in puzzle [9EvnV](https://lichess.org/training/9EvnV), rated `1564`.
+The game is `hamidzahidi (1648)` vs `berkaysmurf (1626)` at `3+0` time control,
+with themes `middlegame, crushing, long, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/Ibxd0OcT),
+and the first solution move is `c3d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

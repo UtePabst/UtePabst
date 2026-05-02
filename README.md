@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5p1p%2Fpp4p1%2F7P%2F5NP1%2F3Q1K2%2F1PP5%2F4r1q1%20w%20-%20-%203%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F5qpp%2F2p5%2F1p3Q2%2F1r1b4%2F3P4%2F1P4PP%2FR1B2R1K%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [SWXCH](https://lichess.org/training/SWXCH), rated `1608`.
-The game is `Kapaferz (1526)` vs `YOMTT (1538)` at `3+0` time control,
-with themes `endgame, crushing, attraction, long`. You can [view the full game](https://lichess.org/BF9oI4Lc),
-and the first solution move is `d3d8`.
+It is `White to move` in puzzle [rHkFD](https://lichess.org/training/rHkFD), rated `1368`.
+The game is `Serhii81 (2005)` vs `caliban72 (2043)` at `5+0` time control,
+with themes `middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/pCmYn2wl),
+and the first solution move is `f5f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

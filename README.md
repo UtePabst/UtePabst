@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2F1pq1n1p1%2Fp1p4p%2F3b4%2F3QR2N%2F1P3N2%2FP5PP%2FR5K1%20w%20-%20-%201%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=k1rr4%2Fpb1qn1bp%2F1pn5%2F1N2Pp2%2FQ2N1B2%2F8%2FPPP3PP%2F3RR1K1%20w%20-%20-%207%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [5XNja](https://lichess.org/training/5XNja), rated `1419`.
-The game is `yanpereira (1748)` vs `Bunin22 (1721)` at `10+0` time control,
-with themes `middlegame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/Y93Y1rmY),
-and the first solution move is `e4e7`.
+It is `White to move` in puzzle [IjCUs](https://lichess.org/training/IjCUs), rated `1572`.
+The game is `rinat999 (1838)` vs `Ndricim-Allushi (1647)` at `8+0` time control,
+with themes `middlegame, advantage, discoveredAttack, short`. You can [view the full game](https://lichess.org/oAiAU2eb),
+and the first solution move is `d4c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

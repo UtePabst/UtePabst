@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp3p1p%2F5kq1%2F3p4%2F3P4%2F2P3Q1%2FPP3K1P%2F8%20w%20-%20-%204%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4bp2%2F4p1k1%2F4P3%2FP1R3P1%2F2K2N2%2F8%2Fr7%20b%20-%20-%2010%2040&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [y6ixA](https://lichess.org/training/y6ixA), rated `1333`.
-The game is `AlixM (2045)` vs `GrandGS (2046)` at `10+0` time control,
-with themes `oneMove, mateIn1, dovetailMate, endgame, queenEndgame`. You can [view the full game](https://lichess.org/WXTLHNCT),
-and the first solution move is `g3e5`.
+It is `Black to move` in puzzle [EDi5o](https://lichess.org/training/EDi5o), rated `1493`.
+The game is `dozer01 (2634)` vs `Atomrod (2609)` at `3+2` time control,
+with themes `endgame, master, short, masterVsMaster, advantage, skewer`. You can [view the full game](https://lichess.org/STBBJuTJ),
+and the first solution move is `a1a3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

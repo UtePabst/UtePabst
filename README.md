@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5P2%2F6K1%2F4Q3%2F1b6%2F3k4%2F8%2F4q3%20w%20-%20-%208%2056&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp4p1k%2F4b1pp%2F8%2FN2R4%2F8%2FP3q1QK%2F8%20b%20-%20-%203%2044&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [zpBNW](https://lichess.org/training/zpBNW), rated `1434`.
-The game is `yoploplo (1751)` vs `Shshri (1774)` at `10+5` time control,
-with themes `endgame, advancedPawn, short, crushing, promotion`. You can [view the full game](https://lichess.org/fsPFrIav),
-and the first solution move is `e5e1`.
+It is `Black to move` in puzzle [Wk0oD](https://lichess.org/training/Wk0oD), rated `1528`.
+The game is `Iphotian (1720)` vs `pablom3 (1731)` at `10+0` time control,
+with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/oLNpYag4),
+and the first solution move is `e2e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

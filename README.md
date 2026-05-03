@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp4p1k%2F4b1pp%2F8%2FN2R4%2F8%2FP3q1QK%2F8%20b%20-%20-%203%2044&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F5pp1%2Fp6p%2F1p6%2F2r5%2F2PR1Q1P%2F1q3PP1%2F3R2K1%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Wk0oD](https://lichess.org/training/Wk0oD), rated `1528`.
-The game is `Iphotian (1720)` vs `pablom3 (1731)` at `10+0` time control,
-with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/oLNpYag4),
-and the first solution move is `e2e5`.
+It is `White to move` in puzzle [MV4Ur](https://lichess.org/training/MV4Ur), rated `1263`.
+The game is `cominixo01 (1617)` vs `Dedanek (1626)` at `5+3` time control,
+with themes `veryLong, endgame, mateIn4`. You can [view the full game](https://lichess.org/9UdcMGQO),
+and the first solution move is `d3d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

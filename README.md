@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fpp1q2p1%2F2p5%2F4PR2%2F3Pp3%2F2P4P%2FPP3Q1K%2F8%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5P2%2F6K1%2F4Q3%2F1b6%2F3k4%2F8%2F4q3%20w%20-%20-%208%2056&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [49D9N](https://lichess.org/training/49D9N), rated `1542`.
-The game is `Sirene28 (1887)` vs `Nurlan20162 (1618)` at `20+10` time control,
-with themes `endgame, advancedPawn, advantage, long, promotion`. You can [view the full game](https://lichess.org/doB10aiI),
-and the first solution move is `e4e3`.
+It is `White to move` in puzzle [zpBNW](https://lichess.org/training/zpBNW), rated `1434`.
+The game is `yoploplo (1751)` vs `Shshri (1774)` at `10+5` time control,
+with themes `endgame, advancedPawn, short, crushing, promotion`. You can [view the full game](https://lichess.org/fsPFrIav),
+and the first solution move is `e5e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

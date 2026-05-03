@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k4%2F4RPKp%2Fr7%2F8%2F8%2F8%2F1p4PP%2F8%20b%20-%20-%200%2055&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fp5p1%2F1p4np%2F1P3p1P%2FP2Q4%2F1qn1NPP1%2F1R6%2FK2R1N2%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [gOcHW](https://lichess.org/training/gOcHW), rated `1559`.
-The game is `ilievfilip7 (1548)` vs `grzesiukucharz01 (1546)` at `10+0` time control,
-with themes `endgame, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/mB97t9yG),
-and the first solution move is `a6g6`.
+It is `Black to move` in puzzle [strjk](https://lichess.org/training/strjk), rated `1314`.
+The game is `Mahruf_Tahmid_Sifat (1857)` vs `Sadat432 (2260)` at `10+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/tYKKjXLM),
+and the first solution move is `b3a3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

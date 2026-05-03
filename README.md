@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1q2k%2Fp5p1%2F1p5p%2F2n1Pp2%2F3Q1P2%2FP4NP1%2F3R2KP%2F8%20b%20-%20-%2011%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fpp1b1ppp%2F4pn2%2FqB1p4%2F1n1P1B2%2FP3PN2%2F3Q1PPP%2FR3K2R%20w%20KQkq%20-%202%2012&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [WzOpe](https://lichess.org/training/WzOpe), rated `1549`.
-The game is `charles_go (2290)` vs `Bobbah (2339)` at `10+0` time control,
-with themes `endgame, short, fork, advantage`. You can [view the full game](https://lichess.org/KzPszICA),
-and the first solution move is `c5b3`.
+It is `White to move` in puzzle [fIBoK](https://lichess.org/training/fIBoK), rated `1407`.
+The game is `AhmedMansy (1803)` vs `Sousnik (1806)` at `10+0` time control,
+with themes `middlegame, long, advantage`. You can [view the full game](https://lichess.org/YeXpKukt),
+and the first solution move is `b5d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

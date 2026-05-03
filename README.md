@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp4p1p%2F5Kp1%2F2Q1N3%2FP3pp2%2F2R5%2F1P5q%2F2Br4%20w%20-%20-%202%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1q1r2k%2Fppp3p1%2F2n1bNPp%2F4p3%2F2n5%2F1N2Q3%2FPPP4P%2F2KR2R1%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [IGyIm](https://lichess.org/training/IGyIm), rated `1473`.
-The game is `Cap69 (1853)` vs `LaDamaRoja (1880)` at `5+3` time control,
-with themes `middlegame, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/cIi1ZU1N),
-and the first solution move is `c5f8`.
+It is `White to move` in puzzle [iSZXk](https://lichess.org/training/iSZXk), rated `1333`.
+The game is `Nebula64 (2614)` vs `Wisserke (2494)` at `10+0` time control,
+with themes `mateIn2, advancedPawn, short, sacrifice, kingsideAttack, master, middlegame`. You can [view the full game](https://lichess.org/ydru4ok0),
+and the first solution move is `e3h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

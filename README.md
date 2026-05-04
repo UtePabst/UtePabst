@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k4%2F3b1p1p%2FR5p1%2F8%2F8%2F4P3%2FP1rNK1PP%2F8%20b%20-%20-%203%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3q2k1%2F4ppbp%2Fp5p1%2F1p1NP3%2F5n2%2F1P3P1P%2F1P1Q1P2%2F6K1%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [lhL5K](https://lichess.org/training/lhL5K), rated `1464`.
-The game is `moronic (1966)` vs `iamjustman (1901)` at `2+1` time control,
-with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/mCFySmYa),
-and the first solution move is `d7b5`.
+It is `White to move` in puzzle [Z0tiP](https://lichess.org/training/Z0tiP), rated `1416`.
+The game is `forkthegovernment (2537)` vs `AlexKous2000 (2448)` at `3+0` time control,
+with themes `endgame, master, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/DoT0Xpfq),
+and the first solution move is `d5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

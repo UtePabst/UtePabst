@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r2r1k1%2F4Bppp%2Fp1q1p3%2FPp1p4%2F3P4%2F2P1N3%2F1P1n1PPP%2FR2Q1RK1%20b%20-%20-%202%2020&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r5%2F2r2pk1%2Fp3p1pp%2Fn2p4%2F1q1P4%2F1PR3RP%2FP2Q1PP1%2F1B4K1%20w%20-%20-%201%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [zzOR6](https://lichess.org/training/zzOR6), rated `1319`.
-The game is `mnmassari (1967)` vs `elixx (1934)` at `3+0` time control,
-with themes `advantage, short, master, middlegame`. You can [view the full game](https://lichess.org/I4pWdcaZ),
-and the first solution move is `d2f1`.
+It is `White to move` in puzzle [vOUaQ](https://lichess.org/training/vOUaQ), rated `1579`.
+The game is `Sanss (1814)` vs `Al_Nik_Zak (1937)` at `15+10` time control,
+with themes `middlegame, crushing, long, discoveredAttack`. You can [view the full game](https://lichess.org/GyguWW7Q),
+and the first solution move is `g3g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

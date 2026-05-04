@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r3rk1%2Fppp3p1%2F3q4%2FP2pb1B1%2F4R3%2F1QP4P%2F1P4P1%2FRN4K1%20b%20-%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3k4%2F3b1p1p%2FR5p1%2F8%2F8%2F4P3%2FP1rNK1PP%2F8%20b%20-%20-%203%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [L6Q7J](https://lichess.org/training/L6Q7J), rated `1377`.
-The game is `Vsevoloddd (2007)` vs `jeeva4u88 (1989)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/eT71UPGB),
-and the first solution move is `e5h2`.
+It is `Black to move` in puzzle [lhL5K](https://lichess.org/training/lhL5K), rated `1464`.
+The game is `moronic (1966)` vs `iamjustman (1901)` at `2+1` time control,
+with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/mCFySmYa),
+and the first solution move is `d7b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

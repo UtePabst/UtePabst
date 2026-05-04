@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2r2k1%2Fb7%2Fp2qp1pp%2F7N%2F5P2%2F6QP%2F1P4PK%2F8%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp4rp1%2F1p6%2F3Q4%2Fr7%2F7P%2FqP3PP1%2F4R1K1%20w%20-%20-%203%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [sueq5](https://lichess.org/training/sueq5), rated `1421`.
-The game is `batbayar8 (1932)` vs `OmarT11 (1924)` at `3+0` time control,
-with themes `exposedKing, endgame, long, mateIn3, cornerMate`. You can [view the full game](https://lichess.org/QqBq9m3L),
-and the first solution move is `g3g6`.
+It is `White to move` in puzzle [CaQIo](https://lichess.org/training/CaQIo), rated `1299`.
+The game is `LubitelT61 (2039)` vs `Fischi66 (2062)` at `5+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/2bCRQWaB),
+and the first solution move is `e1e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

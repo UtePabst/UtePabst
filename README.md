@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3R4%2Fpp4r1%2F2b2pk1%2F4p3%2F1P3PK1%2FP3B1P1%2F8%2F8%20b%20-%20-%200%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2kr%2Fpp3pp1%2F4p1p1%2F2p5%2F2PbPqP1%2FPP5P%2F4QPB1%2F3R1R1K%20b%20-%20-%205%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [0xEis](https://lichess.org/training/0xEis), rated `1431`.
-The game is `staskamaev (2439)` vs `Enialios (2629)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/vPmA9un0),
-and the first solution move is `f6f5`.
+It is `Black to move` in puzzle [rn97J](https://lichess.org/training/rn97J), rated `1570`.
+The game is `donfranky (2008)` vs `Masoudazarshab (1985)` at `5+0` time control,
+with themes `veryLong, middlegame, quietMove, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/2Gi6F7Nm),
+and the first solution move is `d4e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

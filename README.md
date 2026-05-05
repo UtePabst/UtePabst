@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6Q1%2F5p2%2F4b2p%2F3pq2k%2F6pP%2F4r1P1%2F1R4RK%2F8%20b%20-%20-%207%2040&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q2r1%2F1p3ppk%2F1pp1b2p%2F5N1P%2F3pPQ1P%2FP1p5%2F1P3P2%2F5KRR%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [4KmIq](https://lichess.org/training/4KmIq), rated `1344`.
-The game is `quick_Mate (2700)` vs `Matou_33 (2575)` at `3+0` time control,
-with themes `deflection, endgame, master, short, crushing`. You can [view the full game](https://lichess.org/GXFlgPbR),
-and the first solution move is `e3g3`.
+It is `White to move` in puzzle [3J3z7](https://lichess.org/training/3J3z7), rated `1343`.
+The game is `nachin01 (2080)` vs `trmittal24 (2088)` at `3+2` time control,
+with themes `middlegame, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/FfCuRCz5),
+and the first solution move is `g1g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

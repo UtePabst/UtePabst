@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1pk5%2Fp3pB2%2F5p1R%2F1bP4P%2F4PK2%2F2b5%2F8%20b%20-%20-%200%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2kr3%2Fpp1b2p1%2F2n2p1p%2F3Q4%2F3P2q1%2F2PB2B1%2FP1PK1PPP%2F4R3%20w%20-%20-%203%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [iy1ko](https://lichess.org/training/iy1ko), rated `1365`.
-The game is `hills (1755)` vs `edgy_knight (1859)` at `10+0` time control,
-with themes `endgame, short, crushing, skewer`. You can [view the full game](https://lichess.org/QwyNH52Y),
-and the first solution move is `c2d1`.
+It is `White to move` in puzzle [GJyow](https://lichess.org/training/GJyow), rated `1486`.
+The game is `PBJChess (1630)` vs `ercan2348 (1631)` at `5+3` time control,
+with themes `exposedKing, middlegame, crushing, long, pin, skewer, attraction`. You can [view the full game](https://lichess.org/dpG9JB0x),
+and the first solution move is `e1e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

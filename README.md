@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3b4%2F1p6%2F2k3p1%2F1p1p4%2F3P1BPP%2F1KP5%2F8%2F8%20w%20-%20-%201%2049&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp2N2pp%2F1q6%2F8%2F4pr2%2FQ7%2FPPr3PP%2F5R1K%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [uKnri](https://lichess.org/training/uKnri), rated `1324`.
-The game is `DanielJames96 (1920)` vs `Boates (1921)` at `10+0` time control,
-with themes `crushing, short, bishopEndgame, endgame`. You can [view the full game](https://lichess.org/ORPwKLYA),
-and the first solution move is `h4h5`.
+It is `White to move` in puzzle [dq3tM](https://lichess.org/training/dq3tM), rated `1444`.
+The game is `KAMRAN051qureshi (1876)` vs `FlammeSombre (1860)` at `3+2` time control,
+with themes `short, xRayAttack, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/Ip9BvQ8B),
+and the first solution move is `a3f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

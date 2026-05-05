@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fp1p4p%2F3p1npQ%2F6R1%2F2p2q2%2F5P2%2FPP3P1P%2F1K1R4%20w%20-%20-%200%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1pk5%2Fp3pB2%2F5p1R%2F1bP4P%2F4PK2%2F2b5%2F8%20b%20-%20-%200%2039&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [L7Fjs](https://lichess.org/training/L7Fjs), rated `1376`.
-The game is `gerbeka (1766)` vs `Jehad2003_k (1799)` at `10+0` time control,
-with themes `middlegame, short, advantage, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/ZlP08ecn),
-and the first solution move is `g5g6`.
+It is `Black to move` in puzzle [iy1ko](https://lichess.org/training/iy1ko), rated `1365`.
+The game is `hills (1755)` vs `edgy_knight (1859)` at `10+0` time control,
+with themes `endgame, short, crushing, skewer`. You can [view the full game](https://lichess.org/QwyNH52Y),
+and the first solution move is `c2d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

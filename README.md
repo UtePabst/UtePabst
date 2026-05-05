@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1kb1r%2Fpp1p3p%2F2n1pp2%2F3qn3%2F2NpN3%2F2PB4%2FPP2QPPP%2FR3K2R%20w%20KQkq%20-%200%2014&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fp1p4p%2F3p1npQ%2F6R1%2F2p2q2%2F5P2%2FPP3P1P%2F1K1R4%20w%20-%20-%200%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [TFNtn](https://lichess.org/training/TFNtn), rated `1383`.
-The game is `Weerasekara (1976)` vs `ProChess2021 (2004)` at `15+15` time control,
-with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/EzYOA39x),
-and the first solution move is `e4f6`.
+It is `White to move` in puzzle [L7Fjs](https://lichess.org/training/L7Fjs), rated `1376`.
+The game is `gerbeka (1766)` vs `Jehad2003_k (1799)` at `10+0` time control,
+with themes `middlegame, short, advantage, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/ZlP08ecn),
+and the first solution move is `g5g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

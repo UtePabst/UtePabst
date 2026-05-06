@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fbppq2p1%2Fp2pnpb1%2F4pN1p%2F1P2P1P1%2FPBPP3P%2F3B1P2%2FR2Q1RK1%20w%20kq%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4R3%2F6k1%2F5pPp%2Fpp4rP%2F1P1P3R%2FK7%2FP1r5%2F8%20b%20-%20-%200%2046&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [BNgii](https://lichess.org/training/BNgii), rated `1321`.
-The game is `J_Aquino (1910)` vs `Malyshkaaa2 (1907)` at `10+0` time control,
-with themes `exposedKing, middlegame, crushing, attraction, fork, long, capturingDefender`. You can [view the full game](https://lichess.org/P0vi9444),
-and the first solution move is `b3e6`.
+It is `Black to move` in puzzle [w5WLs](https://lichess.org/training/w5WLs), rated `1373`.
+The game is `Mblaylock10 (2017)` vs `killerKing16 (2074)` at `15+10` time control,
+with themes `short, rookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/AUAKc09V),
+and the first solution move is `g5g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

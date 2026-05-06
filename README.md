@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r3n1k%2Fp4p1P%2F1p2pNpQ%2F4P1P1%2F2p5%2F2q1P3%2FP1Br4%2F1K5R%20w%20-%20-%204%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6R1%2F8%2F3pkp1p%2F4n3%2F2PPK3%2Fr5P1%2F3B4%2F8%20b%20-%20-%200%2043&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [bCsCu](https://lichess.org/training/bCsCu), rated `1359`.
-The game is `Daniel_Kloster (1843)` vs `delagardie (1902)` at `3+2` time control,
-with themes `mateIn2, advancedPawn, middlegame, short, attraction, promotion, kingsideAttack`. You can [view the full game](https://lichess.org/V8BpgCYZ),
-and the first solution move is `h6g7`.
+It is `Black to move` in puzzle [JJJqh](https://lichess.org/training/JJJqh), rated `1518`.
+The game is `ely2332 (1805)` vs `toymextlx (1881)` at `10+0` time control,
+with themes `hookMate, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/C8HiCwAA),
+and the first solution move is `f6f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

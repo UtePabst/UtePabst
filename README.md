@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fpp4p1%2F7p%2F2nN4%2F4r3%2F2P5%2FPP2RKPP%2F4R3%20b%20-%20-%204%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6rk%2F4BQp1%2Fp3p1Pp%2F3bP3%2F2pP4%2F2P5%2F1P2q3%2F5RK1%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [YAUxK](https://lichess.org/training/YAUxK), rated `1592`.
-The game is `chanjma (1860)` vs `Shefler_O (1799)` at `10+5` time control,
-with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/XD10iIWq),
-and the first solution move is `c5d3`.
+It is `White to move` in puzzle [BTjga](https://lichess.org/training/BTjga), rated `1409`.
+The game is `jhopp_pp (1893)` vs `Blue1700 (1828)` at `3+2` time control,
+with themes `short, attraction, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/rXHXzR2f),
+and the first solution move is `f7g8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

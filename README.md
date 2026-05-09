@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fpp2q1pp%2F4p3%2F3p4%2F3Nn3%2F2P5%2FPP3rPP%2FR2QR1K1%20w%20-%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p2r3%2F2p1nk2%2Fp1P4K%2F2BPR3%2F1P6%2F1P6%2F8%20b%20-%20-%201%2039&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [pGcoM](https://lichess.org/training/pGcoM), rated `1435`.
-The game is `es6743 (1901)` vs `Else7sa712 (1928)` at `10+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/0MfgXbwL),
-and the first solution move is `e1e4`.
+It is `Black to move` in puzzle [PLP1R](https://lichess.org/training/PLP1R), rated `1327`.
+The game is `Moussardraser (2369)` vs `MasterTheDream (2228)` at `20+10` time control,
+with themes `endgame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/ukXXb39w),
+and the first solution move is `e6g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6R1%2Fp6p%2F8%2F5k1P%2F7K%2F1PP3P1%2F4q3%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3p1K2%2F4p1P1%2F3kP3%2F6n1%2F4N3%2F8%20b%20-%20-%202%2052&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [JAIWL](https://lichess.org/training/JAIWL), rated `1387`.
-The game is `Menjy (1691)` vs `Skhather (1723)` at `10+0` time control,
-with themes `endgame, crushing, skewer, long, queenRookEndgame`. You can [view the full game](https://lichess.org/YdNBIemU),
-and the first solution move is `g7f7`.
+It is `Black to move` in puzzle [kzkjk](https://lichess.org/training/kzkjk), rated `1500`.
+The game is `Popovich2020 (2665)` vs `Lubly_leru (2585)` at `3+0` time control,
+with themes `veryLong, endgame, master, crushing, knightEndgame, hangingPiece`. You can [view the full game](https://lichess.org/Vrp4CFDP),
+and the first solution move is `g3e2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

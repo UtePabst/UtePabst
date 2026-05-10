@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2r2%2Fpq3k1p%2F1p2p1p1%2F4Qp2%2F3P4%2F1p4P1%2F2R1PP1P%2F2R3K1%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F6R1%2Fp6p%2F8%2F5k1P%2F7K%2F1PP3P1%2F4q3%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [fePIO](https://lichess.org/training/fePIO), rated `1384`.
-The game is `Ben_Peach (1904)` vs `HaveSetWillTravel (2184)` at `10+5` time control,
-with themes `endgame, collinearMove, advantage, fork, long`. You can [view the full game](https://lichess.org/JEDmh4Py),
-and the first solution move is `c2c7`.
+It is `White to move` in puzzle [JAIWL](https://lichess.org/training/JAIWL), rated `1387`.
+The game is `Menjy (1691)` vs `Skhather (1723)` at `10+0` time control,
+with themes `endgame, crushing, skewer, long, queenRookEndgame`. You can [view the full game](https://lichess.org/YdNBIemU),
+and the first solution move is `g7f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

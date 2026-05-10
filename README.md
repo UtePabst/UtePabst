@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r7%2F1b1n2k1%2F2p1p1p1%2F1pPpP3%2F1p1P3q%2F3Q4%2Fr3PP2%2F1NK3R1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=k1r4r%2Fp1p5%2F3pNp2%2F2n2P2%2F2P4p%2F8%2FPR3P2%2F1R3K2%20w%20-%20-%204%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [5hIgX](https://lichess.org/training/5hIgX), rated `1453`.
-The game is `mawir (1586)` vs `poormansoorijalal (1642)` at `5+0` time control,
-with themes `middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/iqGyowtY),
-and the first solution move is `d3g6`.
+It is `White to move` in puzzle [eAugL](https://lichess.org/training/eAugL), rated `1596`.
+The game is `Pedro70 (1751)` vs `taher121020 (1663)` at `15+0` time control,
+with themes `deflection, short, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/99hTA8EB),
+and the first solution move is `b2b8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5Bk1%2F8%2F8%2F8%2F8%2F2p4P%2F2R2pP1%2Fr4R1K%20b%20-%20-%200%2046&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1q3k1%2F4R1b1%2F2pp1rNp%2F1p1b1P2%2Fp7%2F6Q1%2FPPP3PP%2F2KR4%20w%20-%20-%204%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [fb9Zg](https://lichess.org/training/fb9Zg), rated `1528`.
-The game is `AdamSabina (1750)` vs `lakiap (1742)` at `10+0` time control,
-with themes `endgame, advancedPawn, crushing, attraction, long, promotion, hangingPiece`. You can [view the full game](https://lichess.org/H3WUEy9B),
-and the first solution move is `a1f1`.
+It is `White to move` in puzzle [gXGor](https://lichess.org/training/gXGor), rated `1399`.
+The game is `csabba80 (1899)` vs `Pirat61 (1971)` at `3+0` time control,
+with themes `exposedKing, discoveredCheck, advantage, long, sacrifice, kingsideAttack, discoveredAttack, master, middlegame`. You can [view the full game](https://lichess.org/Q6aUv3g6),
+and the first solution move is `e7g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

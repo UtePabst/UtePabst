@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1rnk1%2F1b1nbpp1%2Fp6p%2F1p1pB2q%2F3Np1R1%2F1QN1P2P%2FPP3PP1%2F1BR3K1%20w%20-%20-%204%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5Bk1%2F8%2F8%2F8%2F8%2F2p4P%2F2R2pP1%2Fr4R1K%20b%20-%20-%200%2046&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [rCRrq](https://lichess.org/training/rCRrq), rated `1313`.
-The game is `BringingRain (2063)` vs `Snami (2138)` at `20+0` time control,
-with themes `middlegame, discoveredCheck, advantage, long, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/1Ym26BF9),
-and the first solution move is `g4g7`.
+It is `Black to move` in puzzle [fb9Zg](https://lichess.org/training/fb9Zg), rated `1528`.
+The game is `AdamSabina (1750)` vs `lakiap (1742)` at `10+0` time control,
+with themes `endgame, advancedPawn, crushing, attraction, long, promotion, hangingPiece`. You can [view the full game](https://lichess.org/H3WUEy9B),
+and the first solution move is `a1f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

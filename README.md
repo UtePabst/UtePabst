@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2FP7%2F8%2F8%2F5p2%2F5k2%2Fr6R%2F6K1%20b%20-%20-%200%2066&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2r2%2F2p3b1%2Fpp1p2kp%2F3Ppn2%2FPPB1Q1Pq%2F2P5%2F3B1P1P%2FR3R1K1%20w%20-%20-%201%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [tEp9M](https://lichess.org/training/tEp9M), rated `1502`.
-The game is `Magnus_089 (2151)` vs `atcheck (2268)` at `10+0` time control,
-with themes `endgame, rookEndgame, oneMove, mateIn1`. You can [view the full game](https://lichess.org/Msrstokr),
-and the first solution move is `a2a1`.
+It is `White to move` in puzzle [K1mgQ](https://lichess.org/training/K1mgQ), rated `1301`.
+The game is `Petrochiant (2436)` vs `Lopez09 (2513)` at `3+0` time control,
+with themes `short, crushing, discoveredAttack, master, middlegame`. You can [view the full game](https://lichess.org/Ddhcfav5),
+and the first solution move is `g4f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

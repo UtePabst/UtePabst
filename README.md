@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3R4%2F4k3%2F1p6%2Fp4p1p%2FP4K1P%2F6P1%2F8%2F8%20b%20-%20-%200%2048&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b4r%2F2q4k%2F2p1P1pp%2F2bp1p2%2F1p1B1P2%2F5R1Q%2FP5PP%2FR5K1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [tfwfF](https://lichess.org/training/tfwfF), rated `1524`.
-The game is `Matte_Sbam21 (1954)` vs `gneuf (1958)` at `10+0` time control,
-with themes `long, defensiveMove, crushing, endgame`. You can [view the full game](https://lichess.org/dJQLTkC2),
-and the first solution move is `e7d8`.
+It is `White to move` in puzzle [DsROa](https://lichess.org/training/DsROa), rated `1558`.
+The game is `Sacrificedking88 (1667)` vs `GPaolo (1666)` at `5+0` time control,
+with themes `mateIn2, middlegame, short, attraction, sacrifice, pillsburysMate`. You can [view the full game](https://lichess.org/5f00kPws),
+and the first solution move is `h3h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

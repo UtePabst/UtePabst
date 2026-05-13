@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b4r%2F2q4k%2F2p1P1pp%2F2bp1p2%2F1p1B1P2%2F5R1Q%2FP5PP%2FR5K1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4rk2%2FR3Rppp%2Fp7%2F1p6%2F3r4%2F4K3%2FP4PPP%2F8%20w%20-%20-%202%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [DsROa](https://lichess.org/training/DsROa), rated `1558`.
-The game is `Sacrificedking88 (1667)` vs `GPaolo (1666)` at `5+0` time control,
-with themes `mateIn2, middlegame, short, attraction, sacrifice, pillsburysMate`. You can [view the full game](https://lichess.org/5f00kPws),
-and the first solution move is `h3h6`.
+It is `White to move` in puzzle [mAhOX](https://lichess.org/training/mAhOX), rated `1411`.
+The game is `Tushar_29 (2011)` vs `Abundia1 (2009)` at `10+0` time control,
+with themes `endgame, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/FkbmZQQj),
+and the first solution move is `e7e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

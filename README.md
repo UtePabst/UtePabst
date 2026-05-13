@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rk2%2FR3Rppp%2Fp7%2F1p6%2F3r4%2F4K3%2FP4PPP%2F8%20w%20-%20-%202%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2F5Qp1%2Fp2p3p%2F3N1P2%2FP4b2%2FKPPR4%2F5q2%2F8%20b%20-%20-%209%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [mAhOX](https://lichess.org/training/mAhOX), rated `1411`.
-The game is `Tushar_29 (2011)` vs `Abundia1 (2009)` at `10+0` time control,
-with themes `endgame, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/FkbmZQQj),
-and the first solution move is `e7e8`.
+It is `Black to move` in puzzle [ka0Zg](https://lichess.org/training/ka0Zg), rated `1399`.
+The game is `gilmas (1767)` vs `manel2017 (1656)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/dDlutvrO),
+and the first solution move is `f4c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

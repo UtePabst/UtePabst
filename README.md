@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F5Qp1%2Fp2p3p%2F3N1P2%2FP4b2%2FKPPR4%2F5q2%2F8%20b%20-%20-%209%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F2p1q1r1%2F3p2p1%2Fp1n1p1Np%2F1nB1P3%2F4P2Q%2FP2K3R%2F7R%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ka0Zg](https://lichess.org/training/ka0Zg), rated `1399`.
-The game is `gilmas (1767)` vs `manel2017 (1656)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/dDlutvrO),
-and the first solution move is `f4c1`.
+It is `White to move` in puzzle [wlVRG](https://lichess.org/training/wlVRG), rated `1329`.
+The game is `essam9403 (1869)` vs `AlejandroBeck (1873)` at `10+0` time control,
+with themes `exposedKing, veryLong, middlegame, fork, sacrifice, pillsburysMate, mateIn4`. You can [view the full game](https://lichess.org/QQXv5gKC),
+and the first solution move is `h3h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

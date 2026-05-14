@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2FP1n3kp%2F6p1%2F4p3%2F1K1pP1P1%2F8%2F1r6%2F2R5%20w%20-%20-%203%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3r3%2Fpppn1pkp%2F5q2%2F4p2Q%2F8%2F2BPP3%2FPP3PP1%2FRN2K3%20w%20Q%20-%201%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [5QpqA](https://lichess.org/training/5QpqA), rated `1587`.
-The game is `TommyTulip (1765)` vs `yavi19 (1751)` at `15+10` time control,
-with themes `endgame, advancedPawn, advantage, long, promotion, defensiveMove`. You can [view the full game](https://lichess.org/Hpu9Y0y2),
-and the first solution move is `b4a3`.
+It is `White to move` in puzzle [zc0eW](https://lichess.org/training/zc0eW), rated `1458`.
+The game is `KamranShirazi (2548)` vs `Amir1302 (2468)` at `3+0` time control,
+with themes `short, advantage, fork, master, middlegame`. You can [view the full game](https://lichess.org/LKvyRCzI),
+and the first solution move is `h5g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k1r4%2Fppp3Pp%2F8%2F8%2F2Q2bP1%2F2P5%2F1PK4P%2F4qB1R%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp5bk%2F3pQ2p%2F7N%2F2p1P3%2F4q3%2FP6P%2F1R5K%20b%20-%20-%203%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [PvJwb](https://lichess.org/training/PvJwb), rated `1552`.
-The game is `MikaelBedoff (1890)` vs `TheKing555 (1940)` at `10+5` time control,
-with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/F0gujHMY),
-and the first solution move is `e1d1`.
+It is `Black to move` in puzzle [OloGn](https://lichess.org/training/OloGn), rated `1619`.
+The game is `Almuntser_60 (1720)` vs `Annaslava (1710)` at `5+0` time control,
+with themes `short, fork, endgame, mateIn2`. You can [view the full game](https://lichess.org/joUjjg1f),
+and the first solution move is `e3f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

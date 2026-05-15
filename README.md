@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F5k2%2F5p1p%2F7P%2F5KP1%2F8%2F8%20w%20-%20-%201%2053&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r3%2Fppp2kp1%2F7p%2F6n1%2FP2PPpq1%2F1PP2N2%2F5P1P%2F3Q3K%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [atWWQ](https://lichess.org/training/atWWQ), rated `1295`.
-The game is `n0rsE_goD (2290)` vs `bbb005 (1823)` at `10+0` time control,
-with themes `endgame, short, zugzwang, crushing, pawnEndgame`. You can [view the full game](https://lichess.org/4LOHAPlM),
-and the first solution move is `f3f4`.
+It is `White to move` in puzzle [8bYlK](https://lichess.org/training/8bYlK), rated `1560`.
+The game is `IAmTerribleAtThis (1692)` vs `LionPatange (1652)` at `15+15` time control,
+with themes `endgame, short, advantage, fork, discoveredAttack`. You can [view the full game](https://lichess.org/eeJEDl6N),
+and the first solution move is `f3e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

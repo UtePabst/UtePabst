@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p2rp2%2F2p5%2F2P3R1%2F1k2BKP1%2F1r3P2%2F4b3%2F1R6%20b%20-%20-%204%2045&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fp2n3p%2F2b3pB%2F2p1p2q%2F2ppP3%2F3P1Q2%2FPP5P%2F5R1K%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [NvuCQ](https://lichess.org/training/NvuCQ), rated `1502`.
-The game is `SergeyMin (1844)` vs `BerezinaEkaterina (1800)` at `15+10` time control,
-with themes `short, crushing, endgame`. You can [view the full game](https://lichess.org/0qxsKvQ2),
-and the first solution move is `e7e4`.
+It is `White to move` in puzzle [buNiT](https://lichess.org/training/buNiT), rated `1314`.
+The game is `Agmi2001 (1846)` vs `already_takent (1827)` at `3+2` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/ngrAkoIC),
+and the first solution move is `f3f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

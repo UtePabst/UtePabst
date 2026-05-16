@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1rB3k1%2F4pp1p%2F3p2p1%2FqPnP4%2F3Q4%2F2P2P2%2F1P1R2PP%2F2K4R%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F1p4pp%2Fp3q3%2F3p4%2F2pPp3%2FP1N1RP1R%2F1PPQ1P2%2F7K%20b%20-%20-%200%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [v6dNg](https://lichess.org/training/v6dNg), rated `1479`.
-The game is `acoola (1887)` vs `RTFManuel (1873)` at `5+10` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/LUYI0z73),
-and the first solution move is `c5b3`.
+It is `Black to move` in puzzle [meNbL](https://lichess.org/training/meNbL), rated `1400`.
+The game is `arif200405 (1634)` vs `Comodor05 (1794)` at `10+0` time control,
+with themes `endgame, crushing, long, kingsideAttack, hangingPiece`. You can [view the full game](https://lichess.org/UZDYYd27),
+and the first solution move is `e6h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

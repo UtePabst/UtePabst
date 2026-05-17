@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2FP1n2p2%2F1k3P2%2F4P2p%2F2K4P%2F8%2F8%2F8%20w%20-%20-%201%2051&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F1p3pp1%2Fpq3n1p%2F5b2%2F1P6%2F2P1P3%2F1Q2B1PP%2FR4RK1%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [IOKEx](https://lichess.org/training/IOKEx), rated `1448`.
-The game is `milos64 (2108)` vs `kot_74 (2091)` at `10+5` time control,
-with themes `endgame, advancedPawn, crushing, long, knightEndgame`. You can [view the full game](https://lichess.org/g7gwdNKq),
-and the first solution move is `e5e6`.
+It is `Black to move` in puzzle [FuINt](https://lichess.org/training/FuINt), rated `1570`.
+The game is `barneythesinger (1891)` vs `eMago (1889)` at `3+2` time control,
+with themes `middlegame, advantage, long, kingsideAttack`. You can [view the full game](https://lichess.org/a2JIGc4O),
+and the first solution move is `b6e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

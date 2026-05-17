@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=q5k1%2F2p1R3%2FP2n2pp%2F8%2F2PQ1n2%2F8%2F5PPP%2F6K1%20b%20-%20-%204%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qr2Q%2F1pp1k1p1%2F1p1p1nP1%2F4p1B1%2F4P3%2FPP1P4%2F1P3P2%2Fn2K3R%20w%20-%20-%205%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [b3zpT](https://lichess.org/training/b3zpT), rated `1315`.
-The game is `Weaponized-Autism (2039)` vs `vardan290 (2127)` at `10+0` time control,
-with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/oBqILY2U),
-and the first solution move is `a8g2`.
+It is `White to move` in puzzle [K0N8H](https://lichess.org/training/K0N8H), rated `1560`.
+The game is `AIOFFE (1883)` vs `MinhThuDongNai (1872)` at `10+2` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/qmzpyv13),
+and the first solution move is `h8g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

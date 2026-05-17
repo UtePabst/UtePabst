@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fpp4pp%2F5p2%2F2p5%2F6q1%2F1PPQ2R1%2FP1KN1R2%2F4r3%20b%20-%20-%203%2037&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6r1%2F3k4%2Fpp1b1p2%2F3p3p%2F3P1p2%2F2P4P%2FPP2RP2%2FR4K2%20b%20-%20-%201%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [CtGs4](https://lichess.org/training/CtGs4), rated `1302`.
-The game is `Creative_coach (2076)` vs `BabaAnita_blndfld (2165)` at `10+5` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/oNv8hl0r),
-and the first solution move is `g4d1`.
+It is `Black to move` in puzzle [Yo4U2](https://lichess.org/training/Yo4U2), rated `1459`.
+The game is `RonnyFelix (1608)` vs `notnowplease8 (1547)` at `10+5` time control,
+with themes `veryLong, clearance, endgame, advantage, skewer, quietMove`. You can [view the full game](https://lichess.org/Yf2TyTrL),
+and the first solution move is `f4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

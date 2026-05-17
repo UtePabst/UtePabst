@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F1R5p%2F6p1%2F3B2P1%2F1qP4P%2Fp7%2F5PK1%2F8%20b%20-%20-%204%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2FP1n2p2%2F1k3P2%2F4P2p%2F2K4P%2F8%2F8%2F8%20w%20-%20-%201%2051&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [HvvU0](https://lichess.org/training/HvvU0), rated `1273`.
-The game is `rmurat (1864)` vs `OReal (1927)` at `3+2` time control,
-with themes `endgame, advancedPawn, crushing, long, sacrifice, promotion`. You can [view the full game](https://lichess.org/h4NRptPC),
-and the first solution move is `b4b7`.
+It is `White to move` in puzzle [IOKEx](https://lichess.org/training/IOKEx), rated `1448`.
+The game is `milos64 (2108)` vs `kot_74 (2091)` at `10+5` time control,
+with themes `endgame, advancedPawn, crushing, long, knightEndgame`. You can [view the full game](https://lichess.org/g7gwdNKq),
+and the first solution move is `e5e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

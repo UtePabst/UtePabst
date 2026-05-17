@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2rn1k1%2Fpp4p1%2F2p2P1p%2F5P2%2F8%2F1P4QP%2FPq4P1%2FR3R2K%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=q5k1%2F2p1R3%2FP2n2pp%2F8%2F2PQ1n2%2F8%2F5PPP%2F6K1%20b%20-%20-%204%2038&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [HWABi](https://lichess.org/training/HWABi), rated `1561`.
-The game is `kaos45 (2298)` vs `Quopana (2281)` at `3+0` time control,
-with themes `mateIn2, short, kingsideAttack, pin, master, middlegame`. You can [view the full game](https://lichess.org/AYiBMfmU),
-and the first solution move is `e1e8`.
+It is `Black to move` in puzzle [b3zpT](https://lichess.org/training/b3zpT), rated `1315`.
+The game is `Weaponized-Autism (2039)` vs `vardan290 (2127)` at `10+0` time control,
+with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/oBqILY2U),
+and the first solution move is `a8g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

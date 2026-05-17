@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F5p1p%2F4p3%2Fq7%2F3Pn3%2F1Br4P%2F1Q3PP1%2F1R3K2%20b%20-%20-%200%2040&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp5Q1%2F1b2p3%2F8%2FP3K2k%2F1p4qP%2F8%2F5r2%20w%20-%20-%202%2039&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [k8HCC](https://lichess.org/training/k8HCC), rated `1582`.
-The game is `Valery37 (2154)` vs `Benga40 (2016)` at `10+0` time control,
-with themes `endgame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/kYfQRfcA),
-and the first solution move is `c3b3`.
+It is `White to move` in puzzle [NJJa5](https://lichess.org/training/NJJa5), rated `1377`.
+The game is `CaucasionLezgin (1841)` vs `ncduy (1885)` at `10+0` time control,
+with themes `endgame, oneMove, mateIn1`. You can [view the full game](https://lichess.org/HvlY6eMJ),
+and the first solution move is `g7h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

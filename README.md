@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k3r1%2F3p3Q%2F2p1pPq1%2F2n1P3%2F2P4p%2F7P%2F2P2RP1%2F6K1%20w%20-%20-%203%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr4%2Fpp5p%2F8%2F2p1p3%2F1b1rP3%2F5P2%2FPPK1B1PP%2F3R3R%20b%20-%20-%201%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [UC3zu](https://lichess.org/training/UC3zu), rated `1413`.
-The game is `reza500reza500a19 (2011)` vs `ardasenel (1970)` at `10+0` time control,
-with themes `endgame, advancedPawn, crushing, short`. You can [view the full game](https://lichess.org/9xKGRnyi),
-and the first solution move is `h7g6`.
+It is `Black to move` in puzzle [IUB7x](https://lichess.org/training/IUB7x), rated `1610`.
+The game is `waus (1577)` vs `equilink (1576)` at `5+3` time control,
+with themes `endgame, collinearMove, crushing, fork, long`. You can [view the full game](https://lichess.org/f4aVuQ9K),
+and the first solution move is `d4d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

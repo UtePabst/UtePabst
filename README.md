@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fp5p1%2F2q1rp1p%2F3Q4%2F2pP1P2%2F2P4P%2F2N1R1P1%2F6K1%20w%20-%20-%203%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=B5k1%2F4Bpbp%2FbQ4p1%2F8%2F5q2%2F5p2%2FPPP3PP%2F5RK1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [C1DNP](https://lichess.org/training/C1DNP), rated `1352`.
-The game is `Checkmate1500 (2219)` vs `cesurnkd97 (2061)` at `10+0` time control,
-with themes `advantage, capturingDefender, short, endgame`. You can [view the full game](https://lichess.org/6iidILGP),
-and the first solution move is `d5c6`.
+It is `Black to move` in puzzle [eJAgT](https://lichess.org/training/eJAgT), rated `1348`.
+The game is `ucesz (1911)` vs `DanielManriquez (1846)` at `7+3` time control,
+with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/p9rdhdEz),
+and the first solution move is `g7d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

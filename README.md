@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1b3ppp%2F2B1pb2%2F3p4%2F3P4%2F3nP3%2F3q1PPP%2FQR4K1%20w%20-%20-%201%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r3%2Fp3qkbR%2F2p2p2%2F1pP5%2F2bN4%2F6P1%2FPPPQ1P2%2F2K5%20w%20-%20-%209%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [HbY4A](https://lichess.org/training/HbY4A), rated `1484`.
-The game is `This-Username (1668)` vs `Ibra_Chess_Boxing (2157)` at `25+0` time control,
-with themes `middlegame, fork, long, mateIn3, sacrifice, backRankMate`. You can [view the full game](https://lichess.org/zdj8EEV5),
-and the first solution move is `a1a8`.
+It is `White to move` in puzzle [Diw6b](https://lichess.org/training/Diw6b), rated `1437`.
+The game is `Chesspir7 (2029)` vs `blackbison (2029)` at `3+0` time control,
+with themes `middlegame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/TP2k0Z6T),
+and the first solution move is `h7g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

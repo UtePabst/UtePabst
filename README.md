@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F4q2k%2F4p1Rp%2F3b1r1P%2Fp1pP4%2FP1p2PQ1%2F6P1%2F4R1K1%20w%20-%20-%200%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k3r1%2F3p3Q%2F2p1pPq1%2F2n1P3%2F2P4p%2F7P%2F2P2RP1%2F6K1%20w%20-%20-%203%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jSG6q](https://lichess.org/training/jSG6q), rated `1464`.
-The game is `LazyCat11 (2489)` vs `Nenidon_Andriy (2501)` at `3+0` time control,
-with themes `mateIn2, short, attraction, sacrifice, master, middlegame`. You can [view the full game](https://lichess.org/d2gfSfn7),
-and the first solution move is `g6h6`.
+It is `White to move` in puzzle [UC3zu](https://lichess.org/training/UC3zu), rated `1413`.
+The game is `reza500reza500a19 (2011)` vs `ardasenel (1970)` at `10+0` time control,
+with themes `endgame, advancedPawn, crushing, short`. You can [view the full game](https://lichess.org/9xKGRnyi),
+and the first solution move is `h7g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

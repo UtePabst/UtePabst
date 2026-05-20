@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2r1k%2Fpp6%2F4p2b%2F2ppq1N1%2F7P%2F2P5%2FPP1QBP2%2F3K2RR%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fpp1b1ppp%2F4p3%2F1PrpP3%2F8%2Fq2BQ3%2FP4PPP%2F1RR3K1%20w%20-%20-%2010%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [cyM5M](https://lichess.org/training/cyM5M), rated `1264`.
-The game is `EagleShadows (1729)` vs `miron1980 (1532)` at `3+0` time control,
-with themes `exposedKing, middlegame, long, mateIn3, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/VsRU1ih2),
-and the first solution move is `g5f7`.
+It is `White to move` in puzzle [GfV9W](https://lichess.org/training/GfV9W), rated `1342`.
+The game is `addgf (1752)` vs `karetyr (1736)` at `10+0` time control,
+with themes `middlegame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/t1PxGOFX),
+and the first solution move is `d3h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

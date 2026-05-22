@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fpp3ppp%2F1n2r3%2F1B1bN3%2F3P4%2FB1Q1P1P1%2FP2n1P1K%2FR2R4%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1b2rpp1%2Fpp6%2F2p4p%2FP2p1Q2%2F2Pq1P1P%2FBP4P1%2F5RK1%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [XWgB8](https://lichess.org/training/XWgB8), rated `1363`.
-The game is `musabb (1863)` vs `raulcdp (1848)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, operaMate`. You can [view the full game](https://lichess.org/BSm0WAxl),
-and the first solution move is `e6h6`.
+It is `White to move` in puzzle [pOQ0x](https://lichess.org/training/pOQ0x), rated `1361`.
+The game is `mikro46 (1892)` vs `giuseppinoo (1889)` at `15+10` time control,
+with themes `endgame, short, crushing, pin`. You can [view the full game](https://lichess.org/eqBG5fVE),
+and the first solution move is `f4b8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1n3%2FppRrkppp%2F4p3%2F8%2F3P4%2F3B1N2%2FPP1K1PPP%2F2R5%20w%20-%20-%207%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2Fppp1qpp1%2F2p1bn2%2F7p%2F1b2PP2%2FP1NPB2P%2F1PPQB1P1%2FR3K2R%20b%20KQ%20-%200%2012&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [dtciz](https://lichess.org/training/dtciz), rated `1515`.
-The game is `BoomerRemover2003 (2327)` vs `Rile-Man (2515)` at `5+0` time control,
-with themes `middlegame, short, advantage, master`. You can [view the full game](https://lichess.org/qHC5Zz7M),
-and the first solution move is `c7c8`.
+It is `Black to move` in puzzle [Ae4Ib](https://lichess.org/training/Ae4Ib), rated `1559`.
+The game is `Spidermanchessplay (2022)` vs `CZ75 (1982)` at `3+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/iAuGwkPU),
+and the first solution move is `f6e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

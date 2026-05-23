@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F5pbp%2Fb5p1%2F1p2q2n%2FpP1NQ3%2FP1N4P%2FB1P2PP1%2F1R2R1K1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2rr4%2F3k4%2F3qpQ2%2F1P3p2%2F8%2F8%2F6P1%2F4R2K%20w%20-%20-%205%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [z7wDY](https://lichess.org/training/z7wDY), rated `1401`.
-The game is `BetancurDavid (1916)` vs `htpansur (1883)` at `10+0` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/C5qn7VAj),
-and the first solution move is `e5d4`.
+It is `White to move` in puzzle [t3pm6](https://lichess.org/training/t3pm6), rated `1321`.
+The game is `Kuro_Dad (2329)` vs `Tokar1987 (2363)` at `3+0` time control,
+with themes `deflection, endgame, crushing, long`. You can [view the full game](https://lichess.org/nFQUT5qS),
+and the first solution move is `f6f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

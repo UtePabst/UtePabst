@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k3r%2F4R3%2F1n1P3p%2Fr4pp1%2F3R4%2F1pP1KP2%2F1P5P%2F1B6%20b%20-%20-%205%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1n3%2FppRrkppp%2F4p3%2F8%2F3P4%2F3B1N2%2FPP1K1PPP%2F2R5%20w%20-%20-%207%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [fFI20](https://lichess.org/training/fFI20), rated `1592`.
-The game is `maki55 (1630)` vs `Hrum (1763)` at `10+0` time control,
-with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/f5KgZKBn),
-and the first solution move is `b6d5`.
+It is `White to move` in puzzle [dtciz](https://lichess.org/training/dtciz), rated `1515`.
+The game is `BoomerRemover2003 (2327)` vs `Rile-Man (2515)` at `5+0` time control,
+with themes `middlegame, short, advantage, master`. You can [view the full game](https://lichess.org/qHC5Zz7M),
+and the first solution move is `c7c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

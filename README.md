@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2F1b1n1p1p%2Fpp1p2p1%2F2qPbP2%2FP1N1N3%2F1Q2P2P%2F1P4PB%2F3R1RK1%20b%20-%20-%202%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp5pp%2F2B3p1%2F1pQ1p1b1%2Fq3P3%2F2PP3P%2FPR2K3%2Fr7%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [WMDZ8](https://lichess.org/training/WMDZ8), rated `1471`.
-The game is `ErgRaider (2453)` vs `ne_otli4nik (2647)` at `3+0` time control,
-with themes `short, advantage, kingsideAttack, discoveredAttack, master, middlegame`. You can [view the full game](https://lichess.org/GwgJAxrZ),
-and the first solution move is `e5h2`.
+It is `White to move` in puzzle [gAcVR](https://lichess.org/training/gAcVR), rated `1399`.
+The game is `tanmayp (1972)` vs `thegreatdane (1983)` at `10+0` time control,
+with themes `clearance, middlegame, long, mateIn3, kingsideAttack, pin`. You can [view the full game](https://lichess.org/DZQAtUDR),
+and the first solution move is `c6d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

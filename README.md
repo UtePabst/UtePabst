@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6r%2Fp2R1ppp%2F2k1p3%2F2Np4%2F3Pn3%2F4PN2%2FP4PPP%2F5K2%20w%20-%20-%203%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r1q1rk1%2Fpp2R1pp%2F2p4b%2F3p1b2%2F5pQP%2F2B5%2FPP1N1PP1%2F4R1K1%20w%20-%20-%201%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [8c4Ye](https://lichess.org/training/8c4Ye), rated `1411`.
-The game is `iziringmoso (2029)` vs `Surikaata (2024)` at `10+0` time control,
-with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/6roRJn8i),
-and the first solution move is `f3e5`.
+It is `White to move` in puzzle [jmsdQ](https://lichess.org/training/jmsdQ), rated `1423`.
+The game is `Mkari_2343 (2150)` vs `mellow45 (2173)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/EquqOXrs),
+and the first solution move is `e7g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

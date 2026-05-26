@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p2%2F7p%2F5Pk1%2F6r1%2F1K6%2FP5R1%2F8%20w%20-%20-%200%2054&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2F1b1n1p1p%2Fpp1p2p1%2F2qPbP2%2FP1N1N3%2F1Q2P2P%2F1P4PB%2F3R1RK1%20b%20-%20-%202%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [8eOhX](https://lichess.org/training/8eOhX), rated `1383`.
-The game is `Florian1313 (2058)` vs `SmileyPreacheR (2059)` at `3+0` time control,
-with themes `endgame, crushing, rookEndgame, quietMove, long, defensiveMove`. You can [view the full game](https://lichess.org/ZiYh2fhS),
-and the first solution move is `g2g4`.
+It is `Black to move` in puzzle [WMDZ8](https://lichess.org/training/WMDZ8), rated `1471`.
+The game is `ErgRaider (2453)` vs `ne_otli4nik (2647)` at `3+0` time control,
+with themes `short, advantage, kingsideAttack, discoveredAttack, master, middlegame`. You can [view the full game](https://lichess.org/GwgJAxrZ),
+and the first solution move is `e5h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

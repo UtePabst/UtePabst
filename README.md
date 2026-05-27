@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3q2k1%2Fp3r1pp%2F1bN1R3%2F2p5%2FP1Pp4%2F1P1Q4%2F5PPP%2F6K1%20b%20-%20-%203%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r3rk1%2Fp1p2ppp%2F3b2B1%2F4n3%2F7q%2F1PN1P3%2FPBP2PPP%2FR2Q1RK1%20b%20-%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [TXszt](https://lichess.org/training/TXszt), rated `1309`.
-The game is `Tyrambar (1762)` vs `Abbasgohariarani1348 (1734)` at `10+0` time control,
-with themes `sacrifice, crushing, veryLong, endgame`. You can [view the full game](https://lichess.org/FhzBktBE),
-and the first solution move is `e7e6`.
+It is `Black to move` in puzzle [SkG81](https://lichess.org/training/SkG81), rated `1443`.
+The game is `kingbishrkallas (1823)` vs `Othello76 (1789)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/2r5RcAs1),
+and the first solution move is `e5f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

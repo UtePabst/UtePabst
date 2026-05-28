@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fr4p1p%2Fp2p2Pp%2F3Bbq2%2F1p2P3%2F1K6%2FP1P5%2F1N4R1%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr2nr%2Fppp1qppp%2F8%2F3P4%2F2BQ4%2F5n2%2FPP3P1P%2FRN1KR3%20w%20-%20-%200%2014&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [FP6zM](https://lichess.org/training/FP6zM), rated `1590`.
-The game is `Deer_Chess44 (1532)` vs `ZilyaSun (1605)` at `3+0` time control,
-with themes `advancedPawn, middlegame, long, mateIn3, promotion, doubleCheck`. You can [view the full game](https://lichess.org/rh5U3LCS),
-and the first solution move is `g6f7`.
+It is `White to move` in puzzle [qvhGU](https://lichess.org/training/qvhGU), rated `1401`.
+The game is `rayrey2784 (2157)` vs `maagtablet (2150)` at `5+0` time control,
+with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/FavEcOmh),
+and the first solution move is `d4g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

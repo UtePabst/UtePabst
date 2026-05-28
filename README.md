@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr2nr%2Fppp1qppp%2F8%2F3P4%2F2BQ4%2F5n2%2FPP3P1P%2FRN1KR3%20w%20-%20-%200%2014&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp2R2p%2F4r1k1%2F3r2p1%2F3n2P1%2F2B4P%2FPP6%2F5RK1%20w%20-%20-%203%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [qvhGU](https://lichess.org/training/qvhGU), rated `1401`.
-The game is `rayrey2784 (2157)` vs `maagtablet (2150)` at `5+0` time control,
-with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/FavEcOmh),
-and the first solution move is `d4g4`.
+It is `White to move` in puzzle [fYWV7](https://lichess.org/training/fYWV7), rated `1494`.
+The game is `Azumilover (2817)` vs `OldAna (2646)` at `3+0` time control,
+with themes `endgame, master, short, crushing`. You can [view the full game](https://lichess.org/FV2VL5XT),
+and the first solution move is `e7e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

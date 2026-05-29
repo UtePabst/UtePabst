@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F5pbp%2F6p1%2F8%2F2PpP3%2FpRqP3P%2F2P2QP1%2F1R5K%20b%20-%20-%201%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5kr1%2F6bR%2Fp7%2F3pB1PB%2Fqn1Pp3%2FN3P3%2F1KP3P1%2F8%20w%20-%20-%205%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [2QDaE](https://lichess.org/training/2QDaE), rated `1443`.
-The game is `culi10 (1936)` vs `DanTebbutt (2086)` at `10+0` time control,
-with themes `endgame, advancedPawn, advantage, long, promotion`. You can [view the full game](https://lichess.org/KEg2lFJb),
-and the first solution move is `a3a2`.
+It is `White to move` in puzzle [DVWcf](https://lichess.org/training/DVWcf), rated `1354`.
+The game is `the-meaw (1948)` vs `oscar_oscar1 (1910)` at `10+0` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/xJSYATmw),
+and the first solution move is `e5d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

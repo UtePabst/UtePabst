@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r7%2Fp2b3k%2F4pqpp%2FN1p5%2F3p1n2%2F1P1P4%2FP1PQ1PPP%2FR3R1K1%20b%20-%20-%204%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5R2%2F1bP5%2F8%2F4p3%2F1K6%2F1p2r1k1%2F1P6%2F8%20w%20-%20-%200%2072&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [LeJbu](https://lichess.org/training/LeJbu), rated `1396`.
-The game is `edgarbacq (2102)` vs `librepawn (2068)` at `10+0` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/1qsgOOrl),
-and the first solution move is `f6g5`.
+It is `White to move` in puzzle [wd9X0](https://lichess.org/training/wd9X0), rated `1583`.
+The game is `clearEye (2393)` vs `speeTortoise (2357)` at `3+2` time control,
+with themes `short, crushing, endgame`. You can [view the full game](https://lichess.org/8bVdSqvK),
+and the first solution move is `f8b8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

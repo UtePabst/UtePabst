@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5R1r%2F3k1p1p%2Fp3p1p1%2Fq1BpP3%2F5P2%2F5N2%2F6PP%2F3Q2K1%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6rk%2F8%2Fp4b1p%2F3Q1N2%2FP2p2q1%2F8%2F1P4P1%2F5RK1%20w%20-%20-%203%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [QUVFQ](https://lichess.org/training/QUVFQ), rated `1572`.
-The game is `Gano1953 (1808)` vs `Alek_QQ (1848)` at `10+0` time control,
-with themes `endgame, short, advantage, fork, intermezzo, hangingPiece`. You can [view the full game](https://lichess.org/jazp00GE),
-and the first solution move is `a5c5`.
+It is `White to move` in puzzle [Kz5C9](https://lichess.org/training/Kz5C9), rated `1326`.
+The game is `KaitoKid1412 (2048)` vs `webberchess (2107)` at `3+2` time control,
+with themes `endgame, crushing, long, fork`. You can [view the full game](https://lichess.org/vfIFUwgJ),
+and the first solution move is `f5h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

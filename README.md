@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r%2Fppp2pp1%2F2nbp3%2F1B4Np%2F3P2n1%2F2N1B2P%2FPPP2PP1%2FR2Q1RK1%20b%20kq%20-%202%2010&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4Q3%2F1pk2p2%2F3p4%2F4n1qP%2F5N2%2F5P2%2F5K2%20w%20-%20-%2010%2047&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [hrSkQ](https://lichess.org/training/hrSkQ), rated `1543`.
-The game is `DE_GEA_1 (2181)` vs `bandaaceh (2009)` at `10+0` time control,
-with themes `short, advantage, capturingDefender, opening`. You can [view the full game](https://lichess.org/j4sMwSEZ),
-and the first solution move is `g4e3`.
+It is `White to move` in puzzle [U9Kba](https://lichess.org/training/U9Kba), rated `1402`.
+The game is `Kingvalency (1833)` vs `K7148 (1838)` at `10+0` time control,
+with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/nAf8c2Fg),
+and the first solution move is `f3d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

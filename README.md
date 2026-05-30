@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F4Q3%2F1pk2p2%2F3p4%2F4n1qP%2F5N2%2F5P2%2F5K2%20w%20-%20-%2010%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rq1r2k1%2Fppp1pp1p%2F6p1%2F4bb2%2F2P2P2%2F2N1B3%2FPP1Q2PP%2F3R1RK1%20w%20-%20-%201%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [U9Kba](https://lichess.org/training/U9Kba), rated `1402`.
-The game is `Kingvalency (1833)` vs `K7148 (1838)` at `10+0` time control,
-with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/nAf8c2Fg),
-and the first solution move is `f3d4`.
+It is `White to move` in puzzle [VCygN](https://lichess.org/training/VCygN), rated `1462`.
+The game is `ksray2020 (1612)` vs `Sajjadht (1658)` at `30+20` time control,
+with themes `middlegame, advantage, long, kingsideAttack`. You can [view the full game](https://lichess.org/WakGw72S),
+and the first solution move is `d2d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

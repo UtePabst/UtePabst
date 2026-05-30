@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r2r3%2Fp4pkp%2F3p1qp1%2F3P2QP%2F4p3%2F8%2F4nPBK%2F8%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1R4b1%2F3N2pp%2F8%2F4ppP1%2F1P5P%2F5PK1%2F1r6%20b%20-%20-%201%2041&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [czMoS](https://lichess.org/training/czMoS), rated `1335`.
-The game is `ioc_d4 (2028)` vs `Mr_Muratov (1967)` at `10+0` time control,
-with themes `deflection, endgame, short, advantage`. You can [view the full game](https://lichess.org/lW31purs),
-and the first solution move is `h5h6`.
+It is `Black to move` in puzzle [3FZon](https://lichess.org/training/3FZon), rated `1421`.
+The game is `sonora2019 (2445)` vs `WASP-12b (2364)` at `10+0` time control,
+with themes `endgame, short, crushing`. You can [view the full game](https://lichess.org/fZDTgKBI),
+and the first solution move is `f4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

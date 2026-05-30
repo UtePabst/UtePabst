@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r2k1nr%2Fpp4Qp%2F4pp2%2F3Pqb2%2FP7%2F4PK2%2F5PPP%2F5BNR%20w%20k%20-%202%2014&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2k4%2Fpb1pp1b1%2Fnp1P4%2F2p4Q%2F2P5%2F8%2FPPq2PP1%2FK2R1B1R%20w%20-%20-%202%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [0vBU3](https://lichess.org/training/0vBU3), rated `1294`.
-The game is `amir-hossein-e (2095)` vs `ArnoMiddelkoop (2053)` at `3+2` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/6QWi2suU),
-and the first solution move is `f1b5`.
+It is `White to move` in puzzle [OwPyB](https://lichess.org/training/OwPyB), rated `1601`.
+The game is `vicvic1234 (1842)` vs `AsvnJesusahayam (1867)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/chTDcJdH),
+and the first solution move is `h5h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

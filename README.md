@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1r3k1%2F4bp1p%2Fp3p1pB%2F3bq3%2F8%2F8%2FP1P2QPP%2F3R1R1K%20w%20-%20-%200%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r%2Fppp2pp1%2F2nbp3%2F1B4Np%2F3P2n1%2F2N1B2P%2FPPP2PP1%2FR2Q1RK1%20b%20kq%20-%202%2010&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [3ADcw](https://lichess.org/training/3ADcw), rated `1586`.
-The game is `skinwalker (1786)` vs `Varun_wcv (1530)` at `5+0` time control,
-with themes `middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/GeD77YTU),
-and the first solution move is `f2f7`.
+It is `Black to move` in puzzle [hrSkQ](https://lichess.org/training/hrSkQ), rated `1543`.
+The game is `DE_GEA_1 (2181)` vs `bandaaceh (2009)` at `10+0` time control,
+with themes `short, advantage, capturingDefender, opening`. You can [view the full game](https://lichess.org/j4sMwSEZ),
+and the first solution move is `g4e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

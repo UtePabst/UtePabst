@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k4%2F6R1%2F8%2F4K1p1%2F3pP1P1%2F1Pb2P2%2F8%2F8%20b%20-%20-%202%2056&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F6k1%2F2R4p%2F2Pp2p1%2F3Pb1KP%2F2R1P3%2F1r6%2F8%20b%20-%20-%200%2040&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [pBwnY](https://lichess.org/training/pBwnY), rated `1304`.
-The game is `Adnan_M (1956)` vs `khw200 (1877)` at `10+0` time control,
-with themes `endgame, short, skewer, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/Uhh2NnCa),
-and the first solution move is `d4d3`.
+It is `Black to move` in puzzle [KTevT](https://lichess.org/training/KTevT), rated `1537`.
+The game is `LegendaryOM (2409)` vs `Narti08 (2486)` at `3+2` time control,
+with themes `master, short, morphysMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/ptsH948l),
+and the first solution move is `b2g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

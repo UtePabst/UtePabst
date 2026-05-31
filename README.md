@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1bq1rp1p%2F5Rp1%2F3B4%2F3P4%2F2P2Q2%2F5RPP%2F7K%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4k3%2Fr3p1R1%2F2Pp2Pp%2F3P1K1P%2F8%2F8%20b%20-%20-%202%2044&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [i3OGY](https://lichess.org/training/i3OGY), rated `1534`.
-The game is `A_judy (1708)` vs `Rbjuniorcxnl (1616)` at `3+0` time control,
-with themes `middlegame, long, crushing`. You can [view the full game](https://lichess.org/LDCymNiF),
-and the first solution move is `e7e1`.
+It is `Black to move` in puzzle [6sPIh](https://lichess.org/training/6sPIh), rated `1545`.
+The game is `LosFeralo (1998)` vs `PIPOCA2020 (1905)` at `30+0` time control,
+with themes `endgame, short, crushing, rookEndgame, discoveredAttack`. You can [view the full game](https://lichess.org/HuI2NmG1),
+and the first solution move is `e5e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2Fp3q1n1%2F1p4pp%2F3R1pN1%2F2P1p2P%2F2Q3P1%2FP1P2PK1%2F3R4%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3qr1k1%2F1b3p2%2Fpp1n3Q%2F8%2FPP1Pp3%2F2r3NP%2F5PP1%2FR3R1K1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [nOjD7](https://lichess.org/training/nOjD7), rated `1493`.
-The game is `Chillkroete77 (2270)` vs `Asterixis (1994)` at `10+0` time control,
-with themes `exposedKing, veryLong, middlegame, crushing, attraction, fork, sacrifice`. You can [view the full game](https://lichess.org/AXSQtWgx),
-and the first solution move is `d5d8`.
+It is `White to move` in puzzle [ZaWt2](https://lichess.org/training/ZaWt2), rated `1576`.
+The game is `Zenathan-A (1766)` vs `frean (1732)` at `10+0` time control,
+with themes `middlegame, crushing, long, quietMove, fork`. You can [view the full game](https://lichess.org/LadJw7Ky),
+and the first solution move is `g3h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

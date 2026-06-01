@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F6p1%2F2Q1p2p%2F3pP1p1%2F3P2q1%2F3KP3%2F6PP%2F8%20b%20-%20-%2010%2049&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r4k%2Fp5bp%2F1p4p1%2F4p1q1%2F1P2P3%2FP2R1r1b%2F1B4PP%2F1Q2RBK1%20b%20-%20-%201%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [e4z4d](https://lichess.org/training/e4z4d), rated `1614`.
-The game is `MaximeMaximeMaxime (1660)` vs `Edatuo (1637)` at `10+0` time control,
-with themes `crushing, skewer, long, endgame, queenEndgame`. You can [view the full game](https://lichess.org/9wkWYjcH),
-and the first solution move is `g4d1`.
+It is `Black to move` in puzzle [iGRyd](https://lichess.org/training/iGRyd), rated `1333`.
+The game is `arthursv (1667)` vs `moslem403019 (1727)` at `5+3` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/xa9xohiK),
+and the first solution move is `f3f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

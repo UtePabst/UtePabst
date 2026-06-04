@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rn1%2Fp5k1%2F1pn3p1%2F2p5%2F3pP2Q%2FPN3N2%2F1PP1B1PP%2FR4RK1%20b%20-%20-%202%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r4%2Fp4pkp%2F6p1%2F1PQ1q3%2FPn2p3%2F4P2P%2F5PP1%2F2R1N1K1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [bHCyK](https://lichess.org/training/bHCyK), rated `1598`.
-The game is `Amankzas77 (1850)` vs `Josetrin (1843)` at `3+0` time control,
-with themes `long, kingsideAttack, advantage, middlegame`. You can [view the full game](https://lichess.org/hEp2fxi0),
-and the first solution move is `f8f3`.
+It is `Black to move` in puzzle [gCZlj](https://lichess.org/training/gCZlj), rated `1546`.
+The game is `gavgav2 (2311)` vs `ramakrishna64 (2340)` at `3+0` time control,
+with themes `endgame, master, advantage, long, pin`. You can [view the full game](https://lichess.org/nQefDD4n),
+and the first solution move is `e5c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

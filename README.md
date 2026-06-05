@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2FQ4Rbp%2FP7%2F8%2F2qP4%2F2P1n3%2F6PP%2F5R1K%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3kbr1%2F1q1n1p1p%2F4pBp1%2F1N1pP3%2F1Q5P%2F1P1n1P2%2FP5P1%2F1K2R2R%20w%20q%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [0MkUM](https://lichess.org/training/0MkUM), rated `1449`.
-The game is `piere_bittar (1676)` vs `ROJONESCASINAS (1646)` at `10+0` time control,
-with themes `mateIn2, middlegame, short, xRayAttack`. You can [view the full game](https://lichess.org/domelgCI),
-and the first solution move is `c4f1`.
+It is `White to move` in puzzle [ZoxhR](https://lichess.org/training/ZoxhR), rated `1447`.
+The game is `Davigator (2367)` vs `PriscaM (2463)` at `3+0` time control,
+with themes `short, crushing, fork, discoveredAttack, master, middlegame`. You can [view the full game](https://lichess.org/BYkEgQ9z),
+and the first solution move is `b5d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

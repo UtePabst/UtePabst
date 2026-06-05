@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1r2k2%2Fp1npppbp%2Fbp4p1%2F3N4%2F1PP1P3%2Fq3BP2%2FP1R3PP%2F2RQ1BK1%20b%20-%20-%202%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2FQ4Rbp%2FP7%2F8%2F2qP4%2F2P1n3%2F6PP%2F5R1K%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ecaTP](https://lichess.org/training/ecaTP), rated `1573`.
-The game is `Cerdifixer (2590)` vs `Bibekthing (2570)` at `3+0` time control,
-with themes `short, masterVsMaster, crushing, kingsideAttack, capturingDefender, master, middlegame`. You can [view the full game](https://lichess.org/SesdbdN1),
-and the first solution move is `c7d5`.
+It is `Black to move` in puzzle [0MkUM](https://lichess.org/training/0MkUM), rated `1449`.
+The game is `piere_bittar (1676)` vs `ROJONESCASINAS (1646)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, xRayAttack`. You can [view the full game](https://lichess.org/domelgCI),
+and the first solution move is `c4f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

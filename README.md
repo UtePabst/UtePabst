@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1kb1r%2F1p2nppp%2Fp1n1p3%2F3p4%2F3N4%2FP1N1B3%2F1qP1BPPP%2FR2QK2R%20w%20KQkq%20-%200%2012&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k3r1%2Fpp2q3%2F2p1p3%2F2n1n1p1%2F6B1%2F2P1B1P1%2FP1PQ4%2F2KR4%20w%20-%20-%204%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vw0kr](https://lichess.org/training/vw0kr), rated `1522`.
-The game is `Sush9j (1747)` vs `Drivereasy (1744)` at `15+5` time control,
-with themes `opening, short, crushing, trappedPiece`. You can [view the full game](https://lichess.org/7qQTAjJO),
-and the first solution move is `c3a4`.
+It is `White to move` in puzzle [mlOAa](https://lichess.org/training/mlOAa), rated `1575`.
+The game is `murtaza567 (1817)` vs `czes194 (1819)` at `10+0` time control,
+with themes `middlegame, crushing, fork, long, capturingDefender`. You can [view the full game](https://lichess.org/xFSF0ImW),
+and the first solution move is `e3c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

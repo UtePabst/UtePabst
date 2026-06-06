@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn5r%2Fppp1q1pp%2F6k1%2F2b2b2%2F3Nn3%2F1B1Q4%2FPPPP2PP%2FRNB2R1K%20b%20-%20-%205%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qkbnr%2Fppp3pp%2F2n2p2%2F3p4%2F2PP2b1%2F4PpBP%2FPP3PP1%2FRN1QKB1R%20w%20KQkq%20-%200%208&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [IleEU](https://lichess.org/training/IleEU), rated `1564`.
-The game is `parjanya (1924)` vs `Negal (1943)` at `10+5` time control,
-with themes `middlegame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/JudZ01UW),
-and the first solution move is `e4f2`.
+It is `White to move` in puzzle [D3j3t](https://lichess.org/training/D3j3t), rated `1509`.
+The game is `Tjfernando (1717)` vs `dorinand (1722)` at `10+5` time control,
+with themes `advantage, hangingPiece, short, opening`. You can [view the full game](https://lichess.org/zt0LRz1T),
+and the first solution move is `h3g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

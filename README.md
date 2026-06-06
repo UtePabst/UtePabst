@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fpp3pp1%2F1np1pn1p%2Fq7%2F1bQP3B%2FP1N1PN2%2F1P3PPP%2FR3K2R%20w%20KQkq%20-%201%2014&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F6p1%2F4p2p%2F4P3%2F2p1R1P1%2FP6P%2F1r6%2F6K1%20b%20-%20-%200%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [gnarf](https://lichess.org/training/gnarf), rated `1442`.
-The game is `Zeyad20Mohamed (1841)` vs `amin51 (1842)` at `10+0` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/ArK2zE1y),
-and the first solution move is `c4b4`.
+It is `Black to move` in puzzle [tM8oF](https://lichess.org/training/tM8oF), rated `1420`.
+The game is `nimu3 (1867)` vs `samisahi (2634)` at `3+0` time control,
+with themes `endgame, advancedPawn, master, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/yce0Q8yM),
+and the first solution move is `c4c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

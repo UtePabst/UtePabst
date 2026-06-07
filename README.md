@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2Fp2b1ppp%2F1p2p3%2Fn2pPn2%2F3P4%2F2R1BN2%2FqP1QBPPP%2F5RK1%20w%20-%20-%202%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2Fp4Rp1%2F6Bp%2F2b5%2F8%2F1P2p1P1%2FP1P2r1P%2F4K3%20b%20-%20-%206%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [0pEmK](https://lichess.org/training/0pEmK), rated `1545`.
-The game is `sabhinavs (1825)` vs `FrancoisLaBurgiere (1682)` at `3+0` time control,
-with themes `trappedPiece, advantage, short, middlegame`. You can [view the full game](https://lichess.org/mvY8ZPQA),
-and the first solution move is `c3a3`.
+It is `Black to move` in puzzle [RArZ1](https://lichess.org/training/RArZ1), rated `1507`.
+The game is `Senglea62 (1688)` vs `LBhikes (1672)` at `5+3` time control,
+with themes `exposedKing, endgame, advancedPawn, crushing, long`. You can [view the full game](https://lichess.org/G449i7Ns),
+and the first solution move is `c5b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnb2rk1%2Fppp1nppp%2F3b1q2%2F8%2F3p4%2F3P2PN%2FPPP2PBP%2FRNBQR1K1%20w%20-%20-%201%209&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rr4k1%2F3nppbp%2F3p2p1%2FqNpP4%2FP3P3%2F1P2BP2%2FR3Q1PP%2F5RK1%20b%20-%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [WPXzm](https://lichess.org/training/WPXzm), rated `1360`.
-The game is `Phoenix-Dark (1809)` vs `k0_05 (1926)` at `10+0` time control,
-with themes `opening, advantage, long`. You can [view the full game](https://lichess.org/wZ2Gd9SX),
-and the first solution move is `c1g5`.
+It is `Black to move` in puzzle [uWCjO](https://lichess.org/training/uWCjO), rated `1296`.
+The game is `Roshka_Yevgeniy (2679)` vs `croc_master (2587)` at `3+0` time control,
+with themes `long, advantage, master, middlegame`. You can [view the full game](https://lichess.org/OX5bf8qI),
+and the first solution move is `b8b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

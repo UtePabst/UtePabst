@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rr4k1%2F3nppbp%2F3p2p1%2FqNpP4%2FP3P3%2F1P2BP2%2FR3Q1PP%2F5RK1%20b%20-%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3qr1k1%2F4pp1p%2F3p1np1%2F1p1P2N1%2F1PrQ4%2F4R2P%2FP4PPK%2F4R3%20w%20-%20-%202%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [uWCjO](https://lichess.org/training/uWCjO), rated `1296`.
-The game is `Roshka_Yevgeniy (2679)` vs `croc_master (2587)` at `3+0` time control,
-with themes `long, advantage, master, middlegame`. You can [view the full game](https://lichess.org/OX5bf8qI),
-and the first solution move is `b8b5`.
+It is `White to move` in puzzle [xYbxk](https://lichess.org/training/xYbxk), rated `1501`.
+The game is `Diamondwx (2450)` vs `ZZZ_ZZZ_ZZ (2384)` at `3+0` time control,
+with themes `long, crushing, fork, middlegame`. You can [view the full game](https://lichess.org/Nh7l4As7),
+and the first solution move is `d4f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

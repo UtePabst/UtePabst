@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F3p4%2F3p2PP%2F2k5%2F8%2F4K3%20b%20-%20-%201%2049&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnb2rk1%2Fppp1nppp%2F3b1q2%2F8%2F3p4%2F3P2PN%2FPPP2PBP%2FRNBQR1K1%20w%20-%20-%201%209&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Ny6u0](https://lichess.org/training/Ny6u0), rated `1470`.
-The game is `Nivel_Zero (2283)` vs `Premier_Chess (2398)` at `3+0` time control,
-with themes `endgame, master, short, crushing, pawnEndgame`. You can [view the full game](https://lichess.org/b3vp5a0q),
-and the first solution move is `c3c2`.
+It is `White to move` in puzzle [WPXzm](https://lichess.org/training/WPXzm), rated `1360`.
+The game is `Phoenix-Dark (1809)` vs `k0_05 (1926)` at `10+0` time control,
+with themes `opening, advantage, long`. You can [view the full game](https://lichess.org/wZ2Gd9SX),
+and the first solution move is `c1g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

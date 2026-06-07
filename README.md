@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3qr1k1%2F4pp1p%2F3p1np1%2F1p1P2N1%2F1PrQ4%2F4R2P%2FP4PPK%2F4R3%20w%20-%20-%202%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2Fpp1R4%2F1q3r2%2F3Q3N%2F8%2F6P1%2FPP3PBP%2F6K1%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [xYbxk](https://lichess.org/training/xYbxk), rated `1501`.
-The game is `Diamondwx (2450)` vs `ZZZ_ZZZ_ZZ (2384)` at `3+0` time control,
-with themes `long, crushing, fork, middlegame`. You can [view the full game](https://lichess.org/Nh7l4As7),
-and the first solution move is `d4f6`.
+It is `Black to move` in puzzle [VVmHP](https://lichess.org/training/VVmHP), rated `1309`.
+The game is `WarriorBishop (1762)` vs `Bhrugu144 (1842)` at `3+2` time control,
+with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/XBx5SCLn),
+and the first solution move is `b6f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

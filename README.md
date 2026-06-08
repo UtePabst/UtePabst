@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1Q6%2F3r2kp%2F8%2F3qPp2%2F1B3P2%2F8%2FP1bp2P1%2F2N3K1%20w%20-%20-%200%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnb2rk1%2Fp4p2%2F2p1p2p%2F6p1%2F1p1Pn3%2Fq2Q2B1%2FN1P3PP%2F1K1R1BNR%20b%20-%20-%201%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [O6iZh](https://lichess.org/training/O6iZh), rated `1296`.
-The game is `mgiscoprime (2054)` vs `ShapeTheFuture (2042)` at `10+5` time control,
-with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/mQsMid4X),
-and the first solution move is `b8f8`.
+It is `Black to move` in puzzle [vMKTs](https://lichess.org/training/vMKTs), rated `1612`.
+The game is `JPWindia (1848)` vs `gamezz9 (1804)` at `3+0` time control,
+with themes `middlegame, crushing, fork, long`. You can [view the full game](https://lichess.org/X9YhLYpD),
+and the first solution move is `e4c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

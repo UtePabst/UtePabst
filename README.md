@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r7%2F1p4pk%2F8%2F2p5%2FrP4PP%2F5B2%2F1KPP4%2F3R3R%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F6pk%2F2N4p%2Fpp1P4%2F2p5%2F2P3P1%2FPP2r1PK%2F8%20w%20-%20-%203%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [sz3fk](https://lichess.org/training/sz3fk), rated `1600`.
-The game is `AGILANGPALAHUBOG (1660)` vs `Manguel (1662)` at `5+3` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/EMvkkODV),
-and the first solution move is `a4b4`.
+It is `White to move` in puzzle [0xAED](https://lichess.org/training/0xAED), rated `1377`.
+The game is `grinpavl (2047)` vs `Dimaunahan_erwin (2073)` at `3+0` time control,
+with themes `endgame, advancedPawn, master, short, crushing`. You can [view the full game](https://lichess.org/T6pWGf4q),
+and the first solution move is `d5d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

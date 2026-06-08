@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4R3%2F8%2F6p1%2F6N1%2F6KP%2F3k1P2%2F4n2r%2F8%20b%20-%20-%2011%2058&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2Fpp3ppp%2F2q5%2F3p4%2F3P2b1%2F4PN2%2FP2QBPPP%2F5RK1%20w%20-%20-%202%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Sse3Z](https://lichess.org/training/Sse3Z), rated `1380`.
-The game is `ckassios4 (2553)` vs `AtalikS (2623)` at `3+0` time control,
-with themes `master, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/FfgXkBT4),
-and the first solution move is `h2g2`.
+It is `White to move` in puzzle [weXgm](https://lichess.org/training/weXgm), rated `1406`.
+The game is `Sauerpower (1883)` vs `telin (1851)` at `5+3` time control,
+with themes `middlegame, advantage, long, fork`. You can [view the full game](https://lichess.org/gGvjnWV0),
+and the first solution move is `f3e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

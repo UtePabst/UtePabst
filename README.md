@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k4%2Fp3rp1p%2F1b1p1q1p%2F8%2F6B1%2F7P%2FPP2RPP1%2F2Q3K1%20b%20-%20-%2012%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp5p1%2F4p2p%2F2Q5%2F4PN1q%2F4P3%2FPP4P1%2F6K1%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [c4KCz](https://lichess.org/training/c4KCz), rated `1391`.
-The game is `Kevyn_Valladares (1726)` vs `vlsh (1867)` at `15+10` time control,
-with themes `long, fork, crushing, endgame`. You can [view the full game](https://lichess.org/ACufFrVc),
-and the first solution move is `e7e2`.
+It is `White to move` in puzzle [4bc3y](https://lichess.org/training/4bc3y), rated `1502`.
+The game is `serg_meus (1807)` vs `Renzo96 (1728)` at `3+2` time control,
+with themes `endgame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/kJesk8gd),
+and the first solution move is `c5f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

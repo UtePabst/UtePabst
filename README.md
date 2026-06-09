@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6r1%2F5k1p%2Fp1pp1p1P%2F1p1Pp3%2F4P1R1%2F2P5%2FPP1K1P2%2F8%20w%20-%20-%201%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F3p2k1%2F1p3p1p%2F1P2b1p1%2F6P1%2F5K2%2F5P1P%2FB7%20w%20-%20-%201%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [JMQhk](https://lichess.org/training/JMQhk), rated `1558`.
-The game is `Tano_Guapo_1660 (1880)` vs `MajorPayne01 (1887)` at `10+0` time control,
-with themes `rookEndgame, crushing, short, endgame`. You can [view the full game](https://lichess.org/XPKXODdZ),
-and the first solution move is `g4g8`.
+It is `White to move` in puzzle [hnZPb](https://lichess.org/training/hnZPb), rated `1318`.
+The game is `zouave971 (1817)` vs `al2xbaker (1849)` at `3+2` time control,
+with themes `long, crushing, bishopEndgame, endgame`. You can [view the full game](https://lichess.org/SwmwqyfU),
+and the first solution move is `a1e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fppqn1ppp%2F2pb4%2FP2Q4%2F3P4%2F3P1N2%2F1P1B1PPP%2F2R1R1K1%20b%20-%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2Fp1q3r1%2F4p3%2F2p2bR1%2F3p4%2F1P5Q%2FP7%2F2K5%20w%20-%20-%200%2051&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [x7jt4](https://lichess.org/training/x7jt4), rated `1600`.
-The game is `syrian97 (1634)` vs `GTasker (1608)` at `15+10` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/XdJaM9z2),
-and the first solution move is `c6d5`.
+It is `White to move` in puzzle [sDlLw](https://lichess.org/training/sDlLw), rated `1477`.
+The game is `KingBoblet (1959)` vs `sacchigno (1933)` at `10+5` time control,
+with themes `deflection, endgame, short, crushing, interference`. You can [view the full game](https://lichess.org/VXX99Xt1),
+and the first solution move is `h3h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6k%2F1R4b1%2F3p4%2FpP1Pp1p1%2FP3P3%2F3Q1p2%2F3K1Pn1%2F2R2Nq1%20b%20-%20-%205%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1k2%2F1pp2p2%2Fp1n5%2F4pRPN%2F2P5%2FP3b2P%2F1PPB4%2FR2K4%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [1VN7a](https://lichess.org/training/1VN7a), rated `1485`.
-The game is `mammut77 (2128)` vs `elgarri (2083)` at `3+2` time control,
-with themes `exposedKing, middlegame, crushing, skewer, long`. You can [view the full game](https://lichess.org/rehKjpR0),
-and the first solution move is `g1f2`.
+It is `Black to move` in puzzle [jrDDq](https://lichess.org/training/jrDDq), rated `1525`.
+The game is `PavelK3112 (2077)` vs `Nahin_hassan (2054)` at `10+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/JZUtefpY),
+and the first solution move is `d8d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

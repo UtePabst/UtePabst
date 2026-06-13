@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r5k%2FR1pb3p%2F2pq2p1%2F1p1n1p2%2F8%2F6QP%2F1PP2PP1%2F4R1K1%20w%20-%20-%204%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r3r%2Fk2p4%2F1p1N4%2Fp3q1p1%2F8%2F3Q2P1%2FPP5P%2F2R3K1%20w%20-%20-%202%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [NkNbO](https://lichess.org/training/NkNbO), rated `1379`.
-The game is `jack_Oneill (1711)` vs `CELLATKARAALi (1729)` at `10+5` time control,
-with themes `middlegame, capturingDefender, advantage, short`. You can [view the full game](https://lichess.org/pDJtEZZ1),
-and the first solution move is `g3d6`.
+It is `White to move` in puzzle [AFUIy](https://lichess.org/training/AFUIy), rated `1563`.
+The game is `perham (2120)` vs `robertfortune6 (1790)` at `2+0` time control,
+with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/P4Hwuamy),
+and the first solution move is `c1c7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

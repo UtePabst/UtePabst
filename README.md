@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1k2%2F1pp2p2%2Fp1n5%2F4pRPN%2F2P5%2FP3b2P%2F1PPB4%2FR2K4%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F5R2%2Fp1p3p1%2F3p1pkb%2F1B1Pr3%2F6K1%2F1PP2P2%2F7R%20w%20-%20-%208%2038&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [jrDDq](https://lichess.org/training/jrDDq), rated `1525`.
-The game is `PavelK3112 (2077)` vs `Nahin_hassan (2054)` at `10+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/JZUtefpY),
-and the first solution move is `d8d2`.
+It is `White to move` in puzzle [D1UVW](https://lichess.org/training/D1UVW), rated `1534`.
+The game is `filolog (2680)` vs `SnapMouse (2484)` at `3+0` time control,
+with themes `endgame, master, advantage, long`. You can [view the full game](https://lichess.org/SyAEyoHb),
+and the first solution move is `b4d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

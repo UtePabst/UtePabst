@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F2pK4%2F1k1p4%2F3P4%2Fr1P2R2%2F8%20w%20-%20-%203%2051&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qk2r%2F1p3pp1%2Fp2bpn1p%2F3p4%2F3N4%2F4P1Q1%2FPPPN2PP%2FR4RK1%20w%20kq%20-%202%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ob9t6](https://lichess.org/training/ob9t6), rated `1500`.
-The game is `RemingtonRoth (2077)` vs `Stoianov (1922)` at `10+0` time control,
-with themes `endgame, crushing, rookEndgame, long, discoveredAttack`. You can [view the full game](https://lichess.org/n1E1h1wB),
-and the first solution move is `c2c3`.
+It is `White to move` in puzzle [I3YOU](https://lichess.org/training/I3YOU), rated `1309`.
+The game is `kang_wahyu (1740)` vs `doandres (1729)` at `10+0` time control,
+with themes `middlegame, crushing, long`. You can [view the full game](https://lichess.org/qknrOs6m),
+and the first solution move is `g3g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

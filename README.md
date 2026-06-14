@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6r1%2Fp2k1p2%2F2NbpQ2%2F7p%2Fq3P1P1%2F8%2FP4P2%2F2RR2K1%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F2p2p1p%2F3p2p1%2F1p6%2F4P1Rq%2F1B1n4%2FPQ3P1P%2F6RK%20w%20-%20-%202%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [wdjZ9](https://lichess.org/training/wdjZ9), rated `1495`.
-The game is `yere1 (1706)` vs `betterthanyesterday9 (1717)` at `10+5` time control,
-with themes `crushing, veryLong, middlegame`. You can [view the full game](https://lichess.org/am9hqgT6),
-and the first solution move is `g8g4`.
+It is `White to move` in puzzle [C2x0N](https://lichess.org/training/C2x0N), rated `1373`.
+The game is `K9STYL3 (1720)` vs `rino290360 (1694)` at `10+0` time control,
+with themes `middlegame, long, mateIn3, sacrifice, kingsideAttack, pin`. You can [view the full game](https://lichess.org/OWDN54TN),
+and the first solution move is `g4g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

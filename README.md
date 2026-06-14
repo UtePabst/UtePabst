@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fpp4p1%2F2p3Bp%2Fq3p2P%2F2p2Nn1%2F4P3%2FPPQ2PP1%2F3R1K1R%20w%20-%20-%202%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6r1%2Fp2k1p2%2F2NbpQ2%2F7p%2Fq3P1P1%2F8%2FP4P2%2F2RR2K1%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [8sVo1](https://lichess.org/training/8sVo1), rated `1308`.
-The game is `DraNIKs (1746)` vs `SunRise12 (2002)` at `3+0` time control,
-with themes `middlegame, discoveredCheck, advantage, fork, long, doubleCheck`. You can [view the full game](https://lichess.org/mVhDdbbe),
-and the first solution move is `g6h7`.
+It is `Black to move` in puzzle [wdjZ9](https://lichess.org/training/wdjZ9), rated `1495`.
+The game is `yere1 (1706)` vs `betterthanyesterday9 (1717)` at `10+5` time control,
+with themes `crushing, veryLong, middlegame`. You can [view the full game](https://lichess.org/am9hqgT6),
+and the first solution move is `g8g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

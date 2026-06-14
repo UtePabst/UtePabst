@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rbrk1%2Fpp4pp%2F2p5%2F3p1Bq1%2F3P4%2F1P2P2P%2FP1Q3PK%2F2R2R2%20w%20-%20-%201%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7r%2F6p1%2Fp1p1bp2%2F1p2k2p%2FP1p1P3%2F2N2PK1%2F1PP2P1P%2F3R4%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [3UQ2P](https://lichess.org/training/3UQ2P), rated `1395`.
-The game is `mathildekohlrauscH (1768)` vs `Carlos_FN (1760)` at `5+0` time control,
-with themes `deflection, mateIn2, middlegame, short, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/BxCFssx3),
-and the first solution move is `f5h7`.
+It is `White to move` in puzzle [Zzz5J](https://lichess.org/training/Zzz5J), rated `1444`.
+The game is `TommKu (1777)` vs `RaphaBra (1774)` at `10+0` time control,
+with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/ON1WFKPj),
+and the first solution move is `f3f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

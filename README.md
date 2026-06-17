@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp5R1%2F4P2p%2F8%2F4P1PP%2F4rk2%2F8%2F7K%20b%20-%20-%200%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fpppn1pp1%2F4bq1p%2F1P1P4%2F2p5%2F2b2N2%2FPB2QPPP%2F2R1R1K1%20w%20-%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [sk8pP](https://lichess.org/training/sk8pP), rated `1521`.
-The game is `A_b_d_o (2090)` vs `Unenbahlam (2219)` at `5+7` time control,
-with themes `exposedKing, endgame, rookEndgame, long, mateIn3`. You can [view the full game](https://lichess.org/6oH2j1Ln),
-and the first solution move is `f3g3`.
+It is `White to move` in puzzle [azsde](https://lichess.org/training/azsde), rated `1486`.
+The game is `karencupi (2300)` vs `Rexinator (2377)` at `10+0` time control,
+with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/OwwDzsxS),
+and the first solution move is `b2c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

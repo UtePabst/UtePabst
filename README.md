@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3R1rk1%2Fp1q2ppp%2F2p5%2F4p1Q1%2FP3Pn2%2F5P2%2F2P2P1P%2F3R2K1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4k3%2F8%2F1p4K1%2Fp4P2%2F8%2F8%2F8%2F8%20w%20-%20-%201%2050&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [0hTs4](https://lichess.org/training/0hTs4), rated `1387`.
-The game is `neinnopedy (1819)` vs `Mahdi17521752 (1814)` at `10+5` time control,
-with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/LXeq9u19),
-and the first solution move is `f4h3`.
+It is `White to move` in puzzle [Pcha7](https://lichess.org/training/Pcha7), rated `1442`.
+The game is `gvmkk (1905)` vs `Ryan-Maroun (1860)` at `10+5` time control,
+with themes `exposedKing, endgame, advancedPawn, crushing, promotion, pawnEndgame, deflection, veryLong`. You can [view the full game](https://lichess.org/V5M3HnWn),
+and the first solution move is `g6g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fpb1n1p1p%2F1p4p1%2F3p4%2F2pPn2q%2F2P1PP2%2FP1QB2PP%2F1BR2RNK%20b%20-%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r7%2Fp3qpk1%2FQpp3p1%2F3pPpP1%2F3P1B1r%2F2P5%2FPP5P%2FR4RK1%20b%20-%20-%202%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [t90PL](https://lichess.org/training/t90PL), rated `1507`.
-The game is `FlyingFabolousFish (2126)` vs `gentlegambit_Zukerto (2076)` at `3+0` time control,
-with themes `middlegame, oneMove, pin, mateIn1, smotheredMate`. You can [view the full game](https://lichess.org/TLRdNniQ),
-and the first solution move is `e4g3`.
+It is `Black to move` in puzzle [z9Z8G](https://lichess.org/training/z9Z8G), rated `1402`.
+The game is `Sulfi7 (1949)` vs `jcb_monkey (1705)` at `10+5` time control,
+with themes `middlegame, advantage, attraction, fork, long, capturingDefender`. You can [view the full game](https://lichess.org/FcErrzlO),
+and the first solution move is `h4f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

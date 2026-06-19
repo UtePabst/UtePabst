@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp4p1p%2FQ2p2p1%2F2pPb2P%2F4P3%2F4BP2%2Fr1q1NKP1%2F8%20w%20-%20-%205%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2R2Qpk%2F5p1p%2F8%2F1p2r3%2F7P%2FP2q1PP1%2F6K1%20b%20-%20-%205%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [N7R8y](https://lichess.org/training/N7R8y), rated `1476`.
-The game is `Sergey_Averchenko (2117)` vs `wincearnheim (2091)` at `3+2` time control,
-with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/PtHc9ca5),
-and the first solution move is `a6c8`.
+It is `Black to move` in puzzle [QHpav](https://lichess.org/training/QHpav), rated `1392`.
+The game is `keremArhan (1910)` vs `noyes (1846)` at `20+10` time control,
+with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/btobMiE3),
+and the first solution move is `e4e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

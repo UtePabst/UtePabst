@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr1r2%2FQp2p2p%2F2qp2p1%2F8%2F2n5%2F2P5%2FP5PP%2FR1B2R1K%20w%20-%20-%201%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3K4%2F7R%2Fr7%2F8%2FP1P5%2F1P5p%2F7k%2F8%20b%20-%20-%200%2053&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [gbbHX](https://lichess.org/training/gbbHX), rated `1549`.
-The game is `ersanto (1992)` vs `MustafaSami11 (1676)` at `3+0` time control,
-with themes `middlegame, long, crushing, skewer`. You can [view the full game](https://lichess.org/b3aGqUmQ),
-and the first solution move is `f1f8`.
+It is `Black to move` in puzzle [VIL6X](https://lichess.org/training/VIL6X), rated `1461`.
+The game is `ProntoPresto (2114)` vs `Honfleur (2038)` at `5+0` time control,
+with themes `endgame, crushing, long, rookEndgame, skewer`. You can [view the full game](https://lichess.org/r0LfQ1GB),
+and the first solution move is `a6a8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

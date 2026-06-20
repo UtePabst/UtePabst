@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F6pp%2Fp3B1p1%2F1p6%2F1P6%2FP1r3P1%2F4KR1P%2F3R4%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F1p1q1pk1%2Fp5b1%2F2R4p%2FP7%2F1r5P%2F5QPB%2F2R3K1%20w%20-%20-%201%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [0mFnX](https://lichess.org/training/0mFnX), rated `1488`.
-The game is `aylolazez12 (1913)` vs `rhinovsvenom (1879)` at `10+0` time control,
-with themes `short, advantage, endgame`. You can [view the full game](https://lichess.org/ZdNFcw9J),
-and the first solution move is `c3c2`.
+It is `White to move` in puzzle [jgS0z](https://lichess.org/training/jgS0z), rated `1599`.
+The game is `saeta (2542)` vs `uhlmannfan (2533)` at `3+0` time control,
+with themes `short, crushing, pin, master, middlegame`. You can [view the full game](https://lichess.org/AQ0TQP1L),
+and the first solution move is `h2e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

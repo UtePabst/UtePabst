@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rQq1k%2F1p1P2pp%2Fp5p1%2FP1p5%2F8%2FB1P1p3%2FP3RbPP%2F7K%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r4k%2F4QRpp%2Fb1N5%2Fp1q5%2F8%2FP5P1%2F1PP4P%2F1K6%20b%20-%20-%202%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [KHifo](https://lichess.org/training/KHifo), rated `1579`.
-The game is `LeoTobares (2298)` vs `lumabi (2195)` at `3+0` time control,
-with themes `endgame, master, short, advantage`. You can [view the full game](https://lichess.org/ENJyRahE),
-and the first solution move is `e8f8`.
+It is `Black to move` in puzzle [tkg7x](https://lichess.org/training/tkg7x), rated `1332`.
+The game is `HLViktor1981 (1724)` vs `xlnc (1722)` at `3+0` time control,
+with themes `endgame, crushing, fork, long`. You can [view the full game](https://lichess.org/gLW0A5lM),
+and the first solution move is `c5g1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

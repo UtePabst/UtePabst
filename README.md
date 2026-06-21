@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1n4k1%2F4q1pp%2F1R2pp2%2F2Np4%2F3P4%2F2r1PQ1P%2F5PP1%2F6K1%20b%20-%20-%202%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2F1p1n1p2%2Fp4N1p%2F2q3p1%2F3Q1nP1%2F5N1P%2FPP3KP1%2FR6R%20w%20-%20-%203%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [PXzVV](https://lichess.org/training/PXzVV), rated `1362`.
-The game is `dtoledo (2032)` vs `monty6000 (1670)` at `10+5` time control,
-with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/JWmwGjJW),
-and the first solution move is `c3c1`.
+It is `White to move` in puzzle [WtuhS](https://lichess.org/training/WtuhS), rated `1385`.
+The game is `Sehceuh (2510)` vs `diamanteazul (2532)` at `3+0` time control,
+with themes `veryLong, fork, discoveredAttack, hangingPiece, master, middlegame, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/a5bpMFLc),
+and the first solution move is `f6d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6k%2F4qpR1%2Fp1n1p2P%2F3pPp2%2F3P4%2F2p3Q1%2FPp3P2%2F1K6%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F8%2F1PP2kp1%2F5pbp%2FB7%2F2Nn4%2F3p2PP%2F3R1K2%20b%20-%20-%200%2041&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [DWUM2](https://lichess.org/training/DWUM2), rated `1514`.
-The game is `Der_Papa (2291)` vs `speeTortoise (2334)` at `3+2` time control,
-with themes `short, attraction, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/eoF4xJ2H),
-and the first solution move is `g7h7`.
+It is `Black to move` in puzzle [1THWF](https://lichess.org/training/1THWF), rated `1285`.
+The game is `Bassamalmasry0 (1741)` vs `ahmed_106 (2104)` at `3+2` time control,
+with themes `advancedPawn, short, promotion, endgame, mateIn2`. You can [view the full game](https://lichess.org/mBdm4vnX),
+and the first solution move is `e8e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

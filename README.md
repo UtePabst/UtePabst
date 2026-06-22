@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2b3r1%2Fp6k%2F1p4R1%2F3N1P2%2F1P6%2FP5P1%2F4p1KP%2F3r4%20w%20-%20-%203%2044&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F4R1pp%2F1p6%2Fp2p2n1%2FP2N2n1%2F6P1%2F1PP2r1P%2FR5K1%20b%20-%20-%201%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [amkWB](https://lichess.org/training/amkWB), rated `1311`.
-The game is `BeetSweetPete (1601)` vs `nitizzzzzzzzzzz (1647)` at `5+0` time control,
-with themes `arabianMate, short, fork, endgame, mateIn2`. You can [view the full game](https://lichess.org/Z5swGrF8),
-and the first solution move is `d5f6`.
+It is `Black to move` in puzzle [1JQUA](https://lichess.org/training/1JQUA), rated `1283`.
+The game is `iakov98 (2607)` vs `academyisback (2417)` at `3+2` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/5mSoZk37),
+and the first solution move is `g5h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

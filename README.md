@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p2%2F6pk%2F2P4p%2FB3qQ1K%2F1P4PP%2F8%2F8%20b%20-%20-%201%2043&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F2p5%2F1p3q1p%2F3P1Pp1%2Fp2n4%2F3P2P1%2F5P1P%2F1R1QR1K1%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [wI3c7](https://lichess.org/training/wI3c7), rated `1374`.
-The game is `Leon_Blanco (2392)` vs `mrsnckl (2428)` at `3+0` time control,
-with themes `endgame, master, oneMove, mateIn1, pin`. You can [view the full game](https://lichess.org/k0x0Ir1E),
-and the first solution move is `g6g5`.
+It is `Black to move` in puzzle [1HR01](https://lichess.org/training/1HR01), rated `1281`.
+The game is `peyman_zy (2303)` vs `Markus_Lammers (2569)` at `3+0` time control,
+with themes `endgame, crushing, attraction, fork, long`. You can [view the full game](https://lichess.org/4VeDXA1S),
+and the first solution move is `e8e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

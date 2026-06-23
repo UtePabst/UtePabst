@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr2nr%2Fpp1b1Nbp%2Fn7%2F3p1p2%2F1PP2Bpq%2FP2K4%2F6PP%2FRN1Q1B1R%20w%20-%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fpp1n1p2%2F2pBpbpQ%2Fq6p%2F3P4%2F8%2FPPP2PPP%2FR4RK1%20b%20-%20-%203%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [WJvB6](https://lichess.org/training/WJvB6), rated `1452`.
-The game is `kha226 (1503)` vs `Alenid (1522)` at `5+0` time control,
-with themes `middlegame, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/WSVLvbQC),
-and the first solution move is `f7d6`.
+It is `Black to move` in puzzle [of1Jk](https://lichess.org/training/of1Jk), rated `1589`.
+The game is `LiuBigMaster (2086)` vs `Yes-Iam-Hero (2078)` at `10+5` time control,
+with themes `trappedPiece, short, advantage, middlegame`. You can [view the full game](https://lichess.org/Vdj2wmvK),
+and the first solution move is `f6g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

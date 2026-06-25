@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpb3p2%2F1p4pp%2Fq3P3%2F2B2P2%2F1Pr4P%2FP3Q1P1%2F3R3K%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2k4%2Fp1p2p2%2F1p1q4%2F1Bnb2rp%2F8%2F2P2N1P%2FPP3PP1%2FR3R1K1%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [JSU4u](https://lichess.org/training/JSU4u), rated `1481`.
-The game is `Isan80 (2029)` vs `Naughty_Student101 (1991)` at `15+5` time control,
-with themes `endgame, crushing, pin, deflection, veryLong`. You can [view the full game](https://lichess.org/QNLMFc3n),
-and the first solution move is `c3h3`.
+It is `White to move` in puzzle [97Zm5](https://lichess.org/training/97Zm5), rated `1273`.
+The game is `Garik2004 (2271)` vs `Mistyyy2020 (2069)` at `10+0` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/ubTmOQjl),
+and the first solution move is `e1e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

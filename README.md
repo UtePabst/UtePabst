@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F5p1p%2F1p2p1p1%2Fp7%2Fq1rP1PP1%2FP2RQ3%2F1P3R1P%2F6K1%20w%20-%20-%209%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F6p1%2F4qp1p%2Fp2p4%2FQ1pP4%2F2PN1PnP%2FP5P1%2F4R1K1%20b%20-%20-%201%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [qz2XC](https://lichess.org/training/qz2XC), rated `1336`.
-The game is `Andri_R (1747)` vs `Cionfi (1717)` at `10+0` time control,
-with themes `endgame, crushing, short, fork`. You can [view the full game](https://lichess.org/MBimNk9c),
-and the first solution move is `b2b3`.
+It is `Black to move` in puzzle [DXHmB](https://lichess.org/training/DXHmB), rated `1512`.
+The game is `BM-Mayank-Hinge (2078)` vs `sergeybam2354 (2046)` at `10+0` time control,
+with themes `endgame, short, advantage, kingsideAttack`. You can [view the full game](https://lichess.org/GXfT4pT9),
+and the first solution move is `g3e2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1k1nr%2Fppqpppbp%2F6p1%2F2p5%2F2BNP3%2FP1N5%2F1PPP1PPP%2FR1BQ1RK1%20b%20kq%20-%200%207&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpb3p2%2F1p4pp%2Fq3P3%2F2B2P2%2F1Pr4P%2FP3Q1P1%2F3R3K%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [WOMsA](https://lichess.org/training/WOMsA), rated `1566`.
-The game is `Zubmag34 (1800)` vs `Ditiatev (1772)` at `10+0` time control,
-with themes `advantage, short, opening`. You can [view the full game](https://lichess.org/ZOO4ewl5),
-and the first solution move is `c5d4`.
+It is `Black to move` in puzzle [JSU4u](https://lichess.org/training/JSU4u), rated `1481`.
+The game is `Isan80 (2029)` vs `Naughty_Student101 (1991)` at `15+5` time control,
+with themes `endgame, crushing, pin, deflection, veryLong`. You can [view the full game](https://lichess.org/QNLMFc3n),
+and the first solution move is `c3h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

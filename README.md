@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=n7%2Fkp1r4%2F4p2p%2F4P1p1%2F1Q3p2%2FP2p4%2F2rNq1PP%2F1R3R1K%20w%20-%20-%2018%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq4%2Fppn2pkr%2F1n3Npp%2F3pP3%2F2p4Q%2F1B6%2FPPP2PPP%2FR3R1K1%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [zPkzk](https://lichess.org/training/zPkzk), rated `1556`.
-The game is `longanizo (2228)` vs `RobertoRochaMAO (2160)` at `3+2` time control,
-with themes `short, advantage, fork, master, middlegame`. You can [view the full game](https://lichess.org/gSyE97rw),
-and the first solution move is `b4a4`.
+It is `White to move` in puzzle [u9zlq](https://lichess.org/training/u9zlq), rated `1447`.
+The game is `vittubhargav (1762)` vs `Josrime (1789)` at `15+10` time control,
+with themes `middlegame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/DP97iO40),
+and the first solution move is `f6h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

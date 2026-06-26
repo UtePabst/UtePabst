@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4Q2p%2F1k2K1p1%2F6P1%2F7P%2F8%2F3q4%20w%20-%20-%2010%2049&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2rq4%2F1bp1pkb1%2Fp2p1pp1%2F1p1n4%2F3P2PP%2F4B3%2FPPP2Q2%2F1K1R1B1R%20b%20-%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [eoPVt](https://lichess.org/training/eoPVt), rated `1464`.
-The game is `Jude20 (2180)` vs `Kirill020696 (1922)` at `10+5` time control,
-with themes `short, crushing, endgame, queenEndgame`. You can [view the full game](https://lichess.org/Lnwg4rLU),
-and the first solution move is `e6d5`.
+It is `Black to move` in puzzle [9GBpw](https://lichess.org/training/9GBpw), rated `1329`.
+The game is `swappybird (2154)` vs `GHOSTLY2004 (2246)` at `10+5` time control,
+with themes `discoveredAttack, advantage, short, middlegame`. You can [view the full game](https://lichess.org/0xPEhD2p),
+and the first solution move is `d5e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

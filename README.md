@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2Fppp1qp1p%2F2b1nN2%2F8%2F2B3Q1%2FP7%2F1PP3P1%2F4RR1K%20w%20-%20-%208%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=Q7%2F5p2%2F5k1p%2F3p2p1%2F2pq4%2F8%2F6PP%2F4K3%20w%20-%20-%200%2047&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [8VB8p](https://lichess.org/training/8VB8p), rated `1377`.
-The game is `gorgo57 (1790)` vs `R2aHiM3 (1788)` at `10+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/uQQMj8HJ),
-and the first solution move is `c4e6`.
+It is `White to move` in puzzle [6PRuM](https://lichess.org/training/6PRuM), rated `1509`.
+The game is `mateteam (2135)` vs `bronyaurstomp (2120)` at `10+0` time control,
+with themes `short, crushing, skewer, endgame, queenEndgame`. You can [view the full game](https://lichess.org/vXXgwTuZ),
+and the first solution move is `a8h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

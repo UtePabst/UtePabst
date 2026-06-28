@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2F2p3p1%2F4R2p%2Fp7%2F1p6%2F1P5P%2FP2q1QPK%2F8%20w%20-%20-%202%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr4%2F1p1q1pp1%2FpQ3n2%2F4B3%2F4p3%2F2P2bP1%2FPP3PB1%2FR3R2K%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [x9zk4](https://lichess.org/training/x9zk4), rated `1489`.
-The game is `ivanivanov99 (1854)` vs `CHGambit (1803)` at `10+0` time control,
-with themes `deflection, endgame, short, crushing`. You can [view the full game](https://lichess.org/JDCOsm6T),
-and the first solution move is `e6e8`.
+It is `Black to move` in puzzle [bakKD](https://lichess.org/training/bakKD), rated `1571`.
+The game is `learner420 (1813)` vs `Therealme987 (1808)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/FNHVSoKa),
+and the first solution move is `d7h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

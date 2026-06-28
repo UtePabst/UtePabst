@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fp5pp%2F5q2%2F2Q3B1%2F2Pp3n%2F7P%2FPP3PP1%2FR3R1K1%20b%20-%20-%202%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1kb1r%2Fpp1npppp%2F2p2n2%2F3p2B1%2F2PP4%2FP1N1P3%2F1q3PPP%2FR2QKBNR%20w%20KQkq%20-%200%207&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Qrno9](https://lichess.org/training/Qrno9), rated `1383`.
-The game is `FShakir20 (1837)` vs `Marcthon (1842)` at `3+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/KnCH8Bgv),
-and the first solution move is `f6f2`.
+It is `White to move` in puzzle [iWzFC](https://lichess.org/training/iWzFC), rated `1510`.
+The game is `p3rvy_sage (1794)` vs `Gia1968 (1776)` at `10+0` time control,
+with themes `trappedPiece, advantage, short, opening`. You can [view the full game](https://lichess.org/GjEjOUtx),
+and the first solution move is `c3a4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

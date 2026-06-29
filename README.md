@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rn3%2Fppq2r2%2F1n1p1b2%2F4pN1P%2F4P1k1%2F7R%2FPPP5%2F2K2R2%20w%20-%20-%201%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k3Qr%2Fb2p4%2Fp2Pp3%2F4Bp2%2F2b5%2F8%2FP4PPP%2FR5K1%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [XtECB](https://lichess.org/training/XtECB), rated `1313`.
-The game is `Palizaha (1734)` vs `trmagis (1733)` at `3+2` time control,
-with themes `middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/J3Lxigfi),
-and the first solution move is `h3g3`.
+It is `Black to move` in puzzle [gKQY4](https://lichess.org/training/gKQY4), rated `1440`.
+The game is `gospodin_stana (1572)` vs `mambotta-tulevich (1611)` at `2+1` time control,
+with themes `hangingPiece, advantage, long, endgame`. You can [view the full game](https://lichess.org/hRCCSPdP),
+and the first solution move is `h8g8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

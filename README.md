@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fp4p2%2F3R2p1%2F5r2%2F2p5%2FP5QP%2F1q4P1%2F3R3K%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3rn3%2Fppq2r2%2F1n1p1b2%2F4pN1P%2F4P1k1%2F7R%2FPPP5%2F2K2R2%20w%20-%20-%201%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [isYfz](https://lichess.org/training/isYfz), rated `1598`.
-The game is `Archae (1725)` vs `Gordo3000 (1694)` at `5+0` time control,
-with themes `endgame, advantage, fork, long, sacrifice`. You can [view the full game](https://lichess.org/Q0Hs0cm3),
-and the first solution move is `d6g6`.
+It is `White to move` in puzzle [XtECB](https://lichess.org/training/XtECB), rated `1313`.
+The game is `Palizaha (1734)` vs `trmagis (1733)` at `3+2` time control,
+with themes `middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/J3Lxigfi),
+and the first solution move is `h3g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

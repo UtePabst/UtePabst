@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F8%2F1p5p%2Fp4Kp1%2FP3R3%2F6rP%2F8%2F8%20w%20-%20-%200%2041&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1Rr5%2FP2N1k2%2F4pp1p%2F8%2F5n1P%2F5p2%2F5PP1%2F6K1%20b%20-%20-%202%2043&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [bHBKy](https://lichess.org/training/bHBKy), rated `1487`.
-The game is `sk1966 (1771)` vs `yuxin123 (1761)` at `3+2` time control,
-with themes `exposedKing, endgame, rookEndgame, long, mateIn3`. You can [view the full game](https://lichess.org/dxFGG4Vn),
-and the first solution move is `f5g6`.
+It is `Black to move` in puzzle [ad6o8](https://lichess.org/training/ad6o8), rated `1379`.
+The game is `husu_kotr (1974)` vs `Ziganok (1790)` at `30+20` time control,
+with themes `endgame, advancedPawn, crushing, long`. You can [view the full game](https://lichess.org/SZJuYc68),
+and the first solution move is `c8c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

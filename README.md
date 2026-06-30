@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5k2%2F6p1%2F3q4%2F5P2%2F4B1RK%2F5P2%2F8%20b%20-%20-%209%2074&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpp3pp1%2Fb1n2qP1%2F3Q1P2%2F6K1%2F8%2FP1P5%2F7R%20w%20-%20-%207%2038&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [urV7I](https://lichess.org/training/urV7I), rated `1418`.
-The game is `BulletOnly_97 (2396)` vs `Guachupino (2481)` at `3+2` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/xGfXgs2I),
-and the first solution move is `d5h1`.
+It is `White to move` in puzzle [6H9cZ](https://lichess.org/training/6H9cZ), rated `1454`.
+The game is `zhenya1234 (1868)` vs `amirgharghi (1873)` at `3+2` time control,
+with themes `veryLong, endgame, attraction, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/7VY5UqgT),
+and the first solution move is `h1h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp3p1p%2F4bk2%2Fr7%2F2P1ppB1%2F1P2r2P%2FP2K2P1%2F5RR1%20w%20-%20-%2010%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F2pQ2pp%2Fpp6%2F3P2Nq%2F2PP4%2F2P1P3%2FP4pRP%2F2KR4%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [bWtbb](https://lichess.org/training/bWtbb), rated `1287`.
-The game is `ParthJoshi1213 (1966)` vs `Elronnd (1964)` at `10+0` time control,
-with themes `endgame, short, crushing`. You can [view the full game](https://lichess.org/PXz3oFyA),
-and the first solution move is `f1f4`.
+It is `Black to move` in puzzle [4QHM2](https://lichess.org/training/4QHM2), rated `1429`.
+The game is `HarisPilt0n (1902)` vs `jamesjohnsonjr73 (1925)` at `5+0` time control,
+with themes `exposedKing, endgame, advancedPawn, advantage, attraction, fork, long, promotion`. You can [view the full game](https://lichess.org/jCVCi5fu),
+and the first solution move is `h5d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

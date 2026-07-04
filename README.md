@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6kr%2F1p1r1pp1%2F5b1p%2F2BR4%2Fq5P1%2F2P4P%2FPP1Q4%2F2K2R2%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpp3rR1%2Fq1p1p3%2F8%2F1P1PPr2%2FP4PQP%2F6P1%2F3R2K1%20b%20-%20-%200%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [rT2Cx](https://lichess.org/training/rT2Cx), rated `1489`.
-The game is `fredgra2 (2210)` vs `CarlosMagsenGm4 (2199)` at `3+0` time control,
-with themes `short, advantage, pin, middlegame`. You can [view the full game](https://lichess.org/CWnETQSc),
-and the first solution move is `f6g5`.
+It is `Black to move` in puzzle [L1sCk](https://lichess.org/training/L1sCk), rated `1539`.
+The game is `Whatsup_Danger (2221)` vs `Noob_TM (1735)` at `10+0` time control,
+with themes `advantage, long, endgame`. You can [view the full game](https://lichess.org/tqqUFnIG),
+and the first solution move is `f7g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

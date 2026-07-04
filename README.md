@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q4%2F1bpn1nk1%2F1p1pp3%2Fp6R%2F2PPP3%2F2NB1r2%2FPP1Q4%2FR2K4%20w%20-%20-%203%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1P6%2F1r6%2F8%2F2kN4%2F2P5%2F2K5%2F8%20w%20-%20-%201%2092&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [F2t2u](https://lichess.org/training/F2t2u), rated `1452`.
-The game is `dvs7777 (1895)` vs `irvi_7667 (1909)` at `10+0` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/akXfInnI),
-and the first solution move is `d2g2`.
+It is `White to move` in puzzle [lEUBm](https://lichess.org/training/lEUBm), rated `1526`.
+The game is `Drk14 (1720)` vs `gasparecp (1725)` at `10+5` time control,
+with themes `endgame, crushing, long, quietMove, fork`. You can [view the full game](https://lichess.org/vBA29lJA),
+and the first solution move is `d4c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

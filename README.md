@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r2%2Fpp1b1pk1%2F2p1pRpp%2F4P3%2F2PPQ1P1%2F6K1%2FPPBq3P%2F8%20w%20-%20-%204%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpk2P2p%2F1pp5%2F7P%2F5Q2%2FP7%2F1P2q3%2F1K6%20w%20-%20-%202%2044&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [fUCaE](https://lichess.org/training/fUCaE), rated `1316`.
-The game is `Edisonpaulo (2065)` vs `valera1952 (2066)` at `5+0` time control,
-with themes `middlegame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/hsi7oO2S),
-and the first solution move is `f6g6`.
+It is `White to move` in puzzle [fRdEr](https://lichess.org/training/fRdEr), rated `1529`.
+The game is `sulamitachess (1917)` vs `EnxadristaHeterodoxo (2010)` at `3+0` time control,
+with themes `crushing, long, queenEndgame, endgame`. You can [view the full game](https://lichess.org/UfaNQgCP),
+and the first solution move is `f4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

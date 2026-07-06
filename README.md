@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1b6%2F5p1k%2Fp7%2F6p1%2FPp2RP1p%2F1B1P3P%2F2P1q1P1%2F5RK1%20b%20-%20-%201%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn1qk2r%2Fpb1p1pp1%2F1p1bpn1p%2F2p5%2F4P3%2F2NPBN1P%2FPPP1BPP1%2FR2QK2R%20w%20KQkq%20-%201%208&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [EdJbU](https://lichess.org/training/EdJbU), rated `1387`.
-The game is `Bersek_account (2159)` vs `herichess5 (2531)` at `3+0` time control,
-with themes `deflection, endgame, master, short, crushing, pin`. You can [view the full game](https://lichess.org/jpEzouAk),
-and the first solution move is `b8a7`.
+It is `White to move` in puzzle [rGcCh](https://lichess.org/training/rGcCh), rated `1331`.
+The game is `noobplayse4 (1935)` vs `Pavel199214 (1914)` at `10+0` time control,
+with themes `short, crushing, fork, opening`. You can [view the full game](https://lichess.org/HRNhWN3O),
+and the first solution move is `e4e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

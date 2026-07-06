@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnb1k2r%2Fpp2ppbp%2F1q1p1np1%2F6B1%2F2BN4%2F5Q2%2FPPP2PPP%2FRN2R1K1%20w%20kq%20-%206%2010&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1b6%2F5p1k%2Fp7%2F6p1%2FPp2RP1p%2F1B1P3P%2F2P1q1P1%2F5RK1%20b%20-%20-%201%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [SlPqf](https://lichess.org/training/SlPqf), rated `1603`.
-The game is `abuasr (1876)` vs `howiey (1889)` at `10+0` time control,
-with themes `crushing, pin, short, middlegame`. You can [view the full game](https://lichess.org/tNwQk7z8),
-and the first solution move is `g5f6`.
+It is `Black to move` in puzzle [EdJbU](https://lichess.org/training/EdJbU), rated `1387`.
+The game is `Bersek_account (2159)` vs `herichess5 (2531)` at `3+0` time control,
+with themes `deflection, endgame, master, short, crushing, pin`. You can [view the full game](https://lichess.org/jpEzouAk),
+and the first solution move is `b8a7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

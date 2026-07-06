@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qk1nr%2F4b1pp%2Fp2p4%2F1p2pN2%2F3pP3%2F3P4%2FPPPQN1PP%2F2KR3R%20b%20kq%20-%201%2015&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6r1%2Fpp5k%2F3q1r2%2F6p1%2F7P%2F8%2F6P1%2F2QR3K%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [7nImL](https://lichess.org/training/7nImL), rated `1610`.
-The game is `Mohammad_Noer (2047)` vs `Shapkin_Michael (1914)` at `3+0` time control,
-with themes `middlegame, advantage, long, pin, defensiveMove`. You can [view the full game](https://lichess.org/nClWIHx6),
-and the first solution move is `e7g5`.
+It is `White to move` in puzzle [6wJ7J](https://lichess.org/training/6wJ7J), rated `1541`.
+The game is `aldpr (1610)` vs `dima16081980 (1655)` at `10+0` time control,
+with themes `exposedKing, endgame, advantage, attraction, fork, long`. You can [view the full game](https://lichess.org/FaUe0eHv),
+and the first solution move is `d1d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

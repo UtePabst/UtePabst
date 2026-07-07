@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn1qk2r%2Fpb1p1pp1%2F1p1bpn1p%2F2p5%2F4P3%2F2NPBN1P%2FPPP1BPP1%2FR2QK2R%20w%20KQkq%20-%201%208&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2FR7%2F5p2%2F1P2pk2%2F7R%2Fpq3P1P%2F6P1%2F6K1%20b%20-%20-%201%2047&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [rGcCh](https://lichess.org/training/rGcCh), rated `1331`.
-The game is `noobplayse4 (1935)` vs `Pavel199214 (1914)` at `10+0` time control,
-with themes `short, crushing, fork, opening`. You can [view the full game](https://lichess.org/HRNhWN3O),
-and the first solution move is `e4e5`.
+It is `Black to move` in puzzle [pTJ87](https://lichess.org/training/pTJ87), rated `1440`.
+The game is `MachineGunTerror (2580)` vs `Tec9BanYedi (2418)` at `10+0` time control,
+with themes `endgame, short, crushing, fork, queenRookEndgame`. You can [view the full game](https://lichess.org/vkVChui7),
+and the first solution move is `b3e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

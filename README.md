@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnbk3r%2Fpp1p1pb1%2F2p2npp%2F2P1Q3%2F6q1%2F1P2P3%2FP2B1PPP%2FRN2KBNR%20w%20KQ%20-%201%2013&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp5rp%2F1p4pQ%2F4Rp2%2F3PpP2%2F2P1P2K%2FP5R1%2F5q2%20b%20-%20-%2017%2039&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [UdCfu](https://lichess.org/training/UdCfu), rated `1335`.
-The game is `s-sea (1691)` vs `FratDylan (1602)` at `10+0` time control,
-with themes `short, crushing, opening`. You can [view the full game](https://lichess.org/t3KGJyZR),
-and the first solution move is `d2a5`.
+It is `Black to move` in puzzle [xFMrL](https://lichess.org/training/xFMrL), rated `1403`.
+The game is `RoderickDeKleine (1896)` vs `TheSpecial (1867)` at `10+0` time control,
+with themes `endgame, advantage, skewer, long`. You can [view the full game](https://lichess.org/IG1I0qgJ),
+and the first solution move is `f1h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

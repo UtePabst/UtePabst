@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F6p1%2Fp2B3p%2F1pP5%2F1P2P3%2FP3q3%2F1Q4n1%2F5KR1%20b%20-%20-%202%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k5%2Fppq3p1%2F3p4%2F2p3p1%2F2B1Q1P1%2FP3N1K1%2F1P3r1r%2FR7%20w%20-%20-%204%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [G0OFL](https://lichess.org/training/G0OFL), rated `1513`.
-The game is `Chiprian (2227)` vs `GSRAkz (2527)` at `3+0` time control,
-with themes `exposedKing, endgame, long, mateIn3`. You can [view the full game](https://lichess.org/o50pDSKF),
-and the first solution move is `e3f3`.
+It is `White to move` in puzzle [OQHsv](https://lichess.org/training/OQHsv), rated `1480`.
+The game is `svrck (1714)` vs `vahid_radaeii (1711)` at `10+0` time control,
+with themes `middlegame, queensideAttack, mateIn4, deflection, veryLong`. You can [view the full game](https://lichess.org/kyhP0QWq),
+and the first solution move is `e4e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

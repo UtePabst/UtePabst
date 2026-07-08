@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bQ4%2Fpp2qkbp%2F2p2np1%2F1Pn2p2%2F2P5%2F5NP1%2FP3PPBP%2F3R1RK1%20w%20-%20-%203%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1p3ppp%2Fp3pn2%2FP3p3%2F1P2P3%2FQ6P%2F2qr1PP1%2F4RBK1%20w%20-%20-%202%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vCxGs](https://lichess.org/training/vCxGs), rated `1292`.
-The game is `ledinavelosipede (2516)` vs `PaBr21 (2377)` at `3+0` time control,
-with themes `oneMove, mateIn1, master, middlegame`. You can [view the full game](https://lichess.org/dTf1W54b),
-and the first solution move is `f3g5`.
+It is `White to move` in puzzle [H7rTm](https://lichess.org/training/H7rTm), rated `1276`.
+The game is `Vahe_S (2730)` vs `AttackingBeast (2708)` at `3+0` time control,
+with themes `advantage, short, master, endgame`. You can [view the full game](https://lichess.org/omcClje6),
+and the first solution move is `e1c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r5%2F2q5%2F3p3k%2F1p4p1%2Fp2QPb2%2F3P1P2%2FPPr2P2%2FK2R4%20w%20-%20-%200%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1pp3pp%2Fp1pb1pn1%2F8%2F3PP3%2F5N1q%2FPP3P1N%2FR1BQR2K%20b%20-%20-%200%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Wbsd7](https://lichess.org/training/Wbsd7), rated `1614`.
-The game is `AlejCosta (1549)` vs `PereACDC (1556)` at `5+3` time control,
-with themes `veryLong, endgame, mateIn4`. You can [view the full game](https://lichess.org/Zgt9V0wg),
-and the first solution move is `d4f6`.
+It is `Black to move` in puzzle [2HvgN](https://lichess.org/training/2HvgN), rated `1574`.
+The game is `Asaalh65 (1925)` vs `peluchon (1882)` at `3+2` time control,
+with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/m5EarRET),
+and the first solution move is `g6h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1pp3pp%2Fp1pb1pn1%2F8%2F3PP3%2F5N1q%2FPP3P1N%2FR1BQR2K%20b%20-%20-%200%2015&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F1Q3p1p%2F3Rp1p1%2F8%2F4PP2%2F1Pq5%2F6PP%2Fr2R3K%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [2HvgN](https://lichess.org/training/2HvgN), rated `1574`.
-The game is `Asaalh65 (1925)` vs `peluchon (1882)` at `3+2` time control,
-with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/m5EarRET),
-and the first solution move is `g6h4`.
+It is `Black to move` in puzzle [7omEc](https://lichess.org/training/7omEc), rated `1454`.
+The game is `Aaket (1791)` vs `Mohammed_hussain1 (1756)` at `10+0` time control,
+with themes `short, xRayAttack, sacrifice, backRankMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/k4zYHU3H),
+and the first solution move is `c3e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

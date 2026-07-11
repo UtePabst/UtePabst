@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1k1p4%2Fp1pPp2p%2FP1K1P1pP%2F1P3nP1%2F8%2F3B4%20w%20-%20-%2016%2046&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r2k2r%2F2Qp1p2%2F6pp%2FN3Pp2%2F1n1PbP2%2F4B1P1%2F1P5P%2F2KRR3%20b%20k%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [F3iMF](https://lichess.org/training/F3iMF), rated `1619`.
-The game is `Rhich60 (2119)` vs `Apion (2178)` at `3+2` time control,
-with themes `crushing, long, endgame`. You can [view the full game](https://lichess.org/5VJzVAf2),
-and the first solution move is `d1f3`.
+It is `Black to move` in puzzle [xFpiO](https://lichess.org/training/xFpiO), rated `1319`.
+The game is `alca_AC (2072)` vs `helium_ferrum (2044)` at `3+0` time control,
+with themes `deflection, middlegame, long, mateIn3, discoveredAttack, queensideAttack, operaMate`. You can [view the full game](https://lichess.org/xSRbKGj5),
+and the first solution move is `b4a2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

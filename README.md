@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6k%2Fp1q3pp%2Fb7%2F3Qr3%2F5P2%2F7P%2FPP3RP1%2F6K1%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1k3%2Fpp5p%2F8%2F4Npq1%2F1p1p4%2F3P4%2FP1P1PKPP%2FRN2QB1R%20b%20q%20-%204%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [DzAOF](https://lichess.org/training/DzAOF), rated `1569`.
-The game is `kamyar77 (2116)` vs `Osama_King96 (2120)` at `15+10` time control,
-with themes `endgame, crushing, long, hangingPiece`. You can [view the full game](https://lichess.org/klaE6ohJ),
-and the first solution move is `d5a8`.
+It is `Black to move` in puzzle [Qlfih](https://lichess.org/training/Qlfih), rated `1428`.
+The game is `bechik (1952)` vs `kuvorti (1977)` at `3+0` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/mrQu73sT),
+and the first solution move is `g5e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

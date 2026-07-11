@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2q3k1%2F1p4pp%2F5p2%2F3R4%2F8%2FP1P2rPK%2F3Q4%2F8%20w%20-%20-%201%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qkb1r%2Fppp2ppp%2F3p4%2F4N3%2F2B1P3%2F2N5%2FPP3PPP%2FR2bK2R%20w%20KQkq%20-%200%2012&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [NDgr7](https://lichess.org/training/NDgr7), rated `1558`.
-The game is `jahan7 (1738)` vs `Nic007 (1794)` at `5+0` time control,
-with themes `endgame, crushing, fork, long, defensiveMove`. You can [view the full game](https://lichess.org/NocT8YEf),
-and the first solution move is `h3g2`.
+It is `White to move` in puzzle [6MKAf](https://lichess.org/training/6MKAf), rated `1272`.
+The game is `bilankah (1544)` vs `AdwaithKV (1527)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, attackingF2F7`. You can [view the full game](https://lichess.org/TK99xHdc),
+and the first solution move is `c4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

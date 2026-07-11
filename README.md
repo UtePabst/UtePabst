@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qkb1r%2Fppp2ppp%2F3p4%2F4N3%2F2B1P3%2F2N5%2FPP3PPP%2FR2bK2R%20w%20KQkq%20-%200%2012&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2r1k%2Fpp6%2F3p1p2%2F8%2F2QnP3%2F8%2FPqP2PPP%2F1R3RK1%20w%20-%20-%209%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [6MKAf](https://lichess.org/training/6MKAf), rated `1272`.
-The game is `bilankah (1544)` vs `AdwaithKV (1527)` at `10+0` time control,
-with themes `mateIn2, middlegame, short, attackingF2F7`. You can [view the full game](https://lichess.org/TK99xHdc),
-and the first solution move is `c4f7`.
+It is `White to move` in puzzle [P0dOi](https://lichess.org/training/P0dOi), rated `1364`.
+The game is `levo79 (1617)` vs `portirus (1668)` at `15+15` time control,
+with themes `middlegame, crushing, short`. You can [view the full game](https://lichess.org/v7oVLYFJ),
+and the first solution move is `c4c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4b1r%2F3b2kp%2Fpq1p1pp1%2F3Q4%2F8%2F8%2FPPP2PPP%2FRN3RK1%20w%20-%20-%203%2016&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F5Rp1%2F3P3p%2Fp1p1p3%2F1bQ1P3%2F1B6%2FPP6%2F1K4q1%20w%20-%20-%201%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [lSr5o](https://lichess.org/training/lSr5o), rated `1423`.
-The game is `richardmokoginta (2100)` vs `TimSalavat (2063)` at `10+5` time control,
-with themes `short, advantage, hangingPiece, middlegame`. You can [view the full game](https://lichess.org/9TrVrlKe),
-and the first solution move is `d5a8`.
+It is `White to move` in puzzle [zz13E](https://lichess.org/training/zz13E), rated `1403`.
+The game is `jamusteszub (1869)` vs `AlexeyM_N (1840)` at `10+0` time control,
+with themes `middlegame, short, discoveredCheck, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/8xZJBM8t),
+and the first solution move is `f7f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

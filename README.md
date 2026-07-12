@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2r1k%2Fpp6%2F3p1p2%2F8%2F2QnP3%2F8%2FPqP2PPP%2F1R3RK1%20w%20-%20-%209%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=R7%2F5k2%2F8%2FP4PK1%2Fr7%2F4P3%2F3n1P2%2F8%20b%20-%20-%206%2049&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [P0dOi](https://lichess.org/training/P0dOi), rated `1364`.
-The game is `levo79 (1617)` vs `portirus (1668)` at `15+15` time control,
-with themes `middlegame, crushing, short`. You can [view the full game](https://lichess.org/v7oVLYFJ),
-and the first solution move is `c4c8`.
+It is `Black to move` in puzzle [apgZy](https://lichess.org/training/apgZy), rated `1554`.
+The game is `Golubovsky_Max (2503)` vs `BLITZ16 (2565)` at `3+0` time control,
+with themes `master, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/jcMoVfc5),
+and the first solution move is `d2f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

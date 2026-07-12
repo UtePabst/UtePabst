@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2R5%2F5pk1%2F4P3%2F3pn3%2F3Nn3%2F4B3%2F1rP3P1%2F6K1%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1b1r%2Fppp2kpp%2F5p2%2F4pQ2%2F2b5%2FP4N2%2F1P1P1PPP%2FR1B1K2R%20w%20KQ%20-%208%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [IR2Xe](https://lichess.org/training/IR2Xe), rated `1364`.
-The game is `KaryGasparov64 (2347)` vs `imdejong (2474)` at `3+0` time control,
-with themes `endgame, master, crushing, fork, long`. You can [view the full game](https://lichess.org/h6vdnDVY),
-and the first solution move is `b2b1`.
+It is `White to move` in puzzle [28XQv](https://lichess.org/training/28XQv), rated `1599`.
+The game is `SergAles (1672)` vs `Horson (1701)` at `15+30` time control,
+with themes `middlegame, short, crushing, pin`. You can [view the full game](https://lichess.org/0JTVnz0i),
+and the first solution move is `f3e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

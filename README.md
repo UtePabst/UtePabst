@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1pkb4%2F5B2%2Fp1P5%2Fr7%2F5KP1%2F8%2F3R4%20b%20-%20-%204%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3b3p%2F3p1kpK%2Fp2p4%2FP1pP2P1%2F2P3P1%2F2B5%20w%20-%20-%200%2045&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [DFn8J](https://lichess.org/training/DFn8J), rated `1310`.
-The game is `RiadTiz (1799)` vs `k2141b (1755)` at `10+0` time control,
-with themes `endgame, short, crushing, skewer`. You can [view the full game](https://lichess.org/bhkoVtBZ),
-and the first solution move is `d7g4`.
+It is `White to move` in puzzle [MAXla](https://lichess.org/training/MAXla), rated `1365`.
+The game is `Nidallee (2121)` vs `Vlad6019 (2160)` at `10+5` time control,
+with themes `endgame, crushing, long, bishopEndgame`. You can [view the full game](https://lichess.org/lfLy9HTn),
+and the first solution move is `g3g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

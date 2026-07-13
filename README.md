@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fpp3p1p%2F2n3p1%2F3R4%2F1N6%2F1P5P%2FP4PPK%2F8%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F1p1qbppp%2Fp3pn2%2F2Bp4%2FNP6%2FP4PP1%2F5P1P%2F2RQ1RK1%20w%20-%20-%205%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [pE8m1](https://lichess.org/training/pE8m1), rated `1494`.
-The game is `i1312 (1705)` vs `queenmaya1 (1777)` at `30+20` time control,
-with themes `endgame, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/5PlT3M2w),
-and the first solution move is `b4c6`.
+It is `White to move` in puzzle [bYZx5](https://lichess.org/training/bYZx5), rated `1448`.
+The game is `Poifiend (1989)` vs `Kapi0okapi (2016)` at `10+0` time control,
+with themes `middlegame, advantage, short, fork`. You can [view the full game](https://lichess.org/Ga3NedHU),
+and the first solution move is `a4b6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

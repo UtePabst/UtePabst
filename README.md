@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F1p1qbppp%2Fp3pn2%2F2Bp4%2FNP6%2FP4PP1%2F5P1P%2F2RQ1RK1%20w%20-%20-%205%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2FPR3pp1%2F6k1%2F1K6%2F1p6%2F1P5p%2F8%2Fr7%20w%20-%20-%200%2054&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [bYZx5](https://lichess.org/training/bYZx5), rated `1448`.
-The game is `Poifiend (1989)` vs `Kapi0okapi (2016)` at `10+0` time control,
-with themes `middlegame, advantage, short, fork`. You can [view the full game](https://lichess.org/Ga3NedHU),
-and the first solution move is `a4b6`.
+It is `White to move` in puzzle [x4Ndt](https://lichess.org/training/x4Ndt), rated `1480`.
+The game is `MightBeDecent (2650)` vs `INDIAN-ELEPHANT (2734)` at `3+0` time control,
+with themes `endgame, master, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/qMGNQ8Sf),
+and the first solution move is `b7b6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

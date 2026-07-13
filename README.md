@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2FPR3pp1%2F6k1%2F1K6%2F1p6%2F1P5p%2F8%2Fr7%20w%20-%20-%200%2054&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k1rQbnr%2Fpp4pp%2F8%2F4Pb2%2F1P1qpB2%2FP7%2F3N1PPP%2FR1R3K1%20w%20-%20-%204%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [x4Ndt](https://lichess.org/training/x4Ndt), rated `1480`.
-The game is `MightBeDecent (2650)` vs `INDIAN-ELEPHANT (2734)` at `3+0` time control,
-with themes `endgame, master, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/qMGNQ8Sf),
-and the first solution move is `b7b6`.
+It is `White to move` in puzzle [UXN64](https://lichess.org/training/UXN64), rated `1280`.
+The game is `ostspies (2120)` vs `Firat_Bicer (1787)` at `5+2` time control,
+with themes `middlegame, queensideAttack, discoveredCheck, xRayAttack, long, mateIn3, discoveredAttack`. You can [view the full game](https://lichess.org/JeDKO0mZ),
+and the first solution move is `e5e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

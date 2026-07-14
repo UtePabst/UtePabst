@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7r%2F4K2k%2F8%2F8%2F6R1%2F8%2F8%2F8%20w%20-%20-%208%2074&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F3R2bp%2FB5p1%2FB4p2%2Fp3p3%2F2P1K3%2F1r4PP%2F8%20b%20-%20-%202%2038&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vmBx0](https://lichess.org/training/vmBx0), rated `1579`.
-The game is `BlitzAlaz (2532)` vs `Boreminator (2567)` at `3+0` time control,
-with themes `exposedKing, endgame, crushing, long, rookEndgame, skewer`. You can [view the full game](https://lichess.org/rA9X4PcC),
-and the first solution move is `e7f7`.
+It is `Black to move` in puzzle [P5wKb](https://lichess.org/training/P5wKb), rated `1522`.
+The game is `doctormedicine544 (1825)` vs `Zholtok (2012)` at `5+0` time control,
+with themes `exposedKing, endgame, crushing, skewer, long`. You can [view the full game](https://lichess.org/sgfjuwha),
+and the first solution move is `g7h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

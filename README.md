@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k1rQbnr%2Fpp4pp%2F8%2F4Pb2%2F1P1qpB2%2FP7%2F3N1PPP%2FR1R3K1%20w%20-%20-%204%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4Q3%2F1p4pp%2F1B1qp3%2F3p2k1%2F6P1%2F3K1R2%2Fr7%2F8%20w%20-%20-%205%2033&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [UXN64](https://lichess.org/training/UXN64), rated `1280`.
-The game is `ostspies (2120)` vs `Firat_Bicer (1787)` at `5+2` time control,
-with themes `middlegame, queensideAttack, discoveredCheck, xRayAttack, long, mateIn3, discoveredAttack`. You can [view the full game](https://lichess.org/JeDKO0mZ),
-and the first solution move is `e5e6`.
+It is `White to move` in puzzle [OWsQf](https://lichess.org/training/OWsQf), rated `1329`.
+The game is `NoNameNate (1771)` vs `marckohlbrugge (1767)` at `10+0` time control,
+with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/LWdTxhhM),
+and the first solution move is `e8h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

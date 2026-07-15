@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F1p4p1%2Fp6r%2F3Q4%2FP4PPq%2F2PB3n%2F1P1N2KR%2F5R2%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r4%2F1br2k1p%2F2N2pp1%2F8%2F5K2%2F8%2FP5PP%2F4R3%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [fOePu](https://lichess.org/training/fOePu), rated `1535`.
-The game is `The-master-2004 (2215)` vs `Gustofa008 (2214)` at `10+5` time control,
-with themes `middlegame, short, crushing, fork, discoveredAttack`. You can [view the full game](https://lichess.org/yYJdazGb),
-and the first solution move is `h3f4`.
+It is `White to move` in puzzle [4tBxk](https://lichess.org/training/4tBxk), rated `1528`.
+The game is `Puratasta (1746)` vs `lorenzovc (1737)` at `10+5` time control,
+with themes `veryLong, endgame, crushing, fork, hangingPiece`. You can [view the full game](https://lichess.org/eqeJpU0I),
+and the first solution move is `c6d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

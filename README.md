@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6R1%2F2Qp1p1B%2Fk6p%2Fp5p1%2F1b1N4%2F8%2F1q3PPP%2F6K1%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r2k%2Fp2R3P%2F1p2P1q1%2F5p2%2F2P1b3%2F7Q%2F6PK%2F8%20w%20-%20-%201%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [PYMyz](https://lichess.org/training/PYMyz), rated `1533`.
-The game is `ivanAV (1599)` vs `silentforce (1607)` at `5+0` time control,
-with themes `endgame, fork, long, mateIn3, backRankMate`. You can [view the full game](https://lichess.org/TAcaow3c),
-and the first solution move is `b2a1`.
+It is `White to move` in puzzle [09QnS](https://lichess.org/training/09QnS), rated `1476`.
+The game is `Windom__Earle (2120)` vs `vladrev (2250)` at `3+2` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/nZyOIfoQ),
+and the first solution move is `h3c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1rbnkb1r%2F1p3ppp%2Fp3pn2%2F1N2N3%2F2B1p3%2F8%2FPP1B1PPP%2FR4RK1%20w%20k%20-%200%2013&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpppk3p%2F2nbrp2%2F6p1%2F2P2p2%2F1PB2N2%2FPP4PP%2F3R3K%20w%20-%20-%203%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [TpA8q](https://lichess.org/training/TpA8q), rated `1326`.
-The game is `kinda_Alec (1894)` vs `Mazajohn (1750)` at `3+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/YjTOrm9M),
-and the first solution move is `b5c7`.
+It is `White to move` in puzzle [LP5Xa](https://lichess.org/training/LP5Xa), rated `1580`.
+The game is `Cristobal99 (1894)` vs `pmahcrtur (1893)` at `10+0` time control,
+with themes `endgame, advantage, pin, short`. You can [view the full game](https://lichess.org/1Vg92DgE),
+and the first solution move is `c4c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

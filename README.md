@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r2%2FpQ3p2%2F5Nnk%2F8%2F5p1q%2F8%2FPPP4n%2F2K4R%20w%20-%20-%202%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1q2k1r%2Fppp1p1b1%2F3p1nQ1%2F3Pp1B1%2F2P5%2F2N3Pb%2FPP2P2P%2FR3R1KB%20b%20-%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [o6b93](https://lichess.org/training/o6b93), rated `1480`.
-The game is `htmb (1826)` vs `olex13 (1844)` at `5+0` time control,
-with themes `exposedKing, middlegame, crushing, attraction, fork, long, sacrifice, pin`. You can [view the full game](https://lichess.org/wdhfFb8V),
-and the first solution move is `h1h2`.
+It is `Black to move` in puzzle [W7N0E](https://lichess.org/training/W7N0E), rated `1590`.
+The game is `Berke-1234 (2373)` vs `XilacOrigami (2413)` at `3+2` time control,
+with themes `short, advantage, trappedPiece, opening`. You can [view the full game](https://lichess.org/j8W16nWl),
+and the first solution move is `h3f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

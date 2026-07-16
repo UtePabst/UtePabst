@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2b5%2F2B3bk%2F1pp4p%2Fp4p2%2F2PP3q%2FPP4N1%2F2Q2K2%2FR2R4%20b%20-%20-%203%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3rk2r%2F1R4p1%2F1pp1Bp2%2F4p2p%2F4qn2%2F8%2FP1PQ2PP%2F5R1K%20w%20k%20-%201%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [xZF8P](https://lichess.org/training/xZF8P), rated `1445`.
-The game is `Jony0304 (2360)` vs `Tripp-Trapp-Trull (2155)` at `3+0` time control,
-with themes `short, advantage, skewer, master, middlegame`. You can [view the full game](https://lichess.org/v14YOdAu),
-and the first solution move is `h4h2`.
+It is `White to move` in puzzle [ZMPju](https://lichess.org/training/ZMPju), rated `1584`.
+The game is `megaman2012 (1718)` vs `hunio92 (1692)` at `5+0` time control,
+with themes `deflection, mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/oX2oOMTw),
+and the first solution move is `e6f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

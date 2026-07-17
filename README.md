@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3K4%2F7R%2F2k3p1%2F8%2F7P%2F8%2F5P2%2Fr7%20b%20-%20-%209%2050&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1p3p1p%2F3q2pr%2F3p4%2F2pQ4%2FP1P1RP2%2F8%2FR4K2%20b%20-%20-%201%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [mcqZ4](https://lichess.org/training/mcqZ4), rated `1384`.
-The game is `vova351 (2265)` vs `projetomf2024 (2213)` at `3+0` time control,
-with themes `veryLong, endgame, crushing, rookEndgame, skewer`. You can [view the full game](https://lichess.org/XXUXkMI5),
-and the first solution move is `a1a8`.
+It is `Black to move` in puzzle [JmxaP](https://lichess.org/training/JmxaP), rated `1605`.
+The game is `ardalanat (1708)` vs `iliya_63 (1780)` at `10+5` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/th2EdFYe),
+and the first solution move is `h6h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

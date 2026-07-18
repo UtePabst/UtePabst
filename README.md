@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1p4pp%2Fp1n1q3%2F4pp2%2F4B1b1%2F2P2N2%2FP1P1QPPP%2FR2R2K1%20w%20-%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1k3%2Fpppp3p%2F4p3%2F6q1%2F4P1n1%2F2Q3P1%2FPPP1Br1P%2FRN2KR2%20b%20Qq%20-%203%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [1oIQZ](https://lichess.org/training/1oIQZ), rated `1340`.
-The game is `LouisCarline (1925)` vs `umut-simsek2008 (1919)` at `3+0` time control,
-with themes `pin, advantage, short, middlegame`. You can [view the full game](https://lichess.org/77YgHTpc),
-and the first solution move is `e4d5`.
+It is `Black to move` in puzzle [4b2BH](https://lichess.org/training/4b2BH), rated `1399`.
+The game is `shubyhere (1586)` vs `TETONUNKOCASI54 (1601)` at `10+0` time control,
+with themes `exposedKing, deflection, middlegame, crushing, attraction, long, pin`. You can [view the full game](https://lichess.org/Xw97h8yC),
+and the first solution move is `g5c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

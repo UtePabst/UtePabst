@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2p3r1%2F8%2F2R5%2F1k6%2Fpr4P1%2F5PK1%2F2R5%20w%20-%20-%200%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1k2r%2Fpp1n1p2%2F1qp4p%2F8%2F2nQPP2%2F2NR3N%2FPPP1B1P1%2F2K4R%20b%20kq%20-%208%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [6Q9xu](https://lichess.org/training/6Q9xu), rated `1349`.
-The game is `talal000001 (2133)` vs `Drigav (2058)` at `10+5` time control,
-with themes `endgame, rookEndgame, oneMove, mateIn1`. You can [view the full game](https://lichess.org/9WRDcbZU),
-and the first solution move is `c1c4`.
+It is `Black to move` in puzzle [xhLLV](https://lichess.org/training/xhLLV), rated `1277`.
+The game is `lorenzograsso (1644)` vs `slava72 (1636)` at `3+2` time control,
+with themes `middlegame, queensideAttack, long, mateIn3`. You can [view the full game](https://lichess.org/iMVZdBbG),
+and the first solution move is `b6b2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

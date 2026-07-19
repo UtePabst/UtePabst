@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5R2%2F5p1p%2F4p1p1%2F3p1k2%2F3P1PN1%2F1p2P2P%2F1q4P1%2F6K1%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F1p4Rp%2Fpp1p4%2F3P4%2F1P1BPn2%2FP4P2%2F2r2P1P%2F7K%20b%20-%20-%204%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [PPGJj](https://lichess.org/training/PPGJj), rated `1368`.
-The game is `sPiKeKiD3000 (1985)` vs `Gudubruk (1893)` at `3+0` time control,
-with themes `veryLong, endgame, crushing, fork`. You can [view the full game](https://lichess.org/y4fOLB0l),
-and the first solution move is `f8f7`.
+It is `Black to move` in puzzle [7FPkt](https://lichess.org/training/7FPkt), rated `1286`.
+The game is `Emmileyta (1551)` vs `BduzyJelen (1527)` at `3+2` time control,
+with themes `veryLong, endgame, crushing, attraction, fork`. You can [view the full game](https://lichess.org/yzCWSUCc),
+and the first solution move is `c2c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

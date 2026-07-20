@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p4pk%2Fp2qp3%2F5b1p%2F5R2%2F1P6%2FP4QPK%2F8%20b%20-%20-%203%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F2p3p1%2Fp4q1p%2Fnp2r3%2F4bQ2%2F2PP4%2FPPB2P2%2FR1B3RK%20w%20-%20-%202%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [67i8z](https://lichess.org/training/67i8z), rated `1463`.
-The game is `aqualis (1724)` vs `lukos05 (1762)` at `10+5` time control,
-with themes `endgame, crushing, short`. You can [view the full game](https://lichess.org/UItoWgMk),
-and the first solution move is `g7g5`.
+It is `White to move` in puzzle [meoju](https://lichess.org/training/meoju), rated `1504`.
+The game is `Venechamo (2216)` vs `jandrla (2113)` at `3+2` time control,
+with themes `short, advantage, defensiveMove, master, middlegame`. You can [view the full game](https://lichess.org/ONyfEKU4),
+and the first solution move is `d3e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

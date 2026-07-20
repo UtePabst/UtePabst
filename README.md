@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3p4%2Fb2K2P1%2F8%2F2k5%2F8%2F8%20w%20-%20-%201%2044&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F3qp1bp%2F6p1%2Fpp6%2F3PQ3%2FNKP3P1%2FP6r%2F4R1N1%20b%20-%20-%201%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [6wWML](https://lichess.org/training/6wWML), rated `1302`.
-The game is `ragrava (1804)` vs `Kevinprinceboateng63 (1765)` at `2+0` time control,
-with themes `endgame, advancedPawn, crushing, long, promotion, bishopEndgame`. You can [view the full game](https://lichess.org/UXWGwPqR),
-and the first solution move is `g5g6`.
+It is `Black to move` in puzzle [gXhPn](https://lichess.org/training/gXhPn), rated `1433`.
+The game is `srdjan123 (1519)` vs `MaVRaNT (1501)` at `5+3` time control,
+with themes `middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/yh8acQ10),
+and the first solution move is `a5a4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

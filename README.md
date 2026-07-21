@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1r1k1%2Fpp3ppp%2F2P2q2%2F2b1n3%2F3N4%2F2N5%2FPPP1BPPP%2FR2Q1RK1%20b%20-%20-%200%2012&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2FR4ppp%2F2p5%2Fp3P3%2F2p1PQ1P%2F2qn2PB%2F5P2%2F6K1%20w%20-%20-%206%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [uY0t0](https://lichess.org/training/uY0t0), rated `1552`.
-The game is `moknights (1832)` vs `TheLastOfTheIdiots (1763)` at `30+0` time control,
-with themes `advantage, attraction, long, opening, discoveredAttack`. You can [view the full game](https://lichess.org/Qth0UIyh),
-and the first solution move is `c5d4`.
+It is `White to move` in puzzle [TYnIR](https://lichess.org/training/TYnIR), rated `1570`.
+The game is `Rider_Diaz (2625)` vs `ArthurPijpers (2568)` at `3+0` time control,
+with themes `endgame, master, sacrifice, mateIn4, backRankMate, deflection, veryLong`. You can [view the full game](https://lichess.org/w8KKUlT8),
+and the first solution move is `f4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2FppqR2pp%2F2pp4%2F3n4%2F2P5%2F2PP1rPP%2FPB4B1%2FR5K1%20w%20-%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F1pp2Q2%2Fp2p4%2F3P3p%2F1P4r1%2FP5P1%2FR6P%2F1q2r1RK%20w%20-%20-%204%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [dAOZo](https://lichess.org/training/dAOZo), rated `1266`.
-The game is `abracadabra38 (1703)` vs `Anton23rus (1711)` at `10+0` time control,
-with themes `middlegame, intermezzo, short, crushing`. You can [view the full game](https://lichess.org/3WocTffA),
-and the first solution move is `d7c7`.
+It is `White to move` in puzzle [6ZOXl](https://lichess.org/training/6ZOXl), rated `1453`.
+The game is `Mat5afch2025 (1708)` vs `Gabath (1723)` at `3+2` time control,
+with themes `advantage, long, endgame`. You can [view the full game](https://lichess.org/azE72wnt),
+and the first solution move is `f7f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

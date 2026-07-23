@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F5pp1%2F4p2p%2F3pP3%2Fnq1P3P%2F1RpQ1N2%2F2P2PP1%2F6K1%20b%20-%20-%201%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2Fp2b1ppp%2F2pQ1n2%2Fq2Np3%2F2P1P3%2F8%2FPP1B1PPP%2FR3K2R%20b%20KQ%20-%204%2013&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Tx7nF](https://lichess.org/training/Tx7nF), rated `1587`.
-The game is `stentit (1696)` vs `Cerebrex (1746)` at `10+10` time control,
-with themes `endgame, advancedPawn, crushing, long, sacrifice`. You can [view the full game](https://lichess.org/wo7Z21ij),
-and the first solution move is `b4b3`.
+It is `Black to move` in puzzle [dpCqC](https://lichess.org/training/dpCqC), rated `1537`.
+The game is `Lapin_N (1994)` vs `Waterman1970 (2131)` at `3+2` time control,
+with themes `middlegame, short, advantage, attraction, sacrifice`. You can [view the full game](https://lichess.org/IcYfHZ9A),
+and the first solution move is `a5d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp7%2F3P3p%2F5K1P%2F8%2F2b5%2Fk7%2F8%20w%20-%20-%200%2053&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr2r1%2Fppp1qpQ1%2F3p3B%2F2PP4%2F2B1R3%2F8%2FP5PP%2F5RK1%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [EY4C6](https://lichess.org/training/EY4C6), rated `1372`.
-The game is `fmjoseherrera (2594)` vs `Q-Texx (2626)` at `3+0` time control,
-with themes `endgame, advancedPawn, master, crushing, long, bishopEndgame`. You can [view the full game](https://lichess.org/btpV3hYn),
-and the first solution move is `d6d7`.
+It is `Black to move` in puzzle [7xSWk](https://lichess.org/training/7xSWk), rated `1390`.
+The game is `Mattkk (1827)` vs `Shardulendra (1797)` at `10+0` time control,
+with themes `hangingPiece, short, advantage, middlegame`. You can [view the full game](https://lichess.org/w9nSsF2H),
+and the first solution move is `e7e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

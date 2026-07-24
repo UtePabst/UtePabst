@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5kr%2Fpppbq1b1%2F2n1p1Qp%2F2P3p1%2F2B1P3%2F4pNP1%2FPP5P%2F3R1RK1%20w%20-%20-%208%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k3b1%2F2p5%2Fp2r3p%2F1p1p2pP%2F1P1P1pP1%2FP2B4%2F2P5%2F1K2R3%20w%20-%20-%202%2039&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [zDYMZ](https://lichess.org/training/zDYMZ), rated `1382`.
-The game is `sachin2019 (2144)` vs `Thuri (2192)` at `10+0` time control,
-with themes `exposedKing, middlegame, advantage, fork, long, pin`. You can [view the full game](https://lichess.org/7UiF3Flt),
-and the first solution move is `d1d7`.
+It is `White to move` in puzzle [dAskq](https://lichess.org/training/dAskq), rated `1354`.
+The game is `FRANCOCHESSMAN (1854)` vs `ayham (1719)` at `10+0` time control,
+with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/6WoTYLbA),
+and the first solution move is `e1e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

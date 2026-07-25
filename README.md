@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k3b1%2F2p5%2Fp2r3p%2F1p1p2pP%2F1P1P1pP1%2FP2B4%2F2P5%2F1K2R3%20w%20-%20-%202%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2Fp5pp%2F1p6%2F3QP1q1%2F4N3%2F4b2b%2FPP4PP%2FR2R1B1K%20b%20-%20-%202%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [dAskq](https://lichess.org/training/dAskq), rated `1354`.
-The game is `FRANCOCHESSMAN (1854)` vs `ayham (1719)` at `10+0` time control,
-with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/6WoTYLbA),
-and the first solution move is `e1e8`.
+It is `Black to move` in puzzle [8WNcV](https://lichess.org/training/8WNcV), rated `1271`.
+The game is `seung_1 (1702)` vs `bugyswartz (1634)` at `10+5` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/xCtlqo2z),
+and the first solution move is `f8f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

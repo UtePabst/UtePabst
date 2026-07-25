@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2Fp5pp%2F1p6%2F3QP1q1%2F4N3%2F4b2b%2FPP4PP%2FR2R1B1K%20b%20-%20-%202%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5ppk%2F7p%2F2P4P%2F4Q1K1%2F4b3%2FP7%2F5r2%20b%20-%20-%201%2041&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [8WNcV](https://lichess.org/training/8WNcV), rated `1271`.
-The game is `seung_1 (1702)` vs `bugyswartz (1634)` at `10+5` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/xCtlqo2z),
-and the first solution move is `f8f1`.
+It is `Black to move` in puzzle [6Xi81](https://lichess.org/training/6Xi81), rated `1533`.
+The game is `shadi37117 (1619)` vs `ebrahimsamy25 (1690)` at `10+0` time control,
+with themes `endgame, crushing, fork, long`. You can [view the full game](https://lichess.org/A3r2vPKS),
+and the first solution move is `f7f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

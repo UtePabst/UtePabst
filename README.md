@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp5pp%2F1q6%2F4N3%2F5Q2%2F8%2FPP4PP%2F5K2%20w%20-%20-%203%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7r%2FppQRnk2%2F7q%2F2P1P3%2F8%2F2P2Pp1%2FP5P1%2F4R1K1%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [iHjZZ](https://lichess.org/training/iHjZZ), rated `1389`.
-The game is `hrobjartz (1654)` vs `Salwen (1640)` at `5+3` time control,
-with themes `endgame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/Sfh3rzIX),
-and the first solution move is `f4f8`.
+It is `Black to move` in puzzle [qAw6N](https://lichess.org/training/qAw6N), rated `1290`.
+The game is `Asadulla1959 (1763)` vs `joop12345 (1819)` at `10+0` time control,
+with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/lCOD6wBG),
+and the first solution move is `h6h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

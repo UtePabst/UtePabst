@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fpp2pp2%2F5bpp%2F2B5%2F4P3%2F7P%2FPPP2PP1%2F2KR4%20b%20-%20-%201%2020&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp2r4%2F5r2%2F2Q5%2F3p4%2F7P%2F5P1K%2F8%20w%20-%20-%2011%2050&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [4Itzu](https://lichess.org/training/4Itzu), rated `1335`.
-The game is `Indole1 (1781)` vs `JuDithJ (1801)` at `10+5` time control,
-with themes `deflection, endgame, short, queensideAttack, advantage`. You can [view the full game](https://lichess.org/2BR2K4Gk),
-and the first solution move is `f6b2`.
+It is `White to move` in puzzle [CQU73](https://lichess.org/training/CQU73), rated `1501`.
+The game is `ChernyyDS (2033)` vs `ScenesOnToast (2071)` at `10+0` time control,
+with themes `endgame, short, crushing, fork, queenRookEndgame`. You can [view the full game](https://lichess.org/lMuw2Ndm),
+and the first solution move is `c5c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

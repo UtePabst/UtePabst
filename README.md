@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p1p%2F5kp1%2Fp3n3%2F2PQ3P%2Fq5P1%2F6BK%2F8%20w%20-%20-%202%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F5p2%2F3r1pk1%2Fp2N4%2F1p1RP1PP%2F1K6%2F1P6%2F8%20w%20-%20-%202%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [5G86q](https://lichess.org/training/5G86q), rated `1400`.
-The game is `L_Massei (1861)` vs `majoasII (1794)` at `3+0` time control,
-with themes `endgame`. You can [view the full game](https://lichess.org/mp9xdYO6),
-and the first solution move is `d4f4`.
+It is `White to move` in puzzle [7yGYo](https://lichess.org/training/7yGYo), rated `1390`.
+The game is `hemamedOussama (2021)` vs `SergNSK (2033)` at `10+0` time control,
+with themes `endgame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/nG4rD5GL),
+and the first solution move is `d5f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

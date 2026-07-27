@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2k1b2%2Fpp2p3%2F7p%2Fq2P4%2F8%2F1PR1P2Q%2FPB1K1P2%2F3R2r1%20b%20-%20-%206%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2FR4p2%2F5k1p%2F1pPPN3%2F2p5%2F3bp3%2F7r%2F4K3%20w%20-%20-%208%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [wQE3f](https://lichess.org/training/wQE3f), rated `1450`.
-The game is `Gengis-Khan (1788)` vs `LocalForeskinBandit (1821)` at `10+0` time control,
-with themes `middlegame, crushing, attraction, long`. You can [view the full game](https://lichess.org/011Vfs74),
-and the first solution move is `a5d5`.
+It is `White to move` in puzzle [RCULl](https://lichess.org/training/RCULl), rated `1313`.
+The game is `IURDP (2082)` vs `chak-108 (2192)` at `5+5` time control,
+with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/JnWcvSda),
+and the first solution move is `e5g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

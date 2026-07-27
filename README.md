@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2F4p3%2Fpq1pNnp1%2F1p6%2F1P5R%2F7Q%2FP1P3PP%2F7K%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F2p5%2F1p1p2k1%2F3P1b2%2F2P1qPpr%2FP1QpP3%2F1B1R4%2F4R1K1%20w%20-%20-%200%2039&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [lepWr](https://lichess.org/training/lepWr), rated `1388`.
-The game is `miguelmojica (1637)` vs `Perce (2027)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/7hlLH7zl),
-and the first solution move is `h4h8`.
+It is `White to move` in puzzle [FLKJR](https://lichess.org/training/FLKJR), rated `1428`.
+The game is `Respink (2383)` vs `u1rick (2349)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, fork`. You can [view the full game](https://lichess.org/jE4bGwJk),
+and the first solution move is `c3g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

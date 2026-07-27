@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1pp2p1p%2F6p1%2F8%2F4b3%2F1P2Q3%2F1qPr2PP%2F2R3RK%20b%20-%20-%201%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn1q1k2%2F1p3p2%2F2p2n1p%2Fp1b1pN2%2FP1B1P3%2F6QP%2F1PP2PP1%2F6K1%20w%20-%20-%202%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [L7fAs](https://lichess.org/training/L7fAs), rated `1275`.
-The game is `HandChavo (2070)` vs `TapanRoy1969 (2075)` at `10+0` time control,
-with themes `deflection, endgame, short, crushing`. You can [view the full game](https://lichess.org/xLOU7g0R),
-and the first solution move is `e4g2`.
+It is `White to move` in puzzle [WCr7S](https://lichess.org/training/WCr7S), rated `1446`.
+The game is `topaloB (2191)` vs `ghost_2016 (1889)` at `5+3` time control,
+with themes `mateIn2, middlegame, short, attackingF2F7`. You can [view the full game](https://lichess.org/lscoJCoA),
+and the first solution move is `g3g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

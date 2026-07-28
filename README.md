@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F3R4%2F1pP5%2Fpr1p2k1%2F6p1%2F8%2F5PK1%2F8%20w%20-%20-%200%2053&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r7%2Fp2nkp1p%2F2p2p1N%2F2q5%2F6Q1%2FP1n3PB%2F4r2P%2F3R3K%20w%20-%20-%204%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [YxWJV](https://lichess.org/training/YxWJV), rated `1438`.
-The game is `AceBonaventura (2526)` vs `Gooner_91 (2497)` at `3+0` time control,
-with themes `deflection, endgame, advancedPawn, master, advantage, rookEndgame, long, promotion`. You can [view the full game](https://lichess.org/XATxp0IM),
-and the first solution move is `c6c7`.
+It is `White to move` in puzzle [WnasP](https://lichess.org/training/WnasP), rated `1457`.
+The game is `knightoffrozenlake (1880)` vs `yellow_pit1 (1693)` at `15+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/2H8OLBHz),
+and the first solution move is `g4d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1pp2ppp%2Fp2p4%2F4n1q1%2F2Pb4%2F1P2PB1b%2FP4PPP%2FR1BQ1RK1%20w%20-%20-%200%2016&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r7%2F5R2%2F2p5%2F3pP3%2Fp2Pk3%2F2P5%2FPKP2R2%2F6r1%20b%20-%20-%201%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [3JJJp](https://lichess.org/training/3JJJp), rated `1398`.
-The game is `pekopekopekopekopeko (1797)` vs `hicks2112 (1846)` at `5+3` time control,
-with themes `veryLong, advantage, middlegame`. You can [view the full game](https://lichess.org/sTxKEN6S),
-and the first solution move is `e3d4`.
+It is `Black to move` in puzzle [palSR](https://lichess.org/training/palSR), rated `1572`.
+The game is `cuestar (1680)` vs `aibdima (1678)` at `10+0` time control,
+with themes `short, endgame, mateIn2, rookEndgame, epauletteMate`. You can [view the full game](https://lichess.org/I2MSn2jl),
+and the first solution move is `a4a3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

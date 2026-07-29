@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp3r2k%2F8%2F2R5%2F5B1P%2F2P2b2%2FPP1K1Pr1%2F4R3%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2F1bpn1p2%2F1p1p3p%2F6p1%2F3q4%2F3B2B1%2F2P2PPP%2FR2QR1K1%20w%20-%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [GcDF3](https://lichess.org/training/GcDF3), rated `1334`.
-The game is `SULIKMASTER (2444)` vs `IgorVK (1775)` at `3+2` time control,
-with themes `deflection, endgame, short, advantage`. You can [view the full game](https://lichess.org/0qQOQ7EC),
-and the first solution move is `g2f2`.
+It is `White to move` in puzzle [eGDrP](https://lichess.org/training/eGDrP), rated `1563`.
+The game is `ad_1982 (2041)` vs `bachou2002 (2111)` at `3+0` time control,
+with themes `middlegame, queensideAttack, advantage, long, sacrifice, discoveredAttack`. You can [view the full game](https://lichess.org/kMuWxaxA),
+and the first solution move is `a1a8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

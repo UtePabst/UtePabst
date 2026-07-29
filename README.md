@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r3%2Fppp2ppk%2F7p%2F6P1%2F6P1%2FP1B2Pn1%2F1PP4R%2F2K4R%20w%20-%20-%201%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p1k%2Fp4P2%2F2p2p2%2F2P2K2%2F1P6%2FP7%2F8%20b%20-%20-%203%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [oRlJj](https://lichess.org/training/oRlJj), rated `1272`.
-The game is `sprockets (1610)` vs `Bizar28 (1633)` at `8+2` time control,
-with themes `endgame, operaMate, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/LII3EKSj),
-and the first solution move is `h2h6`.
+It is `Black to move` in puzzle [zS3Tc](https://lichess.org/training/zS3Tc), rated `1389`.
+The game is `tanbandit (1560)` vs `PanAVk (1621)` at `15+10` time control,
+with themes `crushing, long, pawnEndgame, endgame`. You can [view the full game](https://lichess.org/9xJmZJ6w),
+and the first solution move is `h7g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

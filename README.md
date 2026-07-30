@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p3k2%2F1Pp4p%2F2Pp1p1P%2F3P1K2%2F4P3%2F8%2F8%20b%20-%20-%206%2065&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1R6%2F3b1rpk%2F2pBp3%2F2Pp1p2%2FQ2P2q1%2F4PnP1%2F4BP2%2F5K2%20b%20-%20-%206%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [zkfQF](https://lichess.org/training/zkfQF), rated `1396`.
-The game is `Raise4info (2385)` vs `aber-nur-auf-Zeit (2424)` at `3+2` time control,
-with themes `veryLong, endgame, zugzwang, crushing, pawnEndgame`. You can [view the full game](https://lichess.org/gZAT8nGx),
-and the first solution move is `f7f6`.
+It is `Black to move` in puzzle [X8uQy](https://lichess.org/training/X8uQy), rated `1474`.
+The game is `qvenky (2076)` vs `GDGG (2078)` at `10+0` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/PgtGDnwF),
+and the first solution move is `g4h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F1pp3p1%2F7p%2F1Pbn3b%2F2BP4%2F8%2F2P2PPP%2FRN4K1%20w%20kq%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F4p2p%2F5bp1%2F8%2F1Rr2P2%2FP7%2F1PP1N1PP%2F2K4R%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [xkuCJ](https://lichess.org/training/xkuCJ), rated `1359`.
-The game is `prebbon (1939)` vs `jjimenez1 (1892)` at `10+0` time control,
-with themes `middlegame, short, advantage, skewer, hangingPiece`. You can [view the full game](https://lichess.org/rYgMlY3Y),
-and the first solution move is `a1a8`.
+It is `Black to move` in puzzle [sjfIR](https://lichess.org/training/sjfIR), rated `1278`.
+The game is `Iek3 (2262)` vs `Kerzh99 (2271)` at `2+1` time control,
+with themes `long, advantage, skewer, endgame`. You can [view the full game](https://lichess.org/swMlfSz0),
+and the first solution move is `c4b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

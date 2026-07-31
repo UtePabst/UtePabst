@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3kbnr%2Fpp1nppp1%2F2p4p%2F8%2F2q2B1P%2F5N2%2FPPP1NPP1%2FR2Q1K1R%20w%20kq%20-%206%2013&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r3rk1%2F4pp1p%2F2p3pQ%2Fp1qp4%2F4n3%2F1PP2N1P%2FP4PP1%2F4RRK1%20w%20-%20-%200%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [7iemB](https://lichess.org/training/7iemB), rated `1558`.
-The game is `NTHSLeagueAcc (2276)` vs `RubinsteinsMonster (2380)` at `3+0` time control,
-with themes `master, advantage, attraction, fork, long, sacrifice, opening`. You can [view the full game](https://lichess.org/qimnfNyN),
-and the first solution move is `d1d7`.
+It is `White to move` in puzzle [OlTOZ](https://lichess.org/training/OlTOZ), rated `1594`.
+The game is `Aleksandr1984-55 (1925)` vs `Spined (1894)` at `10+0` time control,
+with themes `advantage, sacrifice, long, middlegame`. You can [view the full game](https://lichess.org/vO5cVmDQ),
+and the first solution move is `e1e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

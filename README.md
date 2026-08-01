@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2FRpN3p1%2F6rp%2F5r1q%2F4Q3%2F1P2B3%2F1PP2P1P%2F5R1K%20b%20-%20-%203%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F5pp1%2Fp6p%2F8%2F1Qp1q3%2F8%2FP1N2RPP%2F5K2%20b%20-%20-%203%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [EJXOB](https://lichess.org/training/EJXOB), rated `1466`.
-The game is `ChooseB (1837)` vs `Sugderx777 (1817)` at `5+3` time control,
-with themes `middlegame, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/Y5USPRnO),
-and the first solution move is `h5h2`.
+It is `Black to move` in puzzle [KcgFy](https://lichess.org/training/KcgFy), rated `1528`.
+The game is `Ali202020202020 (1819)` vs `ali2021ma (1725)` at `6+6` time control,
+with themes `deflection, endgame, crushing, long`. You can [view the full game](https://lichess.org/3ooMH1MW),
+and the first solution move is `e4d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

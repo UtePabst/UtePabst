@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1p4p1%2Fp1b1p3%2F3q2BQ%2F7R%2F8%2FPP4PP%2F6RK%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2R3pk%2F2p2p1p%2F1p1p4%2F3Q2P1%2F1P1P1q2%2F1r3R1P%2F6K1%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [B24DN](https://lichess.org/training/B24DN), rated `1389`.
-The game is `lintamacar (1720)` vs `gattous (1750)` at `5+3` time control,
-with themes `mateIn2, middlegame, short, sacrifice, pin`. You can [view the full game](https://lichess.org/cfNtD26O),
-and the first solution move is `d5g2`.
+It is `Black to move` in puzzle [3Y3d2](https://lichess.org/training/3Y3d2), rated `1366`.
+The game is `educhina18 (1612)` vs `IgorSpeeed (1658)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/yiSHuuBv),
+and the first solution move is `b2b1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

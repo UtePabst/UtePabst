@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rr1k1%2Fpp3ppp%2F2p3q1%2F2b2b2%2FP2NPB2%2F2P1Q3%2F1P4PP%2FR3R1K1%20w%20-%20-%201%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1nrr2k1%2Fpb2bppp%2F1p2p3%2F3n4%2F1P6%2FP1N1PN2%2F1B2BPPP%2F3R1RK1%20b%20-%20-%2011%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [kKxdF](https://lichess.org/training/kKxdF), rated `1565`.
-The game is `JeanEric (1738)` vs `deverteu (1765)` at `5+3` time control,
-with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/57NNhqT4),
-and the first solution move is `e4f5`.
+It is `Black to move` in puzzle [Q6mhm](https://lichess.org/training/Q6mhm), rated `1550`.
+The game is `Blowmind (1600)` vs `Little_Smurf (1930)` at `10+0` time control,
+with themes `middlegame, advantage, short, fork`. You can [view the full game](https://lichess.org/VxoGPyIL),
+and the first solution move is `d5c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

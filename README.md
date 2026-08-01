@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2R3pk%2F2p2p1p%2F1p1p4%2F3Q2P1%2F1P1P1q2%2F1r3R1P%2F6K1%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2FRpN3p1%2F6rp%2F5r1q%2F4Q3%2F1P2B3%2F1PP2P1P%2F5R1K%20b%20-%20-%203%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [3Y3d2](https://lichess.org/training/3Y3d2), rated `1366`.
-The game is `educhina18 (1612)` vs `IgorSpeeed (1658)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/yiSHuuBv),
-and the first solution move is `b2b1`.
+It is `Black to move` in puzzle [EJXOB](https://lichess.org/training/EJXOB), rated `1466`.
+The game is `ChooseB (1837)` vs `Sugderx777 (1817)` at `5+3` time control,
+with themes `middlegame, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/Y5USPRnO),
+and the first solution move is `h5h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

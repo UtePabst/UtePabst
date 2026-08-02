@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fr1p4p%2FP2k1pp1%2F1P1Bb3%2F4K1P1%2F7P%2FR7%20b%20-%20-%200%2037&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4q1k%2Fpp2b1pp%2F2bnQ3%2F3pN1P1%2F3P4%2FP1N3R1%2F1P3r1P%2FR6K%20w%20-%20-%203%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [nJnkX](https://lichess.org/training/nJnkX), rated `1432`.
-The game is `Kairbekova_Amina111 (2291)` vs `Vladislav_Malygin (2370)` at `10+2` time control,
-with themes `exposedKing, veryLong, endgame, master, advantage, defensiveMove`. You can [view the full game](https://lichess.org/QFC9nYTh),
-and the first solution move is `f5f4`.
+It is `White to move` in puzzle [puUGG](https://lichess.org/training/puUGG), rated `1423`.
+The game is `Makson121 (1875)` vs `OscarAstora (1889)` at `3+2` time control,
+with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/qa8L0KiK),
+and the first solution move is `e5g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

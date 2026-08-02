@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4R3%2F3r2b1%2Fp5kp%2F2pP4%2FP1P3P1%2F7Q%2F3q3P%2F6K1%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1r2%2Fpp3N1k%2F2p1qPp1%2F8%2F3Q4%2F7R%2F6P1%2F3R3K%20b%20-%20-%202%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [xEVcy](https://lichess.org/training/xEVcy), rated `1378`.
-The game is `kiartante (2368)` vs `rezachess49 (1876)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/gkjWqAkA),
-and the first solution move is `h3h5`.
+It is `Black to move` in puzzle [6eQga](https://lichess.org/training/6eQga), rated `1457`.
+The game is `CAPIXABAIANO (2179)` vs `oualidlmt1 (2159)` at `10+0` time control,
+with themes `middlegame, crushing, long`. You can [view the full game](https://lichess.org/oD0wWVKt),
+and the first solution move is `e6h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

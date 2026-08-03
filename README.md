@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F1R6%2F8%2Fp4Kp1%2F8%2F1P6%2F1r6%2F8%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2rn1k1%2Fpb2qppp%2F2p1p3%2F2n3P1%2F4NP2%2F4B3%2FPP2B2P%2FR2Q1R1K%20w%20-%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [zSsiQ](https://lichess.org/training/zSsiQ), rated `1614`.
-The game is `kegero (1786)` vs `Martingarcia6565 (1795)` at `5+3` time control,
-with themes `exposedKing, endgame, rookEndgame, long, mateIn3`. You can [view the full game](https://lichess.org/wNxIob1k),
-and the first solution move is `f5g6`.
+It is `White to move` in puzzle [ChDE9](https://lichess.org/training/ChDE9), rated `1464`.
+The game is `zdenkec50 (2254)` vs `Sapsan2321 (2125)` at `5+0` time control,
+with themes `opening, long, advantage`. You can [view the full game](https://lichess.org/wUWuQcsf),
+and the first solution move is `e3c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

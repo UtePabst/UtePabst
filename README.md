@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2rn1k1%2Fpb2qppp%2F2p1p3%2F2n3P1%2F4NP2%2F4B3%2FPP2B2P%2FR2Q1R1K%20w%20-%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1Q6%2Fp4p2%2F2p1b3%2F3k4%2F3P4%2F2q5%2FP1P2r2%2F2K5%20w%20-%20-%204%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ChDE9](https://lichess.org/training/ChDE9), rated `1464`.
-The game is `zdenkec50 (2254)` vs `Sapsan2321 (2125)` at `5+0` time control,
-with themes `opening, long, advantage`. You can [view the full game](https://lichess.org/wUWuQcsf),
-and the first solution move is `e3c5`.
+It is `White to move` in puzzle [w1lsK](https://lichess.org/training/w1lsK), rated `1313`.
+The game is `meshmes (1654)` vs `ironman1980 (1699)` at `10+5` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/CUuNeSWY),
+and the first solution move is `b8e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

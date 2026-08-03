@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1qQ4%2F2P3pk%2F5p1p%2F1P6%2F2p5%2F4P1P1%2F5PPK%2F8%20w%20-%20-%201%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr1b2%2Fppp1p1p1%2F1n2P3%2F8%2F4r3%2F1Pq1pQ1P%2FP1P2P2%2F3R1K1R%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Pem2e](https://lichess.org/training/Pem2e), rated `1468`.
-The game is `URI365 (2308)` vs `TeamCaro (2165)` at `5+3` time control,
-with themes `veryLong, endgame, advancedPawn, advantage, promotion`. You can [view the full game](https://lichess.org/ePzmRi0c),
-and the first solution move is `d8c8`.
+It is `White to move` in puzzle [MDVdP](https://lichess.org/training/MDVdP), rated `1545`.
+The game is `raisinmuffins (1800)` vs `Rishabhpawarchamp (1812)` at `10+5` time control,
+with themes `mateIn2, middlegame, short, attraction`. You can [view the full game](https://lichess.org/m9RaFCt0),
+and the first solution move is `d1d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2rk1b1r%2F3p2pp%2Fp3Qn2%2F1pq5%2F5B2%2F8%2FPPP2PPP%2F3RR1K1%20w%20-%20-%201%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F5pbp%2Fp5r1%2F2pbP3%2F1nBnN2Q%2F3P2N1%2F1P5P%2FR1B3K1%20b%20-%20-%203%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [P35zQ](https://lichess.org/training/P35zQ), rated `1593`.
-The game is `ad3mar (1728)` vs `cul-terreux (1749)` at `5+0` time control,
-with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/L1RIXMDy),
-and the first solution move is `d1d7`.
+It is `Black to move` in puzzle [zuVQ6](https://lichess.org/training/zuVQ6), rated `1313`.
+The game is `Oscar-Luna (2176)` vs `Kirilov407 (2192)` at `3+0` time control,
+with themes `short, advantage, fork, master, middlegame`. You can [view the full game](https://lichess.org/r18zuCCx),
+and the first solution move is `d4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

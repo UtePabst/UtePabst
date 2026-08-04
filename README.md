@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F7p%2F1P1k1p2%2F7P%2F5K2%2F8%20w%20-%20-%201%2045&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6r1%2F8%2Fp2k4%2F2pPp3%2F1pP1QpqP%2F1P4P1%2FP4P1K%2F6R1%20b%20-%20-%206%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jlgpE](https://lichess.org/training/jlgpE), rated `1398`.
-The game is `calmness90 (2396)` vs `aceas (2479)` at `3+0` time control,
-with themes `veryLong, crushing, pawnEndgame, endgame`. You can [view the full game](https://lichess.org/k3pOea2h),
-and the first solution move is `f2f3`.
+It is `Black to move` in puzzle [2ou4Y](https://lichess.org/training/2ou4Y), rated `1512`.
+The game is `Corinthians13-4-7 (1821)` vs `Kapucino90 (1877)` at `15+10` time control,
+with themes `endgame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/WU6ErBPq),
+and the first solution move is `f4g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

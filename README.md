@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F5pbp%2Fp5r1%2F2pbP3%2F1nBnN2Q%2F3P2N1%2F1P5P%2FR1B3K1%20b%20-%20-%203%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qr1k1%2F1b1nbppp%2Fp2N1n2%2F1p6%2F2p1P3%2FP1N2P1P%2F1PP3P1%2FR1BQRBK1%20b%20-%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [zuVQ6](https://lichess.org/training/zuVQ6), rated `1313`.
-The game is `Oscar-Luna (2176)` vs `Kirilov407 (2192)` at `3+0` time control,
-with themes `short, advantage, fork, master, middlegame`. You can [view the full game](https://lichess.org/r18zuCCx),
-and the first solution move is `d4f3`.
+It is `Black to move` in puzzle [5mF8f](https://lichess.org/training/5mF8f), rated `1416`.
+The game is `incognito2022 (2075)` vs `syaiful1184 (2088)` at `5+0` time control,
+with themes `advantage, long, opening`. You can [view the full game](https://lichess.org/dyqoeF9Y),
+and the first solution move is `d8b6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

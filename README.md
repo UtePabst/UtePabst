@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6rk%2F1R2R1b1%2F1p5B%2F8%2F1P6%2F2r4P%2F8%2F7K%20b%20-%20-%200%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1rr3k1%2Fp5p1%2F1pq1pn1p%2F1Q6%2FP2RP3%2F4B3%2F1P4PP%2F5RK1%20w%20-%20-%201%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [cF7WG](https://lichess.org/training/cF7WG), rated `1543`.
-The game is `Sebetlela123 (2319)` vs `Michal248 (2439)` at `3+0` time control,
-with themes `endgame, master, short, advantage, fork`. You can [view the full game](https://lichess.org/R6gASsRV),
-and the first solution move is `c3h3`.
+It is `White to move` in puzzle [yTob9](https://lichess.org/training/yTob9), rated `1583`.
+The game is `R0NCE (2208)` vs `arav190410 (1974)` at `7+2` time control,
+with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/fftTeqe7),
+and the first solution move is `d4d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

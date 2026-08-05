@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp4r1k%2F1pR5%2F1P4Pp%2F6r1%2FP5P1%2F1B6%2F6K1%20w%20-%20-%201%2045&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fpp3pp1%2F5qp1%2F2pR2N1%2F2P4Q%2FP6P%2F1P2r1P1%2F6K1%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [g8fr2](https://lichess.org/training/g8fr2), rated `1448`.
-The game is `planlose (2333)` vs `Doblenk (2230)` at `3+2` time control,
-with themes `short, operaMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/m0qh1jB6),
-and the first solution move is `c6h6`.
+It is `White to move` in puzzle [klNZU](https://lichess.org/training/klNZU), rated `1433`.
+The game is `elpicho07 (2240)` vs `Flipnotist (2250)` at `3+0` time control,
+with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/TFR3ZTla),
+and the first solution move is `h4h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

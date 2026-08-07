@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5r1%2Fp3b3%2F2p1p2k%2F4P3%2F5P2%2F6Q1%2FPq5P%2F6RK%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4kp1p%2Fp3p1p1%2F8%2FP1R2PP1%2F2R1PKP1%2F2Pr4%2Fr7%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [9DdWQ](https://lichess.org/training/9DdWQ), rated `1302`.
-The game is `CarlosMoscoso (2103)` vs `PoisenedPawn030 (1986)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/GAU6uZWg),
-and the first solution move is `g3h3`.
+It is `Black to move` in puzzle [hhtwF](https://lichess.org/training/hhtwF), rated `1293`.
+The game is `GrandR (2069)` vs `underweather (2062)` at `5+0` time control,
+with themes `veryLong, endgame, rookEndgame, mateIn4`. You can [view the full game](https://lichess.org/iSjFZTCa),
+and the first solution move is `a1f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

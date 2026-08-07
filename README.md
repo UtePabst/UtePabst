@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1rb2r2%2Fp1p4k%2F2p3p1%2F3p4%2F2nQ1Pq1%2F4R3%2FP1P5%2F2K5%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F5p2%2F2pqb2p%2F1p6%2Fp3Q1n1%2FP1P1PN2%2F1P3PP1%2F1B1RK2R%20b%20Kkq%20-%203%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [5U1xv](https://lichess.org/training/5U1xv), rated `1397`.
-The game is `Xthanblue (1657)` vs `floor19 (1660)` at `3+0` time control,
-with themes `middlegame, fork, long, mateIn3`. You can [view the full game](https://lichess.org/SAIDjePF),
-and the first solution move is `e3e7`.
+It is `Black to move` in puzzle [Tcs3W](https://lichess.org/training/Tcs3W), rated `1378`.
+The game is `Noam166 (2075)` vs `Buryat-mongol (2052)` at `3+0` time control,
+with themes `middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/B6RxCAM2),
+and the first solution move is `d6d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

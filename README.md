@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F2rp1rb1%2F4pBb1%2F3pP1P1%2Fpp1P4%2F5P2%2FPP5R%2FK6R%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F7p%2F7P%2FP7%2F1p1p4%2F4pk2%2F1PP1Rb2%2F3K4%20b%20-%20-%200%2050&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [iuA5A](https://lichess.org/training/iuA5A), rated `1554`.
-The game is `marienkaefer24 (1817)` vs `alfilgrisss (1869)` at `5+0` time control,
-with themes `mateIn2, middlegame, short, operaMate, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/dQmodA9r),
-and the first solution move is `h2h8`.
+It is `Black to move` in puzzle [JRHBf](https://lichess.org/training/JRHBf), rated `1439`.
+The game is `nuitet876576 (2596)` vs `Leviathan64 (2691)` at `3+0` time control,
+with themes `master, endgame`. You can [view the full game](https://lichess.org/TdEIVCtK),
+and the first solution move is `b4b3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2rr2k1%2F6p1%2Fp3p3%2F1pB1Pp2%2F1P2pq2%2FP1P3QP%2F2R4K%2F2R5%20b%20-%20-%201%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1bk1%2F1Q1n2pp%2Fp3bn2%2F2p5%2FP2pNP2%2F8%2F1P2B1PP%2FR1B2RK1%20b%20-%20-%201%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [rahNE](https://lichess.org/training/rahNE), rated `1612`.
-The game is `PeroPeric (1516)` vs `PAntonMix (1587)` at `10+5` time control,
-with themes `deflection, middlegame, advantage, long`. You can [view the full game](https://lichess.org/kzVEWPOH),
-and the first solution move is `d8d2`.
+It is `Black to move` in puzzle [gw4MO](https://lichess.org/training/gw4MO), rated `1579`.
+The game is `cranberry314 (2426)` vs `ShahxaibKhan (2389)` at `3+0` time control,
+with themes `short, advantage, trappedPiece, master, middlegame`. You can [view the full game](https://lichess.org/E6JgBXfD),
+and the first solution move is `e6d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

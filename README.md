@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qkbnr%2F1Qp1pppp%2Fp7%2F8%2F2np4%2F3P3P%2FPPP2PP1%2FRNB1K2R%20w%20KQkq%20-%200%209&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=N4r2%2Fpp4Q1%2F2nk2B1%2F3p3p%2F3P4%2FP3P3%2F1P3qP1%2FR2K4%20b%20-%20-%201%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [dY7I3](https://lichess.org/training/dY7I3), rated `1557`.
-The game is `zidriusz (1877)` vs `KingKunAchim09 (1874)` at `11+5` time control,
-with themes `deflection, short, crushing, fork, opening`. You can [view the full game](https://lichess.org/uPjj9jTi),
-and the first solution move is `b7c6`.
+It is `Black to move` in puzzle [JwRRE](https://lichess.org/training/JwRRE), rated `1606`.
+The game is `Kavkaz07rus (1872)` vs `paancho96 (1827)` at `3+2` time control,
+with themes `exposedKing, middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/jdoqZzgB),
+and the first solution move is `f2f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

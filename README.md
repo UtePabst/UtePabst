@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F2p2p1p%2Fp4Pp1%2F1p1p1q2%2F4rR1Q%2F2P5%2FP4PPP%2F5RK1%20w%20-%20-%205%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1r2%2Fp5p1%2F4RbBp%2F1pkp2p1%2F8%2F2P5%2FPP3PPP%2F3R2K1%20w%20-%20-%201%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Ieqtx](https://lichess.org/training/Ieqtx), rated `1587`.
-The game is `Henry940622 (2340)` vs `kiritolemon (2450)` at `3+0` time control,
-with themes `endgame, short, crushing, master`. You can [view the full game](https://lichess.org/miU2PSQa),
-and the first solution move is `h4h6`.
+It is `White to move` in puzzle [zugmy](https://lichess.org/training/zugmy), rated `1509`.
+The game is `HurdyDurdy (1748)` vs `secousse_sismique (1653)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/p6bW33OU),
+and the first solution move is `b2b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

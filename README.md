@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5bk%2F1R5p%2F3r1N1P%2F5p2%2F2p1p3%2F8%2Fp1P2P1K%2F6R1%20w%20-%20-%205%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn2k2r%2Fpp3ppp%2F2pbp3%2F8%2F2PP2n1%2F2N2N1q%2FPP3P2%2FR1BQRBK1%20b%20kq%20-%205%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [XurwO](https://lichess.org/training/XurwO), rated `1389`.
-The game is `moveahead (1879)` vs `Rich_Cabrera (1914)` at `3+2` time control,
-with themes `arabianMate, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/zASCIGJ7),
-and the first solution move is `g1g8`.
+It is `Black to move` in puzzle [vjFL4](https://lichess.org/training/vjFL4), rated `1296`.
+The game is `andreaaa8000 (1737)` vs `Saydi72 (1727)` at `3+0` time control,
+with themes `mateIn2, short, opening, kingsideAttack`. You can [view the full game](https://lichess.org/0qe04IuN),
+and the first solution move is `d6h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

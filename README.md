@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F7R%2F2b5%2F2k2B2%2FP2p1P2%2F1K4P1%2F5r1P%2F8%20b%20-%20-%200%2060&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r%2Fp1pp2pp%2F2p5%2F4N1n1%2F8%2F2P1K3%2FPP4PP%2FRN1Q3R%20w%20kq%20-%200%2012&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [bidhK](https://lichess.org/training/bidhK), rated `1604`.
-The game is `Monnem (1711)` vs `l_i_n_t_e_k (1705)` at `3+0` time control,
-with themes `short, operaMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/0172p6u3),
-and the first solution move is `c6d5`.
+It is `White to move` in puzzle [jLNU1](https://lichess.org/training/jLNU1), rated `1387`.
+The game is `Selantey (2063)` vs `Space_man666 (2188)` at `5+0` time control,
+with themes `middlegame, discoveredCheck, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/dvksz5eb),
+and the first solution move is `d1h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=N4r2%2Fpp4Q1%2F2nk2B1%2F3p3p%2F3P4%2FP3P3%2F1P3qP1%2FR2K4%20b%20-%20-%201%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6R1%2F3k1N2%2F5P2%2F3pp1P1%2F2b1n3%2Fr7%2F1K6%2F2R5%20b%20-%20-%204%2048&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [JwRRE](https://lichess.org/training/JwRRE), rated `1606`.
-The game is `Kavkaz07rus (1872)` vs `paancho96 (1827)` at `3+2` time control,
-with themes `exposedKing, middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/jdoqZzgB),
-and the first solution move is `f2f1`.
+It is `Black to move` in puzzle [efKd8](https://lichess.org/training/efKd8), rated `1537`.
+The game is `knightaroo (2283)` vs `maksmil (2403)` at `3+2` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/nx4XHDjp),
+and the first solution move is `a3a2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

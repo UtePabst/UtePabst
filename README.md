@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4R3%2Fp4p2%2F1p2b1kp%2F2p4N%2F6PP%2FB1P1b3%2F1P1r4%2F5K2%20w%20-%20-%201%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6qk%2Fp4R1p%2F1p3b2%2F7Q%2Fr1n1B2P%2F5K2%2F8%2F8%20w%20-%20-%200%2039&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [HJM6M](https://lichess.org/training/HJM6M), rated `1499`.
-The game is `Whitebear3 (2012)` vs `WHEEEEE123 (2040)` at `5+0` time control,
-with themes `short, cornerMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/Zj8xc2zN),
-and the first solution move is `e8g8`.
+It is `White to move` in puzzle [qOsk5](https://lichess.org/training/qOsk5), rated `1407`.
+The game is `Varvar2531 (2380)` vs `M-Mahmoudi88 (2396)` at `3+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/uvXzlkRT),
+and the first solution move is `f7h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

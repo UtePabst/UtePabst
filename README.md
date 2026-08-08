@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F1p2r1p1%2Fp1p1pr2%2F6RQ%2F1P6%2F3P1P2%2F1q4P1%2F4R1K1%20w%20-%20-%206%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qkbnr%2F1Qp1pppp%2Fp7%2F8%2F2np4%2F3P3P%2FPPP2PP1%2FRNB1K2R%20w%20KQkq%20-%200%209&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [gc61D](https://lichess.org/training/gc61D), rated `1561`.
-The game is `Vassilisk777 (1835)` vs `vagif19 (1822)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/SjWfrUsq),
-and the first solution move is `h5h8`.
+It is `White to move` in puzzle [dY7I3](https://lichess.org/training/dY7I3), rated `1557`.
+The game is `zidriusz (1877)` vs `KingKunAchim09 (1874)` at `11+5` time control,
+with themes `deflection, short, crushing, fork, opening`. You can [view the full game](https://lichess.org/uPjj9jTi),
+and the first solution move is `b7c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

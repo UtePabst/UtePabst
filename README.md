@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F6pp%2Fp3P3%2F1p3P2%2F2p5%2FP1Rr3P%2F6P1%2F6K1%20w%20-%20-%203%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2rk1b1r%2F1p2nppp%2Fp2p1nb1%2FqB1Pp3%2FN3P1P1%2F5N1P%2FPP1BQP2%2FR3K2R%20b%20KQ%20-%201%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [FCF0t](https://lichess.org/training/FCF0t), rated `1556`.
-The game is `Lars152 (1705)` vs `aoi21 (1664)` at `10+5` time control,
-with themes `rookEndgame, long, crushing, endgame`. You can [view the full game](https://lichess.org/7H6Yq89p),
-and the first solution move is `c3d3`.
+It is `Black to move` in puzzle [fVfze](https://lichess.org/training/fVfze), rated `1430`.
+The game is `Canopy7 (1697)` vs `chess1tanisha (1789)` at `15+10` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/jM9mVBYw),
+and the first solution move is `a5b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

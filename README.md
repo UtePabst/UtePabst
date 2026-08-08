@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp4pp1%2F1p5p%2F3pPQ2%2F8%2F1P3rqP%2FP3R1P1%2F3R2K1%20w%20-%20-%204%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F6pp%2Fp3P3%2F1p3P2%2F2p5%2FP1Rr3P%2F6P1%2F6K1%20w%20-%20-%203%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [GtnxJ](https://lichess.org/training/GtnxJ), rated `1276`.
-The game is `Jucacasti (1829)` vs `OldWing (1823)` at `10+0` time control,
-with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/hzPw3b2l),
-and the first solution move is `f5f3`.
+It is `White to move` in puzzle [FCF0t](https://lichess.org/training/FCF0t), rated `1556`.
+The game is `Lars152 (1705)` vs `aoi21 (1664)` at `10+5` time control,
+with themes `rookEndgame, long, crushing, endgame`. You can [view the full game](https://lichess.org/7H6Yq89p),
+and the first solution move is `c3d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

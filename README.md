@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2Fppp2p1p%2F3b1Q2%2F3p4%2F8%2F1P2P3%2FP1PP2PP%2FRN3RK1%20b%20-%20-%200%2012&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3kb1r%2Fppp2ppp%2F2n5%2F4p3%2F4q1P1%2F5N1P%2FPPP2P2%2FR1BQ1RK1%20w%20kq%20-%200%2012&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [0tmK8](https://lichess.org/training/0tmK8), rated `1432`.
-The game is `HorsePower85 (1702)` vs `nickolaos1 (1695)` at `3+2` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/buIsUI65),
-and the first solution move is `d8f6`.
+It is `White to move` in puzzle [TiKrt](https://lichess.org/training/TiKrt), rated `1614`.
+The game is `dedian (1915)` vs `sokolove (1938)` at `10+0` time control,
+with themes `middlegame, crushing, short`. You can [view the full game](https://lichess.org/BHGecRD2),
+and the first solution move is `f1e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

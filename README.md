@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2Fp5p1%2F6rp%2F6q1%2F1P6%2F8%2FPQRr2PP%2F6RK%20b%20-%20-%205%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2F2p2pb1%2F1pPq4%2F1PnNp2p%2F2B5%2F4PP1b%2F1BR4P%2F3RQ1K1%20b%20-%20-%204%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [UrAqa](https://lichess.org/training/UrAqa), rated `1398`.
-The game is `nhatminhDuong (1880)` vs `egemenerdem5 (1907)` at `3+0` time control,
-with themes `endgame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/H7LnyMP4),
-and the first solution move is `g5g2`.
+It is `Black to move` in puzzle [aP6G7](https://lichess.org/training/aP6G7), rated `1299`.
+The game is `Bindas6ora (1960)` vs `Rjanu (1939)` at `10+5` time control,
+with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/FDUZUNyA),
+and the first solution move is `d6g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

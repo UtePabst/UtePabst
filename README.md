@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpp5p%2F5rp1%2F2p2pN1%2F2Pq1Pn1%2F1P5R%2FP1Qr2PP%2F4RK2%20w%20-%20-%204%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F7k%2F5Q1p%2F7p%2F4P3%2F3pP3%2F3Nn1PK%2F4q3%20b%20-%20-%2014%2054&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [EWqtf](https://lichess.org/training/EWqtf), rated `1380`.
-The game is `Bttmkt (2283)` vs `Ricardo_Airado (2209)` at `3+0` time control,
-with themes `veryLong, middlegame, crushing, attraction, fork`. You can [view the full game](https://lichess.org/uiZpUyFg),
-and the first solution move is `e1e8`.
+It is `Black to move` in puzzle [OurR7](https://lichess.org/training/OurR7), rated `1606`.
+The game is `guandr (2591)` vs `Crest64 (2681)` at `3+0` time control,
+with themes `master, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/Mtyjj4un),
+and the first solution move is `e1g1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

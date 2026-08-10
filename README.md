@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6k1%2F2q3Pp%2F2P5%2F8%2F3r3P%2FQ4PP1%2Fb5K1%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3rr1k1%2Fpp3pb1%2F2p5%2F2p1qN2%2F4P1Q1%2F2PP3P%2FPP4P1%2F5RK1%20w%20-%20-%205%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [8ZVWB](https://lichess.org/training/8ZVWB), rated `1365`.
-The game is `lp123poha (1915)` vs `dimas_z (1910)` at `3+2` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/UpxxkRgb),
-and the first solution move is `a2f7`.
+It is `White to move` in puzzle [29u4h](https://lichess.org/training/29u4h), rated `1459`.
+The game is `Ochinto (2107)` vs `princeofdigital (2071)` at `10+0` time control,
+with themes `deflection, middlegame, short, advantage, kingsideAttack, pin`. You can [view the full game](https://lichess.org/OlTrBjk5),
+and the first solution move is `f5h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

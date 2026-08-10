@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2Fp1r2R2%2F1pq1Q1pp%2F3pP3%2F6P1%2F8%2FP5KP%2F8%20w%20-%20-%203%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2F4bppp%2F2B2n2%2F2p5%2F8%2FP1p2P2%2F2PQ2PP%2FRN2K1NR%20w%20KQ%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [uPOjq](https://lichess.org/training/uPOjq), rated `1505`.
-The game is `ahmadhappy (1751)` vs `beatan (1710)` at `5+3` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/xK7FHtVK),
-and the first solution move is `f7f8`.
+It is `White to move` in puzzle [FgtgT](https://lichess.org/training/FgtgT), rated `1418`.
+The game is `Asigno (1829)` vs `Klyanbkkman (1807)` at `10+0` time control,
+with themes `crushing, short, opening`. You can [view the full game](https://lichess.org/8iTeHsxk),
+and the first solution move is `d2d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

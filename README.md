@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F3k4%2F1KRr2pp%2F1p3p2%2F1P5P%2FP5P1%2F8%2F8%20w%20-%20-%201%2043&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fpb3ppp%2F1p3n2%2F8%2F3P4%2F2P1q2P%2FPP1NB1P1%2FR2Q3K%20b%20-%20-%201%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [hygd8](https://lichess.org/training/hygd8), rated `1436`.
-The game is `Ar-Ka (1938)` vs `Hugola0 (1992)` at `3+2` time control,
-with themes `endgame, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/DSQqRUwF),
-and the first solution move is `c6d6`.
+It is `Black to move` in puzzle [GF5jW](https://lichess.org/training/GF5jW), rated `1368`.
+The game is `ESTERGOM (1793)` vs `ivanalvaro123 (1805)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/h93GqEu6),
+and the first solution move is `e3h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

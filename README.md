@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r3b1R%2F8%2F1kp5%2Fp1p3q1%2F2P1PQb1%2F1P1B4%2FP3N3%2F5K2%20b%20-%20-%203%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p3rkp%2Fp2R2p1%2F4b3%2F4QpqP%2F2P3P1%2FPP3P2%2F5RK1%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [D804i](https://lichess.org/training/D804i), rated `1289`.
-The game is `rudyqq (2198)` vs `marlinchess (1928)` at `3+2` time control,
-with themes `short, crushing, master, middlegame`. You can [view the full game](https://lichess.org/fzAUnE0S),
-and the first solution move is `g4e2`.
+It is `Black to move` in puzzle [CdB1L](https://lichess.org/training/CdB1L), rated `1474`.
+The game is `Josemachess (1803)` vs `RustyDude5971 (2226)` at `10+0` time control,
+with themes `endgame, short, crushing, hangingPiece, defensiveMove`. You can [view the full game](https://lichess.org/vNpyLw87),
+and the first solution move is `e5d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

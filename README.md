@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4R3%2Fpp4pk%2F2p1R3%2F3p2Pp%2FP3nP2%2F1P1q4%2F6K1%2F8%20w%20-%20-%206%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fpppb1p1p%2F2np2pQ%2F5P2%2F2P1P3%2F3B4%2FPqP3PP%2FR4RK1%20w%20-%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Fkwma](https://lichess.org/training/Fkwma), rated `1292`.
-The game is `la_maquina (2383)` vs `kiboboki (2364)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/7KfqHEfQ),
-and the first solution move is `g5g6`.
+It is `White to move` in puzzle [K7vc5](https://lichess.org/training/K7vc5), rated `1596`.
+The game is `Bigosto89 (1766)` vs `opponent1968 (1765)` at `3+0` time control,
+with themes `middlegame, crushing, defensiveMove, long`. You can [view the full game](https://lichess.org/Mqvu5Ubg),
+and the first solution move is `f5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

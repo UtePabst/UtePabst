@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2r2k1%2F1p1qBpp1%2Fp2p3p%2F8%2F3QP1n1%2F2N1R3%2FPP3PPP%2F3R2K1%20b%20-%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1kb1r%2F1pQ2ppp%2Fp1n2n2%2Fq7%2F4P3%2F2N2P2%2FPPP3PP%2F2KR1BNR%20w%20kq%20-%204%2014&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [hnoeI](https://lichess.org/training/hnoeI), rated `1537`.
-The game is `pion_balap (2078)` vs `Blood93 (2156)` at `10+0` time control,
-with themes `intermezzo, advantage, short, middlegame`. You can [view the full game](https://lichess.org/nPWqzCj0),
-and the first solution move is `g4e3`.
+It is `White to move` in puzzle [7RsVO](https://lichess.org/training/7RsVO), rated `1363`.
+The game is `Javidrez (2180)` vs `Thal-011 (2230)` at `10+0` time control,
+with themes `deflection, short, advantage, opening`. You can [view the full game](https://lichess.org/sq9IXwD6),
+and the first solution move is `d1d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

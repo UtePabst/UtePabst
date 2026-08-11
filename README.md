@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5rk%2Fpp3R1p%2F2p2R2%2F4p1p1%2F4Pb2%2F2NB3b%2FPPP4P%2F1K6%20w%20-%20-%205%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r7%2Fpp4k1%2F2p2Q2%2F2Pp2p1%2F1P1q3r%2F3B4%2FP4R2%2F5RK1%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [DqZA7](https://lichess.org/training/DqZA7), rated `1447`.
-The game is `iLGhazzzi_456 (1894)` vs `Rig_joker (1892)` at `10+0` time control,
-with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/Tsm1R4Lt),
-and the first solution move is `f6h6`.
+It is `Black to move` in puzzle [6IMWx](https://lichess.org/training/6IMWx), rated `1583`.
+The game is `hn2021 (1559)` vs `legendre_tt (1601)` at `3+0` time control,
+with themes `exposedKing, middlegame, advantage, long, interference`. You can [view the full game](https://lichess.org/rrfCxEyS),
+and the first solution move is `d4f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

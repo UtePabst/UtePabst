@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1rbr2k1%2Fpp1q1pp1%2F3bp2p%2F2p5%2F4B1QP%2F2BP2P1%2FPPP2P2%2FR3R1K1%20b%20-%20-%204%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F5pp1%2F7p%2F1p6%2F1PnPq3%2F2Q5%2F2N1rPP1%2F3RR1K1%20w%20-%20-%207%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [FDNe8](https://lichess.org/training/FDNe8), rated `1379`.
-The game is `innomanno (2114)` vs `indiomiguel (2089)` at `3+0` time control,
-with themes `short, crushing, fork, master, middlegame`. You can [view the full game](https://lichess.org/9YE91GBD),
-and the first solution move is `f7f5`.
+It is `White to move` in puzzle [OwHkd](https://lichess.org/training/OwHkd), rated `1583`.
+The game is `dragan961 (2342)` vs `AThArv_U (1965)` at `3+0` time control,
+with themes `short, advantage, clearance, middlegame`. You can [view the full game](https://lichess.org/8RbQUy8A),
+and the first solution move is `e1e2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F7p%2F1r2p1pb%2FBn1pPn2%2Fp2P4%2F3B1P2%2FPRR4P%2F1K1N4%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fpb2bppp%2F1pq1p3%2F1Bp4n%2F5B2%2F2NP1P1P%2FPPP1Q1P1%2FR3R1K1%20b%20-%20-%202%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [oWL2G](https://lichess.org/training/oWL2G), rated `1387`.
-The game is `lindenice (2370)` vs `gilin (2400)` at `5+0` time control,
-with themes `advantage, long, master, middlegame`. You can [view the full game](https://lichess.org/hdGNDLAI),
-and the first solution move is `a5b6`.
+It is `Black to move` in puzzle [m0oqM](https://lichess.org/training/m0oqM), rated `1352`.
+The game is `Knight2F6 (1772)` vs `samir_t97 (1765)` at `3+0` time control,
+with themes `middlegame, crushing, long, kingsideAttack, hangingPiece`. You can [view the full game](https://lichess.org/TDunteTU),
+and the first solution move is `h5f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rrk%2Fp5pp%2F5p2%2F2p1qP1Q%2F8%2F5R2%2FPP2p1R1%2F6K1%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn4k1%2Fpbpp3p%2F1p2p2r%2F4P1pn%2F2PP1p2%2F2PB1P2%2FP3N1PK%2FR1Q1BR2%20b%20-%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ay6IM](https://lichess.org/training/ay6IM), rated `1311`.
-The game is `Zisis_pap (2092)` vs `a-li-ba-ba (2053)` at `3+0` time control,
-with themes `short, attraction, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/99R4R0fV),
-and the first solution move is `h5h7`.
+It is `Black to move` in puzzle [mSFgm](https://lichess.org/training/mSFgm), rated `1546`.
+The game is `ome87 (2169)` vs `RiddlesMcFiddles (2014)` at `3+2` time control,
+with themes `hookMate, middlegame, discoveredCheck, epauletteMate, long, mateIn3, discoveredAttack`. You can [view the full game](https://lichess.org/UMyu6Sks),
+and the first solution move is `h5g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

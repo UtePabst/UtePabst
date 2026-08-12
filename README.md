@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1kr5%2F1r3ppp%2FR3p3%2F3pP3%2F5P2%2F4P3%2F6PP%2FR6K%20w%20-%20-%203%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r6r%2FB1pk2p1%2F2pb2p1%2F5p2%2F1P6%2FP2P4%2F2P2PK1%2FR6R%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [bN2yu](https://lichess.org/training/bN2yu), rated `1312`.
-The game is `carloseduar100 (2148)` vs `Amon_Sul (2150)` at `3+0` time control,
-with themes `exposedKing, endgame, master, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/hqGM4oSD),
-and the first solution move is `a6a8`.
+It is `Black to move` in puzzle [Omrai](https://lichess.org/training/Omrai), rated `1289`.
+The game is `cfmr (1833)` vs `aakash2121995 (1814)` at `10+0` time control,
+with themes `endgame, short, crushing, intermezzo`. You can [view the full game](https://lichess.org/gI5Bqwmd),
+and the first solution move is `h8h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

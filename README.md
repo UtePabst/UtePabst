@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2F1pq1p1bp%2F8%2F1PP2b1p%2F2B1P3%2F2N1Q3%2F6PP%2FR5K1%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1kr5%2F1r3ppp%2FR3p3%2F3pP3%2F5P2%2F4P3%2F6PP%2FR6K%20w%20-%20-%203%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [noQRd](https://lichess.org/training/noQRd), rated `1357`.
-The game is `Rainbow_Pepper (1998)` vs `ykd-iekrf (2054)` at `10+5` time control,
-with themes `middlegame, pin, short, crushing`. You can [view the full game](https://lichess.org/NLmVg1Iy),
-and the first solution move is `g7d4`.
+It is `White to move` in puzzle [bN2yu](https://lichess.org/training/bN2yu), rated `1312`.
+The game is `carloseduar100 (2148)` vs `Amon_Sul (2150)` at `3+0` time control,
+with themes `exposedKing, endgame, master, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/hqGM4oSD),
+and the first solution move is `a6a8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

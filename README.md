@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3q1rk1%2Fpb1npp2%2F1p1p2p1%2F6N1%2F2P2Q2%2F7P%2FP1P1B1P1%2Fb4RK1%20w%20-%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F1p1np2p%2Fp1qp2pQ%2FP3p3%2F4P3%2F1Rr1BP2%2F6PP%2F4R1K1%20w%20-%20-%202%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [MDjnW](https://lichess.org/training/MDjnW), rated `1591`.
-The game is `claudioa (2265)` vs `Vi_zo (2292)` at `3+0` time control,
-with themes `crushing, short, quietMove, middlegame`. You can [view the full game](https://lichess.org/2EqhwCOP),
-and the first solution move is `f4h4`.
+It is `White to move` in puzzle [PtPVs](https://lichess.org/training/PtPVs), rated `1405`.
+The game is `Capitanwhite (2742)` vs `Tuzakli_Egitim (2818)` at `3+0` time control,
+with themes `advantage, long, middlegame`. You can [view the full game](https://lichess.org/h9gODOlc),
+and the first solution move is `b3c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

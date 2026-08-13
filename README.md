@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3R4%2F1p1bkpp1%2Fp2pp3%2F6b1%2F2rNPn2%2F8%2FPPPQN3%2F2KR4%20b%20-%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F2q3p1%2Fp2bpr1p%2F3p4%2F1p6%2F2NQ2P1%2FPPP2P1P%2F2KRR3%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [PNZeC](https://lichess.org/training/PNZeC), rated `1509`.
-The game is `Remember-Me525 (1584)` vs `CliffordR (1569)` at `2+1` time control,
-with themes `middlegame, queensideAttack, advantage, long, discoveredAttack, pin`. You can [view the full game](https://lichess.org/hngO4zkW),
-and the first solution move is `f4e2`.
+It is `White to move` in puzzle [zEOJU](https://lichess.org/training/zEOJU), rated `1557`.
+The game is `being_faizy (1579)` vs `clonehorse (1610)` at `3+2` time control,
+with themes `advantage, fork, long, middlegame`. You can [view the full game](https://lichess.org/LiDcJgkE),
+and the first solution move is `c3d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

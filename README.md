@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4N3%2F4R2p%2F7k%2F4p3%2F5n2%2F3b4%2F1r3PPP%2F2R1K3%20b%20-%20-%203%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k1r3r%2F1pb2ppp%2F2q2n2%2F1N3QB1%2FP7%2F8%2F1PP2PPP%2FR4RK1%20b%20-%20-%202%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [rmQwq](https://lichess.org/training/rmQwq), rated `1595`.
-The game is `ramg (2306)` vs `lucifet97 (2238)` at `3+2` time control,
-with themes `short, morphysMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/p5bWcYYO),
-and the first solution move is `f4g2`.
+It is `Black to move` in puzzle [K58Bz](https://lichess.org/training/K58Bz), rated `1592`.
+The game is `iSann (1866)` vs `Axtem (1812)` at `3+0` time control,
+with themes `skewer, long, advantage, middlegame`. You can [view the full game](https://lichess.org/5TyBWsNX),
+and the first solution move is `d8d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

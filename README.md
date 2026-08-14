@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fppp1rpp1%2F3p2B1%2F3q2P1%2F3b1P2%2F2P1B3%2FPP1Q4%2F2K1R2R%20b%20-%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r3%2Fpp4p1%2F6k1%2F2bR1p2%2F2p5%2F2n5%2FPP2RPPP%2F6K1%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [oYx1S](https://lichess.org/training/oYx1S), rated `1375`.
-The game is `leodemoura77 (1507)` vs `racicotalek (1550)` at `10+0` time control,
-with themes `middlegame, crushing, long, pin`. You can [view the full game](https://lichess.org/3QaMqDFg),
-and the first solution move is `d4e3`.
+It is `White to move` in puzzle [e3AxR](https://lichess.org/training/e3AxR), rated `1495`.
+The game is `Mark-kraM (2108)` vs `Oleg_Bar (2073)` at `10+5` time control,
+with themes `long, advantage, endgame`. You can [view the full game](https://lichess.org/Ua5Fd0D5),
+and the first solution move is `e2e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

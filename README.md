@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F6p1%2FR4p1p%2FP3p3%2F4P1P1%2F5P1P%2F2R2K2%2F1r5r%20b%20-%20-%200%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2F4bppp%2Fp3pn2%2F1p4B1%2F3n4%2FP1NB1N1P%2F1P3PP1%2FR2Q1RK1%20w%20-%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [BjvQ3](https://lichess.org/training/BjvQ3), rated `1282`.
-The game is `aileen_m_minoza (1940)` vs `BhimsenPradhan (1920)` at `10+4` time control,
-with themes `endgame, short, crushing, rookEndgame, skewer`. You can [view the full game](https://lichess.org/e9gB1bAu),
-and the first solution move is `h1h2`.
+It is `White to move` in puzzle [PJLIv](https://lichess.org/training/PJLIv), rated `1534`.
+The game is `shriharsha_97 (1670)` vs `kgb0821 (1699)` at `5+3` time control,
+with themes `middlegame, crushing, long, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/W78m5KNr),
+and the first solution move is `f3d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

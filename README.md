@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1p6%2F6p1%2Fp1k3n1%2FP1P1pKP1%2F1P2R1P1%2F8%20b%20-%20-%207%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fpp3ppp%2F5Q2%2F2q5%2F8%2F3B4%2F1P3P2%2F1K4R1%20b%20-%20-%201%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [4KqX5](https://lichess.org/training/4KqX5), rated `1552`.
-The game is `RoseDuke (2055)` vs `anonymous9832968 (2116)` at `10+5` time control,
-with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/g6lUsE9Y),
-and the first solution move is `c4d3`.
+It is `Black to move` in puzzle [EM0t4](https://lichess.org/training/EM0t4), rated `1370`.
+The game is `Metedordeyaya (1778)` vs `AhMeDShoUaiB (1779)` at `10+0` time control,
+with themes `short, advantage, endgame`. You can [view the full game](https://lichess.org/JCPAcQe5),
+and the first solution move is `e8e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

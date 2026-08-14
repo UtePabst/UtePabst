@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fppqn1ppp%2F2pb2b1%2F3p4%2F3PnPP1%2F2PBB2P%2FPPQNN3%2F2K1R2R%20w%20-%20-%201%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2r2%2F6kp%2Fp3p3%2F2bp1p2%2F4n3%2F1P2P2P%2FP3Q1PK%2F2R2N2%20b%20-%20-%202%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [kwZPs](https://lichess.org/training/kwZPs), rated `1649`.
-The game is `raulchess123 (1861)` vs `nivaynis (1868)` at `3+0` time control,
-with themes `middlegame, trappedPiece, advantage, short`. You can [view the full game](https://lichess.org/rlk33dQT),
-and the first solution move is `f4f5`.
+It is `Black to move` in puzzle [NNNwD](https://lichess.org/training/NNNwD), rated `1301`.
+The game is `buddhibalcoach (2186)` vs `qixiaoya (2213)` at `3+0` time control,
+with themes `short, crushing, discoveredAttack, master, middlegame`. You can [view the full game](https://lichess.org/fM4Mjirc),
+and the first solution move is `c5d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

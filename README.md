@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rr1k1%2Fpbp2pp1%2F1p3P1p%2F8%2F8%2Fq2B3Q%2F6PP%2F3R1R1K%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1pk2p1Q%2F2p5%2F8%2F4Pqn1%2F5n2%2FPP4PP%2F5R1K%20b%20-%20-%202%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [uIVkr](https://lichess.org/training/uIVkr), rated `1584`.
-The game is `GhostKing777 (1777)` vs `Looserbaby (1759)` at `5+3` time control,
-with themes `middlegame, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/wAdyb8tf),
-and the first solution move is `d3h7`.
+It is `Black to move` in puzzle [7FTRR](https://lichess.org/training/7FTRR), rated `1601`.
+The game is `Djordjo3 (2037)` vs `mathsng (2027)` at `3+0` time control,
+with themes `endgame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/jfFAvzX5),
+and the first solution move is `g4f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

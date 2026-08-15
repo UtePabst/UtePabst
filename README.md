@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2Fppp1b1pp%2F5n2%2F1n1P1PN1%2F2Q1p3%2F8%2FPP1P1PPP%2FRNB2RK1%20w%20-%20-%200%2011&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F1p3p1p%2Fp4p2%2Fq2Q4%2F4P3%2Fb1N1P2P%2F1P3PP1%2F2KR1B1R%20b%20kq%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [aqQKK](https://lichess.org/training/aqQKK), rated `1554`.
-The game is `Mijail12 (2601)` vs `Bierpower (2542)` at `3+0` time control,
-with themes `advancedPawn, master, discoveredCheck, advantage, long, opening, discoveredAttack`. You can [view the full game](https://lichess.org/IU0DNBEZ),
-and the first solution move is `d5d6`.
+It is `Black to move` in puzzle [7tmuV](https://lichess.org/training/7tmuV), rated `1424`.
+The game is `Vidualbeats13 (1740)` vs `chrizzz82 (1850)` at `10+10` time control,
+with themes `mateIn2, middlegame, short, queensideAttack, pin`. You can [view the full game](https://lichess.org/CWHqDJV6),
+and the first solution move is `a5c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

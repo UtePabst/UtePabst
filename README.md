@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2Fp3p2p%2F3p4%2F4nPQ1%2F1rqpP1P1%2F6K1%2Fr1P5%2F2R4R%20w%20-%20-%201%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1k2r%2Fpp3ppp%2F2n1p3%2F3q4%2F3Pn3%2F2N2N2%2FPP1Q1PPP%2FR3KB1R%20b%20KQkq%20-%204%2011&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [1Yy3y](https://lichess.org/training/1Yy3y), rated `1418`.
-The game is `VA115 (2194)` vs `Rahul722 (2151)` at `3+2` time control,
-with themes `middlegame`. You can [view the full game](https://lichess.org/kR2TOwEg),
-and the first solution move is `h1h7`.
+It is `Black to move` in puzzle [KOirc](https://lichess.org/training/KOirc), rated `1572`.
+The game is `mnel84 (1864)` vs `evgeniy18101507 (1823)` at `5+0` time control,
+with themes `advantage, short, opening`. You can [view the full game](https://lichess.org/85gMG6YB),
+and the first solution move is `e4d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1r1k%2Fpp4p1%2F4Q2p%2F3p4%2F3q4%2F6P1%2FPPB2PP1%2F4R1K1%20w%20-%20-%202%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2Fp3p2p%2F3p4%2F4nPQ1%2F1rqpP1P1%2F6K1%2Fr1P5%2F2R4R%20w%20-%20-%201%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [yMxPe](https://lichess.org/training/yMxPe), rated `1486`.
-The game is `andro2 (2304)` vs `compermisito (2251)` at `3+0` time control,
-with themes `long, advantage, endgame, master`. You can [view the full game](https://lichess.org/ZvPSnmWx),
-and the first solution move is `e6g6`.
+It is `White to move` in puzzle [1Yy3y](https://lichess.org/training/1Yy3y), rated `1418`.
+The game is `VA115 (2194)` vs `Rahul722 (2151)` at `3+2` time control,
+with themes `middlegame`. You can [view the full game](https://lichess.org/kR2TOwEg),
+and the first solution move is `h1h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

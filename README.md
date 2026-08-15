@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5pkp%2F6p1%2F3P4%2FP2q3r%2F8%2F6B1%2F1RQ2K2%20b%20-%20-%205%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1p3p1p%2F1P2p1p1%2FP5P1%2F1K1k3P%2F8%2F8%20w%20-%20-%201%2043&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [M1Bug](https://lichess.org/training/M1Bug), rated `1475`.
-The game is `Shefer_Aleksandr (2367)` vs `Bocharov-Ivan (2524)` at `3+2` time control,
-with themes `endgame, master, short, advantage`. You can [view the full game](https://lichess.org/1lGtVUwU),
-and the first solution move is `h4f4`.
+It is `White to move` in puzzle [9NaIY](https://lichess.org/training/9NaIY), rated `1515`.
+The game is `OulaS (1955)` vs `individuno6 (2097)` at `25+3` time control,
+with themes `pawnEndgame, crushing, short, endgame`. You can [view the full game](https://lichess.org/mnXTwGt5),
+and the first solution move is `a4a5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2Fr1q3p1%2F4Q2p%2Fp7%2F4b2P%2F1P4R1%2FP1p5%2FK1Rn4%20w%20-%20-%201%2045&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1r1k%2Fpp4p1%2F4Q2p%2F3p4%2F3q4%2F6P1%2FPPB2PP1%2F4R1K1%20w%20-%20-%202%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [5jJvY](https://lichess.org/training/5jJvY), rated `1286`.
-The game is `KHMT01 (2102)` vs `abomomn (2092)` at `10+0` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/u44MPpkh),
-and the first solution move is `e6e8`.
+It is `White to move` in puzzle [yMxPe](https://lichess.org/training/yMxPe), rated `1486`.
+The game is `andro2 (2304)` vs `compermisito (2251)` at `3+0` time control,
+with themes `long, advantage, endgame, master`. You can [view the full game](https://lichess.org/ZvPSnmWx),
+and the first solution move is `e6g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

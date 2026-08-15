@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F3nq1b1%2Fp3p1B1%2F1p1bN1pQ%2F2pP4%2F2P5%2FPP4P1%2FR3Kr1R%20w%20KQ%20-%202%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F1pbq2pp%2Fp7%2F3pn3%2F1P6%2FP3BP1P%2F2R1QP2%2F2R3K1%20b%20-%20-%203%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [68axd](https://lichess.org/training/68axd), rated `1414`.
-The game is `PaTrick2514 (1768)` vs `Tural_tural (1683)` at `10+0` time control,
-with themes `middlegame, advantage, long`. You can [view the full game](https://lichess.org/vpqIO9xe),
-and the first solution move is `h1f1`.
+It is `Black to move` in puzzle [r7vF5](https://lichess.org/training/r7vF5), rated `1425`.
+The game is `mp91 (1816)` vs `TheBartman (1858)` at `5+3` time control,
+with themes `crushing, long, kingsideAttack, middlegame`. You can [view the full game](https://lichess.org/ntyxZ8fq),
+and the first solution move is `d7h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r3bk1%2F2q2ppp%2Fn2p4%2Fp2B3r%2F2PN4%2FP3P1Pb%2F1BQP1R1P%2FR5K1%20b%20-%20-%206%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F1bQ1R3%2F2q2npk%2F7p%2F1p5P%2F1P6%2F5PP1%2F6K1%20w%20-%20-%205%2038&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [HKAbM](https://lichess.org/training/HKAbM), rated `1368`.
-The game is `aRIEL652 (2374)` vs `Profelucas (2204)` at `7+3` time control,
-with themes `advantage, capturingDefender, long, middlegame`. You can [view the full game](https://lichess.org/SeptJBeT),
-and the first solution move is `h5d5`.
+It is `White to move` in puzzle [sXwqi](https://lichess.org/training/sXwqi), rated `1343`.
+The game is `dyth (1914)` vs `dsssdds (1746)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/WplHAtdg),
+and the first solution move is `c7f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

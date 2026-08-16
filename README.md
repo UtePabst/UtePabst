@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k5%2F2r5%2F5R2%2F1R4p1%2F1p1P4%2F8%2FPK3nP1%2F8%20b%20-%20-%200%2049&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r1q2nk%2Fp4r1p%2F3p1p2%2F8%2F1ppP1NP1%2F7Q%2FPPP3b1%2F2KR3R%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [x1m07](https://lichess.org/training/x1m07), rated `1329`.
-The game is `kaifastus (2110)` vs `svorac (2102)` at `15+15` time control,
-with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/hF0Mt5rE),
-and the first solution move is `f2d3`.
+It is `White to move` in puzzle [ygaIo](https://lichess.org/training/ygaIo), rated `1350`.
+The game is `Cubebrain (2157)` vs `Mateo27 (2120)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, epauletteMate, kingsideAttack, pin`. You can [view the full game](https://lichess.org/kMD1AqNq),
+and the first solution move is `f4g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

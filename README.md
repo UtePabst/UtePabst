@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fppp3p1%2F3p1q1p%2F3Q4%2F2nNN3%2F2PbB3%2FPP4PP%2F4R1K1%20b%20-%20-%205%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3kb1r%2Fp2bpppp%2F2p2n2%2F8%2F8%2Fq4N2%2FP1QB1PPP%2F1R2KB1R%20w%20Kkq%20-%202%2013&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [A1Av8](https://lichess.org/training/A1Av8), rated `1361`.
-The game is `rahulparida (1697)` vs `AlexEberwhite (1701)` at `10+5` time control,
-with themes `mateIn2, middlegame, short, operaMate, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/NODLKrqX),
-and the first solution move is `f6f1`.
+It is `White to move` in puzzle [jBp2V](https://lichess.org/training/jBp2V), rated `1539`.
+The game is `Mv17 (2570)` vs `shinerzz (2188)` at `3+2` time control,
+with themes `master, short, crushing, trappedPiece, opening`. You can [view the full game](https://lichess.org/9wCXRaAg),
+and the first solution move is `d2b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1P2R1Pk%2F7p%2F8%2F3pK3%2F1r6%2F8%20b%20-%20-%201%2057&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1k2r%2F1p2qp1p%2F1Qn1p1p1%2F3p4%2Fp2P4%2F3BPNP1%2FPP3PP1%2F2R2RK1%20w%20kq%20-%202%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [m2Git](https://lichess.org/training/m2Git), rated `1375`.
-The game is `Mops2_2004 (2683)` vs `doreality1991 (2722)` at `3+0` time control,
-with themes `endgame, master, short, crushing, rookEndgame, skewer`. You can [view the full game](https://lichess.org/y66fo6Vx),
-and the first solution move is `b2e2`.
+It is `White to move` in puzzle [rPmcq](https://lichess.org/training/rPmcq), rated `1605`.
+The game is `Hardnard (1764)` vs `ScottyKortkamp (1717)` at `15+15` time control,
+with themes `middlegame, long, fork, crushing`. You can [view the full game](https://lichess.org/vKE081bh),
+and the first solution move is `c1c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1k2r%2F1p2qp1p%2F1Qn1p1p1%2F3p4%2Fp2P4%2F3BPNP1%2FPP3PP1%2F2R2RK1%20w%20kq%20-%202%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3kb1r%2F1p3ppp%2Fpq2p3%2F3pP3%2F1n1B4%2F2N3N1%2FPP1Q1PPP%2F1R2K2R%20b%20Kkq%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [rPmcq](https://lichess.org/training/rPmcq), rated `1605`.
-The game is `Hardnard (1764)` vs `ScottyKortkamp (1717)` at `15+15` time control,
-with themes `middlegame, long, fork, crushing`. You can [view the full game](https://lichess.org/vKE081bh),
-and the first solution move is `c1c6`.
+It is `Black to move` in puzzle [EnVwO](https://lichess.org/training/EnVwO), rated `1489`.
+The game is `Mamad2020andz (2035)` vs `PVR11 (1950)` at `3+0` time control,
+with themes `middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/b0ThgWHk),
+and the first solution move is `b6d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r3%2Fp2R1pkp%2F2p2p2%2F3p4%2F3P1b2%2F2Nb2N1%2FPP3PPP%2F5RK1%20w%20-%20-%2016%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4rR2%2F2p3pk%2F1p5p%2FpR1Pp3%2FP1P5%2F2P1n1P1%2F5K1P%2F8%20b%20-%20-%201%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [XdBFb](https://lichess.org/training/XdBFb), rated `1334`.
-The game is `MagnumCarlberg (1858)` vs `a_grajag (1858)` at `3+2` time control,
-with themes `middlegame, crushing, fork, long`. You can [view the full game](https://lichess.org/mazY1cAs),
-and the first solution move is `g3h5`.
+It is `Black to move` in puzzle [AXvAg](https://lichess.org/training/AXvAg), rated `1580`.
+The game is `Kanimi (2030)` vs `watchmem (2038)` at `10+0` time control,
+with themes `short, advantage, endgame`. You can [view the full game](https://lichess.org/cJWaMG8j),
+and the first solution move is `e3g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

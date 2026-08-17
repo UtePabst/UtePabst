@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r7%2Fpbpn4%2F1p1p4%2F3P3R%2F4p1k1%2F2PQ4%2FPP3q2%2F1K6%20w%20-%20-%202%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k3%2Fppp1bpp1%2F2np3r%2F1B2p2p%2F4P3%2F2PPKN2%2FPP2Q1q1%2FR1B1RN2%20b%20q%20-%205%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ZZKPy](https://lichess.org/training/ZZKPy), rated `1488`.
-The game is `kikomachine1031 (1887)` vs `sokrates272 (1884)` at `10+0` time control,
-with themes `short, killBoxMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/RaMpGx7a),
-and the first solution move is `d3h3`.
+It is `Black to move` in puzzle [71jJz](https://lichess.org/training/71jJz), rated `1430`.
+The game is `kolarfil (1727)` vs `student64 (1680)` at `5+3` time control,
+with themes `advantage, long, middlegame`. You can [view the full game](https://lichess.org/0BeXKKsM),
+and the first solution move is `e7g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

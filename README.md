@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr4%2FQ1p1rpbp%2F1p2b3%2F1q6%2F5B2%2F3p4%2FP4PPP%2FR1R3K1%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F4b3%2F7p%2F3rBpp1%2F1p6%2Fq3P2P%2F5PPQ%2F1RR3K1%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [gHfi9](https://lichess.org/training/gHfi9), rated `1455`.
-The game is `kafula (1793)` vs `mlody1018 (1776)` at `15+15` time control,
-with themes `mateIn2, middlegame, short, queensideAttack`. You can [view the full game](https://lichess.org/aMohsb2G),
-and the first solution move is `c1c7`.
+It is `Black to move` in puzzle [5SjhJ](https://lichess.org/training/5SjhJ), rated `1290`.
+The game is `Alexandros_Gr (1801)` vs `abracadaboom (1860)` at `15+10` time control,
+with themes `middlegame, long, mateIn3, sacrifice, backRankMate`. You can [view the full game](https://lichess.org/C90pd7v9),
+and the first solution move is `a3c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6pk%2FpQ5p%2F5p1q%2F2P4n%2F1P1B1P2%2FP6P%2F3R3K%20b%20-%20-%202%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F4bp1p%2F6p1%2F5bNn%2F1PB4P%2Fr1Bq4%2F1Q1P1PP1%2F2KRR3%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [OSpyu](https://lichess.org/training/OSpyu), rated `1495`.
-The game is `oxalate (2002)` vs `banjsla_m (2093)` at `10+0` time control,
-with themes `short, fork, endgame, mateIn2`. You can [view the full game](https://lichess.org/x6rvjKqV),
-and the first solution move is `h5f3`.
+It is `Black to move` in puzzle [xaZtV](https://lichess.org/training/xaZtV), rated `1318`.
+The game is `CHESSERNAP5 (2245)` vs `Barbridge (1797)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, queensideAttack, sacrifice`. You can [view the full game](https://lichess.org/dAjnmmVz),
+and the first solution move is `a3a1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F7K%2F8%2F6rk%2F4Q3%2F1P6%2F5r2%2F8%20w%20-%20-%206%2069&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5Qpk%2F5p1p%2F1p4r1%2F8%2F5qP1%2FP4P2%2F4BRK1%20b%20-%20-%204%2044&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [osh5c](https://lichess.org/training/osh5c), rated `1449`.
-The game is `LAK202 (2006)` vs `MartinMarietta (1922)` at `3+2` time control,
-with themes `endgame, crushing, fork, long, queenRookEndgame`. You can [view the full game](https://lichess.org/bFWybAB8),
-and the first solution move is `e4h1`.
+It is `Black to move` in puzzle [9T9mL](https://lichess.org/training/9T9mL), rated `1602`.
+The game is `adechess (1806)` vs `Milesapart (2028)` at `10+4` time control,
+with themes `endgame, advantage, quietMove, short`. You can [view the full game](https://lichess.org/i3x03zrt),
+and the first solution move is `g5h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

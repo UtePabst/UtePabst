@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr4%2Fppp2p2%2F8%2F6pp%2F3pP2q%2FP2R1B1P%2F1PP1K1P1%2F7R%20w%20-%20-%200%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F7p%2F6p1%2F4pp2%2F2R5%2F1r4bP%2F6B1%2F6K1%20w%20-%20-%200%2039&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [bPR7y](https://lichess.org/training/bPR7y), rated `1545`.
-The game is `ArcticWillow (2115)` vs `Platti (2031)` at `5+0` time control,
-with themes `long, advantage, endgame`. You can [view the full game](https://lichess.org/LFfrHZwn),
-and the first solution move is `g2g3`.
+It is `White to move` in puzzle [qoAzt](https://lichess.org/training/qoAzt), rated `1277`.
+The game is `anjossendre2 (2217)` vs `Sean_saps (2233)` at `20+0` time control,
+with themes `endgame, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/JRl3l28y),
+and the first solution move is `g2d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

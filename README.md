@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fp7%2FP2p4%2F5kP1%2F8%2Fr3RK2%2F8%20b%20-%20-%200%2051&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr4%2Fppp2p2%2F8%2F6pp%2F3pP2q%2FP2R1B1P%2F1PP1K1P1%2F7R%20w%20-%20-%200%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [7Dqy1](https://lichess.org/training/7Dqy1), rated `1344`.
-The game is `barryqui (1929)` vs `CarbonaraQueen (1928)` at `3+0` time control,
-with themes `endgame, crushing, rookEndgame, long, defensiveMove`. You can [view the full game](https://lichess.org/ccReY4Ov),
-and the first solution move is `a2e2`.
+It is `White to move` in puzzle [bPR7y](https://lichess.org/training/bPR7y), rated `1545`.
+The game is `ArcticWillow (2115)` vs `Platti (2031)` at `5+0` time control,
+with themes `long, advantage, endgame`. You can [view the full game](https://lichess.org/LFfrHZwn),
+and the first solution move is `g2g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

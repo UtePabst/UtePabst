@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1nk1%2Fpp3p1p%2F8%2F2pPr2p%2FB1P2pK1%2FP4P2%2F1P6%2F6RR%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r%2Fppp1Pppp%2F2n5%2F2b5%2F2P5%2FP7%2F1P2PPPP%2FRNBQKBNR%20b%20KQkq%20-%200%206&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [CeTuZ](https://lichess.org/training/CeTuZ), rated `1427`.
-The game is `batiiil (2547)` vs `Bleek90 (2431)` at `10+0` time control,
-with themes `endgame, long, kingsideAttack, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/5B81Q9ts),
-and the first solution move is `g4f4`.
+It is `Black to move` in puzzle [VBHH2](https://lichess.org/training/VBHH2), rated `1575`.
+The game is `ugrofin (1663)` vs `swagatadas (1603)` at `30+0` time control,
+with themes `deflection, short, advantage, opening, attackingF2F7`. You can [view the full game](https://lichess.org/uNj5iLYd),
+and the first solution move is `c5f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

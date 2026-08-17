@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7r%2Fpp1k1pp1%2F2pb2b1%2F3P3p%2F5B1P%2F6N1%2FPP3PP1%2F2R3K1%20w%20-%20-%201%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F3b1p2%2F1q2pp1p%2F3p4%2F2pP3P%2F1pP1PQ1R%2FP4PP1%2FqB4K1%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [9IPwD](https://lichess.org/training/9IPwD), rated `1598`.
-The game is `Lex_ElPato (2087)` vs `java2312 (2111)` at `10+5` time control,
-with themes `endgame, short, advantage, pin`. You can [view the full game](https://lichess.org/XmKUXNrb),
-and the first solution move is `d5c6`.
+It is `White to move` in puzzle [oEeUG](https://lichess.org/training/oEeUG), rated `1416`.
+The game is `agusrahmat (2164)` vs `mremy (2198)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/vNgVQmHE),
+and the first solution move is `h3g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

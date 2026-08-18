@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F5pp1%2F2p4p%2F4q3%2F8%2F2PQ3P%2FPP3PP1%2FR4K2%20b%20-%20-%202%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnb2bnr%2Fpppp1Q1p%2F3k1q2%2F8%2F2Bp1p2%2F3P4%2FPPP3PP%2FRNB1K2R%20w%20KQ%20-%201%2011&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [KgpVK](https://lichess.org/training/KgpVK), rated `1327`.
-The game is `MohamedBadr1 (1616)` vs `OngJunYi (1621)` at `10+0` time control,
-with themes `crushing, skewer, long, endgame`. You can [view the full game](https://lichess.org/nww0aHyJ),
-and the first solution move is `e5h2`.
+It is `White to move` in puzzle [MdQt8](https://lichess.org/training/MdQt8), rated `1580`.
+The game is `pesango (1712)` vs `BayCheSs1824 (1698)` at `5+3` time control,
+with themes `middlegame, short, crushing, xRayAttack`. You can [view the full game](https://lichess.org/BECUjvns),
+and the first solution move is `c1f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

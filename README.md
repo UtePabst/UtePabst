@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F7p%2F4k1p1%2F2P5%2F5K1P%2F8%2F8%20w%20-%20-%202%2052&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2r2k1%2F4qpp1%2Fpp1p4%2F3PpPP1%2F1PP2n1p%2FBP4nP%2F5QB1%2FR3R1K1%20w%20-%20-%201%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [1PBES](https://lichess.org/training/1PBES), rated `1474`.
-The game is `Mohammedm13 (1622)` vs `DareFoxx (1604)` at `5+3` time control,
-with themes `crushing, pawnEndgame, long, endgame`. You can [view the full game](https://lichess.org/thOcWzjW),
-and the first solution move is `f3g4`.
+It is `White to move` in puzzle [SFGul](https://lichess.org/training/SFGul), rated `1605`.
+The game is `purepecha1 (2307)` vs `garyhi (2288)` at `5+0` time control,
+with themes `advantage, short, master, middlegame`. You can [view the full game](https://lichess.org/lU8T9ugg),
+and the first solution move is `f2f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

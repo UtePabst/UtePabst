@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k4r1%2Fp1p5%2F1p4r1%2F4pq1p%2F2Q1Bn2%2F2P4P%2FPP3PPK%2F3R2R1%20b%20-%20-%207%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F7p%2F4k1p1%2F2P5%2F5K1P%2F8%2F8%20w%20-%20-%202%2052&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [eC6bo](https://lichess.org/training/eC6bo), rated `1518`.
-The game is `Conr77 (1915)` vs `ferboa (1922)` at `5+0` time control,
-with themes `veryLong, middlegame, attraction, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/VojKoFF0),
-and the first solution move is `g6g2`.
+It is `White to move` in puzzle [1PBES](https://lichess.org/training/1PBES), rated `1474`.
+The game is `Mohammedm13 (1622)` vs `DareFoxx (1604)` at `5+3` time control,
+with themes `crushing, pawnEndgame, long, endgame`. You can [view the full game](https://lichess.org/thOcWzjW),
+and the first solution move is `f3g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

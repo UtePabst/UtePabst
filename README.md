@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F1p4pk%2Fp5pp%2F1b1Q4%2F8%2F2P2PN1%2FPP3BPP%2F4q1K1%20w%20-%20-%201%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F6p1%2Fp2p3p%2F2pP4%2F2P5%2FP1q4P%2F2Q3P1%2F1BKR4%20b%20-%20-%2010%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [7r8sJ](https://lichess.org/training/7r8sJ), rated `1323`.
-The game is `nnsaratov (1827)` vs `rodrigobernal (1799)` at `10+0` time control,
-with themes `short, crushing, endgame`. You can [view the full game](https://lichess.org/OCwJ6Et1),
-and the first solution move is `f2e1`.
+It is `Black to move` in puzzle [F1ZbG](https://lichess.org/training/F1ZbG), rated `1584`.
+The game is `Olegsevmor (1668)` vs `Viktor52 (1663)` at `10+0` time control,
+with themes `endgame, crushing, long, pin`. You can [view the full game](https://lichess.org/Swm2gZtL),
+and the first solution move is `c3a3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

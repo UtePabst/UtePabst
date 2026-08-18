@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp4k2%2F6pp%2F2n5%2F2R2PP1%2F1pp4P%2F8%2F2K5%20b%20-%20-%203%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2FRRr2pp1%2F2q1pn1p%2F3p4%2F3P1Q2%2F5P1P%2F6PK%2F2r5%20w%20-%20-%207%2033&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [5dcRl](https://lichess.org/training/5dcRl), rated `1484`.
-The game is `RunningTorch (1542)` vs `ROHITHSAI2911 (1615)` at `10+5` time control,
-with themes `exposedKing, endgame, advancedPawn, crushing, long`. You can [view the full game](https://lichess.org/P7FdIPSU),
-and the first solution move is `c5d3`.
+It is `White to move` in puzzle [sNvkK](https://lichess.org/training/sNvkK), rated `1473`.
+The game is `charate (1728)` vs `Horvath69 (1746)` at `3+2` time control,
+with themes `long, crushing, middlegame`. You can [view the full game](https://lichess.org/NUDY4qeC),
+and the first solution move is `b7c7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

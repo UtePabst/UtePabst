@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2F1p3p1p%2F3N2p1%2F1p2b3%2F2p5%2FP6P%2F1P3PP1%2F1R1Q2K1%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k4r1%2Fp1p5%2F1p4r1%2F4pq1p%2F2Q1Bn2%2F2P4P%2FPP3PPK%2F3R2R1%20b%20-%20-%207%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [jfLOB](https://lichess.org/training/jfLOB), rated `1421`.
-The game is `seanski26 (2000)` vs `amdali (1937)` at `10+0` time control,
-with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/Q0afwyVG),
-and the first solution move is `f8d8`.
+It is `Black to move` in puzzle [eC6bo](https://lichess.org/training/eC6bo), rated `1518`.
+The game is `Conr77 (1915)` vs `ferboa (1922)` at `5+0` time control,
+with themes `veryLong, middlegame, attraction, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/VojKoFF0),
+and the first solution move is `g6g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

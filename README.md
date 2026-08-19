@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F2n1p2p%2Fp2pP2B%2F2pP1pQN%2Fq1Pb4%2F7P%2FP5P1%2F1r3R1K%20w%20-%20-%202%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1R1Q3r%2Fp4pk1%2F2p1b1pr%2F2q1Pp2%2F5P1P%2F6K1%2F6NR%20w%20-%20-%204%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [CPzQ8](https://lichess.org/training/CPzQ8), rated `1398`.
-The game is `frap309j (1682)` vs `dcezar (1633)` at `5+3` time control,
-with themes `mateIn2, middlegame, short, fork`. You can [view the full game](https://lichess.org/Zsb5cDaR),
-and the first solution move is `h6g7`.
+It is `White to move` in puzzle [Lq7kO](https://lichess.org/training/Lq7kO), rated `1304`.
+The game is `Adarsh55 (1736)` vs `JJJZ (1735)` at `10+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/SXm1pYDt),
+and the first solution move is `d7f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

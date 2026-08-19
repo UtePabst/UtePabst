@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1kN3p1%2F6Q1%2F3NP3%2F2nP4%2F2P1B3%2F4KP2%2Fq6r%20b%20-%20-%200%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1r2%2F1b3pk1%2Fp2ppq1p%2F1p2b3%2F3NP1P1%2FP1N1Q2R%2F1PP3P1%2F5RK1%20b%20-%20-%2013%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Q6zgb](https://lichess.org/training/Q6zgb), rated `1521`.
-The game is `Ibrahim_kasse11 (1944)` vs `Kumamon-San (1751)` at `7+2` time control,
-with themes `middlegame, oneMove, mateIn1`. You can [view the full game](https://lichess.org/fTZwuovG),
-and the first solution move is `a1d1`.
+It is `Black to move` in puzzle [MgtQu](https://lichess.org/training/MgtQu), rated `1363`.
+The game is `Contra_todos (1782)` vs `Chess-Network (2730)` at `3+0` time control,
+with themes `short, advantage, kingsideAttack, pin, master, middlegame`. You can [view the full game](https://lichess.org/3KqPaSWy),
+and the first solution move is `e5d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

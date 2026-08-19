@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F4pp2%2Fp2p2pP%2Fq1r5%2F3Q1N1P%2F2p2P2%2FP1P1B3%2FK2R3R%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F1pp2pp1%2Fp2r1n1p%2F3Pp3%2F4Pq2%2FP1N1RP2%2F1PK2Q2%2F3R1B2%20b%20-%20-%2014%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [S7O2x](https://lichess.org/training/S7O2x), rated `1343`.
-The game is `RCone2 (2305)` vs `Adonvito31 (2363)` at `3+0` time control,
-with themes `middlegame, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/QxIHwBdC),
-and the first solution move is `a5a2`.
+It is `Black to move` in puzzle [MU7IL](https://lichess.org/training/MU7IL), rated `1590`.
+The game is `Ouzmeister (1827)` vs `AthelstanRex (1861)` at `10+5` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/gt5c3gVx),
+and the first solution move is `f6g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

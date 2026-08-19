@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F5pp1%2F7p%2Fp1Qr4%2F8%2F4P3%2Fq4PPP%2FR3R1K1%20w%20-%20-%202%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3rr1k1%2FppR3np%2F6p1%2F8%2F1q6%2F1P4P1%2FP3P1BP%2FR4QK1%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [GM3QI](https://lichess.org/training/GM3QI), rated `1438`.
-The game is `MelihBr (1926)` vs `Saphira57 (1912)` at `15+15` time control,
-with themes `endgame, short, crushing`. You can [view the full game](https://lichess.org/gaPLTE7d),
-and the first solution move is `c5f8`.
+It is `Black to move` in puzzle [7Ymjd](https://lichess.org/training/7Ymjd), rated `1381`.
+The game is `shyakinac (1843)` vs `StefanSins (1776)` at `10+0` time control,
+with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/1eLZqlXm),
+and the first solution move is `b4b6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

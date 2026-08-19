@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r3r1k%2F2p2pp1%2Fp6N%2F1pb1q3%2F7Q%2F2P3P1%2FPP4nP%2F3R1R1K%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F2p2pp1%2F4pn1p%2FP1Pp4%2F2rP4%2F4P3%2F5PPP%2FR1B1K2R%20b%20KQ%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [NuTV8](https://lichess.org/training/NuTV8), rated `1571`.
-The game is `Dessau_Skater (1790)` vs `ivanych79 (1822)` at `5+0` time control,
-with themes `mateIn2, middlegame, short, discoveredCheck, fork, doubleCheck`. You can [view the full game](https://lichess.org/fnQFieqH),
-and the first solution move is `h6f7`.
+It is `Black to move` in puzzle [BOgT3](https://lichess.org/training/BOgT3), rated `1552`.
+The game is `Panlor (1724)` vs `fatcontt (1705)` at `3+2` time control,
+with themes `endgame, advantage, skewer, deflection, veryLong`. You can [view the full game](https://lichess.org/SJa1q2xx),
+and the first solution move is `a8a5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

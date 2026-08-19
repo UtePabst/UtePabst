@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1rb3k1%2F2b1qppn%2F7p%2F1N2P3%2FQ4P2%2FP3B2P%2F6P1%2F3R2K1%20w%20-%20-%201%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp3r1k1%2F1p5p%2F2pB4%2F2Pn1R2%2F1P4PP%2FP4P2%2F6K1%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [iwBjR](https://lichess.org/training/iwBjR), rated `1463`.
-The game is `Dwaaas (2225)` vs `Rombik123 (2223)` at `5+0` time control,
-with themes `advantage, long, clearance, middlegame`. You can [view the full game](https://lichess.org/c1vomSYh),
-and the first solution move is `b5c7`.
+It is `Black to move` in puzzle [BBC6T](https://lichess.org/training/BBC6T), rated `1271`.
+The game is `MusaevR (2157)` vs `CABS1993 (2209)` at `10+0` time control,
+with themes `endgame`. You can [view the full game](https://lichess.org/4tZjYfTA),
+and the first solution move is `d4e2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

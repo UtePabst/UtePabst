@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp3r1k1%2F1p5p%2F2pB4%2F2Pn1R2%2F1P4PP%2FP4P2%2F6K1%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F5pp1%2F7p%2Fp1Qr4%2F8%2F4P3%2Fq4PPP%2FR3R1K1%20w%20-%20-%202%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [BBC6T](https://lichess.org/training/BBC6T), rated `1271`.
-The game is `MusaevR (2157)` vs `CABS1993 (2209)` at `10+0` time control,
-with themes `endgame`. You can [view the full game](https://lichess.org/4tZjYfTA),
-and the first solution move is `d4e2`.
+It is `White to move` in puzzle [GM3QI](https://lichess.org/training/GM3QI), rated `1438`.
+The game is `MelihBr (1926)` vs `Saphira57 (1912)` at `15+15` time control,
+with themes `endgame, short, crushing`. You can [view the full game](https://lichess.org/gaPLTE7d),
+and the first solution move is `c5f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

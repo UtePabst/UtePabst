@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k3r1%2Fppp1n1pp%2F2nb2r1%2F6B1%2F3NP3%2F5N2%2FPP3PPP%2F2R2RK1%20b%20-%20-%2013%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1Q6%2F3k1ppp%2F4p3%2F7q%2FP3n3%2F4b3%2F1P4PP%2F5R1K%20w%20-%20-%204%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [iXxtD](https://lichess.org/training/iXxtD), rated `1365`.
-The game is `KSYY (1966)` vs `MChessplayer123 (1801)` at `10+0` time control,
-with themes `middlegame, advantage, short`. You can [view the full game](https://lichess.org/qXD8OykQ),
-and the first solution move is `c6d4`.
+It is `White to move` in puzzle [GMVNB](https://lichess.org/training/GMVNB), rated `1604`.
+The game is `majidkhani (2094)` vs `BFCV89 (2156)` at `10+0` time control,
+with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/QmWjsHUH),
+and the first solution move is `b8b7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

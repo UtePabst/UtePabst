@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k4r1%2Fppp2p2%2F1q5r%2F2P1Q3%2F4BP2%2F8%2FPP5P%2FR4R1K%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3kb1r%2Fpppb1ppR%2F2n1pq2%2F3p4%2F3P4%2F2PBPNP1%2FPP3PP1%2FRN1QK3%20b%20Qkq%20-%200%209&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [NzmQu](https://lichess.org/training/NzmQu), rated `1415`.
-The game is `PashaPoukh (1988)` vs `Umidjon1975 (1979)` at `5+0` time control,
-with themes `middlegame, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/wHYZ9xc0),
-and the first solution move is `h6h2`.
+It is `Black to move` in puzzle [pU1TK](https://lichess.org/training/pU1TK), rated `1587`.
+The game is `LordGraviton_04 (1878)` vs `Aashique12 (1915)` at `10+0` time control,
+with themes `opening, defensiveMove, advantage, short`. You can [view the full game](https://lichess.org/BasZet5p),
+and the first solution move is `h8h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

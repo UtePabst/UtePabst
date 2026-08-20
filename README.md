@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rk2r%2Fpp3pp1%2F7p%2F2p1pP2%2F4P2N%2F1PPq2QP%2FP1n1N2R%2FR1B3K1%20b%20k%20-%204%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F2q3k1%2F4Rn2%2Fp7%2FPp1P1b2%2F1PpQ4%2F2B2PP1%2F7K%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [R1fJa](https://lichess.org/training/R1fJa), rated `1527`.
-The game is `Thiagorava (1915)` vs `Krokus99 (1867)` at `3+0` time control,
-with themes `exposedKing, deflection, middlegame, crushing, long, kingsideAttack`. You can [view the full game](https://lichess.org/vQlEuMRV),
-and the first solution move is `d3d1`.
+It is `White to move` in puzzle [DW8JG](https://lichess.org/training/DW8JG), rated `1592`.
+The game is `Lt_Surge (1691)` vs `stedak (1689)` at `2+1` time control,
+with themes `deflection, middlegame, advantage, long`. You can [view the full game](https://lichess.org/u88r3WGx),
+and the first solution move is `d3g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

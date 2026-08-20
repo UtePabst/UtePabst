@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4Rrk1%2F2p3pp%2F2Qp4%2F2nN4%2F8%2F8%2FPrq2PPP%2F5RK1%20b%20-%20-%201%2019&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4p3%2F1RB1P3%2F8%2Fp1Pk4%2FP6r%2F2K5%20b%20-%20-%201%2039&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [V6uho](https://lichess.org/training/V6uho), rated `1331`.
-The game is `olpm (2052)` vs `PaquitoPerezW (2013)` at `2+6` time control,
-with themes `veryLong, middlegame, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/K7pNUfeT),
-and the first solution move is `c2f2`.
+It is `Black to move` in puzzle [VgYyq](https://lichess.org/training/VgYyq), rated `1407`.
+The game is `newbie65 (1645)` vs `Sekozlu89 (1942)` at `8+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/qeKHGF73),
+and the first solution move is `h2h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

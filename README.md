@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3b2k1%2F3n1r1p%2F3p2p1%2Fp1pPp2n%2FPpP1B3%2F1P3bP1%2FKB1Q3P%2F4R1Nq%20w%20-%20-%2014%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q3r%2F1bp2Qpp%2F4p3%2F3pk3%2F8%2FP3P3%2F1PP3PP%2FR3K2R%20w%20KQ%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [zmlPa](https://lichess.org/training/zmlPa), rated `1527`.
-The game is `Karamba20 (2049)` vs `Black_Winter_Day (2557)` at `5+0` time control,
-with themes `short, advantage, trappedPiece, master, middlegame`. You can [view the full game](https://lichess.org/EtfdTIhK),
-and the first solution move is `g1f3`.
+It is `White to move` in puzzle [zuuHb](https://lichess.org/training/zuuHb), rated `1286`.
+The game is `GiliMeno (1852)` vs `aboalwan (1758)` at `5+3` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/JicJaKKv),
+and the first solution move is `f7f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

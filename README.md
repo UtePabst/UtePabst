@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq1r2%2Fpp2bpk1%2F2n1p3%2F2pp3Q%2F5P1P%2FPP1BP1n1%2F2PP2P1%2FRN2K3%20w%20Q%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3k4%2F7p%2F2p3r1%2F3b4%2F3Q2p1%2F4N1Pq%2FPP3P1P%2FR4RK1%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [siKPo](https://lichess.org/training/siKPo), rated `1304`.
-The game is `countmichael (1932)` vs `bata1965 (1901)` at `5+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/rRrM74ym),
-and the first solution move is `h5h7`.
+It is `Black to move` in puzzle [3ZRPK](https://lichess.org/training/3ZRPK), rated `1529`.
+The game is `maskless (1874)` vs `Zzouheir (1821)` at `5+0` time control,
+with themes `middlegame, operaMate, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/XY2cJOF3),
+and the first solution move is `h3h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

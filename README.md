@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p2%2F4p1p1%2F2k1P3%2F5PKP%2F8%2F8%2F8%20w%20-%20-%201%2052&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5krR%2F5p2%2Fp1Bpp3%2F1p3b2%2F3B4%2FP1P3r1%2F1P6%2F5R1K%20b%20-%20-%201%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [rbhg5](https://lichess.org/training/rbhg5), rated `1394`.
-The game is `ErgosEnad (1607)` vs `Vladyslav_Tarnavskyi (1532)` at `10+0` time control,
-with themes `pawnEndgame, crushing, long, endgame`. You can [view the full game](https://lichess.org/tVCWUYIR),
-and the first solution move is `g4g5`.
+It is `Black to move` in puzzle [UHHdh](https://lichess.org/training/UHHdh), rated `1480`.
+The game is `satishvissy (1879)` vs `Polymath123 (1814)` at `10+0` time control,
+with themes `exposedKing, middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/Jnhvu9OH),
+and the first solution move is `g8h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

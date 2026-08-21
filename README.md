@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2b5%2F5ppp%2Fp1k1p3%2F1pP5%2F1Kp2PP1%2F4P3%2F7P%2F3R4%20b%20-%20-%201%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4k3%2F4pN1p%2F1p2P2P%2F2b3K1%2F2P5%2F8%2F8%20w%20-%20-%209%2054&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [xRMxh](https://lichess.org/training/xRMxh), rated `1549`.
-The game is `geertver (2252)` vs `szachomacho (2246)` at `10+5` time control,
-with themes `deflection, endgame, short, crushing`. You can [view the full game](https://lichess.org/VzopWEjf),
-and the first solution move is `a6a5`.
+It is `White to move` in puzzle [KIzbZ](https://lichess.org/training/KIzbZ), rated `1449`.
+The game is `jarrettn (1737)` vs `pkobayashi (1779)` at `10+5` time control,
+with themes `veryLong, endgame, crushing, defensiveMove`. You can [view the full game](https://lichess.org/4kqVyHVR),
+and the first solution move is `f6g8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

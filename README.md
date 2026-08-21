@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4k1b%2F1bpp4%2F1p2pqQ1%2F6N1%2F1nPP2P1%2FpP2P3%2FP3KPP1%2FR7%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7r%2Fpp3kp1%2F3R4%2F4B3%2F5p2%2F1P1P3r%2FP1P2PK1%2FR7%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [5bVVh](https://lichess.org/training/5bVVh), rated `1304`.
-The game is `pionf (1678)` vs `LN_Sannaday (1656)` at `15+15` time control,
-with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/ySJuFL6j),
-and the first solution move is `g5h7`.
+It is `Black to move` in puzzle [JG0bV](https://lichess.org/training/JG0bV), rated `1408`.
+The game is `edgemen (2291)` vs `hentes81 (2101)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/a4bt2JDj),
+and the first solution move is `f4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

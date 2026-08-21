@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k2r3%2F6pp%2F1p6%2F2p5%2F6b1%2F2Pr1N2%2FPP1NBKPP%2F7R%20b%20-%20-%203%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp4ppk%2F1p2p1q1%2F7p%2F3Qn2P%2F1P3NP1%2FP4P2%2F6K1%20w%20-%20-%201%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [PrpnM](https://lichess.org/training/PrpnM), rated `1582`.
-The game is `EstudiandoAjedrezRD (2398)` vs `maestracandidata88 (2292)` at `3+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/TItI55Fu),
-and the first solution move is `d3d2`.
+It is `White to move` in puzzle [heYQT](https://lichess.org/training/heYQT), rated `1581`.
+The game is `ReyDOrADO995 (1872)` vs `johnnJans (2204)` at `10+0` time control,
+with themes `endgame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/R7ED99xG),
+and the first solution move is `d4e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

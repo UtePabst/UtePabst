@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp4ppk%2F1p2p1q1%2F7p%2F3Qn2P%2F1P3NP1%2FP4P2%2F6K1%20w%20-%20-%201%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k3rr%2F1pP5%2Fp6p%2FP1P1Q3%2F5BqP%2F3Pp3%2F7K%2FR5R1%20b%20-%20-%203%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [heYQT](https://lichess.org/training/heYQT), rated `1581`.
-The game is `ReyDOrADO995 (1872)` vs `johnnJans (2204)` at `10+0` time control,
-with themes `endgame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/R7ED99xG),
-and the first solution move is `d4e4`.
+It is `Black to move` in puzzle [WsmlK](https://lichess.org/training/WsmlK), rated `1336`.
+The game is `ardefred (2004)` vs `Cagnus_Marlsen111 (2063)` at `10+0` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/768ViXW5),
+and the first solution move is `g4h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

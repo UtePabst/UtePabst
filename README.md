@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3kbnr%2F3bqp2%2Fp3p1pp%2F3pP1N1%2F1p1P3P%2F2PB1QR1%2F5PP1%2FBN3K2%20w%20kq%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3qr1k1%2Fp4p1p%2F5rp1%2F1P4N1%2FP3b2Q%2F2np3P%2F6P1%2FR4RK1%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [W3FqR](https://lichess.org/training/W3FqR), rated `1597`.
-The game is `ekdubov (2210)` vs `leonteo (2346)` at `3+0` time control,
-with themes `advantage, long, pin, attackingF2F7, master, middlegame`. You can [view the full game](https://lichess.org/OBaJqx9f),
-and the first solution move is `g5f7`.
+It is `White to move` in puzzle [NG7sC](https://lichess.org/training/NG7sC), rated `1593`.
+The game is `genavero (1841)` vs `LigetiChess (1803)` at `10+5` time control,
+with themes `middlegame, crushing, long, kingsideAttack`. You can [view the full game](https://lichess.org/CEegjibt),
+and the first solution move is `h4h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

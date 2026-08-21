@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fq4pp1%2F6bp%2Fp2BP3%2F3P4%2F1Q3R1P%2F2r3P1%2F7K%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F2pb1ppp%2F5n2%2F8%2Fp1K5%2FP1BrPP2%2FBP3P1P%2FR2R4%20b%20-%20-%203%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [EhJ3n](https://lichess.org/training/EhJ3n), rated `1542`.
-The game is `hardikviolin (1941)` vs `valeryminaev (1967)` at `10+0` time control,
-with themes `deflection, endgame, short, crushing`. You can [view the full game](https://lichess.org/QnK65knp),
-and the first solution move is `d5f7`.
+It is `Black to move` in puzzle [2ixMm](https://lichess.org/training/2ixMm), rated `1552`.
+The game is `Tianvitt (1885)` vs `tripleMar (1828)` at `10+0` time control,
+with themes `long, skewer, advantage, middlegame`. You can [view the full game](https://lichess.org/IM0INl1q),
+and the first solution move is `d3d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1N2pk2%2F6p1%2F4Pb1p%2F5P1P%2F4r1P1%2F3R2K1%20b%20-%20-%201%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r5%2Fpk2Bp2%2F1p4p1%2F3q3p%2F3PQ2P%2FPn3P2%2F1P4P1%2F1K1R4%20b%20-%20-%202%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [LUZ53](https://lichess.org/training/LUZ53), rated `1544`.
-The game is `Oldkytas (2180)` vs `sarno_nsw76 (2139)` at `5+0` time control,
-with themes `endgame, crushing, fork, long`. You can [view the full game](https://lichess.org/yq3umINz),
-and the first solution move is `f4e3`.
+It is `Black to move` in puzzle [uP7fS](https://lichess.org/training/uP7fS), rated `1425`.
+The game is `LANATER2020 (2512)` vs `EltajSafarli (2765)` at `4+0` time control,
+with themes `endgame, master, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/Jd3OPcMF),
+and the first solution move is `c8c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

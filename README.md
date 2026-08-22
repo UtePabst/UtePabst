@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnbqkbnr%2F1p3ppp%2Fp7%2F4P3%2F3N4%2F8%2FPP2PPPP%2FR1BQKBNR%20b%20KQkq%20-%200%207&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn2k2r%2Fppp2ppp%2F3bp3%2F3P1b2%2F3Pq3%2F2N2N2%2FPP1K2PP%2FR1BQ1B1R%20b%20kq%20-%203%209&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [yrYnu](https://lichess.org/training/yrYnu), rated `1617`.
-The game is `Danno997 (1787)` vs `Whiteforest (1888)` at `10+3` time control,
-with themes `short, advantage, intermezzo, opening, interference`. You can [view the full game](https://lichess.org/4GGGVh6V),
-and the first solution move is `f8b4`.
+It is `Black to move` in puzzle [HNohV](https://lichess.org/training/HNohV), rated `1452`.
+The game is `Takina_Inoue (2204)` vs `irc42 (2248)` at `3+0` time control,
+with themes `mateIn1, oneMove, opening`. You can [view the full game](https://lichess.org/JIsFUbID),
+and the first solution move is `d6f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

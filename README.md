@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5Nk%2F5ppp%2Fp2p4%2Fq4P2%2F3p1P2%2F1p6%2FPKP3QP%2F2B2BR1%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qkbnr%2Fpp1n1ppp%2F2p1p3%2F3pN3%2F6b1%2F3PP3%2FPPP1BPPP%2FRNBQ1RK1%20b%20kq%20-%202%206&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [TERv5](https://lichess.org/training/TERv5), rated `1336`.
-The game is `mMAXim001 (2215)` vs `papavas (2309)` at `10+0` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/UYbQS7sR),
-and the first solution move is `a5a2`.
+It is `Black to move` in puzzle [RnmhD](https://lichess.org/training/RnmhD), rated `1410`.
+The game is `ahmedhussein1993 (1790)` vs `giftedblunder (1773)` at `10+0` time control,
+with themes `crushing, short, opening`. You can [view the full game](https://lichess.org/NhS2SRWt),
+and the first solution move is `g4e2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

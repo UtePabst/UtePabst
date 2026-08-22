@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F2R5%2FP7%2F7b%2F1kN5%2F1P3n2%2F2P2R1P%2F5K2%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6r1%2F1q3pk1%2Fp1bp4%2F2p2PPQ%2F2PbPB2%2F3P1B2%2FP7%2F7K%20w%20-%20-%202%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [YPspc](https://lichess.org/training/YPspc), rated `1302`.
-The game is `Braggeler (1716)` vs `mihy255 (1801)` at `3+0` time control,
-with themes `exposedKing, endgame, morphysMate, long, mateIn3`. You can [view the full game](https://lichess.org/06FjEghR),
-and the first solution move is `e8e1`.
+It is `White to move` in puzzle [iz8F6](https://lichess.org/training/iz8F6), rated `1319`.
+The game is `Benonejr (2493)` vs `rogeriolimasilva (2050)` at `5+5` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/8tyzd31w),
+and the first solution move is `h5h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

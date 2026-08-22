@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2FpR4p1%2F1p5p%2F8%2FP2P3q%2F6rP%2F1P4P1%2F1B2Q1RK%20b%20-%20-%2012%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=N3k2r%2F4ppb1%2Fb1p4p%2Fp5p1%2F8%2FPBp1K2P%2F1P3PP1%2F3R3n%20w%20k%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [iCwso](https://lichess.org/training/iCwso), rated `1317`.
-The game is `aperturicas_nuevas (1868)` vs `beljul (1843)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/VwiDt89N),
-and the first solution move is `g3h3`.
+It is `White to move` in puzzle [V1Gbj](https://lichess.org/training/V1Gbj), rated `1426`.
+The game is `Alhander (1972)` vs `Artemkov (1912)` at `10+4` time control,
+with themes `mateIn2, middlegame, short, fork`. You can [view the full game](https://lichess.org/yLZra3bN),
+and the first solution move is `a8c7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

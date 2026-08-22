@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F7p%2F4p1pP%2Fp2bP1Q1%2Fq2P4%2F2P1B3%2FP1RK4%2F8%20b%20-%20-%201%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1b2k3%2Fp7%2F1pr3p1%2F6Pp%2FP2R3P%2F3B4%2F6K1%20w%20-%20-%202%2044&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [7HEaH](https://lichess.org/training/7HEaH), rated `1549`.
-The game is `quockerwodger (2194)` vs `Lukaas17 (2105)` at `10+0` time control,
-with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/ebi14uMq),
-and the first solution move is `d5e4`.
+It is `White to move` in puzzle [G4m73](https://lichess.org/training/G4m73), rated `1388`.
+The game is `TamirErez444 (2126)` vs `RJF07 (2012)` at `10+0` time control,
+with themes `crushing, pin, short, endgame`. You can [view the full game](https://lichess.org/4hWgJQ2I),
+and the first solution move is `d2b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp5p1%2F2p1rp1p%2F2R5%2F8%2F1P2n3%2FPBP2KPP%2F8%20b%20-%20-%203%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r5%2F2q1nkp1%2F4p3%2Fp4p1r%2F2P5%2F1P2Q2P%2FP7%2F1K1RR3%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [dUkiV](https://lichess.org/training/dUkiV), rated `1285`.
-The game is `Karpatika (1928)` vs `Lofferboy (2019)` at `10+0` time control,
-with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/rcB200Qj),
-and the first solution move is `e3d1`.
+It is `White to move` in puzzle [rOGFR](https://lichess.org/training/rOGFR), rated `1497`.
+The game is `pinzgauer (2134)` vs `LLIaTyHoff (2135)` at `5+0` time control,
+with themes `advantage, long, middlegame`. You can [view the full game](https://lichess.org/POBqoXnc),
+and the first solution move is `e3e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

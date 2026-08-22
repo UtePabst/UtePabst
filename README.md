@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r5%2F2q1nkp1%2F4p3%2Fp4p1r%2F2P5%2F1P2Q2P%2FP7%2F1K1RR3%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r6k%2F5p1p%2Fppn1qnr1%2F8%2F3p1B1P%2F2QP2P1%2FN3PPB1%2F5RK1%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [rOGFR](https://lichess.org/training/rOGFR), rated `1497`.
-The game is `pinzgauer (2134)` vs `LLIaTyHoff (2135)` at `5+0` time control,
-with themes `advantage, long, middlegame`. You can [view the full game](https://lichess.org/POBqoXnc),
-and the first solution move is `e3e6`.
+It is `White to move` in puzzle [dBDbA](https://lichess.org/training/dBDbA), rated `1366`.
+The game is `cruin (1761)` vs `ramitapio (1781)` at `15+10` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/C16KE26t),
+and the first solution move is `c3c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

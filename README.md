@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r3rk1%2F2R3np%2F4p2Q%2F3pqp1N%2Fb7%2F1p1P2P1%2F4PPBP%2F6K1%20w%20-%20-%202%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k4rr%2Fp1R5%2F1pQP1pp1%2F4pP2%2FP2q2P1%2F3P1P2%2F6K1%2F1R6%20b%20-%20-%201%2038&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [8bOyH](https://lichess.org/training/8bOyH), rated `1353`.
-The game is `FreddieKing (1797)` vs `tenteri (1789)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/7E6eNPKL),
-and the first solution move is `c7g7`.
+It is `Black to move` in puzzle [7ivJD](https://lichess.org/training/7ivJD), rated `1461`.
+The game is `sage70 (1930)` vs `Rockoo7 (1883)` at `10+0` time control,
+with themes `veryLong, endgame, attraction, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/S1wiSagH),
+and the first solution move is `h8h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r4k%2F1b2qpp1%2Fp1n4p%2F1p1p4%2F1P1P4%2FP4N1P%2F5PP1%2F2R1QBK1%20w%20-%20-%201%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2FpR1b1rp1%2F4p3%2F3pPp2%2F3Q4%2F3B4%2Fr4P1P%2F3K4%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [YnC0B](https://lichess.org/training/YnC0B), rated `1608`.
-The game is `rohitsaka (2057)` vs `JAMELISHAKATURAY (2042)` at `10+0` time control,
-with themes `middlegame, crushing, long`. You can [view the full game](https://lichess.org/rHlMRjH9),
-and the first solution move is `c1c6`.
+It is `Black to move` in puzzle [1fC8S](https://lichess.org/training/1fC8S), rated `1351`.
+The game is `tomo71hr (2475)` vs `MsBlunderful (2609)` at `3+0` time control,
+with themes `endgame, master, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/jUHkA7zd),
+and the first solution move is `d7a4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

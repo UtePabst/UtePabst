@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr1b1r%2Fppp1qp2%2F2p1bnpp%2F8%2F4P2B%2F2NB4%2FPPP2PPP%2FR2Q1RK1%20w%20-%20-%200%2011&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fp1q2pp1%2F2Q1pb1p%2F1p2N3%2F3P4%2F2P5%2FPP3PPP%2F3R1RK1%20b%20-%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Capk4](https://lichess.org/training/Capk4), rated `1490`.
-The game is `mkjjogi (1884)` vs `Greathill (1862)` at `10+5` time control,
-with themes `opening, long, crushing`. You can [view the full game](https://lichess.org/b4OIYjTn),
-and the first solution move is `e4e5`.
+It is `Black to move` in puzzle [RdNQE](https://lichess.org/training/RdNQE), rated `1315`.
+The game is `Kishan21 (1744)` vs `mrapa (1724)` at `10+0` time control,
+with themes `middlegame, advantage, short`. You can [view the full game](https://lichess.org/RTeRv5yk),
+and the first solution move is `f6e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

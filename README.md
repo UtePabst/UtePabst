@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1Q4R1%2F8%2F8%2F3p4%2F4p3%2F2Pr4%2F2K1kp2%2F8%20b%20-%20-%200%2056&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr1b1r%2Fppp1qp2%2F2p1bnpp%2F8%2F4P2B%2F2NB4%2FPPP2PPP%2FR2Q1RK1%20w%20-%20-%200%2011&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Gpmp2](https://lichess.org/training/Gpmp2), rated `1541`.
-The game is `tidesoflifeteachyou (2156)` vs `santiagocedeno091 (2124)` at `10+0` time control,
-with themes `endgame, advancedPawn, short, advantage, promotion, queenRookEndgame`. You can [view the full game](https://lichess.org/o6ngeNni),
-and the first solution move is `d3d2`.
+It is `White to move` in puzzle [Capk4](https://lichess.org/training/Capk4), rated `1490`.
+The game is `mkjjogi (1884)` vs `Greathill (1862)` at `10+5` time control,
+with themes `opening, long, crushing`. You can [view the full game](https://lichess.org/b4OIYjTn),
+and the first solution move is `e4e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

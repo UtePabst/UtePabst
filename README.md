@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4brk%2Fppp5%2F3p3p%2F5Q2%2F2NPp2q%2F2P2pPP%2FPP3P1N%2F3R1RK1%20b%20-%20-%202%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r4k%2F1b2qpp1%2Fp1n4p%2F1p1p4%2F1P1P4%2FP4N1P%2F5PP1%2F2R1QBK1%20w%20-%20-%201%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [PYT4e](https://lichess.org/training/PYT4e), rated `1602`.
-The game is `rathome (1570)` vs `apitbar (1556)` at `10+0` time control,
-with themes `middlegame, advantage, long, kingsideAttack`. You can [view the full game](https://lichess.org/Akfw0seY),
-and the first solution move is `g8g3`.
+It is `White to move` in puzzle [YnC0B](https://lichess.org/training/YnC0B), rated `1608`.
+The game is `rohitsaka (2057)` vs `JAMELISHAKATURAY (2042)` at `10+0` time control,
+with themes `middlegame, crushing, long`. You can [view the full game](https://lichess.org/rHlMRjH9),
+and the first solution move is `c1c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

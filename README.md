@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6r%2Fp1pk1pp1%2F2pbp2p%2F7q%2F3Pb3%2F2P1BN2%2FP4PPP%2FR2QR2K%20w%20-%20-%204%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4k2%2F6R1%2F4p3%2F3pPb2%2F2pP3q%2F1pP1P2p%2F1P5K%2FrB4Q1%20w%20-%20-%201%2043&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [FZp8b](https://lichess.org/training/FZp8b), rated `1417`.
-The game is `sampang (1696)` vs `Amresh1411 (1699)` at `10+0` time control,
-with themes `middlegame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/fAQUZtna),
-and the first solution move is `f3e5`.
+It is `White to move` in puzzle [dKFfI](https://lichess.org/training/dKFfI), rated `1371`.
+The game is `L_888 (1994)` vs `m_shaleen (2016)` at `3+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/noUN7etN),
+and the first solution move is `g7g8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

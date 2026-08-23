@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3k3p%2F6p1%2F4Rp2%2F3p1P1P%2FN4KP1%2F2brB3%20b%20-%20-%203%2051&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2Fpp1n1pp1%2F2p5%2F3n4%2F3NNq1p%2F8%2FPPPQ1P2%2F2KR3R%20w%20-%20-%202%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ML7Wg](https://lichess.org/training/ML7Wg), rated `1359`.
-The game is `HaiAuth (1736)` vs `Rost18 (1819)` at `15+10` time control,
-with themes `endgame, crushing, attraction, long`. You can [view the full game](https://lichess.org/Ihbyoobd),
-and the first solution move is `c1e3`.
+It is `White to move` in puzzle [5UKb8](https://lichess.org/training/5UKb8), rated `1528`.
+The game is `Veelor (1904)` vs `OekoBauer (1941)` at `3+2` time control,
+with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/WNmcYfg2),
+and the first solution move is `d2f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

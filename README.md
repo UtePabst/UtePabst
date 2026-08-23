@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fr4p2%2F7p%2F1p4p1%2F3R4%2F5QP1%2F6PP%2FR6K%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r1k2r%2Fp1Qqpp2%2FN1p3pb%2F3p4%2F3P4%2F2P2P1p%2FPP3P1P%2F4RRK1%20w%20k%20-%208%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [sZ95U](https://lichess.org/training/sZ95U), rated `1428`.
-The game is `Chocoly (1618)` vs `cuethesun (1516)` at `10+0` time control,
-with themes `veryLong, endgame, xRayAttack, queenRookEndgame, mateIn4, backRankMate`. You can [view the full game](https://lichess.org/YOoqKVZM),
-and the first solution move is `a7a1`.
+It is `White to move` in puzzle [6n2kN](https://lichess.org/training/6n2kN), rated `1434`.
+The game is `rrva (1785)` vs `marcusbuffett (1682)` at `3+2` time control,
+with themes `deflection, middlegame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/Gjcvh2Ak),
+and the first solution move is `e1e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fpp3ppp%2F8%2F2pP1q2%2F1nN3n1%2F2N5%2FPP3PP1%2FR1BQ1R1K%20b%20kq%20-%202%2016&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1r3p2%2F5Kp1%2F1P3PPp%2F4P2P%2F8%2F1k6%2Fq2R4%20w%20-%20-%200%2046&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [FosfT](https://lichess.org/training/FosfT), rated `1328`.
-The game is `aposch (1941)` vs `Feneronline (1917)` at `10+0` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/7fMQgsAM),
-and the first solution move is `f5h5`.
+It is `White to move` in puzzle [Kakco](https://lichess.org/training/Kakco), rated `1617`.
+The game is `Rolu (2641)` vs `DarkHorse_2013 (2463)` at `3+0` time control,
+with themes `advantage, short, master, endgame`. You can [view the full game](https://lichess.org/0Mkzz7IT),
+and the first solution move is `d1a1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

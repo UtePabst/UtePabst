@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn1qkr2%2F1bp1n2p%2Fpp1bpB2%2F3pN2p%2F3P4%2F4PQ2%2FPPP2PPP%2FRN3RK1%20w%20q%20-%200%2012&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fp1q2pbp%2F1p1Qp1p1%2F2p1P3%2F4p3%2FPP2P3%2F1BP1BPPP%2FR4RK1%20b%20-%20-%202%2014&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [8S40k](https://lichess.org/training/8S40k), rated `1505`.
-The game is `Alexzorin (1713)` vs `mareck (1697)` at `15+15` time control,
-with themes `middlegame, crushing, short`. You can [view the full game](https://lichess.org/XYcFxGTU),
-and the first solution move is `f3h5`.
+It is `Black to move` in puzzle [DfPu3](https://lichess.org/training/DfPu3), rated `1393`.
+The game is `DipStick7331 (1772)` vs `aadornellesf (1725)` at `10+5` time control,
+with themes `middlegame, crushing, short`. You can [view the full game](https://lichess.org/SCnauwOp),
+and the first solution move is `c7d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

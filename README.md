@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2FppR4p%2F6p1%2F6b1%2F8%2F1PQp4%2FP4PPP%2F3KNq2%20b%20-%20-%203%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2F4q3%2F3r3p%2F1pQ5%2F2n5%2F2b1pP1P%2F6P1%2FR3R1K1%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [dXBg3](https://lichess.org/training/dXBg3), rated `1375`.
-The game is `RajeshTilante (2143)` vs `yecyec313 (2239)` at `10+0` time control,
-with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/g1ewJI4y),
-and the first solution move is `f1e2`.
+It is `White to move` in puzzle [hHT7M](https://lichess.org/training/hHT7M), rated `1557`.
+The game is `murat60 (1996)` vs `Liolio (1985)` at `15+15` time control,
+with themes `middlegame, advantage, long, pin`. You can [view the full game](https://lichess.org/XwkfrMkm),
+and the first solution move is `a1a8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

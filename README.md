@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1r3p2%2F5Kp1%2F1P3PPp%2F4P2P%2F8%2F1k6%2Fq2R4%20w%20-%20-%200%2046&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k4r%2Fpp4q1%2F3b3r%2F1Q1B1p2%2FP2PnP2%2F6BN%2F6PP%2F5RRK%20b%20-%20-%200%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Kakco](https://lichess.org/training/Kakco), rated `1617`.
-The game is `Rolu (2641)` vs `DarkHorse_2013 (2463)` at `3+0` time control,
-with themes `advantage, short, master, endgame`. You can [view the full game](https://lichess.org/0Mkzz7IT),
-and the first solution move is `d1a1`.
+It is `Black to move` in puzzle [HSpq6](https://lichess.org/training/HSpq6), rated `1301`.
+The game is `betka321 (1990)` vs `Gor_666 (2539)` at `¼+4` time control,
+with themes `veryLong, middlegame, kingsideAttack, mateIn4`. You can [view the full game](https://lichess.org/vKqYTn74),
+and the first solution move is `e4g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

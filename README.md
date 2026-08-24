@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F5ppp%2F1q2r3%2Fp2p4%2F2PQbP2%2F6P1%2FPB5P%2F3R1RK1%20w%20-%20-%201%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r5r%2F3k1p2%2FR1Rb1p2%2F2NP3p%2F4PP2%2F5Q1P%2F1q4P1%2F6K1%20b%20-%20-%202%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [3RYi8](https://lichess.org/training/3RYi8), rated `1591`.
-The game is `invincy96 (1662)` vs `Ratnik_Paorskog_Srca (1668)` at `10+0` time control,
-with themes `middlegame, short, crushing`. You can [view the full game](https://lichess.org/5SLkzzmt),
-and the first solution move is `c4c5`.
+It is `Black to move` in puzzle [7QkdA](https://lichess.org/training/7QkdA), rated `1476`.
+The game is `brumhertha (1822)` vs `Ankit_BDMI (1878)` at `5+6` time control,
+with themes `middlegame, advantage, attraction, fork, long`. You can [view the full game](https://lichess.org/rsWm1w49),
+and the first solution move is `d6c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

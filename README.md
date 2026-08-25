@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1n1k%2F6pp%2F3Nr3%2Fp1P5%2F5Q1q%2FP7%2F1P1B2p1%2FR2K1R1n%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3kb1r%2Fpp2ppp1%2F8%2F2p5%2F3n1PQ1%2F3P2p1%2FPPP4N%2FR1B2R1K%20b%20kq%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [EAKGn](https://lichess.org/training/EAKGn), rated `1401`.
-The game is `ShaymardanovAlbert (2154)` vs `bluestar2022 (2178)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, backRankMate`. You can [view the full game](https://lichess.org/EbsrVPjI),
-and the first solution move is `f4f8`.
+It is `Black to move` in puzzle [Xr8XF](https://lichess.org/training/Xr8XF), rated `1353`.
+The game is `Valeron-Champ (1952)` vs `victory280 (1978)` at `25+0` time control,
+with themes `middlegame`. You can [view the full game](https://lichess.org/s4KS4aoX),
+and the first solution move is `h8h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

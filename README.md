@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1qk1r%2Fpp1nb2p%2F2ppB2p%2F4p2Q%2F3PP3%2F2N5%2FPPP2PPP%2FR3K2R%20w%20KQ%20-%201%2011&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F3p1pq1%2F6pQ%2F8%2F1r3R2%2F6P1%2F6KP%2F5R2%20w%20-%20-%202%2045&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jh647](https://lichess.org/training/jh647), rated `1419`.
-The game is `xcihjd (1852)` vs `Blockaded (1868)` at `5+0` time control,
-with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/lJfLblxL),
-and the first solution move is `h5h6`.
+It is `White to move` in puzzle [c6mu8](https://lichess.org/training/c6mu8), rated `1346`.
+The game is `KnightKing47 (1960)` vs `drosera2507 (2304)` at `10+0` time control,
+with themes `endgame, short, advantage`. You can [view the full game](https://lichess.org/rPniki6O),
+and the first solution move is `h6g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

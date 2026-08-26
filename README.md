@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1p4p1%2Fp1n1pq1p%2F2Pp4%2F3n4%2FP5N1%2F1Q3PPP%2F3R1RK1%20b%20-%20-%201%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1p1Q2p1%2Fp2p1k1p%2F3P3P%2F1q6%2F6P1%2F4K3%20w%20-%20-%206%2044&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [D6gkd](https://lichess.org/training/D6gkd), rated `1504`.
-The game is `HuseinMamunto (2001)` vs `mahdi1bahri (1975)` at `10+0` time control,
-with themes `middlegame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/kSV7ovFX),
-and the first solution move is `d4f3`.
+It is `White to move` in puzzle [YNHo5](https://lichess.org/training/YNHo5), rated `1351`.
+The game is `jimthegodess (1703)` vs `Konstantin63030 (1731)` at `10+0` time control,
+with themes `short, endgame, queenEndgame, mateIn2`. You can [view the full game](https://lichess.org/TgCbmoQW),
+and the first solution move is `d6e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

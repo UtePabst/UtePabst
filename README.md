@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn1qk2r%2F1pp2p2%2Fp3p2p%2F3pPb2%2F4nPp1%2F2NBP3%2FPPPB2PP%2FR2QK2R%20b%20KQkq%20-%201%2012&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r3rk1%2Fpbp2ppp%2F1p1n4%2F2p5%2Fq3NQ2%2F2PP4%2FPP3PPP%2F3RRBK1%20w%20-%20-%204%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [jlmLF](https://lichess.org/training/jlmLF), rated `1401`.
-The game is `DirkWuppertal (1590)` vs `dr_ruprecht (1644)` at `5+0` time control,
-with themes `advantage, long, middlegame`. You can [view the full game](https://lichess.org/faX9IpgG),
-and the first solution move is `d8h4`.
+It is `White to move` in puzzle [h54Kp](https://lichess.org/training/h54Kp), rated `1353`.
+The game is `OYTO_971179789 (2246)` vs `Fobisher (2175)` at `30+0` time control,
+with themes `middlegame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/vXCMC5ih),
+and the first solution move is `e4f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

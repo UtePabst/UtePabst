@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4K1k1%2F7p%2F5P2%2F8%2F8%2F8%20w%20-%20-%200%2051&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2Fp1p2ppn%2F1p1b1n1p%2F4P3%2F2BQ4%2F2NP1N2%2FPPP3PP%2FR1B2RK1%20b%20-%20-%200%2013&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [tGkPr](https://lichess.org/training/tGkPr), rated `1532`.
-The game is `Jebatdurhaka (2462)` vs `ColossalInsight (2500)` at `10+0` time control,
-with themes `endgame, crushing, long, pawnEndgame`. You can [view the full game](https://lichess.org/FN9ugHkE),
-and the first solution move is `f4f5`.
+It is `Black to move` in puzzle [asXcF](https://lichess.org/training/asXcF), rated `1278`.
+The game is `markku345 (1972)` vs `Akimonius-21 (1843)` at `10+5` time control,
+with themes `advantage, short, pin, opening`. You can [view the full game](https://lichess.org/mtoIpCMG),
+and the first solution move is `d6c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

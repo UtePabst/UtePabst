@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1Q5p%2FP7%2F1Kp3pk%2FP4r2%2F4b3%2F8%2F8%20b%20-%20-%200%2043&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F6p1%2F6Np%2Fp4P2%2F1p4P1%2F7P%2FP1r2q2%2F3R3K%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [gRfGJ](https://lichess.org/training/gRfGJ), rated `1405`.
-The game is `Ruslan1106 (1797)` vs `Ruslan098 (1819)` at `5+0` time control,
-with themes `endgame, crushing, skewer, long, defensiveMove`. You can [view the full game](https://lichess.org/vK97xnMl),
-and the first solution move is `f4b4`.
+It is `White to move` in puzzle [Ta15Q](https://lichess.org/training/Ta15Q), rated `1450`.
+The game is `Enjoy_Chess_88 (2208)` vs `hysensh (2234)` at `3+2` time control,
+with themes `hookMate, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/QSxGlwFj),
+and the first solution move is `d1d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

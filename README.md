@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F6p1%2F6Np%2Fp4P2%2F1p4P1%2F7P%2FP1r2q2%2F3R3K%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4K1k1%2F7p%2F5P2%2F8%2F8%2F8%20w%20-%20-%200%2051&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Ta15Q](https://lichess.org/training/Ta15Q), rated `1450`.
-The game is `Enjoy_Chess_88 (2208)` vs `hysensh (2234)` at `3+2` time control,
-with themes `hookMate, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/QSxGlwFj),
-and the first solution move is `d1d8`.
+It is `White to move` in puzzle [tGkPr](https://lichess.org/training/tGkPr), rated `1532`.
+The game is `Jebatdurhaka (2462)` vs `ColossalInsight (2500)` at `10+0` time control,
+with themes `endgame, crushing, long, pawnEndgame`. You can [view the full game](https://lichess.org/FN9ugHkE),
+and the first solution move is `f4f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

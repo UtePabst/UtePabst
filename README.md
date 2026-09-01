@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpp6%2F1p1B1pb1%2F3P2p1%2F1P1P2Kp%2F2P2N1P%2F4r1P1%2F4R3%20b%20-%20-%201%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qk1nr%2F1p1b1ppp%2Fp1n1p3%2FbB1pP3%2FQ7%2F2P2N2%2F5PPP%2FRNB1K2R%20w%20KQkq%20-%200%2012&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [3aJmv](https://lichess.org/training/3aJmv), rated `1428`.
-The game is `AlexShapovalov (1720)` vs `alsalamss502 (1726)` at `5+0` time control,
-with themes `short, pillsburysMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/dOJO2PU6),
-and the first solution move is `e2g2`.
+It is `White to move` in puzzle [cMV9J](https://lichess.org/training/cMV9J), rated `1546`.
+The game is `Anatoliy_S59 (1696)` vs `MrManOK (1638)` at `10+0` time control,
+with themes `long, advantage, opening`. You can [view the full game](https://lichess.org/5BJEjhz6),
+and the first solution move is `b5c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

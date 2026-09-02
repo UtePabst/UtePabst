@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F2p3p1%2F7q%2F1p2p1N1%2F1P2Q3%2F3P1PP1%2F4n1K1%2F7R%20b%20-%20-%204%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1q2b1r%2Fppp1kBpp%2F5n2%2Fn3p3%2F4P3%2F1QN1BP2%2FPP3P1P%2F3RK2R%20w%20K%20-%201%2013&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [uo98j](https://lichess.org/training/uo98j), rated `1426`.
-The game is `ovgusev (1522)` vs `nelpid (1680)` at `3+0` time control,
-with themes `endgame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/59Ic6spZ),
-and the first solution move is `h6h1`.
+It is `White to move` in puzzle [5Mklh](https://lichess.org/training/5Mklh), rated `1429`.
+The game is `Rauan_90 (1714)` vs `viyaansandhu (1712)` at `15+10` time control,
+with themes `middlegame, morphysMate, oneMove, mateIn1`. You can [view the full game](https://lichess.org/yDRmHfn3),
+and the first solution move is `e3c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

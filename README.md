@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7r%2Fp3Qp1p%2F1p1Bp1k1%2F8%2F5Pn1%2F5K1P%2FP1q5%2FR5R1%20b%20-%20-%202%2029&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpp1P1ppp%2F3Q4%2F8%2F8%2F5Bp1%2FPP3P1q%2F5K2%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [2jRtK](https://lichess.org/training/2jRtK), rated `1507`.
-The game is `Dmitrichess (1701)` vs `pelennor72 (1702)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/vk7gj04F),
-and the first solution move is `c2f2`.
+It is `White to move` in puzzle [iYa24](https://lichess.org/training/iYa24), rated `1506`.
+The game is `etujia4rkis67tly8 (2139)` vs `pelmeshka0_0 (2071)` at `3+0` time control,
+with themes `advancedPawn, short, attraction, promotion, endgame, mateIn2`. You can [view the full game](https://lichess.org/ZHX2tjzv),
+and the first solution move is `d6f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

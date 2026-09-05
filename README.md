@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=q4r1k%2Fp1p1Q1p1%2F1p5p%2F7P%2F3P4%2F2n3B1%2FP4PP1%2FR3K2R%20b%20KQ%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnb2rk1%2Fpp3ppp%2F2p5%2F5q2%2F3PnB2%2F2PB1N2%2FP1PQ2PP%2FR3R1K1%20b%20-%20-%207%2013&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [GD4Lu](https://lichess.org/training/GD4Lu), rated `1278`.
-The game is `eberthmeza (1966)` vs `Misha1888 (1934)` at `10+5` time control,
-with themes `short, pin, advantage, middlegame`. You can [view the full game](https://lichess.org/zFpiBCk6),
-and the first solution move is `f8e8`.
+It is `Black to move` in puzzle [L7Czy](https://lichess.org/training/L7Czy), rated `1411`.
+The game is `JustusBadman (1610)` vs `ankara3506 (1519)` at `10+0` time control,
+with themes `kingsideAttack, crushing, long, middlegame`. You can [view the full game](https://lichess.org/UUv3XoGz),
+and the first solution move is `e4d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

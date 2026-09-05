@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bqk1nr%2Fppp4p%2F2P3p1%2F5p2%2F4P3%2F4BN2%2FPb4PP%2FRN1QKB1R%20b%20KQkq%20-%200%2010&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F6p1%2F3r2kp%2F1Pp5%2FP3N3%2F1K6%2F8%20w%20-%20-%202%2045&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [MWuXU](https://lichess.org/training/MWuXU), rated `1322`.
-The game is `hworld1547 (1695)` vs `Integrinaitor (1726)` at `3+2` time control,
-with themes `advantage, long, opening`. You can [view the full game](https://lichess.org/bg6OShg2),
-and the first solution move is `d8d1`.
+It is `White to move` in puzzle [BJ6gf](https://lichess.org/training/BJ6gf), rated `1470`.
+The game is `John-Nash (2450)` vs `KamranShirazi (2523)` at `3+0` time control,
+with themes `endgame, master, crushing, long, hangingPiece, defensiveMove`. You can [view the full game](https://lichess.org/1X39K1nE),
+and the first solution move is `e3d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

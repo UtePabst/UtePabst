@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F5PP1%2F6P1%2F4P3%2F2k5%2F2N3r1%2F2K5%20b%20-%20-%200%2057&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F1pp2ppp%2Fp2p4%2F7q%2F3PP1b1%2FN4nB1%2FPP3PKP%2FR1QB1R2%20b%20kq%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [vfnLg](https://lichess.org/training/vfnLg), rated `1518`.
-The game is `insidiousss (1969)` vs `marknen39 (2055)` at `15+10` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/K4iXA6Pq),
-and the first solution move is `g2g1`.
+It is `Black to move` in puzzle [wqzhE](https://lichess.org/training/wqzhE), rated `1604`.
+The game is `cubanitost (2184)` vs `DaFunkhouser (2169)` at `3+0` time control,
+with themes `deflection, mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/7t5sRORL),
+and the first solution move is `h5h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

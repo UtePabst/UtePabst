@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F7p%2F1R3p2%2F2kr4%2F3pKP2%2F3P4%2F6PP%2F8%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2F1ppq1pp1%2Fp1n4p%2F8%2F3PR1Q1%2F2P4P%2FPP3PP1%2FRN4K1%20b%20-%20-%202%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [NCtz4](https://lichess.org/training/NCtz4), rated `1289`.
-The game is `adidas17 (1859)` vs `Illusionist3 (1901)` at `10+5` time control,
-with themes `endgame, short, crushing, rookEndgame, intermezzo`. You can [view the full game](https://lichess.org/896MZYcZ),
-and the first solution move is `f6f5`.
+It is `Black to move` in puzzle [yCXVi](https://lichess.org/training/yCXVi), rated `1466`.
+The game is `iiivad (1803)` vs `Pepito-Grillo (1747)` at `15+15` time control,
+with themes `middlegame, fork, short, crushing`. You can [view the full game](https://lichess.org/mtNvEQah),
+and the first solution move is `f7f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

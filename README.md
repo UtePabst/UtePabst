@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2rR4%2F2q3bk%2F6pp%2F5p2%2F4nP2%2F7P%2F2Q3BK%2F2B5%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fp7%2F1p5p%2F2b1q1p1%2F5pQP%2F3P4%2FP1PB2P1%2F4R2K%20b%20-%20-%201%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [MPsaa](https://lichess.org/training/MPsaa), rated `1277`.
-The game is `PAWlak13 (2018)` vs `HanySalama (2018)` at `10+5` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/F17wckKH),
-and the first solution move is `d8c8`.
+It is `Black to move` in puzzle [dOc3W](https://lichess.org/training/dOc3W), rated `1359`.
+The game is `MaskOfGhost (2269)` vs `arfanspercasiciamis (2233)` at `3+0` time control,
+with themes `veryLong, endgame, crushing, fork`. You can [view the full game](https://lichess.org/ZWBseQs9),
+and the first solution move is `e5e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

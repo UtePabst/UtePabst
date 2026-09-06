@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4k1r%2FppP3p1%2F4Rb1n%2F7p%2F2Q2B2%2F7P%2FPPP2PPK%2FRN1q4%20b%20-%20-%202%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F7p%2F1R3p2%2F2kr4%2F3pKP2%2F3P4%2F6PP%2F8%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [VXaIh](https://lichess.org/training/VXaIh), rated `1289`.
-The game is `Legion8888 (1693)` vs `Sardar1970 (1699)` at `5+3` time control,
-with themes `middlegame, crushing, long, sacrifice, discoveredAttack`. You can [view the full game](https://lichess.org/BDEil73F),
-and the first solution move is `h6g4`.
+It is `Black to move` in puzzle [NCtz4](https://lichess.org/training/NCtz4), rated `1289`.
+The game is `adidas17 (1859)` vs `Illusionist3 (1901)` at `10+5` time control,
+with themes `endgame, short, crushing, rookEndgame, intermezzo`. You can [view the full game](https://lichess.org/896MZYcZ),
+and the first solution move is `f6f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1k2%2F5pbQ%2F4p1p1%2Fp1n1Pr2%2FPpP5%2F1P1p1N2%2F6P1%2F3R1RK1%20b%20-%20-%203%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r4%2F1p1P4%2Fp2Q3p%2F5p1k%2FP7%2F2N2Rn1%2F1P4PK%2F2q5%20b%20-%20-%206%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [F8wYc](https://lichess.org/training/F8wYc), rated `1324`.
-The game is `CodeSlam (2545)` vs `benkonian (2645)` at `3+0` time control,
-with themes `short, advantage, trappedPiece, master, middlegame`. You can [view the full game](https://lichess.org/DMt3WRXI),
-and the first solution move is `f5h5`.
+It is `Black to move` in puzzle [epEKM](https://lichess.org/training/epEKM), rated `1457`.
+The game is `rcrawle (1693)` vs `McRembo (1693)` at `5+0` time control,
+with themes `short, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/L6Y2zALN),
+and the first solution move is `c1h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

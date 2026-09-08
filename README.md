@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1R6%2F5k1p%2F2p3p1%2Fp2pq3%2FP5P1%2F2Pb1P2%2F1K6%2F7R%20w%20-%20-%205%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2b5%2F1p5k%2F2pP4%2FP1P2R2%2F6K1%2FP7%2F8%2F8%20b%20-%20-%200%2051&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Va8vc](https://lichess.org/training/Va8vc), rated `1610`.
-The game is `DavTut (2124)` vs `Henrychenko (2111)` at `3+0` time control,
-with themes `veryLong, endgame, advantage, fork`. You can [view the full game](https://lichess.org/2tMOE9SF),
-and the first solution move is `h1h7`.
+It is `Black to move` in puzzle [ROo1q](https://lichess.org/training/ROo1q), rated `1542`.
+The game is `GregoryDueck (1729)` vs `LotsaLizards (1702)` at `15+15` time control,
+with themes `endgame, pin, crushing, long`. You can [view the full game](https://lichess.org/cPVWJD9M),
+and the first solution move is `h7g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

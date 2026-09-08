@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r1q2k1%2F3b1pp1%2F7p%2FpB6%2FP3p3%2F3Q4%2F1bPB2PP%2F3R3K%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1Q6%2F6rb%2Fp6b%2F3Pp3%2FPP2P1Bk%2F5P2%2F3qRKP1%2F5R2%20b%20-%20-%2012%2045&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ELeH6](https://lichess.org/training/ELeH6), rated `1395`.
-The game is `TheReticentLantern (2110)` vs `Akhil3202 (2062)` at `10+0` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/J8nuzX4p),
-and the first solution move is `d3d7`.
+It is `Black to move` in puzzle [jumUK](https://lichess.org/training/jumUK), rated `1312`.
+The game is `Raman-228 (1866)` vs `A-24 (1877)` at `10+0` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/mFEHN7Lb),
+and the first solution move is `h6e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

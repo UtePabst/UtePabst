@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp4pp1%2F2Q4p%2F4P3%2F2p2P2%2F2q3P1%2FP2rb1BP%2F5RK1%20w%20-%20-%201%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F2P2p2%2FpQ4p1%2FP7%2F6Pn%2F5q1p%2F5R1P%2F4RK2%20b%20-%20-%201%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [t9Eru](https://lichess.org/training/t9Eru), rated `1565`.
-The game is `manneredmonkey (2593)` vs `engine_failure (2606)` at `3+0` time control,
-with themes `endgame, master, crushing, long`. You can [view the full game](https://lichess.org/Da3RXtjX),
-and the first solution move is `c6e8`.
+It is `Black to move` in puzzle [yQN2N](https://lichess.org/training/yQN2N), rated `1619`.
+The game is `abnh-2001 (1741)` vs `Zola-Predosa (1739)` at `10+5` time control,
+with themes `exposedKing, deflection, endgame, advantage, long`. You can [view the full game](https://lichess.org/UFngOsyE),
+and the first solution move is `f3h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

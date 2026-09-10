@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k4r1%2FNPp5%2F2qp1p2%2FP4b1p%2F2P3rP%2F2Q3B1%2F5P1K%2FR4R2%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r4%2Fp2p1r2%2Fb1p1k3%2F4P3%2F2p1PPPQ%2F8%2F1q6%2F3R2K1%20w%20-%20-%205%2050&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [5QI47](https://lichess.org/training/5QI47), rated `1518`.
-The game is `Gil2 (1741)` vs `SS85 (1838)` at `5+3` time control,
-with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/RQVtVg5t),
-and the first solution move is `g4h4`.
+It is `White to move` in puzzle [RCe9o](https://lichess.org/training/RCe9o), rated `1599`.
+The game is `Goldchains (1792)` vs `Osakarashy (1800)` at `10+5` time control,
+with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/ZhFK0FwQ),
+and the first solution move is `d1d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

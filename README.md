@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F6p1%2F4Q3%2F4Pp2%2F1P3q2%2F2P3p1%2F6KP%2F4R3%20b%20-%20-%200%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q3k%2Fpp3Bp1%2F2p2nP1%2F4p3%2F4P3%2F2N3P1%2FPPP5%2F2KR4%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [vJ0OX](https://lichess.org/training/vJ0OX), rated `1407`.
-The game is `Oleg5112 (1701)` vs `A8001030A (1742)` at `3+0` time control,
-with themes `short, fork, endgame, mateIn2`. You can [view the full game](https://lichess.org/c2hGp5eu),
-and the first solution move is `f4f2`.
+It is `White to move` in puzzle [BVOio](https://lichess.org/training/BVOio), rated `1288`.
+The game is `Ayhan_Master (1957)` vs `DanNcube1965 (2024)` at `10+0` time control,
+with themes `short, pillsburysMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/69MsIwDi),
+and the first solution move is `d1h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

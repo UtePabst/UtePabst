@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1r2k%2Fp3npp1%2F1p5p%2F2pq4%2F3p4%2FP4Q2%2F1P1B1PPP%2F2R1R1K1%20w%20-%20-%201%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1n1r2k1%2Fp4ppp%2F1pq5%2F8%2F8%2F1Q1bPP2%2FPP4PP%2FR1B1K2R%20b%20KQ%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [g4epb](https://lichess.org/training/g4epb), rated `1584`.
-The game is `bobby1987a (1679)` vs `e8246715 (1698)` at `3+0` time control,
-with themes `kingsideAttack, advantage, long, middlegame`. You can [view the full game](https://lichess.org/5dDWthXy),
-and the first solution move is `e1e7`.
+It is `Black to move` in puzzle [4Vnwp](https://lichess.org/training/4Vnwp), rated `1478`.
+The game is `EglencesineOynuyorum (1606)` vs `Ilgiz_Nuriev (1609)` at `3+2` time control,
+with themes `exposedKing, clearance, middlegame, advantage, skewer, long`. You can [view the full game](https://lichess.org/tD8WuT4J),
+and the first solution move is `d3c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1n1r2k1%2Fp4ppp%2F1pq5%2F8%2F8%2F1Q1bPP2%2FPP4PP%2FR1B1K2R%20b%20KQ%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1R6%2F8%2F4p3%2F3pPk1p%2F5P2%2F5K2%2F8%2F6r1%20w%20-%20-%200%2052&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [4Vnwp](https://lichess.org/training/4Vnwp), rated `1478`.
-The game is `EglencesineOynuyorum (1606)` vs `Ilgiz_Nuriev (1609)` at `3+2` time control,
-with themes `exposedKing, clearance, middlegame, advantage, skewer, long`. You can [view the full game](https://lichess.org/tD8WuT4J),
-and the first solution move is `d3c2`.
+It is `White to move` in puzzle [PowHH](https://lichess.org/training/PowHH), rated `1471`.
+The game is `AliDGK (1799)` vs `Aryan_TheHall (1714)` at `10+0` time control,
+with themes `endgame, crushing, long, rookEndgame, skewer`. You can [view the full game](https://lichess.org/Ord7uTaF),
+and the first solution move is `b8f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

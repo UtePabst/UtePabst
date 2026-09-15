@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fpp3pp1%2F2pbp2p%2F3pN2q%2F3PnP2%2F2PQP3%2FPP4PP%2F3RBRK1%20w%20kq%20-%208%2016&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2Fpp6%2F4pn1p%2F3p2pq%2F8%2F4PQP1%2FPP3PP1%2F1BR2RK1%20w%20-%20-%201%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [AFYGn](https://lichess.org/training/AFYGn), rated `1521`.
-The game is `kaver98 (1897)` vs `kentt (1878)` at `10+0` time control,
-with themes `middlegame, long, trappedPiece, advantage`. You can [view the full game](https://lichess.org/WGmumMl1),
-and the first solution move is `g2g4`.
+It is `White to move` in puzzle [eCCc3](https://lichess.org/training/eCCc3), rated `1576`.
+The game is `TheGreatDanton9 (1791)` vs `melacavoforse (1906)` at `10+0` time control,
+with themes `middlegame, long, exposedKing, crushing`. You can [view the full game](https://lichess.org/Tgi7rnhp),
+and the first solution move is `c1c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

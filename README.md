@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6r1%2F4k3%2F7p%2F5P1p%2F2pR1K1P%2FP2p2P1%2F1P6%2F8%20b%20-%20-%203%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3p2rk%2FP3p3%2F2P1PpBb%2FB2P1R1P%2F1Q4PK%2F4q3%20b%20-%20-%206%2041&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [F6RQW](https://lichess.org/training/F6RQW), rated `1481`.
-The game is `NoFastDraw (2647)` vs `emiliooo (2603)` at `3+0` time control,
-with themes `endgame, advancedPawn, master, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/9NPG11fa),
-and the first solution move is `g8g4`.
+It is `Black to move` in puzzle [yMbF6](https://lichess.org/training/yMbF6), rated `1485`.
+The game is `Armin_F8 (1909)` vs `warcraft55 (1944)` at `5+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/9uIxcRkb),
+and the first solution move is `h4g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

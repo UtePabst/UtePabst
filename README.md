@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6r%2F1p2kqQ1%2F1p2p2p%2F3p4%2F2nP4%2F8%2FPPP2PPP%2F4RRK1%20w%20-%20-%201%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=k6r%2F1p1nNp2%2F3P1p2%2F7q%2Fp3p3%2FP6Q%2F6P1%2F1R1R2K1%20b%20-%20-%203%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [0NJ00](https://lichess.org/training/0NJ00), rated `1352`.
-The game is `Honda991 (1632)` vs `FaridDz21 (1733)` at `3+0` time control,
-with themes `deflection, middlegame, crushing, attraction, long, sacrifice, pin`. You can [view the full game](https://lichess.org/IH88mQHF),
-and the first solution move is `e1e6`.
+It is `Black to move` in puzzle [a0QHa](https://lichess.org/training/a0QHa), rated `1359`.
+The game is `riki2 (1699)` vs `ImprovingChess (1665)` at `5+8` time control,
+with themes `middlegame, oneMove, advantage`. You can [view the full game](https://lichess.org/f8fd2Ame),
+and the first solution move is `h5c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

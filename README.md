@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=k6r%2F1p1nNp2%2F3P1p2%2F7q%2Fp3p3%2FP6Q%2F6P1%2F1R1R2K1%20b%20-%20-%203%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r3%2Fp1p1qp1k%2F1p1p4%2F3P2p1%2F2P1bR1p%2F2Q1P2P%2FPP2BKP1%2F8%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [a0QHa](https://lichess.org/training/a0QHa), rated `1359`.
-The game is `riki2 (1699)` vs `ImprovingChess (1665)` at `5+8` time control,
-with themes `middlegame, oneMove, advantage`. You can [view the full game](https://lichess.org/f8fd2Ame),
-and the first solution move is `h5c5`.
+It is `White to move` in puzzle [OTokJ](https://lichess.org/training/OTokJ), rated `1460`.
+The game is `wstone (2009)` vs `cepn (1960)` at `5+0` time control,
+with themes `endgame, advantage, long, sacrifice, pin`. You can [view the full game](https://lichess.org/jvJQMzay),
+and the first solution move is `f4e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

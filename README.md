@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2nr1b1r%2F1k1q4%2FRn6%2F1NpPp3%2F2P1P1Q1%2F1P6%2F3N3p%2FR6K%20w%20-%20-%202%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1r1k1%2F1ppn1pp1%2Fp2b1n1p%2F7q%2F3QP3%2F2N2P2%2FPPP1NBPP%2F1K1R1B1R%20b%20-%20-%205%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [li1ka](https://lichess.org/training/li1ka), rated `1378`.
-The game is `s3ReN1Ty (1815)` vs `zarab (1748)` at `2+1` time control,
-with themes `exposedKing, middlegame, crushing, skewer, long, sacrifice`. You can [view the full game](https://lichess.org/sJMqqoP9),
-and the first solution move is `a6a7`.
+It is `Black to move` in puzzle [CL88j](https://lichess.org/training/CL88j), rated `1533`.
+The game is `MrBini (2356)` vs `Junior072001 (2312)` at `3+0` time control,
+with themes `master, short, advantage, skewer, opening`. You can [view the full game](https://lichess.org/CNZA8PDS),
+and the first solution move is `d6c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

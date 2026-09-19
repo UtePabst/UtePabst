@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1r1k1%2F1ppn1pp1%2Fp2b1n1p%2F7q%2F3QP3%2F2N2P2%2FPPP1NBPP%2F1K1R1B1R%20b%20-%20-%205%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F5ppp%2Fpbq5%2F4B3%2F8%2F2P2PQP%2FPP4PK%2FR7%20b%20-%20-%203%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [CL88j](https://lichess.org/training/CL88j), rated `1533`.
-The game is `MrBini (2356)` vs `Junior072001 (2312)` at `3+0` time control,
-with themes `master, short, advantage, skewer, opening`. You can [view the full game](https://lichess.org/CNZA8PDS),
-and the first solution move is `d6c5`.
+It is `Black to move` in puzzle [KcNXE](https://lichess.org/training/KcNXE), rated `1319`.
+The game is `sonf (1835)` vs `lrpalian (1846)` at `3+0` time control,
+with themes `endgame, advantage, long, sacrifice, pin`. You can [view the full game](https://lichess.org/cVsQ0dsg),
+and the first solution move is `e8e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnbqk2r%2Fpppp3p%2F8%2F2b1PpN1%2F2P1nB2%2F8%2FPP2PPPP%2FRN1QKB1R%20b%20KQkq%20-%200%207&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2nr1b1r%2F1k1q4%2FRn6%2F1NpPp3%2F2P1P1Q1%2F1P6%2F3N3p%2FR6K%20w%20-%20-%202%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [PM2Hn](https://lichess.org/training/PM2Hn), rated `1423`.
-The game is `gANDIm1477 (2673)` vs `YaYestGrut (2471)` at `3+0` time control,
-with themes `oneMove, opening, mateIn1, attackingF2F7`. You can [view the full game](https://lichess.org/7DkVVsIO),
-and the first solution move is `c5f2`.
+It is `White to move` in puzzle [li1ka](https://lichess.org/training/li1ka), rated `1378`.
+The game is `s3ReN1Ty (1815)` vs `zarab (1748)` at `2+1` time control,
+with themes `exposedKing, middlegame, crushing, skewer, long, sacrifice`. You can [view the full game](https://lichess.org/sJMqqoP9),
+and the first solution move is `a6a7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

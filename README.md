@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r1r4%2Fp4Q1R%2F1kpp4%2F3n4%2FqpbP4%2F1N3P2%2FPPP3P1%2F1K1R2N1%20b%20-%20-%207%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1R4pk%2Fp3N3%2F7p%2F3pr3%2F8%2F2P3n1%2F3K4%20w%20-%20-%200%2036&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [yfi9q](https://lichess.org/training/yfi9q), rated `1563`.
-The game is `Carl_Canio (2349)` vs `Kleinseelheim (2376)` at `3+0` time control,
-with themes `short, crushing, discoveredAttack, master, middlegame`. You can [view the full game](https://lichess.org/wNnDJJoC),
-and the first solution move is `d5c3`.
+It is `White to move` in puzzle [B7waj](https://lichess.org/training/B7waj), rated `1428`.
+The game is `HopChiki (1916)` vs `vishpa1979 (1940)` at `10+0` time control,
+with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/9NxE2Zvr),
+and the first solution move is `e6g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2Q3pk%2F8%2F4Pp2%2F5P2%2FPPP1q2r%2F2K3R1%20b%20-%20-%200%2046&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F2N2pp1%2F4r2p%2Fp7%2F2P2P2%2F1P4P1%2FP2Q3P%2F2R1q1K1%20w%20-%20-%209%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [4oH1R](https://lichess.org/training/4oH1R), rated `1291`.
-The game is `Zol80 (2045)` vs `Szmrokodeusz (2180)` at `10+0` time control,
-with themes `short, fork, endgame, mateIn2`. You can [view the full game](https://lichess.org/1kxRGobN),
-and the first solution move is `e2e3`.
+It is `White to move` in puzzle [z1eZD](https://lichess.org/training/z1eZD), rated `1573`.
+The game is `Tiger-A (1882)` vs `Iceman_1522 (1921)` at `10+0` time control,
+with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/J0nBrQ4q),
+and the first solution move is `c1e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

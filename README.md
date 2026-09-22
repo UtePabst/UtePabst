@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F4k3%2F2Pp1N2%2F3Pp1K1%2F4Pr2%2F8%2F8%2F8%20w%20-%20-%206%2068&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F5b1q%2Fp1r2Pp1%2F6Q1%2F3p4%2F6R1%2FPP4PP%2FR5K1%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [gRAXO](https://lichess.org/training/gRAXO), rated `1521`.
-The game is `Kunyavka (2659)` vs `TheBigGreek (2625)` at `3+0` time control,
-with themes `endgame, advancedPawn, master, short, crushing, promotion`. You can [view the full game](https://lichess.org/8ZAk3DkE),
-and the first solution move is `c6c7`.
+It is `White to move` in puzzle [BNnSl](https://lichess.org/training/BNnSl), rated `1321`.
+The game is `Lefleau (2128)` vs `pheldda (2017)` at `5+0` time control,
+with themes `short, advantage, trappedPiece, master, middlegame`. You can [view the full game](https://lichess.org/R23kYDFH),
+and the first solution move is `g3h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

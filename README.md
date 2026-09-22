@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6rk%2F5Qpp%2F1R1p4%2Fp4p2%2FP4q2%2F6RP%2F5PPK%2F4r3%20w%20-%20-%205%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4k3%2F2Pp1N2%2F3Pp1K1%2F4Pr2%2F8%2F8%2F8%20w%20-%20-%206%2068&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [u8qHY](https://lichess.org/training/u8qHY), rated `1509`.
-The game is `ManeSixTimes (1570)` vs `Ikigai1991 (1574)` at `3+0` time control,
-with themes `veryLong, endgame, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/6HHmEtkm),
-and the first solution move is `f7g7`.
+It is `White to move` in puzzle [gRAXO](https://lichess.org/training/gRAXO), rated `1521`.
+The game is `Kunyavka (2659)` vs `TheBigGreek (2625)` at `3+0` time control,
+with themes `endgame, advancedPawn, master, short, crushing, promotion`. You can [view the full game](https://lichess.org/8ZAk3DkE),
+and the first solution move is `c6c7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

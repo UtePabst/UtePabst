@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2Fppp2ppp%2F4b3%2F8%2F3n4%2F3B4%2FPBP2PPP%2FR2Q1RK1%20w%20-%20-%200%2014&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k5%2F1q4Qp%2F1p2p3%2F1Pp2pN1%2F8%2FP2r2PP%2F1B1r1P2%2F4R1K1%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [pFkWf](https://lichess.org/training/pFkWf), rated `1589`.
-The game is `earlmiddleton40 (1842)` vs `hatopcu (1738)` at `30+0` time control,
-with themes `middlegame, crushing, long, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/lVxX81cQ),
-and the first solution move is `b2d4`.
+It is `Black to move` in puzzle [h9V5I](https://lichess.org/training/h9V5I), rated `1501`.
+The game is `Kuchota_watu_kuchota (1952)` vs `taeldany (1677)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/cONAZlEo),
+and the first solution move is `d3g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

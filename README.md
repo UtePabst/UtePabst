@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fppq2n1p%2F4pppQ%2F1P1p4%2F5B1P%2F3B4%2F2P2PP1%2FR3R1K1%20w%20-%20-%202%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4b2p%2F2pN1p2%2F1kP2P2%2F3K3P%2F8%2F8%20b%20-%20-%202%2052&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [0Xhsl](https://lichess.org/training/0Xhsl), rated `1615`.
-The game is `sussasun (2069)` vs `KazaryanIvan (2047)` at `25+16` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/CGyp6uge),
-and the first solution move is `h6f8`.
+It is `Black to move` in puzzle [NTLnK](https://lichess.org/training/NTLnK), rated `1573`.
+The game is `stardustrevolution (2441)` vs `Namor2020 (2320)` at `3+0` time control,
+with themes `crushing, veryLong, endgame`. You can [view the full game](https://lichess.org/Yxhptgyh),
+and the first solution move is `e6d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

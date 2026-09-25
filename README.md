@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp1q1kp2%2F6p1%2F2Q4p%2F1P2P3%2F3P2P1%2F6KP%2F8%20b%20-%20-%200%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn1qkb1r%2Fp1p2ppp%2F1p2p3%2F3pN3%2F2PPn1P1%2F4PP1P%2FPP2B3%2FR1BQK2R%20b%20KQkq%20-%200%2011&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [pxO6i](https://lichess.org/training/pxO6i), rated `1602`.
-The game is `chessli_05 (1857)` vs `ReynaldoXD (1790)` at `5+3` time control,
-with themes `veryLong, advancedPawn, crushing, quietMove, endgame, queenEndgame`. You can [view the full game](https://lichess.org/qIVkfR6s),
-and the first solution move is `c7c5`.
+It is `Black to move` in puzzle [Cc8t2](https://lichess.org/training/Cc8t2), rated `1527`.
+The game is `Josfil (1676)` vs `hossam83 (1702)` at `5+3` time control,
+with themes `mateIn2, short, opening`. You can [view the full game](https://lichess.org/qavuz6aA),
+and the first solution move is `d8h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn2kbnr%2Fpp3ppp%2F4p3%2F3pP1B1%2F2PP4%2F2Q2N2%2FPqP2PPP%2FRN2K2R%20b%20KQkq%20-%202%2010&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1K6%2Fp7%2F6kp%2FPP6%2F8%2F8%2F8%20b%20-%20-%201%2059&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [8hQBJ](https://lichess.org/training/8hQBJ), rated `1448`.
-The game is `sadecebeyaz (1634)` vs `madgav (1661)` at `10+5` time control,
-with themes `middlegame, short, crushing, pin`. You can [view the full game](https://lichess.org/BzNF6nGo),
-and the first solution move is `f8b4`.
+It is `Black to move` in puzzle [45g6m](https://lichess.org/training/45g6m), rated `1607`.
+The game is `PrabirCtg (1662)` vs `Ruthless_13 (1650)` at `10+0` time control,
+with themes `veryLong, endgame, advancedPawn, crushing, quietMove, promotion, pawnEndgame`. You can [view the full game](https://lichess.org/JJY3RKdn),
+and the first solution move is `h5h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

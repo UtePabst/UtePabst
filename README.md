@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2n5%2Fr4pk1%2FPp4p1%2F3pPp2%2FR1pP2qB%2F2P4Q%2F8%2F6RK%20b%20-%20-%203%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fppr1R1p1%2F4P3%2F8%2F8%2F1P6%2F1Pr5%2F1KBR4%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [DpIfN](https://lichess.org/training/DpIfN), rated `1354`.
-The game is `Rickyrich (2089)` vs `dulguun512 (2093)` at `3+0` time control,
-with themes `oneMove, mateIn1, hangingPiece, master, middlegame`. You can [view the full game](https://lichess.org/MxHejL63),
-and the first solution move is `g4h3`.
+It is `Black to move` in puzzle [N2ypz](https://lichess.org/training/N2ypz), rated `1291`.
+The game is `stan760 (2199)` vs `BroderickBauml (2194)` at `3+0` time control,
+with themes `endgame, short, advantage, intermezzo`. You can [view the full game](https://lichess.org/32NculVs),
+and the first solution move is `c2c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

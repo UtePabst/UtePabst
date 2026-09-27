@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r4r%2F1p3ppk%2F1p1p4%2F1P1P3p%2F4R3%2F5Q2%2F1q4PP%2F4R1K1%20w%20-%20-%202%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5N2%2F4Q1b1%2Fp3p1pk%2F8%2FBpp2q1p%2F6nP%2FPP4PK%2F8%20w%20-%20-%2012%2047&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [GQVuk](https://lichess.org/training/GQVuk), rated `1523`.
-The game is `grfresh (1821)` vs `WalterGp (1733)` at `5+3` time control,
-with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/Hrh9f0Gl),
-and the first solution move is `f3h5`.
+It is `White to move` in puzzle [Gcdsw](https://lichess.org/training/Gcdsw), rated `1561`.
+The game is `Mr_BaronMunchausen (2729)` vs `chessrun2020 (2712)` at `3+0` time control,
+with themes `endgame`. You can [view the full game](https://lichess.org/qwmCt5zV),
+and the first solution move is `e7g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5N2%2F4Q1b1%2Fp3p1pk%2F8%2FBpp2q1p%2F6nP%2FPP4PK%2F8%20w%20-%20-%2012%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2qr1rk1%2Fpp3ppp%2F2n2n2%2F4N3%2F1P1P4%2FP3P3%2F3B1PPP%2FR2Q1RK1%20b%20-%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Gcdsw](https://lichess.org/training/Gcdsw), rated `1561`.
-The game is `Mr_BaronMunchausen (2729)` vs `chessrun2020 (2712)` at `3+0` time control,
-with themes `endgame`. You can [view the full game](https://lichess.org/qwmCt5zV),
-and the first solution move is `e7g7`.
+It is `Black to move` in puzzle [l9wRf](https://lichess.org/training/l9wRf), rated `1406`.
+The game is `mini_cj (2038)` vs `Julian_W2005 (1949)` at `10+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/MfX4yFei),
+and the first solution move is `c6e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

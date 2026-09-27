@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r6%2F2q3pk%2F4Q1RB%2F8%2F8%2F5P2%2FP4P1b%2F7K%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r4r%2F1p3ppk%2F1p1p4%2F1P1P3p%2F4R3%2F5Q2%2F1q4PP%2F4R1K1%20w%20-%20-%202%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [jJQdR](https://lichess.org/training/jJQdR), rated `1509`.
-The game is `Roadwork00 (2255)` vs `logicoelemento (2215)` at `3+0` time control,
-with themes `endgame`. You can [view the full game](https://lichess.org/lmGZLqbW),
-and the first solution move is `b8b1`.
+It is `White to move` in puzzle [GQVuk](https://lichess.org/training/GQVuk), rated `1523`.
+The game is `grfresh (1821)` vs `WalterGp (1733)` at `5+3` time control,
+with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/Hrh9f0Gl),
+and the first solution move is `f3h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

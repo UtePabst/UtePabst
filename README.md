@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fp4p1p%2F1p4p1%2F1PpP4%2FP1Bb4%2F5qP1%2F3Q1P1P%2F3R2K1%20b%20-%20-%202%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4rq1k%2Fpp3p1p%2F8%2F8%2F8%2F6R1%2FP1r3PP%2F5Q1K%20w%20-%20-%2010%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [noz4Y](https://lichess.org/training/noz4Y), rated `1570`.
-The game is `wonboodoo (1720)` vs `cassiusmd (1727)` at `15+15` time control,
-with themes `deflection, endgame, short, crushing, kingsideAttack`. You can [view the full game](https://lichess.org/JZLl3hT4),
-and the first solution move is `d4f2`.
+It is `White to move` in puzzle [nI7a9](https://lichess.org/training/nI7a9), rated `1417`.
+The game is `Aaravchad2 (1801)` vs `porwal_saurabh1 (1761)` at `10+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/Q1DxfrDN),
+and the first solution move is `f1f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

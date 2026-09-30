@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r2%2Fpb3pp1%2F1p2pn2%2F2p2k1q%2F3P4%2F2P3Q1%2FPP1N1P2%2FR3K1R1%20w%20Q%20-%206%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5nk1%2F2R5%2Fbp2p3%2Fp3P1N1%2FBn3K2%2F5PB1%2FP3r1PP%2F8%20b%20-%20-%204%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [BqRwt](https://lichess.org/training/BqRwt), rated `1275`.
-The game is `CornelCornelius (1951)` vs `Seb87 (1975)` at `10+0` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/0UfHpvY3),
-and the first solution move is `g3e5`.
+It is `Black to move` in puzzle [6tJev](https://lichess.org/training/6tJev), rated `1427`.
+The game is `s3mml3r (2146)` vs `mar99arg (1983)` at `10+0` time control,
+with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/WuppkDcw),
+and the first solution move is `b4d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

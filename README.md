@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4b1r%2Fppq2kpp%2F2n1p3%2F8%2F3Pp1b1%2F5N2%2FPP3PPP%2FR1BQ1RK1%20w%20-%20-%200%2013&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fp4p1p%2F1p4p1%2F1PpP4%2FP1Bb4%2F5qP1%2F3Q1P1P%2F3R2K1%20b%20-%20-%202%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [aGhYS](https://lichess.org/training/aGhYS), rated `1298`.
-The game is `forisco (1832)` vs `Simon69 (1800)` at `5+5` time control,
-with themes `middlegame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/1nzuxg3H),
-and the first solution move is `f3g5`.
+It is `Black to move` in puzzle [noz4Y](https://lichess.org/training/noz4Y), rated `1570`.
+The game is `wonboodoo (1720)` vs `cassiusmd (1727)` at `15+15` time control,
+with themes `deflection, endgame, short, crushing, kingsideAttack`. You can [view the full game](https://lichess.org/JZLl3hT4),
+and the first solution move is `d4f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

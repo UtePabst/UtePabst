@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F6b1%2F1p1N2k1%2Fp1p5%2FP7%2F2P2QP1%2F1P2qn1P%2F3R2K1%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r5k%2Fp5pp%2F3b3r%2F8%2F4B1P1%2F1P1P1RqP%2FP3Q3%2FR5BK%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [74b3z](https://lichess.org/training/74b3z), rated `1593`.
-The game is `halunke666 (2288)` vs `Surdena (2203)` at `5+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/tyRckxfI),
-and the first solution move is `f3f5`.
+It is `Black to move` in puzzle [IgF3p](https://lichess.org/training/IgF3p), rated `1302`.
+The game is `mrjava (2076)` vs `SGW2 (2177)` at `3+0` time control,
+with themes `exposedKing, middlegame, fork, long, mateIn3`. You can [view the full game](https://lichess.org/A1uKOVmQ),
+and the first solution move is `h6h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

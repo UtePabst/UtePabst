@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2k5%2F1pP1b2p%2F1P2N3%2F3n4%2FP7%2F7r%2F1K1R1R2%20b%20-%20-%202%2053&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F1pr2ppp%2FpR6%2F2Pb4%2F3N4%2FP1P2B2%2F3K1PPP%2F8%20w%20-%20-%205%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [OO9UY](https://lichess.org/training/OO9UY), rated `1430`.
-The game is `VadimG48 (1809)` vs `acoussur (1807)` at `3+2` time control,
-with themes `short, cornerMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/RGljlKlS),
-and the first solution move is `e6a2`.
+It is `White to move` in puzzle [lLCbZ](https://lichess.org/training/lLCbZ), rated `1500`.
+The game is `Ganimed14 (2196)` vs `Acebishop2 (1692)` at `5+0` time control,
+with themes `long, advantage, endgame`. You can [view the full game](https://lichess.org/Bzo3gQv4),
+and the first solution move is `b6d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

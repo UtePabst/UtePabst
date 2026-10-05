@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F3qb1pp%2F8%2F6P1%2F3Qbr1P%2F2N5%2FPPP5%2F1K1R3R%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=R7%2FP7%2F8%2F5p2%2Fr4k1p%2F7K%2F6P1%2F8%20w%20-%20-%203%2053&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [IZGzm](https://lichess.org/training/IZGzm), rated `1347`.
-The game is `Shyam1985 (2100)` vs `LuisHoracio (2172)` at `10+0` time control,
-with themes `middlegame, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/Hx9AWC0B),
-and the first solution move is `e4c2`.
+It is `White to move` in puzzle [fCzgI](https://lichess.org/training/fCzgI), rated `1458`.
+The game is `Shadreck1800 (2044)` vs `kushpandey007 (1993)` at `10+0` time control,
+with themes `endgame, short, zugzwang, crushing, rookEndgame`. You can [view the full game](https://lichess.org/qDfeJW2U),
+and the first solution move is `h3h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

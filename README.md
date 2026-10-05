@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F5ppp%2F8%2F6q1%2F2Qp4%2F5b2%2FBPP3PP%2F4R1K1%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r1k2r%2Fpb3pp1%2F1p2p3%2F8%2F1P2B1p1%2FP5N1%2F2P2PPq%2FR1Q1RK2%20b%20k%20-%207%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [TTe3A](https://lichess.org/training/TTe3A), rated `1380`.
-The game is `Bunny8888 (1713)` vs `miigaa99 (1614)` at `10+5` time control,
-with themes `short, sacrifice, pin, endgame, mateIn2`. You can [view the full game](https://lichess.org/ToCYynbo),
-and the first solution move is `c4f7`.
+It is `Black to move` in puzzle [bWTML](https://lichess.org/training/bWTML), rated `1492`.
+The game is `Boris9933 (2285)` vs `SchepetnovChess (2244)` at `3+0` time control,
+with themes `advantage, long, middlegame`. You can [view the full game](https://lichess.org/1S0Gee9q),
+and the first solution move is `b7a6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

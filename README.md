@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rr1k1%2Fppp2pp1%2F7p%2F2nP4%2F1q2P3%2F1P3P1P%2FP1QN2P1%2F2R1R1K1%20b%20-%20-%202%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qk2r%2Fppp2ppp%2F2n1p3%2F3pNb2%2FQbPPnB2%2F2N4P%2FPP2PPP1%2FR3KB1R%20b%20KQkq%20-%206%208&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [v4ell](https://lichess.org/training/v4ell), rated `1294`.
-The game is `SicilianTM (2156)` vs `Dekline77 (2238)` at `3+2` time control,
-with themes `short, advantage, master, middlegame`. You can [view the full game](https://lichess.org/byf5M53E),
-and the first solution move is `b4d4`.
+It is `Black to move` in puzzle [PfXZR](https://lichess.org/training/PfXZR), rated `1553`.
+The game is `Dinesh_1978 (1625)` vs `GoodSushi (1623)` at `15+10` time control,
+with themes `opening, short, crushing`. You can [view the full game](https://lichess.org/oHIeIrRP),
+and the first solution move is `e4c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

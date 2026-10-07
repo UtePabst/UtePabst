@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr4%2F1Rbq4%2F2n2p2%2F8%2F2N1Q2p%2F2P1P3%2F5PP1%2FR5K1%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F1b1B2pp%2F3P4%2F4p1q1%2F5n2%2FP7%2F1Q1B2PP%2F6RK%20b%20-%20-%202%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [acHLP](https://lichess.org/training/acHLP), rated `1554`.
-The game is `DSS4 (2146)` vs `brutal_999 (2217)` at `5+0` time control,
-with themes `mateIn2, middlegame, short, sacrifice, pillsburysMate`. You can [view the full game](https://lichess.org/OSNybjHy),
-and the first solution move is `d7d1`.
+It is `Black to move` in puzzle [PBLoO](https://lichess.org/training/PBLoO), rated `1449`.
+The game is `ChiKiKo2 (1708)` vs `rewaburane (1680)` at `10+5` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/aB0tuEcE),
+and the first solution move is `b7g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

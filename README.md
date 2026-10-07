@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qk2r%2Fppp2ppp%2F2n1p3%2F3pNb2%2FQbPPnB2%2F2N4P%2FPP2PPP1%2FR3KB1R%20b%20KQkq%20-%206%208&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3brk1%2Fp3b1p1%2Fq2p1pP1%2F3Pp3%2F1Pp3P1%2F2Q4R%2FP6P%2FR1B3K1%20w%20-%20-%201%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [PfXZR](https://lichess.org/training/PfXZR), rated `1553`.
-The game is `Dinesh_1978 (1625)` vs `GoodSushi (1623)` at `15+10` time control,
-with themes `opening, short, crushing`. You can [view the full game](https://lichess.org/oHIeIrRP),
-and the first solution move is `e4c3`.
+It is `White to move` in puzzle [ZFFh6](https://lichess.org/training/ZFFh6), rated `1282`.
+The game is `pianophase (1718)` vs `funarigm (1756)` at `3+2` time control,
+with themes `middlegame, attraction, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/TTKfddoC),
+and the first solution move is `h3h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

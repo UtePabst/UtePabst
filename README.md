@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3brk1%2Fp3b1p1%2Fq2p1pP1%2F3Pp3%2F1Pp3P1%2F2Q4R%2FP6P%2FR1B3K1%20w%20-%20-%201%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F6pp%2F4p3%2Fp3Pn2%2F3p1P2%2F3P3q%2F2P3Q1%2F5RK1%20b%20-%20-%201%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ZFFh6](https://lichess.org/training/ZFFh6), rated `1282`.
-The game is `pianophase (1718)` vs `funarigm (1756)` at `3+2` time control,
-with themes `middlegame, attraction, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/TTKfddoC),
-and the first solution move is `h3h8`.
+It is `Black to move` in puzzle [58hUI](https://lichess.org/training/58hUI), rated `1539`.
+The game is `Brunobc30 (1675)` vs `wizard33333 (1673)` at `10+0` time control,
+with themes `exposedKing, endgame, crushing, attraction, fork, long`. You can [view the full game](https://lichess.org/mUudvjjZ),
+and the first solution move is `h3g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

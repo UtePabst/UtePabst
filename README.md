@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F6pp%2F4p3%2Fp3Pn2%2F3p1P2%2F3P3q%2F2P3Q1%2F5RK1%20b%20-%20-%201%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1k3r2%2F1p6%2F7P%2F5nN1%2FQ5K1%2F3r1P2%2F8%20b%20-%20-%204%2050&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [58hUI](https://lichess.org/training/58hUI), rated `1539`.
-The game is `Brunobc30 (1675)` vs `wizard33333 (1673)` at `10+0` time control,
-with themes `exposedKing, endgame, crushing, attraction, fork, long`. You can [view the full game](https://lichess.org/mUudvjjZ),
-and the first solution move is `h3g2`.
+It is `Black to move` in puzzle [IvZpm](https://lichess.org/training/IvZpm), rated `1406`.
+The game is `cedeking (1945)` vs `iamstupid12333333333 (1957)` at `10+0` time control,
+with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/5UsIljZN),
+and the first solution move is `d2d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

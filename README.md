@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q2k1%2F5pb1%2Fp1p3b1%2F1p1nr1N1%2F3B3Q%2FP1P5%2FBP4P1%2F2K2R1R%20b%20-%20-%201%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq2k1%2Fppn4p%2F4pbB1%2F7Q%2F2Pp4%2F1P1P4%2FP5PP%2FRNB3K1%20b%20-%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [B7JoL](https://lichess.org/training/B7JoL), rated `1590`.
-The game is `MsJZ (2012)` vs `Tata-nvp (2078)` at `10+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/cfM7wqYZ),
-and the first solution move is `d8g5`.
+It is `Black to move` in puzzle [Lz91d](https://lichess.org/training/Lz91d), rated `1383`.
+The game is `a2942006 (1930)` vs `muef1403 (1969)` at `10+0` time control,
+with themes `advantage, short, defensiveMove, middlegame`. You can [view the full game](https://lichess.org/8Nlgpve4),
+and the first solution move is `h7g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

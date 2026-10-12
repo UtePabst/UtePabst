@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7r%2F1b2kp2%2F4p3%2F3pP3%2Fp1pP1P2%2FPpP5%2F1P2K3%2FRN1B4%20b%20-%20-%202%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2F4P3%2F1NQ3pK%2F2P2b2%2F1P1P2P1%2F4P2P%2F4q3%2F5r2%20b%20-%20-%200%2045&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [2ggBF](https://lichess.org/training/2ggBF), rated `1386`.
-The game is `sudhakarapai1980 (2098)` vs `ssmkdy (2090)` at `10+0` time control,
-with themes `endgame, short, advantage, skewer`. You can [view the full game](https://lichess.org/D6LGDXDw),
-and the first solution move is `h8h2`.
+It is `Black to move` in puzzle [q0YhA](https://lichess.org/training/q0YhA), rated `1414`.
+The game is `IshDaComic (1793)` vs `rodillotajale (1720)` at `10+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/rwUTdvUI),
+and the first solution move is `e2e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

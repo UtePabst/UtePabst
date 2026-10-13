@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4qk1r%2F1pp3pp%2F4Q2b%2F4N3%2F8%2F2P4P%2FPP4P1%2F7K%20w%20-%20-%208%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1kr5%2Fpp3N2%2F3p4%2F1q1np2p%2F3r3P%2F8%2FPP4P1%2F1KQR3R%20w%20-%20-%204%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [6Yp3s](https://lichess.org/training/6Yp3s), rated `1305`.
-The game is `Euwe78 (1940)` vs `roflgrins (2233)` at `7+5` time control,
-with themes `short, crushing, endgame`. You can [view the full game](https://lichess.org/b0OzeDIl),
-and the first solution move is `e5d7`.
+It is `White to move` in puzzle [RNLli](https://lichess.org/training/RNLli), rated `1420`.
+The game is `Kulikov-I (2076)` vs `atyaa93 (2087)` at `10+0` time control,
+with themes `veryLong, middlegame, crushing, attraction, fork, sacrifice, pin`. You can [view the full game](https://lichess.org/yG5NwvcC),
+and the first solution move is `c1c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

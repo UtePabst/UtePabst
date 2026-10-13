@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2q1r%2Fppp2Qp1%2F2np3k%2F4p1bn%2F4P1P1%2F2PP3P%2FP7%2FRNB2RK1%20w%20-%20-%201%2016&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fpp5R%2F2p1pqN1%2F3n3Q%2F3P4%2FP3P1P1%2F1P3PP1%2F2R1K3%20b%20-%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [fnQAS](https://lichess.org/training/fnQAS), rated `1384`.
-The game is `z0995472 (1808)` vs `haligholi (1757)` at `5+0` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/s6xU5p6B),
-and the first solution move is `f7h5`.
+It is `Black to move` in puzzle [sZuHC](https://lichess.org/training/sZuHC), rated `1318`.
+The game is `rocketrook123 (1519)` vs `Shikher1997 (1552)` at `2+1` time control,
+with themes `mateIn2, middlegame, short, cornerMate, attackingF2F7`. You can [view the full game](https://lichess.org/3NBzZHNU),
+and the first solution move is `f6f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

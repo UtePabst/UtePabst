@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1r2%2Fpp2b1kp%2F5np1%2F3B4%2F2pP1q2%2F2P5%2FPPQ5%2F1K4RR%20w%20-%20-%200%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F3b1ppp%2Fpq3n2%2F1p4B1%2F3n4%2FPNQB1P2%2F1P4PP%2FR4R1K%20w%20-%20-%206%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [nmyMD](https://lichess.org/training/nmyMD), rated `1597`.
-The game is `BaRBaRYaN (1678)` vs `DOCNinja (1698)` at `3+0` time control,
-with themes `middlegame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/FQla0VPF),
-and the first solution move is `h1h7`.
+It is `White to move` in puzzle [J6yQJ](https://lichess.org/training/J6yQJ), rated `1507`.
+The game is `sheepsleepshere (1854)` vs `Petkaichapay (1961)` at `10+5` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/3djWl1Tf),
+and the first solution move is `c3d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

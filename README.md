@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1kr5%2Fpp3N2%2F3p4%2F1q1np2p%2F3r3P%2F8%2FPP4P1%2F1KQR3R%20w%20-%20-%204%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fpb3rp1%2F4Q1Np%2F2p5%2F2Pb4%2F1P1R2B1%2F5PPP%2F3q2K1%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [RNLli](https://lichess.org/training/RNLli), rated `1420`.
-The game is `Kulikov-I (2076)` vs `atyaa93 (2087)` at `10+0` time control,
-with themes `veryLong, middlegame, crushing, attraction, fork, sacrifice, pin`. You can [view the full game](https://lichess.org/yG5NwvcC),
-and the first solution move is `c1c8`.
+It is `White to move` in puzzle [4cdSv](https://lichess.org/training/4cdSv), rated `1371`.
+The game is `hussein_22 (2082)` vs `mpd80 (2146)` at `5+0` time control,
+with themes `long, crushing, hangingPiece, middlegame`. You can [view the full game](https://lichess.org/jbxC793c),
+and the first solution move is `d3d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

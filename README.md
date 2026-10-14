@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fpb3rp1%2F4Q1Np%2F2p5%2F2Pb4%2F1P1R2B1%2F5PPP%2F3q2K1%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F2q1b1kp%2Fp3B1p1%2F8%2F3P2n1%2F1QP1P3%2FPP3PPP%2FR3R1K1%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [4cdSv](https://lichess.org/training/4cdSv), rated `1371`.
-The game is `hussein_22 (2082)` vs `mpd80 (2146)` at `5+0` time control,
-with themes `long, crushing, hangingPiece, middlegame`. You can [view the full game](https://lichess.org/jbxC793c),
-and the first solution move is `d3d1`.
+It is `Black to move` in puzzle [uEGjv](https://lichess.org/training/uEGjv), rated `1428`.
+The game is `Xan11 (1809)` vs `Romankons (1564)` at `5+3` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/MGY8jXEU),
+and the first solution move is `c7h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

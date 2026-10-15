@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpq1r2k1%2F4Qbp1%2F2p2n2%2F6R1%2F2P4P%2FPP3PP1%2F4R1K1%20b%20-%20-%202%2029&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F5p1k%2F5R1N%2F4p3%2F4P2K%2F5PRB%2F5q2%2Fq7%20w%20-%20-%200%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [50zLd](https://lichess.org/training/50zLd), rated `1515`.
-The game is `qifeng2023 (1886)` vs `AMEA2023 (1913)` at `10+0` time control,
-with themes `skewer, advantage, short, middlegame`. You can [view the full game](https://lichess.org/XsTes3bv),
-and the first solution move is `d7e7`.
+It is `White to move` in puzzle [122RJ](https://lichess.org/training/122RJ), rated `1527`.
+The game is `Pauet01 (1795)` vs `tolgakasap (1796)` at `3+0` time control,
+with themes `exposedKing, veryLong, middlegame, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/BzJiXame),
+and the first solution move is `h3f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

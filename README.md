@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2rk1r2%2Fpp1b2R1%2F5pN1%2F4pP2%2F8%2F2qQ2K1%2FP7%2F8%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1bq3pp%2Fp4p2%2F4N3%2F5Q2%2F3B1P2%2F2P3PP%2FR5K1%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [LZLLI](https://lichess.org/training/LZLLI), rated `1430`.
-The game is `ConDuxVan (1791)` vs `Bobbylon (1720)` at `5+3` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/M2QKPHi6),
-and the first solution move is `g7d7`.
+It is `White to move` in puzzle [6SptM](https://lichess.org/training/6SptM), rated `1554`.
+The game is `private143 (2129)` vs `Dahealdway (2149)` at `10+0` time control,
+with themes `long, crushing, middlegame`. You can [view the full game](https://lichess.org/uJdjQS95),
+and the first solution move is `d3c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

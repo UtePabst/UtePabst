@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4bR2%2F2p3pk%2F4q3%2F1p1r3p%2Fp6P%2F5Q2%2FP5P1%2F5R1K%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2rk1r2%2Fpp1b2R1%2F5pN1%2F4pP2%2F8%2F2qQ2K1%2FP7%2F8%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [zKWcz](https://lichess.org/training/zKWcz), rated `1524`.
-The game is `MyNajdorfSuxxx (1982)` vs `alex484 (1927)` at `5+5` time control,
-with themes `crushing, deflection, short, endgame`. You can [view the full game](https://lichess.org/FRTAke3g),
-and the first solution move is `f8e8`.
+It is `White to move` in puzzle [LZLLI](https://lichess.org/training/LZLLI), rated `1430`.
+The game is `ConDuxVan (1791)` vs `Bobbylon (1720)` at `5+3` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/M2QKPHi6),
+and the first solution move is `g7d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

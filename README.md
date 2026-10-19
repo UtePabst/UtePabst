@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F2qbbrn1%2F5p1Q%2Fp2P1N2%2FNp2P3%2F1Pp3RP%2F6P1%2F2R3K1%20w%20-%20-%201%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4R3%2F1p4r1%2Fp1pp4%2F5k2%2F1P1Pn1n1%2F1KP4R%2FP5P1%2F8%20w%20-%20-%202%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [3P3Qf](https://lichess.org/training/3P3Qf), rated `1282`.
-The game is `Ryian_Delos_Santos (1931)` vs `DRH1954 (1924)` at `5+0` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/ibTmhuKM),
-and the first solution move is `g3g7`.
+It is `White to move` in puzzle [Y50Cn](https://lichess.org/training/Y50Cn), rated `1597`.
+The game is `osmanyaman (1748)` vs `oneisnotprime (1687)` at `10+0` time control,
+with themes `deflection, endgame, short, crushing`. You can [view the full game](https://lichess.org/w7H31cJn),
+and the first solution move is `h3f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

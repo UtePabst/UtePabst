@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6k%2F1p4pp%2F1qnrQp2%2F4p3%2F2R4N%2Fb3P3%2F1pN2PPP%2F1R4K1%20w%20-%20-%202%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpp1b2p1%2F1q2p2p%2F3pN3%2F3P2PP%2FP3P3%2FP7%2FR4QK1%20w%20-%20-%201%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [88CRi](https://lichess.org/training/88CRi), rated `1531`.
-The game is `Robuxking12 (1669)` vs `k-night-moves (1919)` at `3+0` time control,
-with themes `clearance, mateIn2, middlegame, short, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/WkFYujsD),
-and the first solution move is `h4g6`.
+It is `White to move` in puzzle [95oPY](https://lichess.org/training/95oPY), rated `1372`.
+The game is `Qwasdfzxcvbn (1752)` vs `Ahmed_Elshinawy (1701)` at `15+15` time control,
+with themes `endgame, crushing, attraction, fork, long`. You can [view the full game](https://lichess.org/QMnvMy2k),
+and the first solution move is `f1f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

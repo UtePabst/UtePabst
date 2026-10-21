@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1rqk1%2Fppp2p1p%2F3b2pQ%2F3P1p1N%2F8%2F2N3R1%2FPPP3PP%2F2K4R%20w%20-%20-%204%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpp4pp%2F5r2%2F5r2%2F3N3b%2FP3B3%2F1PP2PK1%2FR4R2%20b%20-%20-%204%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [kQinu](https://lichess.org/training/kQinu), rated `1290`.
-The game is `kargo (2033)` vs `kemalinho (2051)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, fork`. You can [view the full game](https://lichess.org/XhNXyv7M),
-and the first solution move is `h5f6`.
+It is `Black to move` in puzzle [6KU2Y](https://lichess.org/training/6KU2Y), rated `1476`.
+The game is `Mhamed (1910)` vs `rasoool1891 (1958)` at `10+3` time control,
+with themes `middlegame, short, advantage, defensiveMove`. You can [view the full game](https://lichess.org/iX4e9tJz),
+and the first solution move is `f6g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

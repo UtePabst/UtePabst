@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpp4pp%2F5r2%2F5r2%2F3N3b%2FP3B3%2F1PP2PK1%2FR4R2%20b%20-%20-%204%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1bk1%2Fppp3p1%2F1r5P%2F4NP2%2F3P4%2FP1B5%2F1P6%2F2Kn3R%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [6KU2Y](https://lichess.org/training/6KU2Y), rated `1476`.
-The game is `Mhamed (1910)` vs `rasoool1891 (1958)` at `10+3` time control,
-with themes `middlegame, short, advantage, defensiveMove`. You can [view the full game](https://lichess.org/iX4e9tJz),
-and the first solution move is `f6g6`.
+It is `White to move` in puzzle [MB6lz](https://lichess.org/training/MB6lz), rated `1424`.
+The game is `Valeny (1689)` vs `gaerk (1670)` at `3+2` time control,
+with themes `middlegame`. You can [view the full game](https://lichess.org/TJZ7kTzD),
+and the first solution move is `h6h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

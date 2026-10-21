@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1bk1%2Fppp3p1%2F1r5P%2F4NP2%2F3P4%2FP1B5%2F1P6%2F2Kn3R%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3k1p1p%2F2p3pP%2FR2P1rP1%2F6K1%2F8%2F8%20w%20-%20-%200%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [MB6lz](https://lichess.org/training/MB6lz), rated `1424`.
-The game is `Valeny (1689)` vs `gaerk (1670)` at `3+2` time control,
-with themes `middlegame`. You can [view the full game](https://lichess.org/TJZ7kTzD),
-and the first solution move is `h6h7`.
+It is `White to move` in puzzle [vKSQm](https://lichess.org/training/vKSQm), rated `1338`.
+The game is `DaChair7 (1912)` vs `katsefronima (1922)` at `10+0` time control,
+with themes `endgame, crushing, rookEndgame, long, discoveredAttack`. You can [view the full game](https://lichess.org/Uua8kQxd),
+and the first solution move is `d4c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

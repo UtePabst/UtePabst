@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p6%2Fp1p2Q2%2FP3P3%2F4P1kq%2F6p1%2F1P4n1%2F6K1%20w%20-%20-%203%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r3bk1%2F2p2p2%2Fp2p1Pp1%2Fq3r1Pp%2F2pQP2P%2F4N3%2FPPP5%2FKR2R3%20b%20-%20-%2011%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ZckRc](https://lichess.org/training/ZckRc), rated `1354`.
-The game is `Yefry_Hidalgo_QUI (2407)` vs `fastping12 (1810)` at `3+2` time control,
-with themes `endgame, oneMove, mateIn1, dovetailMate`. You can [view the full game](https://lichess.org/DMldunb3),
-and the first solution move is `f6f5`.
+It is `Black to move` in puzzle [WwEBL](https://lichess.org/training/WwEBL), rated `1515`.
+The game is `lisyender (2415)` vs `MimiTheBest (2401)` at `3+0` time control,
+with themes `mateIn2, short, attraction, sacrifice, master, middlegame`. You can [view the full game](https://lichess.org/FczmfGdP),
+and the first solution move is `a5a2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

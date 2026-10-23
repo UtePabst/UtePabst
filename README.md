@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qk2r%2Fp1p2ppp%2F5n2%2F1p2pP2%2F2PnP1b1%2F1B3N2%2FPPP3PP%2FR1BQK2R%20b%20KQkq%20-%200%2011&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1p3p2%2F7P%2F2P3P1%2Fpk1K1P2%2F2N5%2F2b5%20b%20-%20-%200%2039&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [UQTcd](https://lichess.org/training/UQTcd), rated `1424`.
-The game is `OhanyanEminChess (2549)` vs `GaVRiiLYaKiM (2346)` at `5+0` time control,
-with themes `exposedKing, crushing, attraction, long, discoveredAttack, master, middlegame`. You can [view the full game](https://lichess.org/ZjeDwawl),
-and the first solution move is `d4f3`.
+It is `Black to move` in puzzle [4Mugv](https://lichess.org/training/4Mugv), rated `1430`.
+The game is `Shirayukihime (2071)` vs `babadee (2192)` at `10+0` time control,
+with themes `short, crushing, advancedPawn, endgame`. You can [view the full game](https://lichess.org/454lXI8j),
+and the first solution move is `a3a2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F5ppp%2Fp7%2F1p1Q2B1%2F4P3%2FP5P1%2F1br3qP%2F3RKR2%20w%20-%20-%202%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qk2r%2Fp1p2ppp%2F5n2%2F1p2pP2%2F2PnP1b1%2F1B3N2%2FPPP3PP%2FR1BQK2R%20b%20KQkq%20-%200%2011&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [TZ3oQ](https://lichess.org/training/TZ3oQ), rated `1463`.
-The game is `efrahimakan1990 (1907)` vs `jhontarisfrimahadi (1920)` at `3+0` time control,
-with themes `clearance, middlegame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/S9RarZnE),
-and the first solution move is `d5f7`.
+It is `Black to move` in puzzle [UQTcd](https://lichess.org/training/UQTcd), rated `1424`.
+The game is `OhanyanEminChess (2549)` vs `GaVRiiLYaKiM (2346)` at `5+0` time control,
+with themes `exposedKing, crushing, attraction, long, discoveredAttack, master, middlegame`. You can [view the full game](https://lichess.org/ZjeDwawl),
+and the first solution move is `d4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

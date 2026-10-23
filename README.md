@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7r%2Fp1qpkp2%2F2p1pp2%2F1r6%2FNb2P3%2F3Q2P1%2FPPR4P%2F3R2K1%20w%20-%20-%201%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3krr2%2Fp1p5%2F1p1p2Q1%2F5q2%2F1PP1b3%2FP1B3RP%2F5PP1%2F5RK1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [JWG6j](https://lichess.org/training/JWG6j), rated `1496`.
-The game is `sp1rit (2025)` vs `OPBR (2030)` at `10+5` time control,
-with themes `middlegame, short, advantage`. You can [view the full game](https://lichess.org/PcHiYH3q),
-and the first solution move is `d3b5`.
+It is `Black to move` in puzzle [wjoA5](https://lichess.org/training/wjoA5), rated `1614`.
+The game is `chessburro (1777)` vs `Vtovendatta (1770)` at `10+5` time control,
+with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/hGGiXp3m),
+and the first solution move is `f5g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

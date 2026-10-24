@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r2kb1r%2Fp2p1ppp%2Fb1n5%2Fq2pP3%2F3P4%2F2Q2N2%2FPP2NPPP%2FR1B1R1K1%20b%20k%20-%202%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2p5%2F1p1k4%2Fp2P4%2FP1P5%2F2K5%2F8%20b%20-%20-%207%2041&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [pIYGN](https://lichess.org/training/pIYGN), rated `1273`.
-The game is `estebanboro (1656)` vs `sands97 (1653)` at `15+15` time control,
-with themes `opening, short, advantage, skewer`. You can [view the full game](https://lichess.org/Tbtx9WWt),
-and the first solution move is `f8b4`.
+It is `Black to move` in puzzle [PPuE3](https://lichess.org/training/PPuE3), rated `1431`.
+The game is `ez-alarab-cr7 (1570)` vs `sonobond99 (1565)` at `3+2` time control,
+with themes `endgame, zugzwang, crushing, long, pawnEndgame`. You can [view the full game](https://lichess.org/wv8RUq5k),
+and the first solution move is `d5c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

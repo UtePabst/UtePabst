@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpp5p%2F6p1%2F3p1B2%2F3P4%2FnP3RP1%2FP6r%2F2R2K2%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq3r%2F1ppp2pp%2Fp1n3k1%2F2bQ4%2F4P3%2F8%2FPPP2PPP%2FRNB1K2R%20w%20KQ%20-%202%2010&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [4Xb4J](https://lichess.org/training/4Xb4J), rated `1298`.
-The game is `TinoMartino (1711)` vs `Slarkle (1706)` at `3+0` time control,
-with themes `deflection, endgame, advantage, long`. You can [view the full game](https://lichess.org/IB0taywT),
-and the first solution move is `f5e6`.
+It is `White to move` in puzzle [uYn5z](https://lichess.org/training/uYn5z), rated `1227`.
+The game is `eliteMATI (2663)` vs `Pypyndel (2571)` at `3+0` time control,
+with themes `oneMove, mateIn1, opening`. You can [view the full game](https://lichess.org/5zirHVWI),
+and the first solution move is `d5f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

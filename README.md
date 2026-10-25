@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1r1k1%2Fp2q1ppp%2F6b1%2F1ppB1N2%2F4Pp2%2F2PP3Q%2FPP4PP%2F4R2K%20w%20-%20-%202%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3b2k1%2Fp5p1%2F1p1p2qp%2F2pR1r2%2F2P1Q3%2F1P2P2P%2FP3KP2%2F7R%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Ab83v](https://lichess.org/training/Ab83v), rated `1353`.
-The game is `bijanberkeh (2073)` vs `Cruciancarp (2130)` at `10+1` time control,
-with themes `middlegame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/dIiL9yCK),
-and the first solution move is `f5h6`.
+It is `Black to move` in puzzle [UwUIe](https://lichess.org/training/UwUIe), rated `1549`.
+The game is `elikanah (1763)` vs `UoL-KeTi (1757)` at `3+0` time control,
+with themes `deflection, endgame, crushing, long`. You can [view the full game](https://lichess.org/ChMNO9Bv),
+and the first solution move is `f5f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

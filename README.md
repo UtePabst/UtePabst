@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F6p1%2F5pk1%2F5r1p%2F5R2%2F7K%2F6N1%20w%20-%20-%204%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpb4pp%2F1p3np1%2F3q4%2F3P1P2%2F3B3R%2FPP3QPP%2FR5K1%20b%20-%20-%201%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [UhVnl](https://lichess.org/training/UhVnl), rated `1345`.
-The game is `lolsirs (2401)` vs `DrElvegris (2476)` at `3+0` time control,
-with themes `endgame, master, short, crushing, fork`. You can [view the full game](https://lichess.org/9Q4Bv0tX),
-and the first solution move is `g1h3`.
+It is `Black to move` in puzzle [sz5qN](https://lichess.org/training/sz5qN), rated `1480`.
+The game is `Zo14fitiavana (1866)` vs `yonjvp (1815)` at `10+0` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/phbBvmWV),
+and the first solution move is `f6g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r3r1k%2F7p%2F2QNp3%2F4P3%2F3q4%2F6RP%2FP1P1K3%2F6R1%20b%20-%20-%203%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2R2bk1%2F5ppp%2Fp7%2F6P1%2F3nqp1P%2FQ7%2F7K%2F2R5%20b%20-%20-%207%2040&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [DZ6QR](https://lichess.org/training/DZ6QR), rated `1529`.
-The game is `borya-shmak (2166)` vs `MorphyE4 (1730)` at `10+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/3BAWOyEq),
-and the first solution move is `f8f2`.
+It is `Black to move` in puzzle [cue6h](https://lichess.org/training/cue6h), rated `1300`.
+The game is `Wildways (2364)` vs `LoneCypress (2482)` at `3+0` time control,
+with themes `endgame, master, short, crushing`. You can [view the full game](https://lichess.org/RbQnlJkD),
+and the first solution move is `d4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qr1k1%2Fppp3p1%2F2n4p%2F5bN1%2F3p4%2F6Q1%2FPB3PPP%2FR4RK1%20w%20-%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn1q3r%2Fpp3pk1%2F2p5%2F4PbpQ%2F1b1Pp3%2F1B2B3%2FPP1N1P2%2FR3K2R%20w%20KQ%20-%202%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [TXmS5](https://lichess.org/training/TXmS5), rated `1349`.
-The game is `kamalludin (2170)` vs `PPI (2101)` at `5+0` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/DcPBW31u),
-and the first solution move is `g3b3`.
+It is `White to move` in puzzle [V0ZJE](https://lichess.org/training/V0ZJE), rated `1561`.
+The game is `Alces1983 (1886)` vs `Enric49 (1877)` at `15+10` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/nfubLjGj),
+and the first solution move is `h5f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

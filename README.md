@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1p3ppp%2Fp3p1n1%2F1b6%2F1P6%2F3nB1P1%2F2p2P1P%2F3R1BK1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2r2%2Fppp1qppk%2F2npN3%2F2bnP3%2F5PQ1%2FP2p4%2F1PP3PP%2FRNB2R1K%20w%20-%20-%202%2014&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [krFnx](https://lichess.org/training/krFnx), rated `1399`.
-The game is `emperorswatchman (2590)` vs `www68 (2551)` at `3+0` time control,
-with themes `short, advantage, master, endgame`. You can [view the full game](https://lichess.org/7iN5CaI7),
-and the first solution move is `d1d3`.
+It is `White to move` in puzzle [5Ee6s](https://lichess.org/training/5Ee6s), rated `1352`.
+The game is `alfa57 (2095)` vs `iracic (2105)` at `10+0` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/ZV2QoNPx),
+and the first solution move is `g4g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

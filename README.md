@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2R2bk1%2F5ppp%2Fp7%2F6P1%2F3nqp1P%2FQ7%2F7K%2F2R5%20b%20-%20-%207%2040&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1R5p%2F4p1p1%2F3n2k1%2F1P1b2N1%2F5KP1%2Fr3B2P%2F8%20w%20-%20-%202%2038&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [cue6h](https://lichess.org/training/cue6h), rated `1300`.
-The game is `Wildways (2364)` vs `LoneCypress (2482)` at `3+0` time control,
-with themes `endgame, master, short, crushing`. You can [view the full game](https://lichess.org/RbQnlJkD),
-and the first solution move is `d4f3`.
+It is `White to move` in puzzle [bTVNM](https://lichess.org/training/bTVNM), rated `1436`.
+The game is `Summer9449416902 (1898)` vs `Adam_Hen (2046)` at `10+5` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/amadCdLl),
+and the first solution move is `h2h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

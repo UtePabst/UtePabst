@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p3pk1%2FpN4p1%2F5n1p%2F3B3b%2F1P1K1P1P%2FP5P1%2F8%20b%20-%20-%203%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2Fp4k2%2FP1P2p1p%2F5K1P%2F8%2F8%20w%20-%20-%202%2051&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [2wDIB](https://lichess.org/training/2wDIB), rated `1367`.
-The game is `RoccosModernHos (1906)` vs `Petrius85 (2138)` at `10+0` time control,
-with themes `exposedKing, endgame, crushing, long, skewer, attraction`. You can [view the full game](https://lichess.org/HEwmqxk6),
-and the first solution move is `f5d4`.
+It is `White to move` in puzzle [mxOw7](https://lichess.org/training/mxOw7), rated `1287`.
+The game is `Nizi3 (2715)` vs `Ellaijio (2582)` at `5+0` time control,
+with themes `endgame, master, masterVsMaster, crushing, quietMove, long, pawnEndgame`. You can [view the full game](https://lichess.org/RcHZLjDu),
+and the first solution move is `c4c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2r3k%2F2p3pp%2F2p2p2%2FppB2b1B%2F8%2F2Q5%2FP1Pq1PPP%2F4R1K1%20w%20-%20-%202%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5qk1%2Fpb3pp1%2F1p2R2p%2Fn2r4%2F6Q1%2F2P5%2FP1B3PP%2F5R1K%20b%20-%20-%202%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [5sJQH](https://lichess.org/training/5sJQH), rated `1330`.
-The game is `Mak1515151515 (2035)` vs `lucy_cat (2003)` at `10+0` time control,
-with themes `deflection, middlegame, short, advantage`. You can [view the full game](https://lichess.org/3tElScW6),
-and the first solution move is `e1e8`.
+It is `Black to move` in puzzle [liFeY](https://lichess.org/training/liFeY), rated `1276`.
+The game is `chapegi123 (1859)` vs `Lagaw1980 (1906)` at `10+0` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/jEsQBl75),
+and the first solution move is `d5g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4k1r%2Fppb2ppp%2F3q2n1%2F2pp1P1P%2F8%2F1BNP1Q1K%2FPPP5%2FR1B1R3%20b%20-%20-%202%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F5k2%2F1p1p3p%2Fp2q4%2FP2P1RP1%2F2P2PnP%2F1PQ5%2F6K1%20b%20-%20-%202%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [2OHP4](https://lichess.org/training/2OHP4), rated `1582`.
-The game is `muxavit (1600)` vs `EneSalim (1711)` at `5+3` time control,
-with themes `swallowstailMate, mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/zSgEsQx8),
-and the first solution move is `d6h2`.
+It is `Black to move` in puzzle [TtOIz](https://lichess.org/training/TtOIz), rated `1628`.
+The game is `IamOnTilt241 (1716)` vs `Binoj-1000 (1782)` at `3+0` time control,
+with themes `exposedKing, endgame, crushing, fork, long, defensiveMove`. You can [view the full game](https://lichess.org/hFxgQKfQ),
+and the first solution move is `f7g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

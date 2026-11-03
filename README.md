@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r7%2F4P3%2F2k4p%2F2PR2p1%2Fpb3pP1%2F5P2%2F5PK1%2F8%20w%20-%20-%201%2048&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r7%2F1p4kp%2Fp4pp1%2F8%2F2B1bqP1%2F2Q5%2FP1P3P1%2FR5RK%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [8tVOJ](https://lichess.org/training/8tVOJ), rated `1454`.
-The game is `masinfira (1897)` vs `Cabrales (1899)` at `10+0` time control,
-with themes `endgame, advancedPawn, short, crushing, promotion`. You can [view the full game](https://lichess.org/V4aWnJ0m),
-and the first solution move is `d5d8`.
+It is `Black to move` in puzzle [mwgKO](https://lichess.org/training/mwgKO), rated `1441`.
+The game is `Sans911 (2306)` vs `Blackbird_Slayer (2295)` at `3+2` time control,
+with themes `mateIn2, middlegame, short, pin`. You can [view the full game](https://lichess.org/X2B27WEW),
+and the first solution move is `f4h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

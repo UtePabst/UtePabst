@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F3p3p%2F1k1Pn2P%2F8%2FP1R4r%2F2NK4%20b%20-%20-%204%2052&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1r1k1%2Fpp1nbppp%2F1qp5%2F3p4%2F6n1%2F1BNPBN2%2FPPP2QPP%2FR4R1K%20w%20-%20-%208%2014&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [cv7uy](https://lichess.org/training/cv7uy), rated `1561`.
-The game is `FianuioAspas12 (2574)` vs `Karlos_ulsk (2594)` at `3+0` time control,
-with themes `short, crushing, endgame`. You can [view the full game](https://lichess.org/MJxfsu1L),
-and the first solution move is `e4c3`.
+It is `White to move` in puzzle [XHmxg](https://lichess.org/training/XHmxg), rated `1590`.
+The game is `vodkaOJbullet (2054)` vs `CoffeeOne (2060)` at `3+0` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/oWxY5LET),
+and the first solution move is `e3b6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

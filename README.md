@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F6P1%2F3p1K2%2Fpp3b2%2F8%2F6r1%2FP7%2F4R3%20w%20-%20-%200%2052&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r5%2FpRnr1pk1%2F3P2p1%2F2P4p%2F3KN3%2FP6P%2F6P1%2F4R3%20b%20-%20-%2010%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [hzkQO](https://lichess.org/training/hzkQO), rated `1452`.
-The game is `mohammad4640 (1829)` vs `JohnBuhl (1917)` at `3+5` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/KntgCGxP),
-and the first solution move is `e1e8`.
+It is `Black to move` in puzzle [4BOfo](https://lichess.org/training/4BOfo), rated `1281`.
+The game is `terencetao (1817)` vs `bad_defender (1861)` at `10+0` time control,
+with themes `endgame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/IrB11CGy),
+and the first solution move is `c7e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

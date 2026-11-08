@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k5r%2Fppp3Q1%2F8%2F6P1%2F3PN3%2F2P1n3%2FPP5r%2FR1K5%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2r1k2%2Fpp6%2F2p2pQ1%2F2b5%2F3q4%2F5N2%2FPPP2PPP%2FR1B2RK1%20b%20-%20-%202%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [guzqm](https://lichess.org/training/guzqm), rated `1618`.
-The game is `luudziik (1917)` vs `Mahbub139 (1854)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/S2oroGU0),
-and the first solution move is `h2c2`.
+It is `Black to move` in puzzle [UJYI0](https://lichess.org/training/UJYI0), rated `1435`.
+The game is `arshverma (2158)` vs `Alashan (2239)` at `3+0` time control,
+with themes `clearance, middlegame, long, mateIn3, sacrifice, kingsideAttack, pin`. You can [view the full game](https://lichess.org/VqRYEPIG),
+and the first solution move is `d4f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

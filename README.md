@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1Nq1rk1%2F3pbpp1%2Fp3p2p%2F1p6%2F8%2F3nP2P%2FPP2Q1PN%2F2R2RK1%20w%20-%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1nrk1%2Fppq1p1b1%2F7p%2FPNBP1p2%2F2P1p3%2F1Q5P%2F1P2BPP1%2FR3K2R%20b%20KQ%20-%203%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [cxISm](https://lichess.org/training/cxISm), rated `1380`.
-The game is `Olimpia1979 (1894)` vs `bogdantomic54 (1948)` at `10+0` time control,
-with themes `middlegame, short, advantage, intermezzo`. You can [view the full game](https://lichess.org/GGRZYEx5),
-and the first solution move is `c8e7`.
+It is `Black to move` in puzzle [COh8m](https://lichess.org/training/COh8m), rated `1358`.
+The game is `Honet (2140)` vs `acmewrap (2059)` at `10+0` time control,
+with themes `short, hangingPiece, advantage, middlegame`. You can [view the full game](https://lichess.org/yFmeg6ul),
+and the first solution move is `c7c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

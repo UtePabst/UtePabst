@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6rk%2F2p1R1pp%2F2q5%2Fp2NP3%2FP1Q5%2F1Bp5%2F1P4PP%2F6K1%20b%20-%20-%201%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k2nQ1%2F1bp4p%2Fp7%2F5p2%2FP5p1%2F1B2q1B1%2F2P3RP%2F7K%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [4nLSq](https://lichess.org/training/4nLSq), rated `1617`.
-The game is `souhardya_bhowal (1831)` vs `sayandipganguly (1852)` at `10+0` time control,
-with themes `crushing, short, advancedPawn, endgame`. You can [view the full game](https://lichess.org/VHfo7y9l),
-and the first solution move is `c6c4`.
+It is `Black to move` in puzzle [bqiYJ](https://lichess.org/training/bqiYJ), rated `1348`.
+The game is `EntregueiTorre (1998)` vs `La_nAd (1678)` at `3+0` time control,
+with themes `middlegame`. You can [view the full game](https://lichess.org/AXhciylH),
+and the first solution move is `e3c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

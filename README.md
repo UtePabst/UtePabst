@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnb1kb1r%2Fpp1ppp1p%2F6p1%2F1Np1N3%2F3P1B2%2F2n1P3%2FPqP2PPP%2FR2QKB1R%20w%20KQkq%20-%204%208&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn4k1%2Fp2p2p1%2Fbp3r1p%2F2pP4%2F2Q1B2q%2F7N%2FPP3PPP%2FR3K2R%20w%20KQ%20-%204%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Nb3TX](https://lichess.org/training/Nb3TX), rated `1558`.
-The game is `elkoi03 (1953)` vs `imeils (1919)` at `3+0` time control,
-with themes `deflection, mateIn2, short, fork, opening`. You can [view the full game](https://lichess.org/DiY0V96l),
-and the first solution move is `b5c7`.
+It is `White to move` in puzzle [v9YLY](https://lichess.org/training/v9YLY), rated `1556`.
+The game is `MiraBelleLily (1813)` vs `MRunar1 (1789)` at `7+3` time control,
+with themes `middlegame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/j0RAlHmR),
+and the first solution move is `e4h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

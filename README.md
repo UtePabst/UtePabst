@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1r3k1%2Fp3p2p%2F2P1q1p1%2F4bp2%2F4QP2%2F4B2P%2F6P1%2F2R2RK1%20w%20-%20-%200%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=R7%2F1p1r1p1k%2F5Ppp%2F1p2q3%2F1Qb1B1P1%2F3p3P%2F6K1%2F8%20w%20-%20-%200%2049&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [I1m6a](https://lichess.org/training/I1m6a), rated `1490`.
-The game is `kralj76 (1963)` vs `PPTky (1990)` at `10+5` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/8SEHxUZZ),
-and the first solution move is `e4e5`.
+It is `White to move` in puzzle [XEh8b](https://lichess.org/training/XEh8b), rated `1562`.
+The game is `Chess_Computer_101 (2417)` vs `joudalton (2327)` at `3+0` time control,
+with themes `endgame, master, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/Y2FKCi1g),
+and the first solution move is `a8h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

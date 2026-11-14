@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp2qk3%2F2pp4%2F2p5%2F4Ppr1%2F1P1P1Q2%2FP1PK2Pr%2F1R5R%20b%20-%20-%201%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2FR4P2%2F1p6%2Fb5Bp%2F2P5%2F5PK1%2Fp3r3%2F8%20w%20-%20-%201%2038&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [CSJlW](https://lichess.org/training/CSJlW), rated `1551`.
-The game is `tibi23 (2316)` vs `baazigar08 (2362)` at `10+0` time control,
-with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/k2LQiXyB),
-and the first solution move is `g4g2`.
+It is `White to move` in puzzle [OcpJy](https://lichess.org/training/OcpJy), rated `1277`.
+The game is `orlando70 (2455)` vs `derpfactery (2366)` at `3+2` time control,
+with themes `endgame, master, oneMove, mateIn1`. You can [view the full game](https://lichess.org/IXZ0KLRP),
+and the first solution move is `g5h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

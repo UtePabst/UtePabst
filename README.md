@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2FR4P2%2F1p6%2Fb5Bp%2F2P5%2F5PK1%2Fp3r3%2F8%20w%20-%20-%201%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1pp4k%2F3b3p%2Fp2P4%2F8%2FP5P1%2F1P2q2P%2F3R2QK%20b%20-%20-%204%2041&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [OcpJy](https://lichess.org/training/OcpJy), rated `1277`.
-The game is `orlando70 (2455)` vs `derpfactery (2366)` at `3+2` time control,
-with themes `endgame, master, oneMove, mateIn1`. You can [view the full game](https://lichess.org/IXZ0KLRP),
-and the first solution move is `g5h6`.
+It is `Black to move` in puzzle [4qOur](https://lichess.org/training/4qOur), rated `1426`.
+The game is `bodhiharma (1779)` vs `Aflatoxin (1777)` at `10+0` time control,
+with themes `deflection, endgame, short, crushing`. You can [view the full game](https://lichess.org/RoxfPNmR),
+and the first solution move is `e2f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

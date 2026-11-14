@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F4R3%2F7p%2F1p3K2%2Fp2b4%2F1n6%2F7P%2F8%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3R4%2F6p1%2F3P1k1p%2F2P1r2P%2F1P4P1%2F7K%20b%20-%20-%200%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [MiORm](https://lichess.org/training/MiORm), rated `1390`.
-The game is `Gideon2220 (1635)` vs `Stoicho87 (1918)` at `3+0` time control,
-with themes `exposedKing, endgame, long, mateIn3`. You can [view the full game](https://lichess.org/CBme4D7J),
-and the first solution move is `f5g6`.
+It is `Black to move` in puzzle [lbFIZ](https://lichess.org/training/lbFIZ), rated `1323`.
+The game is `duka10 (2120)` vs `Winneritsis (2181)` at `3+0` time control,
+with themes `endgame, rookEndgame, long, mateIn3`. You can [view the full game](https://lichess.org/ifkasxTr),
+and the first solution move is `f4g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

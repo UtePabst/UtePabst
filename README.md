@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3R4%2F6p1%2F3P1k1p%2F2P1r2P%2F1P4P1%2F7K%20b%20-%20-%200%2037&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5b2%2F5p1p%2F5P2%2F1pk1P3%2F3NK3%2F7P%2F8%2F8%20w%20-%20-%201%2046&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [lbFIZ](https://lichess.org/training/lbFIZ), rated `1323`.
-The game is `duka10 (2120)` vs `Winneritsis (2181)` at `3+0` time control,
-with themes `endgame, rookEndgame, long, mateIn3`. You can [view the full game](https://lichess.org/ifkasxTr),
-and the first solution move is `f4g3`.
+It is `White to move` in puzzle [pidKE](https://lichess.org/training/pidKE), rated `1337`.
+The game is `Alain14R (2004)` vs `luizjuliano1982 (2040)` at `5+3` time control,
+with themes `crushing, fork, long, endgame`. You can [view the full game](https://lichess.org/vaNe65s6),
+and the first solution move is `e5e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

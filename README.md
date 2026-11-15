@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F1p3pp1%2Fp6p%2FP7%2F6PP%2F2Q2K2%2Fq7%2FB2R4%20b%20-%20-%204%2040&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r2r%2Fpp3p2%2F2b4k%2F8%2F2pB2n1%2F1P2p1P1%2FP1Q1P1Bq%2F3RKR2%20w%20-%20-%202%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [vaizg](https://lichess.org/training/vaizg), rated `1434`.
-The game is `Gambitgourmand (2367)` vs `Rahulvs (2266)` at `3+0` time control,
-with themes `endgame, crushing, fork, long`. You can [view the full game](https://lichess.org/vrmF843a),
-and the first solution move is `a2e2`.
+It is `White to move` in puzzle [ZKZIU](https://lichess.org/training/ZKZIU), rated `1613`.
+The game is `Suleyman_Chess06 (2460)` vs `chess-only-chess (2483)` at `5+0` time control,
+with themes `short, advantage, pin, master, middlegame`. You can [view the full game](https://lichess.org/iJwf21Fp),
+and the first solution move is `f1h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

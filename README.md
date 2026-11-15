@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1pp4k%2F3b3p%2Fp2P4%2F8%2FP5P1%2F1P2q2P%2F3R2QK%20b%20-%20-%204%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r2r3%2Fp1k2bpp%2F2p2p2%2F8%2F8%2F2P2BP1%2FP3RK1P%2F4R3%20w%20-%20-%209%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [4qOur](https://lichess.org/training/4qOur), rated `1426`.
-The game is `bodhiharma (1779)` vs `Aflatoxin (1777)` at `10+0` time control,
-with themes `deflection, endgame, short, crushing`. You can [view the full game](https://lichess.org/RoxfPNmR),
-and the first solution move is `e2f3`.
+It is `White to move` in puzzle [c7hJD](https://lichess.org/training/c7hJD), rated `1569`.
+The game is `derdo2121 (2675)` vs `YessssssDoooooThat (2646)` at `3+0` time control,
+with themes `endgame, collinearMove, advantage, fork, long`. You can [view the full game](https://lichess.org/yQLSXFbR),
+and the first solution move is `e2e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

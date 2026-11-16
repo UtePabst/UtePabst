@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1n6%2F1P1k4%2F1K3p2%2F8%2F3N2p1%2F8%2F8%2F8%20w%20-%20-%200%2059&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5pp1%2F2p2p1p%2F1p6%2F1PqP2P1%2F2PQ1P2%2F8%2F4K3%20w%20-%20-%201%2045&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Wo1m4](https://lichess.org/training/Wo1m4), rated `1598`.
-The game is `vladpodat (2382)` vs `HandKnit (2447)` at `3+2` time control,
-with themes `endgame, master, short, crushing, knightEndgame`. You can [view the full game](https://lichess.org/GJehg3up),
-and the first solution move is `b6a7`.
+It is `White to move` in puzzle [ZVxCR](https://lichess.org/training/ZVxCR), rated `1534`.
+The game is `Giec (1747)` vs `Ali_1983 (1763)` at `3+2` time control,
+with themes `long, crushing, queenEndgame, endgame`. You can [view the full game](https://lichess.org/3NEsVZ40),
+and the first solution move is `d3c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

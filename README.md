@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp4pk1%2F1p2r1p1%2F2q4p%2F6nP%2F3R1BP1%2FP2QnP2%2F5R1K%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2F1p1r1p1n%2F2p4R%2F4q3%2F2p1P3%2FpPP2P2%2FP5QP%2F1K4R1%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [HWTSI](https://lichess.org/training/HWTSI), rated `1320`.
-The game is `HelgiGretarsson (2558)` vs `A_L_E (2574)` at `3+0` time control,
-with themes `short, masterVsMaster, advantage, fork, master, middlegame`. You can [view the full game](https://lichess.org/nyDrEDNN),
-and the first solution move is `g4f2`.
+It is `White to move` in puzzle [usLTL](https://lichess.org/training/usLTL), rated `1378`.
+The game is `vzzz (1898)` vs `Noobiik (1860)` at `3+0` time control,
+with themes `exposedKing, middlegame, attraction, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/AGssTcLV),
+and the first solution move is `h6h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

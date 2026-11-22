@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q2rk%2F7p%2F3p1npQ%2Fp3pN2%2F1p4P1%2F8%2FPPP2P2%2F2K3RR%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r1r2k1%2F6p1%2Fp3pqQP%2F1b2N1p1%2F1P1p1P2%2FP1p3K1%2F8%2F2RR4%20w%20-%20-%201%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Vkmkc](https://lichess.org/training/Vkmkc), rated `1305`.
-The game is `Galiaskart (1851)` vs `Pereima (1970)` at `3+1` time control,
-with themes `veryLong, middlegame, attraction, sacrifice, kingsideAttack, mateIn4`. You can [view the full game](https://lichess.org/Lxell5Pg),
+It is `White to move` in puzzle [BxXXD](https://lichess.org/training/BxXXD), rated `1422`.
+The game is `Lefleau (2297)` vs `Obolonkov-Sergei (2252)` at `3+2` time control,
+with themes `advancedPawn, advantage, fork, long, master, middlegame`. You can [view the full game](https://lichess.org/zJfazU3p),
 and the first solution move is `h6h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

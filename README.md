@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnq1k2r%2F3pbppp%2Fp3pn2%2F8%2F2PN4%2F6P1%2FPB1NPPKP%2FR2Q1R2%20b%20kq%20-%204%2012&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qkb1r%2Fpp2pppp%2F1np5%2F8%2F2BP1B2%2F5Q2%2FPP3PPP%2FR3K2R%20w%20KQkq%20-%201%2011&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [dMBHw](https://lichess.org/training/dMBHw), rated `1465`.
-The game is `Coron111a (2283)` vs `varvar12c (2475)` at `10+0` time control,
-with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/e2NqUpXG),
-and the first solution move is `c8b7`.
+It is `White to move` in puzzle [HsVb3](https://lichess.org/training/HsVb3), rated `1408`.
+The game is `MohamedGamal96 (1586)` vs `Ryzik30 (1890)` at `5+3` time control,
+with themes `middlegame, discoveredCheck, advantage, long, sacrifice, discoveredAttack, attackingF2F7`. You can [view the full game](https://lichess.org/HQA6SHA6),
+and the first solution move is `c4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

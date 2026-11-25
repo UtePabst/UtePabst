@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1rbr2k1%2F5ppp%2Fpb1Rpn2%2Fp3N3%2FB7%2F1PN5%2FP1P2pPP%2FR4K2%20w%20-%20-%202%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r4k%2F1p1q2Bp%2F3p4%2F4p3%2F1PP2n2%2F6RP%2F5PP1%2F2Q3K1%20b%20-%20-%204%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [fi8P1](https://lichess.org/training/fi8P1), rated `1531`.
-The game is `Zlemony (1568)` vs `Juhi_Mikilajnen (1562)` at `10+5` time control,
-with themes `middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/Db5LlpCD),
-and the first solution move is `d6d8`.
+It is `Black to move` in puzzle [e4AVM](https://lichess.org/training/e4AVM), rated `1563`.
+The game is `Vasek12062010 (2019)` vs `gjhgh (2082)` at `5+3` time control,
+with themes `endgame, advantage, fork, long, sacrifice`. You can [view the full game](https://lichess.org/nMwjoLxJ),
+and the first solution move is `d7g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

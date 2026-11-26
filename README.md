@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r4k%2F1p1q2Bp%2F3p4%2F4p3%2F1PP2n2%2F6RP%2F5PP1%2F2Q3K1%20b%20-%20-%204%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F5pp1%2F1p2p2p%2FpP1p4%2FQ1nP4%2Fq2N2PP%2F2R1PPK1%2F8%20w%20-%20-%201%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [e4AVM](https://lichess.org/training/e4AVM), rated `1563`.
-The game is `Vasek12062010 (2019)` vs `gjhgh (2082)` at `5+3` time control,
-with themes `endgame, advantage, fork, long, sacrifice`. You can [view the full game](https://lichess.org/nMwjoLxJ),
-and the first solution move is `d7g7`.
+It is `White to move` in puzzle [cEWDw](https://lichess.org/training/cEWDw), rated `1509`.
+The game is `Ahok66_ITC (1995)` vs `MadDawgg (2421)` at `3+0` time control,
+with themes `short, advantage, master, endgame`. You can [view the full game](https://lichess.org/dGDM1f82),
+and the first solution move is `c2c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

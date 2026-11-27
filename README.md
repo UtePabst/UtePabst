@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r2k%2F2N1bp1p%2F2pp1p2%2Fpq3P2%2F1p2P3%2FP2P2Q1%2F1P4PP%2F4RRK1%20b%20-%20-%201%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2Fp5b1%2Fbpn1pppp%2F3pP1N1%2F3P1BPn%2F8%2FPP1Q1P1P%2FRN2R1KB%20w%20-%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Zs9s5](https://lichess.org/training/Zs9s5), rated `1356`.
-The game is `NNN5 (1930)` vs `saleh3 (2073)` at `10+0` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/FRmbPxZa),
-and the first solution move is `b5b6`.
+It is `White to move` in puzzle [74BsR](https://lichess.org/training/74BsR), rated `1444`.
+The game is `Ebrahim354 (2005)` vs `Engm (1951)` at `10+0` time control,
+with themes `middlegame, long, crushing, fork`. You can [view the full game](https://lichess.org/WXMeCpti),
+and the first solution move is `g5e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)

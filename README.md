@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1q2kb2%2Fp1pnp1pr%2F6Np%2F3N4%2F3P1BP1%2F4Q2P%2Fr1P5%2F2KRR3%20b%20-%20-%201%2019&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7r%2F2k5%2F2n5%2F2N2p2%2F2N2npp%2F8%2F4r1PP%2F3R3K%20w%20-%20-%202%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [oH1h9](https://lichess.org/training/oH1h9), rated `1302`.
-The game is `Yeliss_B (1777)` vs `WT66 (1744)` at `10+0` time control,
-with themes `mateIn2, middlegame, short, queensideAttack`. You can [view the full game](https://lichess.org/xmmkvRak),
-and the first solution move is `b8b2`.
+It is `White to move` in puzzle [n8ngq](https://lichess.org/training/n8ngq), rated `1410`.
+The game is `Vasiliy22 (1845)` vs `Brocolys (1963)` at `3+0` time control,
+with themes `exposedKing, middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/14QnFl6L),
+and the first solution move is `d1d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
